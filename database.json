@@ -2903,24 +2903,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735603146768
-    },
-    "restart": {
-      "m": {
-        "key": {
-          "remoteJid": "120363246490902688@g.us",
-          "fromMe": false,
-          "id": "A4F916307EE22ECCAADAD309AC2875A5",
-          "participant": "639632766252@s.whatsapp.net"
-        },
-        "message": {
-          "conversation": "Restart"
-        },
-        "messageTimestamp": "1735603160",
-        "broadcast": false,
-        "pushName": "ucul"
-      },
-      "from": "120363246490902688@g.us"
+      "lastTime": 1735602748122
     }
   },
   "respon": {}
