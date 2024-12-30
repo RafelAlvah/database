@@ -45,14 +45,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "pustaka",
+      "registered": true,
+      "name": "gggg",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": 34,
-      "regTime": 1735602814416,
+      "age": 23,
+      "regTime": 1735602857821,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
@@ -3616,6 +3616,23 @@
     "runtime": {
       "runtime": 1735597585011,
       "lastTime": 1735602836932
+    },
+    "restart": {
+      "m": {
+        "key": {
+          "remoteJid": "120363246490902688@g.us",
+          "fromMe": false,
+          "id": "F6E5217F3225FCBA660922FC9AD08089",
+          "participant": "639632766252@s.whatsapp.net"
+        },
+        "message": {
+          "conversation": "Restart"
+        },
+        "messageTimestamp": "1735602860",
+        "broadcast": false,
+        "pushName": "ucul"
+      },
+      "from": "120363246490902688@g.us"
     }
   },
   "respon": {}
