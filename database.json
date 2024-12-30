@@ -45,14 +45,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "harga",
+      "registered": true,
+      "name": "kkkk",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": 12,
-      "regTime": 1735600762896,
+      "age": 19,
+      "regTime": 1735602900229,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
@@ -3081,7 +3081,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735602748122
+      "lastTime": 1735602929906
     }
   },
   "respon": {}
