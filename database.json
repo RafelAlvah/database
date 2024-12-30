@@ -1,9 +1,5 @@
 {
-  "allcommand": [
-    "Runtime",
-    "Setreply",
-    "J"
-  ],
+  "allcommand": [],
   "anonymous": [],
   "blockcmd": [],
   "banned": [],
@@ -23,33 +19,11 @@
     }
   ],
   "antispam": [],
-  "dashboard": [
-    {
-      "cmd": "Runtime",
-      "succes": 1,
-      "failed": 0
-    },
-    {
-      "cmd": "Setreply",
-      "succes": 1,
-      "failed": 0
-    },
-    {
-      "cmd": "J",
-      "succes": 1,
-      "failed": 0
-    }
-  ],
+  "dashboard": [],
   "listerror": [],
   "sticker": {},
   "audio": {},
-  "hittoday": [
-    {
-      "id": "run",
-      "expired": 1735686332514,
-      "totalcmd": 3
-    }
-  ],
+  "hittoday": [],
   "clearchat": [],
   "users": {
     "639632766252@s.whatsapp.net": {
@@ -59,9 +33,9 @@
       "autolevelup": false,
       "serial": "45HV",
       "glimit": 30,
-      "hit": 4,
+      "hit": 1,
       "date": "30 Desember 2024",
-      "money": 1000,
+      "money": 0,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -71,21 +45,21 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": true,
-      "name": "harga",
+      "registered": false,
+      "name": "ucul",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": 12,
-      "regTime": 1735599871527,
+      "age": -1,
+      "regTime": -1,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 1,
+      "level": 0,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
@@ -712,13 +686,13 @@
   "settings": {
     "settingbot": {
       "status": 1735597557830,
-      "setmenu": "thumbnail",
+      "setmenu": "web",
       "autoBio": true,
       "multi": true,
       "prefix": "!",
       "autoblockcmd": false,
       "autoDetectCmd": false,
-      "replyType": "document",
+      "replyType": "web",
       "autoReport": true,
       "autoLevel": true,
       "autoSticker": false,
@@ -733,24 +707,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735599958143
-    },
-    "restart": {
-      "m": {
-        "key": {
-          "remoteJid": "120363246490902688@g.us",
-          "fromMe": false,
-          "id": "2C886827976AF4F85AF776C390D31AF1",
-          "participant": "639632766252@s.whatsapp.net"
-        },
-        "message": {
-          "conversation": "Restart"
-        },
-        "messageTimestamp": "1735599982",
-        "broadcast": false,
-        "pushName": "ucul"
-      },
-      "from": "120363246490902688@g.us"
+      "lastTime": 1735597885014
     }
   },
   "respon": {}
