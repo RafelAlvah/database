@@ -6,7 +6,8 @@
     "Removebg",
     "Tiktok",
     "Play",
-    "Menu"
+    "Menu",
+    "Daftar"
   ],
   "anonymous": [],
   "blockcmd": [],
@@ -62,6 +63,11 @@
       "cmd": "Menu",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Daftar",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -71,7 +77,7 @@
     {
       "id": "run",
       "expired": 1735692085708,
-      "totalcmd": 10
+      "totalcmd": 11
     }
   ],
   "clearchat": [],
@@ -10051,7 +10057,7 @@
       "autolevelup": false,
       "serial": "KS9Q",
       "glimit": 30,
-      "hit": 4,
+      "hit": 5,
       "date": "31 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -10489,7 +10495,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735607315518
+      "lastTime": 1735607375518
     }
   },
   "respon": {}
