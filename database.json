@@ -8,7 +8,8 @@
     "Play",
     "Menu",
     "Daftar",
-    "🙌"
+    "🙌",
+    ""
   ],
   "anonymous": [],
   "blockcmd": [],
@@ -74,6 +75,11 @@
       "cmd": "🙌",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -83,7 +89,7 @@
     {
       "id": "run",
       "expired": 1735692085708,
-      "totalcmd": 16
+      "totalcmd": 17
     }
   ],
   "clearchat": [],
@@ -10597,7 +10603,7 @@
       "autolevelup": false,
       "serial": "IYK1",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "31 Desember 2024",
       "money": 0,
       "exp": 0,
@@ -12820,7 +12826,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735609115592
+      "lastTime": 1735609235594
     }
   },
   "respon": {}
