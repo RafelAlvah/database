@@ -37,7 +37,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -53,7 +53,7 @@
     {
       "id": "run",
       "expired": 1735728712617,
-      "totalcmd": 4
+      "totalcmd": 5
     }
   ],
   "clearchat": [],
@@ -2385,9 +2385,9 @@
       "autolevelup": false,
       "serial": "LB0A",
       "glimit": 30,
-      "hit": 3,
+      "hit": 4,
       "date": "31 Desember 2024",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -2411,7 +2411,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
