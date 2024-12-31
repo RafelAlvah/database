@@ -63,7 +63,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 5,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -89,7 +89,7 @@
     {
       "id": "run",
       "expired": 1735692085708,
-      "totalcmd": 18
+      "totalcmd": 17
     }
   ],
   "clearchat": [],
@@ -113,14 +113,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": true,
-      "name": "kan Jan",
+      "registered": false,
+      "name": "hargayyy",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": 25,
-      "regTime": 1735636985294,
+      "age": 23,
+      "regTime": 1735603037400,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
@@ -14697,9 +14697,9 @@
       "autolevelup": false,
       "serial": "XLU6",
       "glimit": 30,
-      "hit": 2,
+      "hit": 1,
       "date": "31 Desember 2024",
-      "money": 1000,
+      "money": 0,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -14723,7 +14723,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 1,
+      "level": 0,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
@@ -15352,7 +15352,7 @@
   "settings": {
     "settingbot": {
       "status": 1735597557830,
-      "setmenu": "katalog",
+      "setmenu": "livelocation",
       "autoBio": true,
       "multi": true,
       "prefix": "!",
@@ -15378,24 +15378,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735635162117,
-      "lastTime": 1735636976791
-    },
-    "restart": {
-      "m": {
-        "key": {
-          "remoteJid": "120363246490902688@g.us",
-          "fromMe": false,
-          "id": "E6FCFCFC0830054AB0E24E76354F9200",
-          "participant": "639632766252@s.whatsapp.net"
-        },
-        "message": {
-          "conversation": "Restart"
-        },
-        "messageTimestamp": "1735637005",
-        "broadcast": false,
-        "pushName": "ucul"
-      },
-      "from": "120363246490902688@g.us"
+      "lastTime": 1735636749221
     }
   },
   "respon": {}
