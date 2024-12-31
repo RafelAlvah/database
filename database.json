@@ -28,7 +28,13 @@
       "id": []
     }
   ],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6285789048867",
+      "expired": 1735607988802
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Brat",
@@ -12454,7 +12460,12 @@
     }
   },
   "kickon": {},
-  "toxic": [],
+  "toxic": [
+    {
+      "id": "6285789048867@s.whatsapp.net",
+      "count": 2
+    }
+  ],
   "others": {
     "antiSticker": [],
     "runtime": {
