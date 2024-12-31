@@ -30,7 +30,13 @@
       "id": []
     }
   ],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6283899717120",
+      "expired": 1735637454206
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Brat",
@@ -17168,7 +17174,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735635162117,
-      "lastTime": 1735637375317
+      "lastTime": 1735637435317
     }
   },
   "respon": {}
