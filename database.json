@@ -3408,12 +3408,12 @@
       "timeOrder": "",
       "timeEnd": ""
     },
-    "6282283884380@s.whatsapp.net": {
+    "6283115346187@s.whatsapp.net": {
       "sticker": {},
-      "id": "6282283884380",
+      "id": "6283115346187",
       "grade": "Newbie",
       "autolevelup": false,
-      "serial": "EGHH",
+      "serial": "T9GZ",
       "glimit": 30,
       "hit": 1,
       "date": "31 Desember 2024",
@@ -3428,7 +3428,7 @@
       "pc": 0,
       "ojekk": 0,
       "registered": false,
-      "name": "Nia",
+      "name": ".",
       "skill": "",
       "ultah": "",
       "sahabat": "",
@@ -3617,7 +3617,7 @@
       "antibot": false,
       "antiimage": false,
       "antivideo": false,
-      "antisticker": true,
+      "antisticker": false,
       "antispam": false,
       "antitroli": false,
       "antivirtex": false,
@@ -3793,24 +3793,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735604060420
-    },
-    "restart": {
-      "m": {
-        "key": {
-          "remoteJid": "120363246490902688@g.us",
-          "fromMe": false,
-          "id": "808A6D58F92DEC0DB677678B9EE38679",
-          "participant": "639632766252@s.whatsapp.net"
-        },
-        "message": {
-          "conversation": "Restart"
-        },
-        "messageTimestamp": "1735604092",
-        "broadcast": false,
-        "pushName": "ucul"
-      },
-      "from": "120363246490902688@g.us"
+      "lastTime": 1735603647104
     }
   },
   "respon": {}
