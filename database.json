@@ -18,7 +18,13 @@
       "id": []
     }
   ],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "62882019919430",
+      "expired": 1735604598537
+    }
+  ],
   "dashboard": [],
   "listerror": [],
   "sticker": {},
