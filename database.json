@@ -62,7 +62,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -83,7 +83,7 @@
     {
       "id": "run",
       "expired": 1735692085708,
-      "totalcmd": 14
+      "totalcmd": 15
     }
   ],
   "clearchat": [],
@@ -1341,7 +1341,7 @@
       "autolevelup": false,
       "serial": "94EM",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -12459,7 +12459,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735607915520
+      "lastTime": 1735607975527
     }
   },
   "respon": {}
