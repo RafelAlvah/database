@@ -58,9 +58,6 @@
   ],
   "clearchat": [],
   "users": {
-    "6283116078454@s.whatsapp.net": {
-      "sticker": {}
-    },
     "6281316643491@s.whatsapp.net": {
       "sticker": {},
       "id": "6281316643491",
@@ -3297,7 +3294,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735642304244,
-      "lastTime": 1735645076325
+      "lastTime": 1735645136325
     }
   },
   "respon": {}
