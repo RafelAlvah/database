@@ -66,7 +66,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -77,7 +77,7 @@
     {
       "id": "run",
       "expired": 1735692085708,
-      "totalcmd": 11
+      "totalcmd": 12
     }
   ],
   "clearchat": [],
@@ -10057,7 +10057,7 @@
       "autolevelup": false,
       "serial": "KS9Q",
       "glimit": 30,
-      "hit": 5,
+      "hit": 6,
       "date": "31 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -10069,14 +10069,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "No Name",
+      "registered": true,
+      "name": "zky",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 15,
+      "regTime": 1735607441004,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
@@ -10495,7 +10495,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735607375518
+      "lastTime": 1735607435518
     }
   },
   "respon": {}
