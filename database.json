@@ -1,6 +1,7 @@
 {
   "allcommand": [
-    "Tagall"
+    "Tagall",
+    "On"
   ],
   "anonymous": [],
   "blockcmd": [],
@@ -26,6 +27,11 @@
       "cmd": "Tagall",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "On",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -35,7 +41,7 @@
     {
       "id": "run",
       "expired": 1735728712617,
-      "totalcmd": 1
+      "totalcmd": 2
     }
   ],
   "clearchat": [],
@@ -587,7 +593,7 @@
       "autolevelup": false,
       "serial": "BAPV",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "31 Desember 2024",
       "money": 1000,
       "exp": 0,
