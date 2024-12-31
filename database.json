@@ -3769,7 +3769,7 @@
       "id": "6285789048867",
       "grade": "Newbie",
       "autolevelup": false,
-      "serial": "B1WB",
+      "serial": "E1LA",
       "glimit": 30,
       "hit": 1,
       "date": "31 Desember 2024",
@@ -3973,7 +3973,7 @@
       "antibot": false,
       "antiimage": false,
       "antivideo": false,
-      "antisticker": true,
+      "antisticker": false,
       "antispam": false,
       "antitroli": false,
       "antivirtex": false,
@@ -4149,24 +4149,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735604221704
-    },
-    "restart": {
-      "m": {
-        "key": {
-          "remoteJid": "120363246490902688@g.us",
-          "fromMe": false,
-          "id": "0176B0DAB4B4314D7EE9B73A9D836C31",
-          "participant": "639632766252@s.whatsapp.net"
-        },
-        "message": {
-          "conversation": "Restart"
-        },
-        "messageTimestamp": "1735604248",
-        "broadcast": false,
-        "pushName": "ucul"
-      },
-      "from": "120363246490902688@g.us"
+      "lastTime": 1735603647104
     }
   },
   "respon": {}
