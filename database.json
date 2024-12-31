@@ -3261,7 +3261,7 @@
       "antibot": false,
       "antiimage": false,
       "antivideo": false,
-      "antisticker": false,
+      "antisticker": true,
       "antispam": false,
       "antitroli": false,
       "antivirtex": false,
