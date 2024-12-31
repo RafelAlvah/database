@@ -3617,7 +3617,7 @@
       "antibot": false,
       "antiimage": false,
       "antivideo": false,
-      "antisticker": true,
+      "antisticker": false,
       "antispam": false,
       "antitroli": false,
       "antivirtex": false,
