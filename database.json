@@ -4,7 +4,8 @@
     "Wm",
     "S",
     "Removebg",
-    "Tiktok"
+    "Tiktok",
+    "Play"
   ],
   "anonymous": [],
   "blockcmd": [],
@@ -50,6 +51,11 @@
       "cmd": "Tiktok",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Play",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -59,7 +65,7 @@
     {
       "id": "run",
       "expired": 1735692085708,
-      "totalcmd": 6
+      "totalcmd": 7
     }
   ],
   "clearchat": [],
@@ -783,9 +789,9 @@
       "autolevelup": false,
       "serial": "DWQY",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "30 Desember 2024",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -809,7 +815,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
