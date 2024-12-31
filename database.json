@@ -3,7 +3,8 @@
     "Tagall",
     "On",
     "Menu",
-    "Self"
+    "Self",
+    "Tes"
   ],
   "anonymous": [],
   "blockcmd": [],
@@ -44,6 +45,11 @@
       "cmd": "Self",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tes",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -53,7 +59,7 @@
     {
       "id": "run",
       "expired": 1735728712617,
-      "totalcmd": 5
+      "totalcmd": 6
     }
   ],
   "clearchat": [],
@@ -2557,7 +2563,7 @@
       "autolevelup": false,
       "serial": "LB0A",
       "glimit": 30,
-      "hit": 4,
+      "hit": 5,
       "date": "31 Desember 2024",
       "money": 1000,
       "exp": 0,
