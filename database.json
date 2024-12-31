@@ -3973,7 +3973,7 @@
       "antibot": false,
       "antiimage": false,
       "antivideo": false,
-      "antisticker": false,
+      "antisticker": true,
       "antispam": false,
       "antitroli": false,
       "antivirtex": false,
@@ -4149,7 +4149,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735604161704
+      "lastTime": 1735604221704
     }
   },
   "respon": {}
