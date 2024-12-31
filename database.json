@@ -16070,7 +16070,7 @@
   "settings": {
     "settingbot": {
       "status": 1735597557830,
-      "setmenu": "livelocation",
+      "setmenu": "thumbnail",
       "autoBio": true,
       "multi": true,
       "prefix": "!",
