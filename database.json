@@ -1,5 +1,8 @@
 {
-  "allcommand": [],
+  "allcommand": [
+    "Brat",
+    "Wm"
+  ],
   "anonymous": [],
   "blockcmd": [],
   "banned": [],
@@ -19,11 +22,28 @@
     }
   ],
   "antispam": [],
-  "dashboard": [],
+  "dashboard": [
+    {
+      "cmd": "Brat",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Wm",
+      "succes": 1,
+      "failed": 0
+    }
+  ],
   "listerror": [],
   "sticker": {},
   "audio": {},
-  "hittoday": [],
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1735692085708,
+      "totalcmd": 2
+    }
+  ],
   "clearchat": [],
   "users": {
     "639632766252@s.whatsapp.net": {
@@ -6619,9 +6639,9 @@
       "autolevelup": false,
       "serial": "1HVX",
       "glimit": 30,
-      "hit": 1,
+      "hit": 3,
       "date": "31 Desember 2024",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -6645,7 +6665,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
@@ -7025,7 +7045,12 @@
       "simi": true,
       "open": 0,
       "close": 0,
-      "threeDaysLeft": false
+      "threeDaysLeft": false,
+      "stiker": false,
+      "antiLink": false,
+      "antiLinkgc": false,
+      "antiLinkch": false,
+      "viewonce": false
     }
   },
   "settings": {
@@ -7052,7 +7077,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735605633948
+      "lastTime": 1735605695505
     }
   },
   "respon": {}
