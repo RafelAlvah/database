@@ -3416,7 +3416,7 @@
   "settings": {
     "settingbot": {
       "status": 1735597557830,
-      "setmenu": "livelocation",
+      "setmenu": "thumbnail",
       "autoBio": true,
       "multi": true,
       "prefix": "!",
@@ -3437,7 +3437,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735602748122
+      "lastTime": 1735603378501
     }
   },
   "respon": {}
