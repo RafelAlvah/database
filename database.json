@@ -28,13 +28,7 @@
       "id": []
     }
   ],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6285789048867",
-      "expired": 1735607988802
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Brat",
@@ -63,7 +57,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -89,7 +83,7 @@
     {
       "id": "run",
       "expired": 1735692085708,
-      "totalcmd": 15
+      "totalcmd": 16
     }
   ],
   "clearchat": [],
@@ -10069,7 +10063,7 @@
       "autolevelup": false,
       "serial": "KS9Q",
       "glimit": 30,
-      "hit": 6,
+      "hit": 7,
       "date": "31 Desember 2024",
       "money": 1000,
       "exp": 0,
