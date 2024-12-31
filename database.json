@@ -9,7 +9,8 @@
     "Menu",
     "Daftar",
     "🙌",
-    ""
+    "",
+    "Get"
   ],
   "anonymous": [],
   "blockcmd": [],
@@ -80,6 +81,11 @@
       "cmd": "",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Get",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -89,7 +95,7 @@
     {
       "id": "run",
       "expired": 1735692085708,
-      "totalcmd": 17
+      "totalcmd": 18
     }
   ],
   "clearchat": [],
@@ -14697,9 +14703,9 @@
       "autolevelup": false,
       "serial": "XLU6",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "31 Desember 2024",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -14723,7 +14729,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
