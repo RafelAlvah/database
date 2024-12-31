@@ -5752,6 +5752,23 @@
     "runtime": {
       "runtime": 1735597585011,
       "lastTime": 1735604711503
+    },
+    "restart": {
+      "m": {
+        "key": {
+          "remoteJid": "120363246490902688@g.us",
+          "fromMe": false,
+          "id": "0E8ADAF32139509413B34CA22A2E21CF",
+          "participant": "639632766252@s.whatsapp.net"
+        },
+        "message": {
+          "conversation": "Restart"
+        },
+        "messageTimestamp": "1735604724",
+        "broadcast": false,
+        "pushName": "ucul"
+      },
+      "from": "120363246490902688@g.us"
     }
   },
   "respon": {}
