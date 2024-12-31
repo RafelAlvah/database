@@ -2,7 +2,8 @@
   "allcommand": [
     "Brat",
     "Wm",
-    "S"
+    "S",
+    "Removebg"
   ],
   "anonymous": [],
   "blockcmd": [],
@@ -38,6 +39,11 @@
       "cmd": "S",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Removebg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -47,7 +53,7 @@
     {
       "id": "run",
       "expired": 1735692085708,
-      "totalcmd": 4
+      "totalcmd": 5
     }
   ],
   "clearchat": [],
@@ -6645,7 +6651,7 @@
       "autolevelup": false,
       "serial": "1HVX",
       "glimit": 30,
-      "hit": 5,
+      "hit": 6,
       "date": "31 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -8685,7 +8691,7 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735597585011,
-      "lastTime": 1735606175508
+      "lastTime": 1735606235509
     }
   },
   "respon": {}
