@@ -16096,7 +16096,24 @@
     "antiSticker": [],
     "runtime": {
       "runtime": 1735635162117,
-      "lastTime": 1735636845578
+      "lastTime": 1735636905578
+    },
+    "restart": {
+      "m": {
+        "key": {
+          "remoteJid": "120363246490902688@g.us",
+          "fromMe": false,
+          "id": "FA32370030B172C8856D23349B7A8D90",
+          "participant": "639632766252@s.whatsapp.net"
+        },
+        "message": {
+          "conversation": "Restart"
+        },
+        "messageTimestamp": "1735636905",
+        "broadcast": false,
+        "pushName": "ucul"
+      },
+      "from": "120363246490902688@g.us"
     }
   },
   "respon": {}
