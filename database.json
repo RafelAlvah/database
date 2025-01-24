@@ -1016,7 +1016,7 @@
     },
     {
       "cmd": "Brat2",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1026,7 +1026,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     }
   ],
@@ -1100,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1132
+      "totalcmd": 1134
     }
   ],
   "clearchat": [],
@@ -80619,7 +80619,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2500,
-      "hit": 1808,
+      "hit": 1809,
       "date": "30 Desember 2024",
       "money": 1417707,
       "exp": 45689,
@@ -96664,7 +96664,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6335,
+      "hit": 6336,
       "date": "3 Januari 2025",
       "money": 30961899,
       "exp": 5343,
