@@ -443,7 +443,6 @@
     "Addstick",
     "Ip(263517622)",
     "Audio",
-    "Vn",
     "Unteg",
     "Delvn",
     "Jd",
@@ -1135,7 +1134,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1629
+      "totalcmd": 1630
     }
   ],
   "clearchat": [],
@@ -89913,7 +89912,7 @@
       "autolevelup": false,
       "serial": "7VF5",
       "glimit": 0,
-      "hit": 333,
+      "hit": 334,
       "date": "31 Desember 2024",
       "money": 809506,
       "exp": 12997,
