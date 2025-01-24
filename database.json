@@ -1048,6 +1048,11 @@
       "cmd": "S",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tembak",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1120,7 +1125,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1336
+      "totalcmd": 1337
     }
   ],
   "clearchat": [],
@@ -36171,7 +36176,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 353,
-      "hit": 3268,
+      "hit": 3269,
       "date": "22 Desember 2024",
       "money": 79000000,
       "exp": 21023,
