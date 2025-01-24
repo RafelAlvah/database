@@ -628,7 +628,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -928,7 +928,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 481
+      "totalcmd": 482
     }
   ],
   "clearchat": [],
@@ -127050,7 +127050,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 293,
+      "hit": 294,
       "date": "20 Januari 2025",
       "money": 944928,
       "exp": 34500,
