@@ -801,7 +801,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 90,
+      "succes": 91,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1525
+      "totalcmd": 1526
     }
   ],
   "clearchat": [],
@@ -43685,7 +43685,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2907,
+      "hit": 2908,
       "date": "22 Desember 2024",
       "money": 1805044,
       "exp": 6000,
@@ -43705,7 +43705,7 @@
       "pasangan": "",
       "age": 16,
       "regTime": 1736257050437,
-      "afk": 1737699500423,
+      "afk": -1,
       "unreg": true,
       "afkReason": "",
       "banned": false,
