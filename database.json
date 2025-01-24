@@ -1105,7 +1105,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1233
+      "totalcmd": 1234
     }
   ],
   "clearchat": [],
@@ -2399,7 +2399,7 @@
       "autolevelup": false,
       "serial": "6EVV",
       "glimit": 30,
-      "hit": 208,
+      "hit": 209,
       "date": "16 Desember 2024",
       "money": 3000,
       "exp": 5000,
