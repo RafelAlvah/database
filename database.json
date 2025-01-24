@@ -671,7 +671,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 65,
+      "succes": 66,
       "failed": 0
     },
     {
@@ -941,7 +941,7 @@
     },
     {
       "cmd": "Lirik",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1971
+      "totalcmd": 1973
     }
   ],
   "clearchat": [],
@@ -46946,7 +46946,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6028,
-      "hit": 750,
+      "hit": 751,
       "date": "22 Desember 2024",
       "money": 500000,
       "exp": 4968,
@@ -101773,10 +101773,10 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 23,
-      "hit": 540,
+      "hit": 541,
       "date": "4 Januari 2025",
-      "money": 6581542,
-      "exp": 1445,
+      "money": 6631542,
+      "exp": 1545,
       "limit": 38,
       "speed": 0,
       "strength": 0,
@@ -101883,7 +101883,7 @@
       "lasthourly": 0,
       "lastbansos": 1737524186438,
       "lastrampok": 1737613949084,
-      "lastclaim": 1737643864821,
+      "lastclaim": 1737725281253,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
