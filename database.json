@@ -700,7 +700,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -874,7 +874,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 150
+      "totalcmd": 151
     }
   ],
   "clearchat": [],
@@ -96442,11 +96442,11 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 891,
-      "hit": 6612,
+      "hit": 6613,
       "date": "3 Januari 2025",
       "money": 42707016,
       "exp": 44843,
-      "limit": 349,
+      "limit": 348,
       "speed": 5,
       "strength": 6,
       "defense": 5,
