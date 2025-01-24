@@ -877,6 +877,11 @@
       "cmd": "Tebakgambar",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tarik",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -900,7 +905,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 294
+      "totalcmd": 295
     }
   ],
   "clearchat": [],
@@ -29124,9 +29129,9 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 734,
+      "hit": 735,
       "date": "22 Desember 2024",
-      "money": 951379,
+      "money": 951380,
       "exp": 28711,
       "limit": 69,
       "speed": 0,
@@ -29157,7 +29162,7 @@
       "chip": 0,
       "atm": 1,
       "fullatm": 500000000,
-      "bank": 3500000,
+      "bank": 3499999,
       "health": 20,
       "stamina": 60,
       "potion": 9,
