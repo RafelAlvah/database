@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 60,
+      "succes": 61,
       "failed": 0
     },
     {
@@ -851,7 +851,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1136
+      "totalcmd": 1138
     }
   ],
   "clearchat": [],
@@ -36151,7 +36151,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 353,
-      "hit": 3221,
+      "hit": 3222,
       "date": "22 Desember 2024",
       "money": 0,
       "exp": 21023,
@@ -96664,7 +96664,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6336,
+      "hit": 6337,
       "date": "3 Januari 2025",
       "money": 30961899,
       "exp": 5343,
@@ -96684,9 +96684,9 @@
       "pasangan": "6281399940982@s.whatsapp.net",
       "age": 19,
       "regTime": 1735937139204,
-      "afk": -1,
+      "afk": 1737698632052,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "ngitung batu rel",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
