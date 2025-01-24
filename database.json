@@ -608,7 +608,13 @@
   ],
   "sewa": [],
   "antispam": [],
-  "dashboard": [],
+  "dashboard": [
+    {
+      "cmd": "Kerja",
+      "succes": 1,
+      "failed": 0
+    }
+  ],
   "listerror": [
     {
       "error": "Cannot read properties of undefined (reading 'cmd')",
@@ -675,7 +681,13 @@
     }
   },
   "audio": {},
-  "hittoday": [],
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1737821881466,
+      "totalcmd": 1
+    }
+  ],
   "clearchat": [],
   "users": {
     "6287737937323@s.whatsapp.net": {
@@ -98939,9 +98951,9 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 66,
-      "hit": 802,
+      "hit": 803,
       "date": "3 Januari 2025",
-      "money": 2322048,
+      "money": 2323300,
       "exp": 39400,
       "limit": 88,
       "speed": 0,
@@ -99109,7 +99121,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737726677876,
+      "lastkerja": 1737735481871,
       "lastmaling": 1737393857258,
       "lastparming": 1737726688983,
       "lastmulung": 1737654435437,
