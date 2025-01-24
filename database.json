@@ -756,7 +756,7 @@
     },
     {
       "cmd": "Ttsearch",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1593
+      "totalcmd": 1594
     }
   ],
   "clearchat": [],
@@ -16677,11 +16677,11 @@
       "autolevelup": false,
       "serial": "82GO",
       "glimit": 24,
-      "hit": 172,
+      "hit": 173,
       "date": "19 Desember 2024",
       "money": 1414776,
       "exp": 7000,
-      "limit": 99,
+      "limit": 98,
       "speed": 0,
       "strength": 0,
       "defense": 0,
