@@ -643,6 +643,11 @@
       "cmd": "Susunkata",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Getpp",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -715,7 +720,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 11
+      "totalcmd": 12
     }
   ],
   "clearchat": [],
@@ -3434,7 +3439,7 @@
       "autolevelup": false,
       "serial": "PWL6",
       "glimit": 30,
-      "hit": 76,
+      "hit": 77,
       "date": "16 Desember 2024",
       "money": 1000,
       "exp": 0,
