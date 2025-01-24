@@ -950,6 +950,11 @@
       "cmd": "Limit",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Buylimit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1018,7 +1023,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 788
+      "totalcmd": 789
     }
   ],
   "clearchat": [],
@@ -80536,11 +80541,11 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2495,
-      "hit": 1791,
+      "hit": 1792,
       "date": "30 Desember 2024",
       "money": 1417707,
       "exp": 45689,
-      "limit": 1200,
+      "limit": 1205,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -80564,7 +80569,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 73069799,
+      "balance": 73064799,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
