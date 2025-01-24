@@ -1070,7 +1070,7 @@
     },
     {
       "cmd": "Sound",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1144,7 +1144,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1632
+      "totalcmd": 1633
     }
   ],
   "clearchat": [],
@@ -89922,7 +89922,7 @@
       "autolevelup": false,
       "serial": "7VF5",
       "glimit": 0,
-      "hit": 336,
+      "hit": 337,
       "date": "31 Desember 2024",
       "money": 809506,
       "exp": 12997,
