@@ -648,6 +648,11 @@
       "cmd": "Getpp",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Brat",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -720,7 +725,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 12
+      "totalcmd": 13
     }
   ],
   "clearchat": [],
@@ -130623,7 +130628,7 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 104,
+      "hit": 105,
       "date": "23 Januari 2025",
       "money": 1226177,
       "exp": 8100,
