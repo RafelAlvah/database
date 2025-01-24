@@ -611,7 +611,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 69,
+      "succes": 70,
       "failed": 0
     },
     {
@@ -666,7 +666,7 @@
     },
     {
       "cmd": "Nabung",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1140
+      "totalcmd": 1142
     }
   ],
   "clearchat": [],
@@ -43650,9 +43650,9 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2865,
+      "hit": 2866,
       "date": "22 Desember 2024",
-      "money": 1222652,
+      "money": 1355044,
       "exp": 0,
       "limit": 2162,
       "speed": 3,
@@ -43820,7 +43820,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737693987551,
+      "lastkerja": 1737698654276,
       "clay": "undefined1710",
       "sand": "undefined330",
       "berlian": "undefined30",
@@ -80619,7 +80619,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2500,
-      "hit": 1809,
+      "hit": 1810,
       "date": "30 Desember 2024",
       "money": 1417707,
       "exp": 45689,
