@@ -910,6 +910,11 @@
       "cmd": "Claim",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Terima",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -978,7 +983,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 667
+      "totalcmd": 668
     }
   ],
   "clearchat": [],
@@ -57645,7 +57650,7 @@
       "autolevelup": false,
       "serial": "I2O9",
       "glimit": -12,
-      "hit": 403,
+      "hit": 404,
       "date": "24 Desember 2024",
       "money": 32341042,
       "exp": 103,
@@ -57662,7 +57667,7 @@
       "skill": "",
       "ultah": "04,02,2013",
       "sahabat": "",
-      "pasangan": "",
+      "pasangan": "6287742124165@s.whatsapp.net",
       "age": 12,
       "regTime": 1736048885104,
       "afk": -1,
