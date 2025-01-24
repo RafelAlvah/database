@@ -736,7 +736,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1564
+      "totalcmd": 1565
     }
   ],
   "clearchat": [],
@@ -19892,7 +19892,7 @@
       "glimit": 14,
       "hit": 2831,
       "date": "20 Desember 2024",
-      "money": 98800710,
+      "money": 98799903,
       "exp": 31686,
       "limit": 84,
       "speed": 0,
@@ -96699,9 +96699,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6348,
+      "hit": 6349,
       "date": "3 Januari 2025",
-      "money": 31446455,
+      "money": 31445648,
       "exp": 14443,
       "limit": 330,
       "speed": 5,
@@ -96805,7 +96805,7 @@
       "lasthunt": 1736578038707,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1737679299176,
+      "lastdagang": 1737711107375,
       "lasthourly": 0,
       "lastbansos": 1737652124368,
       "lastrampok": 1737679256447,
