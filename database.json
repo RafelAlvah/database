@@ -800,7 +800,7 @@
     },
     {
       "cmd": "Spdl",
-      "succes": 0,
+      "succes": 1,
       "failed": 2
     }
   ],
@@ -874,7 +874,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 145
+      "totalcmd": 146
     }
   ],
   "clearchat": [],
@@ -886,7 +886,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1531,
+      "hit": 1532,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
