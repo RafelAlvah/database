@@ -991,7 +991,7 @@
     },
     {
       "cmd": "Suit",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1180,7 +1180,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2076
+      "totalcmd": 2077
     }
   ],
   "clearchat": [],
@@ -131264,7 +131264,7 @@
       "autolevelup": false,
       "serial": "6CIE",
       "glimit": 0,
-      "hit": 87,
+      "hit": 88,
       "date": "23 Januari 2025",
       "money": 1512147,
       "exp": 600,
@@ -134566,7 +134566,12 @@
       "simi": true,
       "open": 0,
       "close": 0,
-      "threeDaysLeft": false
+      "threeDaysLeft": false,
+      "stiker": false,
+      "antiLink": false,
+      "antiLinkgc": false,
+      "antiLinkch": false,
+      "viewonce": false
     }
   },
   "settings": {
