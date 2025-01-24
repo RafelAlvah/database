@@ -812,6 +812,11 @@
       "cmd": "Tomp3",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tovn",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -835,7 +840,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 155
+      "totalcmd": 156
     }
   ],
   "clearchat": [],
@@ -847,7 +852,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1535,
+      "hit": 1536,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
