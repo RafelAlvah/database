@@ -651,7 +651,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 50,
+      "succes": 51,
       "failed": 0
     },
     {
@@ -1038,6 +1038,11 @@
       "cmd": "Tomp4",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Togif",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1110,7 +1115,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1242
+      "totalcmd": 1244
     }
   ],
   "clearchat": [],
@@ -36161,7 +36166,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 353,
-      "hit": 3242,
+      "hit": 3243,
       "date": "22 Desember 2024",
       "money": 0,
       "exp": 21023,
@@ -114734,7 +114739,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1070,
+      "hit": 1071,
       "date": "7 Januari 2025",
       "money": 3415073,
       "exp": 3785,
