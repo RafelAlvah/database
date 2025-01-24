@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 30,
+      "succes": 31,
       "failed": 0
     },
     {
@@ -1085,7 +1085,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1044
+      "totalcmd": 1045
     }
   ],
   "clearchat": [],
@@ -36136,7 +36136,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 354,
-      "hit": 3199,
+      "hit": 3200,
       "date": "22 Desember 2024",
       "money": 2508658,
       "exp": 17023,
