@@ -618,7 +618,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -668,7 +668,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -920,6 +920,11 @@
       "cmd": "Mancing",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tt",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -988,7 +993,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 691
+      "totalcmd": 694
     }
   ],
   "clearchat": [],
@@ -8691,11 +8696,11 @@
       "autolevelup": false,
       "serial": "NDNM",
       "glimit": 30,
-      "hit": 18,
+      "hit": 19,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 13,
+      "limit": 12,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -96551,10 +96556,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6255,
+      "hit": 6257,
       "date": "3 Januari 2025",
-      "money": 2889650,
-      "exp": 96143,
+      "money": 2939650,
+      "exp": 96243,
       "limit": 330,
       "speed": 5,
       "strength": 6,
@@ -96661,7 +96666,7 @@
       "lasthourly": 0,
       "lastbansos": 1737652124368,
       "lastrampok": 1737679256447,
-      "lastclaim": 1737681935019,
+      "lastclaim": 1737691008655,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
       "lastmonthly": 1736423963407,
