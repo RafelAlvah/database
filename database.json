@@ -671,7 +671,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 57,
+      "succes": 58,
       "failed": 0
     },
     {
@@ -736,7 +736,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1724
+      "totalcmd": 1726
     }
   ],
   "clearchat": [],
@@ -30636,9 +30636,9 @@
       "autolevelup": false,
       "serial": "2EUZ",
       "glimit": 112,
-      "hit": 884,
+      "hit": 885,
       "date": "22 Desember 2024",
-      "money": 17548415,
+      "money": 17546593,
       "exp": 14827,
       "limit": 182,
       "speed": 1,
@@ -30742,7 +30742,7 @@
       "lasthunt": 0,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1737627322947,
+      "lastdagang": 1737718715585,
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1736678535736,
@@ -33680,7 +33680,7 @@
       "glimit": 26,
       "hit": 471,
       "date": "22 Desember 2024",
-      "money": 952443,
+      "money": 950621,
       "exp": 23057,
       "limit": 29,
       "speed": 0,
@@ -46931,7 +46931,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6028,
-      "hit": 732,
+      "hit": 733,
       "date": "22 Desember 2024",
       "money": 500000,
       "exp": 4968,
