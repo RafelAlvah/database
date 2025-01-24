@@ -857,6 +857,11 @@
       "cmd": "Daily",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Buy",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -880,7 +885,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 233
+      "totalcmd": 234
     }
   ],
   "clearchat": [],
@@ -19635,9 +19640,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 11,
-      "hit": 2894,
+      "hit": 2895,
       "date": "20 Desember 2024",
-      "money": 101340621,
+      "money": 101328121,
       "exp": 33886,
       "limit": 114,
       "speed": 0,
@@ -19671,7 +19676,7 @@
       "bank": 206214418,
       "health": 20,
       "stamina": 50,
-      "potion": 0,
+      "potion": 10,
       "wine": 0,
       "beer": 0,
       "trash": 0,
