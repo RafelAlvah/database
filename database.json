@@ -688,7 +688,7 @@
     },
     {
       "cmd": "Craft",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -1048,7 +1048,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 830
+      "totalcmd": 831
     }
   ],
   "clearchat": [],
@@ -114668,9 +114668,9 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1052,
+      "hit": 1053,
       "date": "7 Januari 2025",
-      "money": 4343302,
+      "money": 4333302,
       "exp": 3685,
       "limit": 33,
       "speed": 1,
@@ -114699,8 +114699,8 @@
       "balance": 1620777,
       "skillexp": 0,
       "chip": 0,
-      "atm": 0,
-      "fullatm": 0,
+      "atm": 1,
+      "fullatm": 500000000,
       "bank": 0,
       "health": 20,
       "stamina": 70,
@@ -114715,8 +114715,8 @@
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
-      "emerald": 3,
-      "diamond": 10,
+      "emerald": 0,
+      "diamond": 4,
       "gold": 0,
       "botol": 4282,
       "kardus": 4160,
