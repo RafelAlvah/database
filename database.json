@@ -1091,7 +1091,7 @@
     },
     {
       "cmd": "Stiker",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2042
+      "totalcmd": 2043
     }
   ],
   "clearchat": [],
@@ -41408,7 +41408,7 @@
       "autolevelup": false,
       "serial": "QMXO",
       "glimit": 4,
-      "hit": 141,
+      "hit": 142,
       "date": "22 Desember 2024",
       "money": 3000,
       "exp": 1988,
