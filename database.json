@@ -638,6 +638,11 @@
       "cmd": "Heal",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Susunkata",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -710,7 +715,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 9
+      "totalcmd": 10
     }
   ],
   "clearchat": [],
@@ -76305,8 +76310,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "GCXP",
-      "glimit": 61,
-      "hit": 496,
+      "glimit": 60,
+      "hit": 497,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 12932,
