@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 126,
+      "succes": 127,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1791
+      "totalcmd": 1792
     }
   ],
   "clearchat": [],
@@ -80683,7 +80683,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2498,
-      "hit": 1843,
+      "hit": 1844,
       "date": "30 Desember 2024",
       "money": 1417707,
       "exp": 45689,
@@ -80703,9 +80703,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1737721259104,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "itung pasir",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
