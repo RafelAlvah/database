@@ -685,7 +685,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -874,7 +874,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 149
+      "totalcmd": 150
     }
   ],
   "clearchat": [],
@@ -96442,11 +96442,11 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 891,
-      "hit": 6611,
+      "hit": 6612,
       "date": "3 Januari 2025",
       "money": 42707016,
       "exp": 44843,
-      "limit": 350,
+      "limit": 349,
       "speed": 5,
       "strength": 6,
       "defense": 5,
