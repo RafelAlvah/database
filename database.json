@@ -830,7 +830,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -890,7 +890,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 259
+      "totalcmd": 260
     }
   ],
   "clearchat": [],
@@ -19645,7 +19645,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 10,
-      "hit": 2908,
+      "hit": 2909,
       "date": "20 Desember 2024",
       "money": 82116032,
       "exp": 35886,
