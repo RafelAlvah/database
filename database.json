@@ -656,7 +656,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 66,
+      "succes": 67,
       "failed": 0
     },
     {
@@ -831,7 +831,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1246
+      "totalcmd": 1248
     }
   ],
   "clearchat": [],
@@ -128865,9 +128865,9 @@
       "autolevelup": false,
       "serial": "6XRZ",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "22 Januari 2025",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -128891,7 +128891,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
@@ -131196,7 +131196,7 @@
       "autolevelup": false,
       "serial": "6CIE",
       "glimit": 0,
-      "hit": 52,
+      "hit": 53,
       "date": "23 Januari 2025",
       "money": 198462,
       "exp": 200,
