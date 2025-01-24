@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 75,
+      "succes": 76,
       "failed": 0
     },
     {
@@ -896,7 +896,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1275
+      "totalcmd": 1277
     }
   ],
   "clearchat": [],
@@ -36199,7 +36199,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 41466666,
+      "balance": 41546744,
       "skillexp": 0,
       "chip": 0,
       "atm": 1,
@@ -46891,7 +46891,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6028,
-      "hit": 716,
+      "hit": 717,
       "date": "22 Desember 2024",
       "money": 500000,
       "exp": 4968,
@@ -46919,7 +46919,7 @@
       "warning": 0,
       "level": 3,
       "role": "Beginner",
-      "balance": 22302300,
+      "balance": 22222222,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -131731,7 +131731,7 @@
       "autolevelup": false,
       "serial": "DRWD",
       "glimit": 30,
-      "hit": 18,
+      "hit": 19,
       "date": "23 Januari 2025",
       "money": 1000,
       "exp": 0,
