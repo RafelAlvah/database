@@ -1091,7 +1091,7 @@
     },
     {
       "cmd": "Stiker",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1170,7 +1170,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1829
+      "totalcmd": 1830
     }
   ],
   "clearchat": [],
@@ -59090,7 +59090,7 @@
       "autolevelup": false,
       "serial": "JUWB",
       "glimit": 25,
-      "hit": 212,
+      "hit": 213,
       "date": "24 Desember 2024",
       "money": 3000,
       "exp": 15992,
