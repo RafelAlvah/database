@@ -613,6 +613,11 @@
       "cmd": "Kerja",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Nebang",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -685,7 +690,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1
+      "totalcmd": 2
     }
   ],
   "clearchat": [],
@@ -98951,7 +98956,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 66,
-      "hit": 803,
+      "hit": 804,
       "date": "3 Januari 2025",
       "money": 2323300,
       "exp": 39400,
