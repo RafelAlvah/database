@@ -611,7 +611,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 118,
+      "succes": 119,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2011
+      "totalcmd": 2012
     }
   ],
   "clearchat": [],
@@ -123037,9 +123037,9 @@
       "autolevelup": false,
       "serial": "BDTM",
       "glimit": 9,
-      "hit": 108,
+      "hit": 109,
       "date": "12 Januari 2025",
-      "money": 197144,
+      "money": 313415,
       "exp": 6184,
       "limit": 30,
       "speed": 0,
@@ -123208,7 +123208,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastmulung": 1737725246785,
-      "lastkerja": 1737725261031
+      "lastkerja": 1737725825036
     },
     "241523258081441@lid": {
       "sticker": {},
