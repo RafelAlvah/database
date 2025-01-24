@@ -870,6 +870,11 @@
       "cmd": "Profil",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Rpg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -938,7 +943,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 490
+      "totalcmd": 491
     }
   ],
   "clearchat": [],
@@ -17555,7 +17560,7 @@
       "autolevelup": false,
       "serial": "FWMP",
       "glimit": 30,
-      "hit": 21,
+      "hit": 22,
       "date": "19 Desember 2024",
       "money": 51000,
       "exp": 100,
