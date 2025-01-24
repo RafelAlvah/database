@@ -736,7 +736,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -801,7 +801,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 60,
+      "succes": 61,
       "failed": 0
     },
     {
@@ -1085,7 +1085,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 998
+      "totalcmd": 1000
     }
   ],
   "clearchat": [],
@@ -46856,7 +46856,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6029,
-      "hit": 703,
+      "hit": 704,
       "date": "22 Desember 2024",
       "money": 500000,
       "exp": 4968,
@@ -105072,9 +105072,9 @@
       "autolevelup": false,
       "serial": "2TL7",
       "glimit": 73,
-      "hit": 203,
+      "hit": 204,
       "date": "5 Januari 2025",
-      "money": 2017185,
+      "money": 2016255,
       "exp": 12099,
       "limit": 49,
       "speed": 0,
@@ -105178,7 +105178,7 @@
       "lasthunt": 0,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 0,
+      "lastdagang": 1737696711983,
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
@@ -131163,7 +131163,7 @@
       "glimit": 9,
       "hit": 38,
       "date": "23 Januari 2025",
-      "money": 99392,
+      "money": 98462,
       "exp": 100,
       "limit": 30,
       "speed": 0,
