@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 169,
+      "succes": 170,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2035
+      "totalcmd": 2036
     }
   ],
   "clearchat": [],
@@ -23338,7 +23338,7 @@
       "autolevelup": false,
       "serial": "AUZT",
       "glimit": 31,
-      "hit": 580,
+      "hit": 581,
       "date": "21 Desember 2024",
       "money": 981828,
       "exp": 27251,
