@@ -822,6 +822,11 @@
       "cmd": "Tf",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tebakbendera",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -845,7 +850,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 170
+      "totalcmd": 171
     }
   ],
   "clearchat": [],
@@ -96412,8 +96417,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 891,
-      "hit": 6628,
+      "glimit": 890,
+      "hit": 6629,
       "date": "3 Januari 2025",
       "money": 42809968,
       "exp": 44843,
