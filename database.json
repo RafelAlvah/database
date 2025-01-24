@@ -695,7 +695,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1189,7 +1189,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2110
+      "totalcmd": 2111
     }
   ],
   "clearchat": [],
@@ -7112,7 +7112,7 @@
       "autolevelup": false,
       "serial": "DBZS",
       "glimit": 28,
-      "hit": 51,
+      "hit": 52,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 7996,
@@ -7124,14 +7124,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "yudhaaa",
+      "registered": true,
+      "name": "-yudha",
       "skill": "",
       "ultah": "25,05,2010",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 15,
+      "regTime": 1737728614670,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
