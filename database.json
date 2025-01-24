@@ -650,7 +650,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -915,7 +915,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 338
+      "totalcmd": 339
     }
   ],
   "clearchat": [],
@@ -58835,7 +58835,7 @@
       "autolevelup": false,
       "serial": "JUWB",
       "glimit": 25,
-      "hit": 215,
+      "hit": 216,
       "date": "24 Desember 2024",
       "money": 3000,
       "exp": 15992,
