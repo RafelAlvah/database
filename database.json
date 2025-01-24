@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 71,
+      "succes": 72,
       "failed": 0
     },
     {
@@ -781,7 +781,7 @@
     },
     {
       "cmd": "Ulartangga",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1016,7 +1016,7 @@
     },
     {
       "cmd": "Brat2",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1182
+      "totalcmd": 1185
     }
   ],
   "clearchat": [],
@@ -43650,7 +43650,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2880,
+      "hit": 2881,
       "date": "22 Desember 2024",
       "money": 1805044,
       "exp": 6000,
@@ -80619,7 +80619,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2500,
-      "hit": 1813,
+      "hit": 1814,
       "date": "30 Desember 2024",
       "money": 1417707,
       "exp": 45689,
@@ -97576,7 +97576,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 494,
-      "hit": 980,
+      "hit": 981,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
