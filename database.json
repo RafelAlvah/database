@@ -921,7 +921,7 @@
     },
     {
       "cmd": "Mancing",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1400
+      "totalcmd": 1401
     }
   ],
   "clearchat": [],
@@ -36181,7 +36181,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 351,
-      "hit": 3288,
+      "hit": 3289,
       "date": "22 Desember 2024",
       "money": 78990000,
       "exp": 26023,
