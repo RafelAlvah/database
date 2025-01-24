@@ -633,6 +633,11 @@
       "cmd": "Openbo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Heal",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -705,7 +710,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 5
+      "totalcmd": 6
     }
   ],
   "clearchat": [],
@@ -98971,7 +98976,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 66,
-      "hit": 807,
+      "hit": 808,
       "date": "3 Januari 2025",
       "money": 2864425,
       "exp": 39400,
@@ -99005,9 +99010,9 @@
       "atm": 0,
       "fullatm": 0,
       "bank": 0,
-      "health": 20,
+      "health": 100,
       "stamina": 60,
-      "potion": 15,
+      "potion": 13,
       "wine": 0,
       "beer": 0,
       "trash": 0,
