@@ -607,13 +607,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6283824612951",
-      "expired": 1737699163301
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Kerja",
@@ -787,7 +781,7 @@
     },
     {
       "cmd": "Ulartangga",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1106,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1194
+      "totalcmd": 1195
     }
   ],
   "clearchat": [],
@@ -43656,7 +43650,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2885,
+      "hit": 2886,
       "date": "22 Desember 2024",
       "money": 1805044,
       "exp": 6000,
