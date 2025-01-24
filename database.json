@@ -865,6 +865,11 @@
       "cmd": "Register",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Profil",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -933,7 +938,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 489
+      "totalcmd": 490
     }
   ],
   "clearchat": [],
@@ -17550,7 +17555,7 @@
       "autolevelup": false,
       "serial": "FWMP",
       "glimit": 30,
-      "hit": 20,
+      "hit": 21,
       "date": "19 Desember 2024",
       "money": 51000,
       "exp": 100,
