@@ -841,7 +841,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 44,
+      "succes": 45,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1802
+      "totalcmd": 1803
     }
   ],
   "clearchat": [],
@@ -123021,8 +123021,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "BDTM",
-      "glimit": 6,
-      "hit": 84,
+      "glimit": 5,
+      "hit": 85,
       "date": "12 Januari 2025",
       "money": 3000,
       "exp": 5984,
