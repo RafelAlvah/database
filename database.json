@@ -790,7 +790,7 @@
     },
     {
       "cmd": "Dare",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -874,7 +874,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 146
+      "totalcmd": 147
     }
   ],
   "clearchat": [],
@@ -53436,7 +53436,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14612,
-      "hit": 2107,
+      "hit": 2108,
       "date": "24 Desember 2024",
       "money": 4035248,
       "exp": 15920,
