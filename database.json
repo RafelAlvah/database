@@ -1127,6 +1127,11 @@
       "cmd": "Setwelcome",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Welcome",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1199,7 +1204,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2132
+      "totalcmd": 2133
     }
   ],
   "clearchat": [],
@@ -1211,7 +1216,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1471,
+      "hit": 1472,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 189611,
@@ -135308,7 +135313,7 @@
       "name": "Ramadhan H1446",
       "add": 0,
       "id": "120363394753656520@g.us",
-      "welcome": false,
+      "welcome": true,
       "detect": true,
       "sWelcome": "Haii Intro dulu kak\n /) /)\n (｡•ㅅ•｡)〝₎₎ Kartu Intro! ✦₊ ˊ˗ \n. .╭∪─∪────────── ✦ ⁺.\n. .┊ ◟﹫ Name : @user\n. .┊﹒𐐪 umur : di isi kak\n. .┊ ❀ Model : cowok/cewe\n. .┊ ◟ヾ Tempat : Bumi\n. .┊﹒𐐪 Asal : isi kak\n ╰───────────── ✦ ⁺.\n⧣₊˚﹒✦₊ ⧣₊˚ 𓂃★ ⸝⸝ ⧣₊˚﹒✦₊ ⧣₊˚",
       "sBye": "",
