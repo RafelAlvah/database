@@ -1067,6 +1067,11 @@
       "cmd": "Tourl",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Sound",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1139,7 +1144,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1631
+      "totalcmd": 1632
     }
   ],
   "clearchat": [],
@@ -89917,7 +89922,7 @@
       "autolevelup": false,
       "serial": "7VF5",
       "glimit": 0,
-      "hit": 335,
+      "hit": 336,
       "date": "31 Desember 2024",
       "money": 809506,
       "exp": 12997,
