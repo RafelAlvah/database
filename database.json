@@ -1108,6 +1108,11 @@
       "cmd": "Toimg",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Buyprem",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1180,7 +1185,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2083
+      "totalcmd": 2084
     }
   ],
   "clearchat": [],
@@ -105171,7 +105176,7 @@
       "autolevelup": false,
       "serial": "2TL7",
       "glimit": 73,
-      "hit": 207,
+      "hit": 208,
       "date": "5 Januari 2025",
       "money": 2759063,
       "exp": 12099,
