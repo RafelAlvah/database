@@ -643,7 +643,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 38,
+      "succes": 39,
       "failed": 0
     },
     {
@@ -1013,7 +1013,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 755
+      "totalcmd": 756
     }
   ],
   "clearchat": [],
@@ -58216,7 +58216,7 @@
       "autolevelup": false,
       "serial": "RXUB",
       "glimit": 2127,
-      "hit": 117,
+      "hit": 118,
       "date": "24 Desember 2024",
       "money": 30101000,
       "exp": 1199,
