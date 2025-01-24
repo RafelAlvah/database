@@ -796,7 +796,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 99,
+      "succes": 100,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1412
+      "totalcmd": 1413
     }
   ],
   "clearchat": [],
@@ -36180,8 +36180,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "ENHU",
-      "glimit": 351,
-      "hit": 3297,
+      "glimit": 350,
+      "hit": 3298,
       "date": "22 Desember 2024",
       "money": 79036507,
       "exp": 26023,
