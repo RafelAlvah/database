@@ -1122,6 +1122,11 @@
       "cmd": "Setwelcometype",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Setwelcome",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1194,7 +1199,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2117
+      "totalcmd": 2118
     }
   ],
   "clearchat": [],
@@ -1206,7 +1211,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1466,
+      "hit": 1467,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 189611,
