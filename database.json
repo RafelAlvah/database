@@ -618,6 +618,11 @@
       "cmd": "Nebang",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Mulung",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -690,7 +695,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2
+      "totalcmd": 3
     }
   ],
   "clearchat": [],
@@ -98956,7 +98961,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 66,
-      "hit": 804,
+      "hit": 805,
       "date": "3 Januari 2025",
       "money": 2364425,
       "exp": 39400,
@@ -99006,11 +99011,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 6475,
-      "kardus": 5434,
-      "kaleng": 4849,
-      "gelas": 5681,
-      "plastik": 4580,
+      "botol": 7439,
+      "kardus": 6109,
+      "kaleng": 5144,
+      "gelas": 6607,
+      "plastik": 5456,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -99129,7 +99134,7 @@
       "lastkerja": 1737735481871,
       "lastmaling": 1737393857258,
       "lastparming": 1737735491715,
-      "lastmulung": 1737654435437,
+      "lastmulung": 1737735494849,
       "rokets": 16,
       "sampah": 56,
       "kayu": 55,
