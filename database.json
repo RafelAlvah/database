@@ -613,7 +613,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1053,7 +1053,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 872
+      "totalcmd": 873
     }
   ],
   "clearchat": [],
@@ -19808,7 +19808,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 18,
-      "hit": 2745,
+      "hit": 2746,
       "date": "20 Desember 2024",
       "money": 54780103,
       "exp": 27486,
@@ -96636,9 +96636,9 @@
       "pasangan": "6281399940982@s.whatsapp.net",
       "age": 19,
       "regTime": 1735937139204,
-      "afk": 1737693874399,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "soljum",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
