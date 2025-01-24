@@ -985,6 +985,11 @@
       "cmd": "Sell",
       "succes": 4,
       "failed": 0
+    },
+    {
+      "cmd": "Suit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1053,7 +1058,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 918
+      "totalcmd": 919
     }
   ],
   "clearchat": [],
@@ -131124,8 +131129,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "6CIE",
-      "glimit": 28,
-      "hit": 14,
+      "glimit": 27,
+      "hit": 15,
       "date": "23 Januari 2025",
       "money": 1000,
       "exp": 0,
