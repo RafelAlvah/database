@@ -1106,7 +1106,7 @@
     },
     {
       "cmd": "Toimg",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1180,7 +1180,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2045
+      "totalcmd": 2046
     }
   ],
   "clearchat": [],
@@ -96748,7 +96748,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6393,
+      "hit": 6394,
       "date": "3 Januari 2025",
       "money": 33350848,
       "exp": 27643,
