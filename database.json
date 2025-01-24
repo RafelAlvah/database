@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -865,7 +865,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 212
+      "totalcmd": 213
     }
   ],
   "clearchat": [],
@@ -43415,7 +43415,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2913,
+      "hit": 2914,
       "date": "22 Desember 2024",
       "money": 1878949,
       "exp": 6100,
@@ -43435,9 +43435,9 @@
       "pasangan": "",
       "age": 16,
       "regTime": 1736257050437,
-      "afk": -1,
+      "afk": 1737749770112,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "nak mandi",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
