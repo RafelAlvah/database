@@ -678,6 +678,11 @@
       "cmd": "Tt",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -750,7 +755,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 35
+      "totalcmd": 36
     }
   ],
   "clearchat": [],
@@ -35801,7 +35806,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3342,
+      "hit": 3343,
       "date": "22 Desember 2024",
       "money": 78957229,
       "exp": 26023,
