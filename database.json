@@ -671,7 +671,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 41,
+      "succes": 42,
       "failed": 0
     },
     {
@@ -851,7 +851,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1392
+      "totalcmd": 1394
     }
   ],
   "clearchat": [],
@@ -46901,7 +46901,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6028,
-      "hit": 728,
+      "hit": 729,
       "date": "22 Desember 2024",
       "money": 500000,
       "exp": 4968,
@@ -46921,9 +46921,9 @@
       "pasangan": "6283824612951@s.whatsapp.net",
       "age": 16,
       "regTime": 1737696188397,
-      "afk": -1,
+      "afk": 1737702765098,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "mau mancing wakk",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -117631,10 +117631,10 @@
       "autolevelup": false,
       "serial": "VBNL",
       "glimit": 0,
-      "hit": 360,
+      "hit": 361,
       "date": "9 Januari 2025",
-      "money": 853693,
-      "exp": 6114,
+      "money": 903693,
+      "exp": 6214,
       "limit": 57,
       "speed": 0,
       "strength": 0,
@@ -117741,7 +117741,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1736520459701,
-      "lastclaim": 1737637963235,
+      "lastclaim": 1737702765442,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
