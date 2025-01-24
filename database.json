@@ -1098,6 +1098,11 @@
       "cmd": "Memancing",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Ai",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1170,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1880
+      "totalcmd": 1881
     }
   ],
   "clearchat": [],
@@ -46941,11 +46946,11 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6028,
-      "hit": 743,
+      "hit": 744,
       "date": "22 Desember 2024",
       "money": 500000,
       "exp": 4968,
-      "limit": 2086,
+      "limit": 2085,
       "speed": 0,
       "strength": 0,
       "defense": 0,
