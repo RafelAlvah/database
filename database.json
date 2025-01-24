@@ -725,7 +725,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -1144,7 +1144,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1638
+      "totalcmd": 1639
     }
   ],
   "clearchat": [],
@@ -96708,7 +96708,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6357,
+      "hit": 6358,
       "date": "3 Januari 2025",
       "money": 31814235,
       "exp": 14543,
