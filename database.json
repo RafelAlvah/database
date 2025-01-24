@@ -607,7 +607,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6287737937323",
+      "expired": 1737722755384
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Kerja",
@@ -1016,7 +1022,7 @@
     },
     {
       "cmd": "Brat2",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1170,7 +1176,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1867
+      "totalcmd": 1868
     }
   ],
   "clearchat": [],
@@ -131252,7 +131258,7 @@
       "autolevelup": false,
       "serial": "6CIE",
       "glimit": 0,
-      "hit": 74,
+      "hit": 75,
       "date": "23 Januari 2025",
       "money": 1101034,
       "exp": 500,
