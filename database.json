@@ -643,7 +643,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 30,
+      "succes": 31,
       "failed": 0
     },
     {
@@ -988,7 +988,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 679
+      "totalcmd": 680
     }
   ],
   "clearchat": [],
@@ -49081,7 +49081,7 @@
       "autolevelup": false,
       "serial": "FBAW",
       "glimit": 44,
-      "hit": 1063,
+      "hit": 1064,
       "date": "22 Desember 2024",
       "money": 999977,
       "exp": 95859,
