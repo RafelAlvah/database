@@ -658,6 +658,11 @@
       "cmd": "Merampok",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Money",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -730,7 +735,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 19
+      "totalcmd": 20
     }
   ],
   "clearchat": [],
@@ -98996,7 +99001,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 66,
-      "hit": 813,
+      "hit": 814,
       "date": "3 Januari 2025",
       "money": 3561558,
       "exp": 5400,
