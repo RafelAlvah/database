@@ -646,7 +646,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 67,
+      "succes": 68,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1368
+      "totalcmd": 1369
     }
   ],
   "clearchat": [],
@@ -127259,7 +127259,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 322,
+      "hit": 323,
       "date": "20 Januari 2025",
       "money": 286426,
       "exp": 1600,
