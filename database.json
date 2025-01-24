@@ -777,6 +777,11 @@
       "cmd": "Upsw",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Del",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -849,7 +854,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 132
+      "totalcmd": 133
     }
   ],
   "clearchat": [],
@@ -96417,7 +96422,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 891,
-      "hit": 6607,
+      "hit": 6608,
       "date": "3 Januari 2025",
       "money": 42707016,
       "exp": 44843,
