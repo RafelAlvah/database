@@ -616,12 +616,12 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 34,
+      "succes": 35,
       "failed": 0
     },
     {
       "cmd": "Nebang",
-      "succes": 43,
+      "succes": 44,
       "failed": 0
     },
     {
@@ -726,7 +726,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1543
+      "totalcmd": 1546
     }
   ],
   "clearchat": [],
@@ -19890,9 +19890,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 14,
-      "hit": 2827,
+      "hit": 2830,
       "date": "20 Desember 2024",
-      "money": 98766795,
+      "money": 98800710,
       "exp": 31686,
       "limit": 84,
       "speed": 0,
@@ -19931,7 +19931,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 491,
+      "wood": 509,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -19940,11 +19940,11 @@
       "emerald": 0,
       "diamond": 75,
       "gold": 62,
-      "botol": 32399,
-      "kardus": 37030,
-      "kaleng": 36859,
-      "gelas": 34046,
-      "plastik": 33584,
+      "botol": 33213,
+      "kardus": 37724,
+      "kaleng": 37576,
+      "gelas": 34953,
+      "plastik": 34310,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -20000,7 +20000,7 @@
       "lasthourly": 0,
       "lastbansos": 1737647392116,
       "lastrampok": 1736625325462,
-      "lastclaim": 1737702560977,
+      "lastclaim": 1737709580668,
       "lastnebang": 0,
       "lastweekly": 1737420983156,
       "lastmonthly": 1736635974029,
@@ -20061,9 +20061,9 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1737709571978,
-      "lastparming": 1737705058602,
+      "lastparming": 1737709582446,
       "rokets": 42,
-      "lastmulung": 1737705049790,
+      "lastmulung": 1737709574160,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
       "sand": "undefined850",
@@ -20072,9 +20072,9 @@
       "tiketcoin": "undefined30",
       "lastnambang": 1736486978720,
       "poin": 20000,
-      "sampah": 121,
-      "kayu": 136,
-      "batu": 87
+      "sampah": 146,
+      "kayu": 150,
+      "batu": 131
     },
     "6287717217561@s.whatsapp.net": {
       "sticker": {},
