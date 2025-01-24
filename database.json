@@ -856,7 +856,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1170,7 +1170,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1822
+      "totalcmd": 1823
     }
   ],
   "clearchat": [],
@@ -123031,8 +123031,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "BDTM",
-      "glimit": 3,
-      "hit": 93,
+      "glimit": 2,
+      "hit": 94,
       "date": "12 Januari 2025",
       "money": 53000,
       "exp": 6084,
