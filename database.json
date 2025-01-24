@@ -787,6 +787,11 @@
       "cmd": "Cekjodoh",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Dare",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -859,7 +864,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 139
+      "totalcmd": 140
     }
   ],
   "clearchat": [],
@@ -53421,7 +53426,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14612,
-      "hit": 2104,
+      "hit": 2105,
       "date": "24 Desember 2024",
       "money": 4035248,
       "exp": 15920,
