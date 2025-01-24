@@ -668,7 +668,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -928,7 +928,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 483
+      "totalcmd": 484
     }
   ],
   "clearchat": [],
@@ -17545,7 +17545,7 @@
       "autolevelup": false,
       "serial": "FWMP",
       "glimit": 30,
-      "hit": 14,
+      "hit": 15,
       "date": "19 Desember 2024",
       "money": 1000,
       "exp": 0,
