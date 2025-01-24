@@ -621,7 +621,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 38,
+      "succes": 39,
       "failed": 0
     },
     {
@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 89,
+      "succes": 90,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1365
+      "totalcmd": 1367
     }
   ],
   "clearchat": [],
@@ -99757,7 +99757,7 @@
       "autolevelup": false,
       "serial": "0YVF",
       "glimit": 30,
-      "hit": 67,
+      "hit": 68,
       "date": "4 Januari 2025",
       "money": 6000,
       "exp": 2002,
@@ -127259,7 +127259,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 320,
+      "hit": 321,
       "date": "20 Januari 2025",
       "money": 219059,
       "exp": 1500,
