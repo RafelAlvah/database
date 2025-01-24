@@ -604,7 +604,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6283163420613",
+      "expired": 1737686198151
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Kerja",
@@ -818,7 +824,7 @@
     },
     {
       "cmd": "Upsw",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -973,7 +979,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 632
+      "totalcmd": 633
     }
   ],
   "clearchat": [],
@@ -985,7 +991,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1452,
+      "hit": 1453,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 189611,
