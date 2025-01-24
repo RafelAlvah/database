@@ -896,7 +896,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 34,
+      "succes": 35,
       "failed": 0
     },
     {
@@ -1225,7 +1225,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2163
+      "totalcmd": 2164
     }
   ],
   "clearchat": [],
@@ -46996,7 +46996,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6026,
-      "hit": 761,
+      "hit": 762,
       "date": "22 Desember 2024",
       "money": 500000,
       "exp": 4968,
@@ -47024,7 +47024,7 @@
       "warning": 0,
       "level": 3,
       "role": "Beginner",
-      "balance": 22220222,
+      "balance": 22200222,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -58461,7 +58461,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 0,
+      "balance": 20000,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
