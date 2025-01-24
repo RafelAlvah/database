@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 78,
+      "succes": 79,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1282
+      "totalcmd": 1283
     }
   ],
   "clearchat": [],
@@ -75461,7 +75461,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 485,
-      "hit": 628,
+      "hit": 629,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
@@ -97616,7 +97616,7 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1736509904536,
-      "afk": 1737699209482,
+      "afk": -1,
       "unreg": true,
       "afkReason": "",
       "banned": false,
