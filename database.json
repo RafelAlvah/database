@@ -1163,6 +1163,11 @@
       "cmd": "Pin",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tiktokkayes",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1235,7 +1240,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2192
+      "totalcmd": 2193
     }
   ],
   "clearchat": [],
@@ -134347,7 +134352,7 @@
       "autolevelup": false,
       "serial": "XK4I",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
