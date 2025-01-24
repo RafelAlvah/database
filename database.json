@@ -726,7 +726,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1401
+      "totalcmd": 1402
     }
   ],
   "clearchat": [],
@@ -117631,10 +117631,10 @@
       "autolevelup": false,
       "serial": "VBNL",
       "glimit": 0,
-      "hit": 364,
+      "hit": 365,
       "date": "9 Januari 2025",
-      "money": 1496273,
-      "exp": 14214,
+      "money": 1498273,
+      "exp": 4214,
       "limit": 57,
       "speed": 0,
       "strength": 0,
@@ -117657,7 +117657,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 1,
+      "level": 2,
       "role": "Beginner",
       "balance": 12906900,
       "skillexp": 0,
