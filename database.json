@@ -686,7 +686,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 43,
+      "succes": 44,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1399
+      "totalcmd": 1400
     }
   ],
   "clearchat": [],
@@ -36181,9 +36181,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 351,
-      "hit": 3287,
+      "hit": 3288,
       "date": "22 Desember 2024",
-      "money": 78995000,
+      "money": 78990000,
       "exp": 26023,
       "limit": 11948,
       "speed": 1,
@@ -36246,7 +36246,7 @@
       "tbox": 0,
       "legendary": 0,
       "kondom": 3,
-      "umpan": 0,
+      "umpan": 1,
       "pet": 3,
       "paus": 4,
       "kepiting": 10,
