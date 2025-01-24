@@ -688,7 +688,7 @@
     },
     {
       "cmd": "Craft",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1043,7 +1043,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 820
+      "totalcmd": 821
     }
   ],
   "clearchat": [],
@@ -96606,7 +96606,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6287,
+      "hit": 6288,
       "date": "3 Januari 2025",
       "money": 771641,
       "exp": 3243,
