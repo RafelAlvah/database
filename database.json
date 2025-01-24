@@ -608,7 +608,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 51,
+      "succes": 52,
       "failed": 0
     },
     {
@@ -668,7 +668,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -1028,7 +1028,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 804
+      "totalcmd": 806
     }
   ],
   "clearchat": [],
@@ -19783,7 +19783,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 21,
-      "hit": 2731,
+      "hit": 2732,
       "date": "20 Desember 2024",
       "money": 24583232,
       "exp": 27486,
@@ -96591,9 +96591,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6285,
+      "hit": 6286,
       "date": "3 Januari 2025",
-      "money": 660623,
+      "money": 739929,
       "exp": 3243,
       "limit": 330,
       "speed": 5,
@@ -96761,7 +96761,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737692175377,
+      "lastkerja": 1737693178116,
       "lastmaling": 1737393049271,
       "clay": "undefined1940",
       "sand": "undefined550",
