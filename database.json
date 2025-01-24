@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 46,
+      "succes": 47,
       "failed": 0
     },
     {
@@ -896,7 +896,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1105
+      "totalcmd": 1107
     }
   ],
   "clearchat": [],
@@ -36151,7 +36151,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 353,
-      "hit": 3217,
+      "hit": 3218,
       "date": "22 Desember 2024",
       "money": 0,
       "exp": 21023,
@@ -36179,7 +36179,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 68291123,
+      "balance": 68291000,
       "skillexp": 0,
       "chip": 0,
       "atm": 1,
@@ -96692,7 +96692,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 66666666,
+      "balance": 66666789,
       "skillexp": 0,
       "chip": 0,
       "atm": 3,
@@ -120639,7 +120639,7 @@
       "autolevelup": false,
       "serial": "MDEZ",
       "glimit": 30,
-      "hit": 140,
+      "hit": 141,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
