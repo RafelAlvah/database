@@ -651,12 +651,12 @@
     },
     {
       "cmd": "Del",
-      "succes": 51,
+      "succes": 52,
       "failed": 0
     },
     {
       "cmd": "Me",
-      "succes": 67,
+      "succes": 68,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1256
+      "totalcmd": 1258
     }
   ],
   "clearchat": [],
@@ -19875,7 +19875,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 14,
-      "hit": 2790,
+      "hit": 2791,
       "date": "20 Desember 2024",
       "money": 65040643,
       "exp": 30586,
@@ -46891,7 +46891,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6028,
-      "hit": 709,
+      "hit": 710,
       "date": "22 Desember 2024",
       "money": 500000,
       "exp": 4968,
