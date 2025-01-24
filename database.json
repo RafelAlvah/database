@@ -940,6 +940,11 @@
       "cmd": "Lirik",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Add",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1008,7 +1013,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 750
+      "totalcmd": 751
     }
   ],
   "clearchat": [],
@@ -58211,7 +58216,7 @@
       "autolevelup": false,
       "serial": "RXUB",
       "glimit": 2127,
-      "hit": 116,
+      "hit": 117,
       "date": "24 Desember 2024",
       "money": 101000,
       "exp": 1199,
