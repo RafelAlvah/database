@@ -673,6 +673,11 @@
       "cmd": "Leaderboard",
       "succes": 4,
       "failed": 0
+    },
+    {
+      "cmd": "Tt",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -745,7 +750,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 34
+      "totalcmd": 35
     }
   ],
   "clearchat": [],
@@ -8448,11 +8453,11 @@
       "autolevelup": false,
       "serial": "NDNM",
       "glimit": 30,
-      "hit": 20,
+      "hit": 21,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 12,
+      "limit": 11,
       "speed": 0,
       "strength": 0,
       "defense": 0,
