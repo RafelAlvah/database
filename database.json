@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 154,
+      "succes": 155,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1923
+      "totalcmd": 1924
     }
   ],
   "clearchat": [],
@@ -19930,7 +19930,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 11,
-      "hit": 2873,
+      "hit": 2874,
       "date": "20 Desember 2024",
       "money": 101101547,
       "exp": 33886,
