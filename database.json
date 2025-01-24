@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -1053,7 +1053,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 897
+      "totalcmd": 898
     }
   ],
   "clearchat": [],
@@ -96616,9 +96616,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6309,
+      "hit": 6310,
       "date": "3 Januari 2025",
-      "money": 6000000,
+      "money": 0,
       "exp": 3243,
       "limit": 330,
       "speed": 5,
@@ -96664,7 +96664,7 @@
       "hubungan": 0,
       "lokasi": 0,
       "emerald": 0,
-      "diamond": 24,
+      "diamond": 44,
       "gold": 56,
       "botol": 34353,
       "kardus": 40322,
