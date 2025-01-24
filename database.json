@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 125,
+      "succes": 126,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1790
+      "totalcmd": 1791
     }
   ],
   "clearchat": [],
@@ -123022,7 +123022,7 @@
       "autolevelup": false,
       "serial": "BDTM",
       "glimit": 6,
-      "hit": 81,
+      "hit": 82,
       "date": "12 Januari 2025",
       "money": 3000,
       "exp": 5984,
