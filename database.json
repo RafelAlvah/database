@@ -887,6 +887,11 @@
       "cmd": "Bank",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Sell",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -910,7 +915,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 325
+      "totalcmd": 326
     }
   ],
   "clearchat": [],
@@ -33607,7 +33612,7 @@
       "autolevelup": false,
       "serial": "KUYK",
       "glimit": 2369,
-      "hit": 1239,
+      "hit": 1240,
       "date": "22 Desember 2024",
       "money": 2687540,
       "exp": 18442,
