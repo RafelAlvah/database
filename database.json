@@ -1081,7 +1081,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1776
+      "totalcmd": 1777
     }
   ],
   "clearchat": [],
@@ -80683,7 +80683,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2498,
-      "hit": 1839,
+      "hit": 1840,
       "date": "30 Desember 2024",
       "money": 1417707,
       "exp": 45689,
