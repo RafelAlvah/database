@@ -911,7 +911,7 @@
     },
     {
       "cmd": "Claim",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1341
+      "totalcmd": 1342
     }
   ],
   "clearchat": [],
@@ -99757,10 +99757,10 @@
       "autolevelup": false,
       "serial": "0YVF",
       "glimit": 30,
-      "hit": 64,
+      "hit": 65,
       "date": "4 Januari 2025",
       "money": 3000,
-      "exp": 17002,
+      "exp": 22002,
       "limit": 30,
       "speed": 0,
       "strength": 0,
@@ -99785,7 +99785,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 156000,
+      "balance": 161000,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -99867,7 +99867,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
-      "lastclaim": 1736656978315,
+      "lastclaim": 1737702099690,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
