@@ -608,7 +608,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 30,
+      "succes": 31,
       "failed": 0
     },
     {
@@ -948,7 +948,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 515
+      "totalcmd": 516
     }
   ],
   "clearchat": [],
@@ -17565,9 +17565,9 @@
       "autolevelup": false,
       "serial": "FWMP",
       "glimit": 30,
-      "hit": 24,
+      "hit": 25,
       "date": "19 Desember 2024",
-      "money": 51000,
+      "money": 104790,
       "exp": 100,
       "limit": 30,
       "speed": 0,
@@ -17735,7 +17735,8 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastmulung": 1737678081868
+      "lastmulung": 1737678081868,
+      "lastkerja": 1737681502826
     },
     "6287826108476@s.whatsapp.net": {
       "sticker": {},
