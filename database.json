@@ -977,7 +977,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1737477337060,
-      "lastclaim": 1737647617466,
+      "lastclaim": 1737748551474,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
@@ -1049,9 +1049,9 @@
       "ultahSent": "07,01",
       "rokets": null,
       "lastdate": 1736667088933,
-      "sampah": null,
-      "kayu": null,
-      "batu": null
+      "sampah": 42,
+      "kayu": 50,
+      "batu": 35
     },
     "6285754160645@s.whatsapp.net": {
       "sticker": {},
