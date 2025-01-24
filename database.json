@@ -935,6 +935,11 @@
       "cmd": "Menambang",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Lirik",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1003,7 +1008,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 745
+      "totalcmd": 746
     }
   ],
   "clearchat": [],
@@ -58206,7 +58211,7 @@
       "autolevelup": false,
       "serial": "RXUB",
       "glimit": 2127,
-      "hit": 114,
+      "hit": 115,
       "date": "24 Desember 2024",
       "money": 101000,
       "exp": 1199,
