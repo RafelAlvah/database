@@ -716,7 +716,7 @@
     },
     {
       "cmd": "Tarik",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1305
+      "totalcmd": 1306
     }
   ],
   "clearchat": [],
@@ -19875,9 +19875,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 14,
-      "hit": 2796,
+      "hit": 2797,
       "date": "20 Desember 2024",
-      "money": 15040643,
+      "money": 75040643,
       "exp": 30586,
       "limit": 84,
       "speed": 0,
@@ -19908,7 +19908,7 @@
       "chip": 0,
       "atm": 1,
       "fullatm": 500000000,
-      "bank": 286214418,
+      "bank": 226214418,
       "health": 100,
       "stamina": 100,
       "potion": 1,
