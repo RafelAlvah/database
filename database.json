@@ -893,7 +893,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1028,7 +1028,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 795
+      "totalcmd": 796
     }
   ],
   "clearchat": [],
@@ -80574,7 +80574,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 73011299,
+      "balance": 73061299,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -96591,7 +96591,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6281,
+      "hit": 6282,
       "date": "3 Januari 2025",
       "money": 660623,
       "exp": 3243,
@@ -96619,7 +96619,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 66716666,
+      "balance": 66666666,
       "skillexp": 0,
       "chip": 0,
       "atm": 3,
