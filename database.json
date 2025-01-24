@@ -757,6 +757,11 @@
       "cmd": "Gaji",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Bansos",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -829,7 +834,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 119
+      "totalcmd": 120
     }
   ],
   "clearchat": [],
@@ -96397,9 +96402,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 891,
-      "hit": 6605,
+      "hit": 6606,
       "date": "3 Januari 2025",
-      "money": 39707016,
+      "money": 42707016,
       "exp": 44843,
       "limit": 350,
       "speed": 5,
@@ -96505,7 +96510,7 @@
       "lastberkebon": 0,
       "lastdagang": 1737711107375,
       "lasthourly": 0,
-      "lastbansos": 1737652124368,
+      "lastbansos": 1737744987274,
       "lastrampok": 1737744929350,
       "lastclaim": 1737744908197,
       "lastnebang": 0,
