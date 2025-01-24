@@ -611,7 +611,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 110,
+      "succes": 111,
       "failed": 0
     },
     {
@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 152,
+      "succes": 153,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1919
+      "totalcmd": 1921
     }
   ],
   "clearchat": [],
@@ -19930,7 +19930,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 11,
-      "hit": 2871,
+      "hit": 2872,
       "date": "20 Desember 2024",
       "money": 101101547,
       "exp": 33886,
@@ -131076,9 +131076,9 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 21,
-      "hit": 94,
+      "hit": 95,
       "date": "23 Januari 2025",
-      "money": 1036044,
+      "money": 1126177,
       "exp": 6100,
       "limit": 30,
       "speed": 0,
@@ -131248,7 +131248,7 @@
       "timeEnd": "",
       "lastparming": 1737637073180,
       "rokets": 1,
-      "lastkerja": 1737638390167
+      "lastkerja": 1737723605212
     },
     "6288287186174@s.whatsapp.net": {
       "sticker": {},
