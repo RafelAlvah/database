@@ -611,7 +611,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 74,
+      "succes": 75,
       "failed": 0
     },
     {
@@ -636,7 +636,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 47,
+      "succes": 48,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1349
+      "totalcmd": 1351
     }
   ],
   "clearchat": [],
@@ -19885,9 +19885,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 14,
-      "hit": 2802,
+      "hit": 2803,
       "date": "20 Desember 2024",
-      "money": 95185645,
+      "money": 95334850,
       "exp": 30586,
       "limit": 84,
       "speed": 0,
@@ -20055,7 +20055,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737701656742,
+      "lastkerja": 1737702144524,
       "lastparming": 1737700420565,
       "rokets": 41,
       "lastmulung": 1737700423385,
@@ -36181,7 +36181,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 353,
-      "hit": 3276,
+      "hit": 3277,
       "date": "22 Desember 2024",
       "money": 78995000,
       "exp": 26023,
@@ -36216,8 +36216,8 @@
       "fullatm": 500000000,
       "bank": 2508658,
       "health": 20,
-      "stamina": 20,
-      "potion": 28,
+      "stamina": 90,
+      "potion": 26,
       "wine": 0,
       "beer": 0,
       "trash": 0,
