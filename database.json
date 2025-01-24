@@ -668,7 +668,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -973,7 +973,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 628
+      "totalcmd": 629
     }
   ],
   "clearchat": [],
@@ -96535,7 +96535,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6250,
+      "hit": 6251,
       "date": "3 Januari 2025",
       "money": 2526582,
       "exp": 96143,
