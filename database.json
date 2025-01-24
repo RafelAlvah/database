@@ -635,7 +635,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -910,7 +910,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 314
+      "totalcmd": 315
     }
   ],
   "clearchat": [],
@@ -33607,7 +33607,7 @@
       "autolevelup": false,
       "serial": "KUYK",
       "glimit": 2369,
-      "hit": 1235,
+      "hit": 1236,
       "date": "22 Desember 2024",
       "money": 1987540,
       "exp": 13442,
