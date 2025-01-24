@@ -610,7 +610,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -865,7 +865,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 204
+      "totalcmd": 205
     }
   ],
   "clearchat": [],
@@ -53427,9 +53427,9 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14612,
-      "hit": 2124,
+      "hit": 2125,
       "date": "24 Desember 2024",
-      "money": 4085248,
+      "money": 4226638,
       "exp": 16020,
       "limit": 10272,
       "speed": 0,
@@ -53597,7 +53597,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737644241651,
+      "lastkerja": 1737749691044,
       "lastmulung": 1737558271348,
       "lastparming": 1736676128890
     },
