@@ -636,7 +636,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1066
+      "totalcmd": 1067
     }
   ],
   "clearchat": [],
@@ -36151,7 +36151,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 354,
-      "hit": 3204,
+      "hit": 3205,
       "date": "22 Desember 2024",
       "money": 2508658,
       "exp": 17023,
@@ -36185,9 +36185,9 @@
       "atm": 1,
       "fullatm": 500000000,
       "bank": 0,
-      "health": 20,
+      "health": 100,
       "stamina": 60,
-      "potion": 30,
+      "potion": 28,
       "wine": 0,
       "beer": 0,
       "trash": 0,
