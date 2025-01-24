@@ -611,7 +611,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 89,
+      "succes": 90,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1559
+      "totalcmd": 1560
     }
   ],
   "clearchat": [],
@@ -36736,9 +36736,9 @@
       "autolevelup": false,
       "serial": "WJWI",
       "glimit": -2,
-      "hit": 427,
+      "hit": 428,
       "date": "22 Desember 2024",
-      "money": 395854,
+      "money": 472978,
       "exp": 7992,
       "limit": 0,
       "speed": 0,
@@ -36906,7 +36906,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1736653781822
+      "lastkerja": 1737711020007
     },
     "6288295703815@s.whatsapp.net": {
       "sticker": {},
