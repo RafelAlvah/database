@@ -900,6 +900,11 @@
       "cmd": "Ojek",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Misi",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -968,7 +973,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 626
+      "totalcmd": 627
     }
   ],
   "clearchat": [],
@@ -96530,7 +96535,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6248,
+      "hit": 6249,
       "date": "3 Januari 2025",
       "money": 2483736,
       "exp": 96143,
