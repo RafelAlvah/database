@@ -560,7 +560,6 @@
     "Button5",
     "Button4",
     "To",
-    "",
     "Delownee",
     "Delsewa",
     "Brak",
@@ -921,7 +920,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 356
+      "totalcmd": 357
     }
   ],
   "clearchat": [],
@@ -114549,7 +114548,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1082,
+      "hit": 1083,
       "date": "7 Januari 2025",
       "money": 3743221,
       "exp": 3985,
@@ -137095,7 +137094,12 @@
       "simi": true,
       "open": 0,
       "close": 0,
-      "threeDaysLeft": false
+      "threeDaysLeft": false,
+      "stiker": false,
+      "antiLink": false,
+      "antiLinkgc": false,
+      "antiLinkch": false,
+      "viewonce": false
     }
   },
   "settings": {
