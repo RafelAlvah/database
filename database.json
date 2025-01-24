@@ -673,7 +673,7 @@
     },
     {
       "cmd": "Bank",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -883,7 +883,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1038,7 +1038,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 816
+      "totalcmd": 818
     }
   ],
   "clearchat": [],
@@ -19792,8 +19792,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 21,
-      "hit": 2734,
+      "glimit": 20,
+      "hit": 2735,
       "date": "20 Desember 2024",
       "money": 24583232,
       "exp": 27486,
@@ -114658,7 +114658,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1043,
+      "hit": 1044,
       "date": "7 Januari 2025",
       "money": 8093302,
       "exp": 3685,
