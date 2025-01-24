@@ -796,7 +796,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 87,
+      "succes": 88,
       "failed": 0
     },
     {
@@ -841,7 +841,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -1085,7 +1085,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1011
+      "totalcmd": 1013
     }
   ],
   "clearchat": [],
@@ -19840,7 +19840,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 17,
-      "hit": 2757,
+      "hit": 2758,
       "date": "20 Desember 2024",
       "money": 64102263,
       "exp": 27486,
@@ -131160,8 +131160,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "6CIE",
-      "glimit": 8,
-      "hit": 41,
+      "glimit": 7,
+      "hit": 42,
       "date": "23 Januari 2025",
       "money": 98462,
       "exp": 100,
