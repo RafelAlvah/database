@@ -631,7 +631,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 67,
+      "succes": 68,
       "failed": 0
     },
     {
@@ -726,7 +726,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1795
+      "totalcmd": 1797
     }
   ],
   "clearchat": [],
@@ -19915,11 +19915,11 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 14,
-      "hit": 2859,
+      "hit": 2861,
       "date": "20 Desember 2024",
-      "money": 99887903,
+      "money": 100887903,
       "exp": 33886,
-      "limit": 84,
+      "limit": 104,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -19949,8 +19949,8 @@
       "atm": 1,
       "fullatm": 500000000,
       "bank": 206214418,
-      "health": 100,
-      "stamina": 90,
+      "health": 20,
+      "stamina": 50,
       "potion": 0,
       "wine": 0,
       "beer": 0,
@@ -20012,7 +20012,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1737713859197,
+      "lastmisi": 1737721661198,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -20025,7 +20025,7 @@
       "lasthourly": 0,
       "lastbansos": 1737647392116,
       "lastrampok": 1736625325462,
-      "lastclaim": 1737717419659,
+      "lastclaim": 1737721664586,
       "lastnebang": 0,
       "lastweekly": 1737420983156,
       "lastmonthly": 1736635974029,
@@ -20087,7 +20087,7 @@
       "timeEnd": "",
       "lastkerja": 1737717382085,
       "lastparming": 1737721658432,
-      "rokets": 43,
+      "rokets": 44,
       "lastmulung": 1737721646662,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
@@ -20096,7 +20096,7 @@
       "emas": "undefined30",
       "tiketcoin": "undefined30",
       "lastnambang": 1736486978720,
-      "poin": 20000,
+      "poin": 30000,
       "sampah": 146,
       "kayu": 150,
       "batu": 131
