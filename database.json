@@ -631,12 +631,12 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 70,
+      "succes": 71,
       "failed": 0
     },
     {
       "cmd": "Heal",
-      "succes": 71,
+      "succes": 72,
       "failed": 0
     },
     {
@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 149,
+      "succes": 150,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1899
+      "totalcmd": 1902
     }
   ],
   "clearchat": [],
@@ -75520,7 +75520,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 485,
-      "hit": 633,
+      "hit": 634,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
@@ -127310,10 +127310,10 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 348,
+      "hit": 350,
       "date": "20 Januari 2025",
       "money": 778978,
-      "exp": 4600,
+      "exp": 5600,
       "limit": 130,
       "speed": 0,
       "strength": 0,
@@ -127345,8 +127345,8 @@
       "fullatm": 0,
       "bank": 0,
       "health": 20,
-      "stamina": 90,
-      "potion": 5,
+      "stamina": 50,
+      "potion": 3,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -127407,7 +127407,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1737717582760,
+      "lastmisi": 1737723286584,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -127483,7 +127483,7 @@
       "lastmulung": 1737723252524,
       "lastparming": 1737723260159,
       "poin": 530000,
-      "rokets": 14,
+      "rokets": 15,
       "lastkerja": 1737723251414,
       "sampah": 109,
       "kayu": 106,
