@@ -686,7 +686,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 3,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -696,6 +696,11 @@
     },
     {
       "cmd": "Me",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Ytmp3",
       "succes": 1,
       "failed": 0
     }
@@ -770,7 +775,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 43
+      "totalcmd": 46
     }
   ],
   "clearchat": [],
@@ -782,7 +787,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1505,
+      "hit": 1508,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
