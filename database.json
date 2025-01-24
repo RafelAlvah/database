@@ -1051,7 +1051,7 @@
     },
     {
       "cmd": "Tembak",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1339
+      "totalcmd": 1340
     }
   ],
   "clearchat": [],
@@ -46901,7 +46901,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6028,
-      "hit": 727,
+      "hit": 728,
       "date": "22 Desember 2024",
       "money": 500000,
       "exp": 4968,
@@ -46918,7 +46918,7 @@
       "skill": "",
       "ultah": "01,09,2008",
       "sahabat": "",
-      "pasangan": "6283151449874@s.whatsapp.net",
+      "pasangan": "6283824612951@s.whatsapp.net",
       "age": 16,
       "regTime": 1737696188397,
       "afk": -1,
