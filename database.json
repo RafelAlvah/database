@@ -905,6 +905,11 @@
       "cmd": "Misi",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Claim",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -973,7 +978,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 662
+      "totalcmd": 663
     }
   ],
   "clearchat": [],
@@ -89750,10 +89755,10 @@
       "autolevelup": false,
       "serial": "7VF5",
       "glimit": 0,
-      "hit": 325,
+      "hit": 326,
       "date": "31 Desember 2024",
       "money": 793000,
-      "exp": 7997,
+      "exp": 12997,
       "limit": 29,
       "speed": 0,
       "strength": 0,
@@ -89778,7 +89783,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 6001,
+      "balance": 11001,
       "skillexp": 0,
       "chip": 0,
       "atm": 1,
@@ -89860,7 +89865,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
-      "lastclaim": 1736673446629,
+      "lastclaim": 1737690298062,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
