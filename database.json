@@ -1158,6 +1158,11 @@
       "cmd": "Antilinkgc",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Pin",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1230,7 +1235,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2187
+      "totalcmd": 2188
     }
   ],
   "clearchat": [],
@@ -133986,7 +133991,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
