@@ -636,7 +636,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 50,
+      "succes": 51,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1384
+      "totalcmd": 1385
     }
   ],
   "clearchat": [],
@@ -127259,7 +127259,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 327,
+      "hit": 328,
       "date": "20 Januari 2025",
       "money": 413555,
       "exp": 1600,
