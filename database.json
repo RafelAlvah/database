@@ -961,7 +961,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1963
+      "totalcmd": 1964
     }
   ],
   "clearchat": [],
@@ -123036,8 +123036,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "BDTM",
-      "glimit": 0,
-      "hit": 98,
+      "glimit": 10,
+      "hit": 99,
       "date": "12 Januari 2025",
       "money": 53000,
       "exp": 6084,
@@ -123065,7 +123065,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 812800,
+      "balance": 805800,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
