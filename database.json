@@ -795,7 +795,7 @@
     },
     {
       "cmd": "Spotify",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -874,7 +874,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 148
+      "totalcmd": 149
     }
   ],
   "clearchat": [],
@@ -96442,7 +96442,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 891,
-      "hit": 6610,
+      "hit": 6611,
       "date": "3 Januari 2025",
       "money": 42707016,
       "exp": 44843,
