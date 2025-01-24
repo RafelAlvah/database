@@ -615,7 +615,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -625,7 +625,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -752,6 +752,11 @@
       "cmd": "Qc",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Gaji",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -824,7 +829,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 111
+      "totalcmd": 114
     }
   ],
   "clearchat": [],
@@ -96392,10 +96397,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 891,
-      "hit": 6597,
+      "hit": 6600,
       "date": "3 Januari 2025",
-      "money": 38650822,
-      "exp": 36743,
+      "money": 38700822,
+      "exp": 36843,
       "limit": 350,
       "speed": 5,
       "strength": 6,
@@ -96502,7 +96507,7 @@
       "lasthourly": 0,
       "lastbansos": 1737652124368,
       "lastrampok": 1737734973097,
-      "lastclaim": 1737734950767,
+      "lastclaim": 1737744908197,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
       "lastmonthly": 1736423963407,
