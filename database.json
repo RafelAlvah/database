@@ -611,7 +611,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 91,
+      "succes": 92,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1588
+      "totalcmd": 1589
     }
   ],
   "clearchat": [],
@@ -16677,9 +16677,9 @@
       "autolevelup": false,
       "serial": "82GO",
       "glimit": 24,
-      "hit": 168,
+      "hit": 169,
       "date": "19 Desember 2024",
-      "money": 1359762,
+      "money": 1414776,
       "exp": 7000,
       "limit": 101,
       "speed": 0,
@@ -16848,7 +16848,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "poin": 1000000,
-      "lastkerja": 1737646659892,
+      "lastkerja": 1737711646550,
       "rokets": null,
       "lastmulung": 1737711637307,
       "sampah": null,
