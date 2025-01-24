@@ -708,6 +708,11 @@
       "cmd": "Ytmp4",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Afk",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -780,7 +785,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 48
+      "totalcmd": 49
     }
   ],
   "clearchat": [],
@@ -35831,7 +35836,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3343,
+      "hit": 3344,
       "date": "22 Desember 2024",
       "money": 78957229,
       "exp": 26023,
@@ -35851,9 +35856,9 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1736653617488,
-      "afk": -1,
+      "afk": 1737740811026,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "lieur",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
