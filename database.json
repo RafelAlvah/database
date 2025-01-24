@@ -686,7 +686,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -1085,7 +1085,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 976
+      "totalcmd": 977
     }
   ],
   "clearchat": [],
@@ -46856,9 +46856,9 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6030,
-      "hit": 696,
+      "hit": 697,
       "date": "22 Desember 2024",
-      "money": 26239327,
+      "money": 26189327,
       "exp": 1968,
       "limit": 2087,
       "speed": 0,
@@ -46920,7 +46920,7 @@
       "mythic": 0,
       "tbox": 0,
       "legendary": 0,
-      "kondom": 0,
+      "kondom": 1,
       "umpan": 0,
       "pet": 0,
       "paus": 0,
