@@ -847,6 +847,11 @@
       "cmd": "Berdagang",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Maling",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -870,7 +875,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 218
+      "totalcmd": 219
     }
   ],
   "clearchat": [],
@@ -96438,7 +96443,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6652,
+      "hit": 6653,
       "date": "3 Januari 2025",
       "money": 43951547,
       "exp": 49843,
