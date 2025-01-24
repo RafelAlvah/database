@@ -981,7 +981,7 @@
     },
     {
       "cmd": "Inventory",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1360
+      "totalcmd": 1361
     }
   ],
   "clearchat": [],
@@ -36181,7 +36181,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 353,
-      "hit": 3279,
+      "hit": 3280,
       "date": "22 Desember 2024",
       "money": 78995000,
       "exp": 26023,
