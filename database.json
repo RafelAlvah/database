@@ -801,7 +801,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 89,
+      "succes": 90,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1524
+      "totalcmd": 1525
     }
   ],
   "clearchat": [],
@@ -36186,7 +36186,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3333,
+      "hit": 3334,
       "date": "22 Desember 2024",
       "money": 79036507,
       "exp": 26023,
