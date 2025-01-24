@@ -663,6 +663,11 @@
       "cmd": "Money",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Transfer",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -735,7 +740,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 20
+      "totalcmd": 21
     }
   ],
   "clearchat": [],
@@ -96305,7 +96310,7 @@
       "glimit": 891,
       "hit": 6591,
       "date": "3 Januari 2025",
-      "money": 35065302,
+      "money": 38626860,
       "exp": 36743,
       "limit": 350,
       "speed": 5,
@@ -99001,9 +99006,9 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 66,
-      "hit": 814,
+      "hit": 815,
       "date": "3 Januari 2025",
-      "money": 3561558,
+      "money": 0,
       "exp": 5400,
       "limit": 98,
       "speed": 0,
