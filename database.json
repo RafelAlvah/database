@@ -883,7 +883,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1043,7 +1043,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 824
+      "totalcmd": 825
     }
   ],
   "clearchat": [],
@@ -19798,7 +19798,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 20,
-      "hit": 2735,
+      "hit": 2736,
       "date": "20 Desember 2024",
       "money": 24583232,
       "exp": 27486,
