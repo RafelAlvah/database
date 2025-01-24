@@ -804,56 +804,7 @@
       "failed": 2
     }
   ],
-  "listerror": [
-    {
-      "error": "Cannot read properties of undefined (reading 'cmd')",
-      "cmd": "longtext"
-    },
-    {
-      "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
-      "cmd": "weekly"
-    },
-    {
-      "error": "ttes is not defined",
-      "cmd": "sss"
-    },
-    {
-      "error": "((user.lastmonthly + cooldown) - (intermediate value)).toTimeString is not a function",
-      "cmd": "monthly"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'url')",
-      "cmd": ""
-    },
-    {
-      "error": "mess.wait is not a function",
-      "cmd": "spotify"
-    },
-    {
-      "error": "canvafy is not defined",
-      "cmd": "spdl"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'snakeLadder')",
-      "cmd": "ulartangga"
-    },
-    {
-      "error": "Cannot read properties of null (reading 'msg')",
-      "cmd": "chipmunk"
-    },
-    {
-      "error": "WhyuxTheCreator is not defined",
-      "cmd": "upsw"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'split')",
-      "cmd": "jarak"
-    },
-    {
-      "error": "conn.sendCarousel is not a function",
-      "cmd": "button5"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
