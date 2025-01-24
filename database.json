@@ -1146,7 +1146,7 @@
     },
     {
       "cmd": "Setleaftype",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1220,7 +1220,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2149
+      "totalcmd": 2150
     }
   ],
   "clearchat": [],
@@ -1232,7 +1232,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1476,
+      "hit": 1477,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 189611,
@@ -135336,7 +135336,7 @@
       "sPromote": "",
       "sDemote": "",
       "welcomeType": "sticker",
-      "leafType": "web",
+      "leafType": "sticker",
       "desc": true,
       "descUpdate": true,
       "autostiker": false,
