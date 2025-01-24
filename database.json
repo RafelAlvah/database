@@ -631,7 +631,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 40,
+      "succes": 41,
       "failed": 0
     },
     {
@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 62,
+      "succes": 63,
       "failed": 0
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1147
+      "totalcmd": 1149
     }
   ],
   "clearchat": [],
@@ -43650,7 +43650,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2868,
+      "hit": 2869,
       "date": "22 Desember 2024",
       "money": 1355044,
       "exp": 0,
@@ -129557,7 +129557,7 @@
       "autolevelup": false,
       "serial": "4YV1",
       "glimit": 30,
-      "hit": 60,
+      "hit": 61,
       "date": "22 Januari 2025",
       "money": 1000,
       "exp": 0,
