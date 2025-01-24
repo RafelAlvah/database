@@ -638,7 +638,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -748,7 +748,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1013,7 +1013,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 774
+      "totalcmd": 776
     }
   ],
   "clearchat": [],
@@ -19770,7 +19770,7 @@
       "glimit": 21,
       "hit": 2728,
       "date": "20 Desember 2024",
-      "money": 23461156,
+      "money": 24461156,
       "exp": 27486,
       "limit": 84,
       "speed": 0,
@@ -96576,9 +96576,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6280,
+      "hit": 6281,
       "date": "3 Januari 2025",
-      "money": 1663767,
+      "money": 663767,
       "exp": 3243,
       "limit": 330,
       "speed": 5,
@@ -115356,7 +115356,7 @@
       "autolevelup": false,
       "serial": "Z6RY",
       "glimit": 30,
-      "hit": 18,
+      "hit": 19,
       "date": "7 Januari 2025",
       "money": 1000,
       "exp": 0,
