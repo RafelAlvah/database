@@ -891,7 +891,7 @@
     },
     {
       "cmd": "Maling",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1563
+      "totalcmd": 1564
     }
   ],
   "clearchat": [],
@@ -96699,7 +96699,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6347,
+      "hit": 6348,
       "date": "3 Januari 2025",
       "money": 31446455,
       "exp": 14443,
