@@ -671,7 +671,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1344
+      "totalcmd": 1345
     }
   ],
   "clearchat": [],
@@ -36181,7 +36181,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 353,
-      "hit": 3272,
+      "hit": 3273,
       "date": "22 Desember 2024",
       "money": 79000000,
       "exp": 26023,
