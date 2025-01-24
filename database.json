@@ -926,7 +926,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1747
+      "totalcmd": 1748
     }
   ],
   "clearchat": [],
@@ -39076,11 +39076,11 @@
       "autolevelup": false,
       "serial": "VXK6",
       "glimit": 39,
-      "hit": 384,
+      "hit": 385,
       "date": "22 Desember 2024",
       "money": 165792,
       "exp": 6978,
-      "limit": 12,
+      "limit": 11,
       "speed": 0,
       "strength": 0,
       "defense": 0,
