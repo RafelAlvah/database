@@ -635,7 +635,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 62,
+      "succes": 63,
       "failed": 0
     },
     {
@@ -1144,7 +1144,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1654
+      "totalcmd": 1655
     }
   ],
   "clearchat": [],
@@ -19899,7 +19899,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 14,
-      "hit": 2846,
+      "hit": 2847,
       "date": "20 Desember 2024",
       "money": 99675133,
       "exp": 33786,
