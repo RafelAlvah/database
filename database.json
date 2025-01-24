@@ -736,7 +736,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 21,
+      "succes": 22,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1799
+      "totalcmd": 1800
     }
   ],
   "clearchat": [],
@@ -19915,9 +19915,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 14,
-      "hit": 2861,
+      "hit": 2862,
       "date": "20 Desember 2024",
-      "money": 100887903,
+      "money": 100883218,
       "exp": 33886,
       "limit": 104,
       "speed": 0,
@@ -20021,7 +20021,7 @@
       "lasthunt": 0,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1737690971529,
+      "lastdagang": 1737721699122,
       "lasthourly": 0,
       "lastbansos": 1737647392116,
       "lastrampok": 1736625325462,
@@ -96730,7 +96730,7 @@
       "glimit": 984,
       "hit": 6369,
       "date": "3 Januari 2025",
-      "money": 32166197,
+      "money": 32161512,
       "exp": 23543,
       "limit": 330,
       "speed": 5,
