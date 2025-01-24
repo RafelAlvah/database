@@ -1056,7 +1056,7 @@
     },
     {
       "cmd": "Putus",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1778
+      "totalcmd": 1779
     }
   ],
   "clearchat": [],
@@ -46931,7 +46931,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6028,
-      "hit": 740,
+      "hit": 741,
       "date": "22 Desember 2024",
       "money": 500000,
       "exp": 4968,
