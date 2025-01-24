@@ -840,7 +840,7 @@
     },
     {
       "cmd": "Cekkhodam",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -865,7 +865,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 196
+      "totalcmd": 197
     }
   ],
   "clearchat": [],
@@ -53427,7 +53427,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14612,
-      "hit": 2118,
+      "hit": 2119,
       "date": "24 Desember 2024",
       "money": 4035248,
       "exp": 15920,
