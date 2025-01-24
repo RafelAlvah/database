@@ -671,7 +671,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 49,
+      "succes": 50,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1573
+      "totalcmd": 1574
     }
   ],
   "clearchat": [],
@@ -49229,10 +49229,10 @@
       "autolevelup": false,
       "serial": "FBAW",
       "glimit": 44,
-      "hit": 1067,
+      "hit": 1068,
       "date": "22 Desember 2024",
-      "money": 1045178,
-      "exp": 95959,
+      "money": 1095178,
+      "exp": 96059,
       "limit": 55,
       "speed": 0,
       "strength": 0,
@@ -49339,7 +49339,7 @@
       "lasthourly": 0,
       "lastbansos": 1737690836276,
       "lastrampok": 1736514541712,
-      "lastclaim": 1737691288527,
+      "lastclaim": 1737711342531,
       "lastnebang": 0,
       "lastweekly": 1736719384788,
       "lastmonthly": 1736719421367,
