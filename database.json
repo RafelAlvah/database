@@ -625,7 +625,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -865,7 +865,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 213
+      "totalcmd": 214
     }
   ],
   "clearchat": [],
@@ -96433,11 +96433,11 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6647,
+      "hit": 6648,
       "date": "3 Januari 2025",
-      "money": 43363859,
+      "money": 43863859,
       "exp": 49843,
-      "limit": 340,
+      "limit": 360,
       "speed": 5,
       "strength": 6,
       "defense": 5,
@@ -96543,7 +96543,7 @@
       "lasthourly": 0,
       "lastbansos": 1737744987274,
       "lastrampok": 1737744929350,
-      "lastclaim": 1737744908197,
+      "lastclaim": 1737749782426,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
       "lastmonthly": 1736423963407,
@@ -96617,7 +96617,7 @@
       "sampah": 231,
       "kayu": 355,
       "batu": 228,
-      "poin": 250000,
+      "poin": 260000,
       "healt": null
     },
     "6285711509810@s.whatsapp.net": {
