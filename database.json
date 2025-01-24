@@ -1062,6 +1062,11 @@
       "cmd": "Tebakbom",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tourl",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1134,7 +1139,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1630
+      "totalcmd": 1631
     }
   ],
   "clearchat": [],
@@ -89912,7 +89917,7 @@
       "autolevelup": false,
       "serial": "7VF5",
       "glimit": 0,
-      "hit": 334,
+      "hit": 335,
       "date": "31 Desember 2024",
       "money": 809506,
       "exp": 12997,
