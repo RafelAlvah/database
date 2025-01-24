@@ -557,7 +557,8 @@
     "Bot",
     "Upsw",
     "Jarak",
-    "Nackup"
+    "Nackup",
+    "Addcase"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -990,6 +991,11 @@
       "cmd": "Suit",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Addcase",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1058,7 +1064,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 929
+      "totalcmd": 930
     }
   ],
   "clearchat": [],
@@ -1070,7 +1076,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1455,
+      "hit": 1456,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 189611,
