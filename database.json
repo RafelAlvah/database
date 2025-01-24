@@ -1016,7 +1016,7 @@
     },
     {
       "cmd": "Brat2",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1768
+      "totalcmd": 1769
     }
   ],
   "clearchat": [],
@@ -33857,7 +33857,7 @@
       "autolevelup": false,
       "serial": "KUYK",
       "glimit": 2369,
-      "hit": 1227,
+      "hit": 1228,
       "date": "22 Desember 2024",
       "money": 1848293,
       "exp": 13342,
