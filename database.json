@@ -983,7 +983,7 @@
     },
     {
       "cmd": "Sell",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1053,7 +1053,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 864
+      "totalcmd": 865
     }
   ],
   "clearchat": [],
@@ -43603,10 +43603,10 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2850,
+      "hit": 2851,
       "date": "22 Desember 2024",
-      "money": 10928273,
-      "exp": 50399,
+      "money": 10978672,
+      "exp": 0,
       "limit": 2162,
       "speed": 3,
       "strength": 9,
