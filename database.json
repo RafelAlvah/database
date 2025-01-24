@@ -1002,6 +1002,11 @@
       "cmd": "Button5",
       "succes": 2,
       "failed": 1
+    },
+    {
+      "cmd": "Unreg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1074,7 +1079,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 959
+      "totalcmd": 960
     }
   ],
   "clearchat": [],
@@ -46845,7 +46850,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6030,
-      "hit": 688,
+      "hit": 689,
       "date": "22 Desember 2024",
       "money": 32239327,
       "exp": 1968,
@@ -46857,7 +46862,7 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": true,
+      "registered": false,
       "name": "eky k nya kontol",
       "skill": "",
       "ultah": "01,09,2008",
