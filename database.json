@@ -1086,7 +1086,7 @@
     },
     {
       "cmd": "Makan",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1913
+      "totalcmd": 1914
     }
   ],
   "clearchat": [],
@@ -131076,7 +131076,7 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 21,
-      "hit": 91,
+      "hit": 92,
       "date": "23 Januari 2025",
       "money": 1036044,
       "exp": 6100,
