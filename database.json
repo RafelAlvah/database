@@ -1083,6 +1083,11 @@
       "cmd": "Hd",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Makan",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1155,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1705
+      "totalcmd": 1706
     }
   ],
   "clearchat": [],
@@ -101749,7 +101754,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 23,
-      "hit": 534,
+      "hit": 535,
       "date": "4 Januari 2025",
       "money": 6573102,
       "exp": 1445,
