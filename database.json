@@ -741,7 +741,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2034
+      "totalcmd": 2035
     }
   ],
   "clearchat": [],
@@ -36228,7 +36228,7 @@
       "glimit": 333,
       "hit": 3339,
       "date": "22 Desember 2024",
-      "money": 78994943,
+      "money": 78972432,
       "exp": 26023,
       "limit": 11948,
       "speed": 1,
@@ -96743,9 +96743,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6388,
+      "hit": 6389,
       "date": "3 Januari 2025",
-      "money": 33185580,
+      "money": 33208091,
       "exp": 27643,
       "limit": 330,
       "speed": 5,
@@ -96852,7 +96852,7 @@
       "lastdagang": 1737711107375,
       "lasthourly": 0,
       "lastbansos": 1737652124368,
-      "lastrampok": 1737711221155,
+      "lastrampok": 1737726031811,
       "lastclaim": 1737725226228,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
@@ -123065,7 +123065,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 1109800,
+      "balance": 1109600,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
