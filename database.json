@@ -991,7 +991,7 @@
     },
     {
       "cmd": "Suit",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1483
+      "totalcmd": 1484
     }
   ],
   "clearchat": [],
@@ -131207,7 +131207,7 @@
       "autolevelup": false,
       "serial": "6CIE",
       "glimit": 0,
-      "hit": 61,
+      "hit": 62,
       "date": "23 Januari 2025",
       "money": 347566,
       "exp": 300,
