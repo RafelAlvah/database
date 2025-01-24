@@ -867,6 +867,11 @@
       "cmd": "Nabung",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Buyglimit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -890,7 +895,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 281
+      "totalcmd": 282
     }
   ],
   "clearchat": [],
@@ -19644,8 +19649,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 0,
-      "hit": 2930,
+      "glimit": 100,
+      "hit": 2931,
       "date": "20 Desember 2024",
       "money": 82116032,
       "exp": 35886,
@@ -19673,7 +19678,7 @@
       "warning": 0,
       "level": 9,
       "role": "Beginner",
-      "balance": 47150000,
+      "balance": 47080000,
       "skillexp": 0,
       "chip": 0,
       "atm": 1,
