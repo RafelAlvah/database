@@ -281,7 +281,6 @@
     "Totag",
     "Lamaa",
     "Bugkres",
-    "Bug",
     "Hardui+62",
     "Menubug",
     "Balance",
@@ -751,7 +750,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 173,
+      "succes": 174,
       "failed": 0
     },
     {
@@ -1185,7 +1184,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2087
+      "totalcmd": 2089
     }
   ],
   "clearchat": [],
@@ -131269,7 +131268,7 @@
       "autolevelup": false,
       "serial": "6CIE",
       "glimit": 0,
-      "hit": 90,
+      "hit": 91,
       "date": "23 Januari 2025",
       "money": 1512147,
       "exp": 600,
@@ -132339,7 +132338,7 @@
       "autolevelup": false,
       "serial": "GNHT",
       "glimit": 30,
-      "hit": 18,
+      "hit": 19,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
