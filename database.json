@@ -616,7 +616,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 36,
+      "succes": 37,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1587
+      "totalcmd": 1588
     }
   ],
   "clearchat": [],
@@ -16677,7 +16677,7 @@
       "autolevelup": false,
       "serial": "82GO",
       "glimit": 24,
-      "hit": 167,
+      "hit": 168,
       "date": "19 Desember 2024",
       "money": 1359762,
       "exp": 7000,
@@ -16727,11 +16727,11 @@
       "emerald": 1,
       "diamond": 0,
       "gold": 0,
-      "botol": 2736,
-      "kardus": 1494,
-      "kaleng": 1290,
-      "gelas": 1396,
-      "plastik": 592,
+      "botol": 3380,
+      "kardus": 1557,
+      "kaleng": 1700,
+      "gelas": 1456,
+      "plastik": 875,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -16850,7 +16850,7 @@
       "poin": 1000000,
       "lastkerja": 1737646659892,
       "rokets": null,
-      "lastmulung": 1737692576224,
+      "lastmulung": 1737711637307,
       "sampah": null,
       "kayu": null,
       "batu": null
