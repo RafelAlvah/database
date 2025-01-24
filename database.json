@@ -671,7 +671,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 59,
+      "succes": 60,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1801
+      "totalcmd": 1802
     }
   ],
   "clearchat": [],
@@ -123022,7 +123022,7 @@
       "autolevelup": false,
       "serial": "BDTM",
       "glimit": 6,
-      "hit": 83,
+      "hit": 84,
       "date": "12 Januari 2025",
       "money": 3000,
       "exp": 5984,
