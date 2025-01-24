@@ -800,7 +800,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 98,
+      "succes": 99,
       "failed": 0
     },
     {
@@ -1199,7 +1199,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2129
+      "totalcmd": 2130
     }
   ],
   "clearchat": [],
@@ -96767,7 +96767,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 977,
-      "hit": 6420,
+      "hit": 6421,
       "date": "3 Januari 2025",
       "money": 33886953,
       "exp": 27643,
