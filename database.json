@@ -563,7 +563,8 @@
     "",
     "Delownee",
     "Delsewa",
-    "Brak"
+    "Brak",
+    "Ya"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -892,6 +893,11 @@
       "cmd": "Sell",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Ya",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -915,7 +921,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 353
+      "totalcmd": 354
     }
   ],
   "clearchat": [],
@@ -130462,7 +130468,7 @@
       "autolevelup": false,
       "serial": "JSBC",
       "glimit": 30,
-      "hit": 45,
+      "hit": 46,
       "date": "23 Januari 2025",
       "money": 1000,
       "exp": 0,
