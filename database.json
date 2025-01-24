@@ -817,6 +817,11 @@
       "cmd": "Tovn",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tf",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -840,7 +845,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 167
+      "totalcmd": 168
     }
   ],
   "clearchat": [],
@@ -880,7 +885,7 @@
       "warning": 0,
       "level": 64,
       "role": "Beginner",
-      "balance": -100000000000086050,
+      "balance": -100000000000074050,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -96408,7 +96413,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 891,
-      "hit": 6625,
+      "hit": 6626,
       "date": "3 Januari 2025",
       "money": 42809968,
       "exp": 44843,
@@ -96436,7 +96441,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 77777777,
+      "balance": 77765777,
       "skillexp": 0,
       "chip": 0,
       "atm": 3,
