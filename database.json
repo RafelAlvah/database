@@ -1103,6 +1103,11 @@
       "cmd": "Ai",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Toimg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1175,7 +1180,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2044
+      "totalcmd": 2045
     }
   ],
   "clearchat": [],
@@ -96743,7 +96748,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6392,
+      "hit": 6393,
       "date": "3 Januari 2025",
       "money": 33350848,
       "exp": 27643,
