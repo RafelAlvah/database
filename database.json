@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 156,
+      "succes": 157,
       "failed": 0
     },
     {
@@ -841,7 +841,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 51,
+      "succes": 52,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1934
+      "totalcmd": 1936
     }
   ],
   "clearchat": [],
@@ -130720,7 +130720,7 @@
       "autolevelup": false,
       "serial": "JSBC",
       "glimit": 30,
-      "hit": 43,
+      "hit": 44,
       "date": "23 Januari 2025",
       "money": 0,
       "exp": 0,
@@ -131075,8 +131075,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "NL9H",
-      "glimit": 20,
-      "hit": 100,
+      "glimit": 19,
+      "hit": 101,
       "date": "23 Januari 2025",
       "money": 1226177,
       "exp": 8100,
