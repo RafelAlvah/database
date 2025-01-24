@@ -911,7 +911,7 @@
     },
     {
       "cmd": "Claim",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1342
+      "totalcmd": 1343
     }
   ],
   "clearchat": [],
@@ -36181,10 +36181,10 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 353,
-      "hit": 3270,
+      "hit": 3271,
       "date": "22 Desember 2024",
       "money": 79000000,
-      "exp": 21023,
+      "exp": 26023,
       "limit": 11948,
       "speed": 1,
       "strength": 29,
@@ -36209,7 +36209,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 45546744,
+      "balance": 45551744,
       "skillexp": 0,
       "chip": 1,
       "atm": 1,
@@ -36291,7 +36291,7 @@
       "lasthourly": 0,
       "lastbansos": 1737524175375,
       "lastrampok": 1737537418950,
-      "lastclaim": 1737535917860,
+      "lastclaim": 1737702104916,
       "lastnebang": 0,
       "lastweekly": 1737473371161,
       "lastmonthly": 1736232905199,
