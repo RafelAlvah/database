@@ -686,7 +686,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 40,
+      "succes": 41,
       "failed": 0
     },
     {
@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 87,
+      "succes": 88,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1346
+      "totalcmd": 1348
     }
   ],
   "clearchat": [],
@@ -36181,9 +36181,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 353,
-      "hit": 3274,
+      "hit": 3275,
       "date": "22 Desember 2024",
-      "money": 79000000,
+      "money": 78995000,
       "exp": 26023,
       "limit": 11948,
       "speed": 1,
@@ -36246,7 +36246,7 @@
       "tbox": 0,
       "legendary": 0,
       "kondom": 3,
-      "umpan": 0,
+      "umpan": 1,
       "pet": 3,
       "paus": 1,
       "kepiting": 7,
@@ -99757,10 +99757,10 @@
       "autolevelup": false,
       "serial": "0YVF",
       "glimit": 30,
-      "hit": 65,
+      "hit": 66,
       "date": "4 Januari 2025",
-      "money": 3000,
-      "exp": 22002,
+      "money": 6000,
+      "exp": 2002,
       "limit": 30,
       "speed": 0,
       "strength": 0,
@@ -99783,7 +99783,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 2,
+      "level": 3,
       "role": "Beginner",
       "balance": 161000,
       "skillexp": 0,
