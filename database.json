@@ -611,7 +611,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 79,
+      "succes": 80,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1409
+      "totalcmd": 1410
     }
   ],
   "clearchat": [],
@@ -36181,9 +36181,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 351,
-      "hit": 3294,
+      "hit": 3295,
       "date": "22 Desember 2024",
-      "money": 78990000,
+      "money": 79036507,
       "exp": 26023,
       "limit": 11948,
       "speed": 1,
@@ -36357,7 +36357,7 @@
       "emas": "undefined0",
       "tiketcoin": "undefined0",
       "lastnambang": 1735094945927,
-      "lastkerja": 1737454161115,
+      "lastkerja": 1737702936158,
       "lastmaling": 1736652257808,
       "rokets": 7,
       "lastparming": 1735973711565,
