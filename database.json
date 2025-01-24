@@ -558,7 +558,8 @@
     "Upsw",
     "Jarak",
     "Nackup",
-    "Addcase"
+    "Addcase",
+    "Button5"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -996,6 +997,11 @@
       "cmd": "Addcase",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Button5",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1042,6 +1048,10 @@
     {
       "error": "Cannot read properties of undefined (reading 'split')",
       "cmd": "jarak"
+    },
+    {
+      "error": "conn.sendCarousel is not a function",
+      "cmd": "button5"
     }
   ],
   "jadibot": {},
@@ -1064,7 +1074,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 932
+      "totalcmd": 933
     }
   ],
   "clearchat": [],
@@ -1076,7 +1086,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1458,
+      "hit": 1459,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 189611,
