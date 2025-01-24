@@ -655,7 +655,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 50,
+      "succes": 51,
       "failed": 0
     },
     {
@@ -1000,7 +1000,7 @@
     },
     {
       "cmd": "Button5",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     }
   ],
@@ -1074,7 +1074,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 934
+      "totalcmd": 936
     }
   ],
   "clearchat": [],
@@ -1086,7 +1086,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1459,
+      "hit": 1460,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 189611,
@@ -80592,7 +80592,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2500,
-      "hit": 1799,
+      "hit": 1800,
       "date": "30 Desember 2024",
       "money": 1417707,
       "exp": 45689,
