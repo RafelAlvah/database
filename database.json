@@ -868,7 +868,7 @@
     },
     {
       "cmd": "Profil",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -948,7 +948,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 518
+      "totalcmd": 519
     }
   ],
   "clearchat": [],
@@ -17565,7 +17565,7 @@
       "autolevelup": false,
       "serial": "FWMP",
       "glimit": 30,
-      "hit": 27,
+      "hit": 28,
       "date": "19 Desember 2024",
       "money": 154790,
       "exp": 200,
