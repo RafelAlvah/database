@@ -631,7 +631,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 48,
+      "succes": 49,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1396
+      "totalcmd": 1397
     }
   ],
   "clearchat": [],
@@ -117631,10 +117631,10 @@
       "autolevelup": false,
       "serial": "VBNL",
       "glimit": 0,
-      "hit": 363,
+      "hit": 364,
       "date": "9 Januari 2025",
-      "money": 996273,
-      "exp": 6214,
+      "money": 1496273,
+      "exp": 14214,
       "limit": 57,
       "speed": 0,
       "strength": 0,
@@ -117665,8 +117665,8 @@
       "atm": 0,
       "fullatm": 0,
       "bank": 0,
-      "health": 100,
-      "stamina": 100,
+      "health": 20,
+      "stamina": 60,
       "potion": 0,
       "wine": 0,
       "beer": 0,
@@ -117728,7 +117728,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 0,
+      "lastmisi": 1737702808416,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -117807,7 +117807,8 @@
       "sampah": null,
       "kayu": null,
       "batu": null,
-      "poin": null
+      "poin": null,
+      "rokets": null
     },
     "6289699638430@s.whatsapp.net": {
       "sticker": {},
