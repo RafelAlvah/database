@@ -1132,6 +1132,11 @@
       "cmd": "Welcome",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Antiimage",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1204,7 +1209,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2133
+      "totalcmd": 2134
     }
   ],
   "clearchat": [],
@@ -1216,7 +1221,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1472,
+      "hit": 1473,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 189611,
@@ -135335,7 +135340,7 @@
       "antibadword": true,
       "antiaudio": false,
       "antibot": false,
-      "antiimage": false,
+      "antiimage": true,
       "antivideo": false,
       "antisticker": false,
       "antispam": false,
