@@ -716,7 +716,7 @@
     },
     {
       "cmd": "Tarik",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1155
+      "totalcmd": 1156
     }
   ],
   "clearchat": [],
@@ -43650,9 +43650,9 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2870,
+      "hit": 2871,
       "date": "22 Desember 2024",
-      "money": 1355044,
+      "money": 1405044,
       "exp": 0,
       "limit": 2162,
       "speed": 3,
@@ -43683,9 +43683,9 @@
       "chip": 0,
       "atm": 1,
       "fullatm": 500000000,
-      "bank": 919003,
+      "bank": 869003,
       "health": 20,
-      "stamina": 105,
+      "stamina": 100,
       "potion": 31,
       "wine": 0,
       "beer": 0,
