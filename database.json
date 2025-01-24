@@ -606,13 +606,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6285251525685",
-      "expired": 1737753663287
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Kerja",
@@ -831,7 +825,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -896,7 +890,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 258
+      "totalcmd": 259
     }
   ],
   "clearchat": [],
@@ -19650,8 +19644,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 11,
-      "hit": 2907,
+      "glimit": 10,
+      "hit": 2908,
       "date": "20 Desember 2024",
       "money": 82116032,
       "exp": 35886,
