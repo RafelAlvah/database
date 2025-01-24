@@ -780,7 +780,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -930,7 +930,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 390
+      "totalcmd": 391
     }
   ],
   "clearchat": [],
@@ -75275,7 +75275,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 479,
-      "hit": 645,
+      "hit": 646,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
