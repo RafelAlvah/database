@@ -559,7 +559,8 @@
     "Jarak",
     "Nackup",
     "Addcase",
-    "Button5"
+    "Button5",
+    "Button4"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -655,7 +656,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 52,
+      "succes": 53,
       "failed": 0
     },
     {
@@ -1007,6 +1008,11 @@
       "cmd": "Unreg",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Button4",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1079,7 +1085,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 961
+      "totalcmd": 963
     }
   ],
   "clearchat": [],
@@ -1091,7 +1097,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1461,
+      "hit": 1462,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 189611,
@@ -46850,7 +46856,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6030,
-      "hit": 690,
+      "hit": 691,
       "date": "22 Desember 2024",
       "money": 32239327,
       "exp": 1968,
