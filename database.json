@@ -891,7 +891,7 @@
     },
     {
       "cmd": "Maling",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1757
+      "totalcmd": 1758
     }
   ],
   "clearchat": [],
@@ -33857,10 +33857,10 @@
       "autolevelup": false,
       "serial": "KUYK",
       "glimit": 2369,
-      "hit": 1218,
+      "hit": 1219,
       "date": "22 Desember 2024",
-      "money": 1439511,
-      "exp": 7791,
+      "money": 1448293,
+      "exp": 8342,
       "limit": 2876,
       "speed": 1,
       "strength": 4,
@@ -33908,7 +33908,7 @@
       "diamond": 0,
       "gold": 0,
       "botol": 7057,
-      "kardus": 5007,
+      "kardus": 5541,
       "kaleng": 5863,
       "gelas": 7016,
       "plastik": 6460,
@@ -34027,7 +34027,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastmaling": 1736060007223,
+      "lastmaling": 1737719580433,
       "clay": "undefined500",
       "sand": "undefined260",
       "berlian": "undefined80",
