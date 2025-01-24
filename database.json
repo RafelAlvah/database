@@ -807,6 +807,11 @@
       "cmd": "Volaudio",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tomp3",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -830,7 +835,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 154
+      "totalcmd": 155
     }
   ],
   "clearchat": [],
@@ -842,7 +847,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1534,
+      "hit": 1535,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
