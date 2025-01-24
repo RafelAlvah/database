@@ -826,7 +826,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1547
+      "totalcmd": 1548
     }
   ],
   "clearchat": [],
@@ -5456,7 +5456,7 @@
       "autolevelup": false,
       "serial": "H36B",
       "glimit": 30,
-      "hit": 19,
+      "hit": 20,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 0,
