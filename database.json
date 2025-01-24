@@ -607,13 +607,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "62895388410022",
-      "expired": 1737735202714
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Kerja",
