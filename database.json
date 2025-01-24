@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -915,7 +915,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 346
+      "totalcmd": 347
     }
   ],
   "clearchat": [],
@@ -80438,7 +80438,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2498,
-      "hit": 1847,
+      "hit": 1848,
       "date": "30 Desember 2024",
       "money": 1417707,
       "exp": 45689,
@@ -80458,9 +80458,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": -1,
+      "afk": 1737758325308,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "mandiii",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
