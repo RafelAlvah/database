@@ -953,7 +953,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 526
+      "totalcmd": 527
     }
   ],
   "clearchat": [],
@@ -17570,7 +17570,7 @@
       "autolevelup": false,
       "serial": "FWMP",
       "glimit": 29,
-      "hit": 35,
+      "hit": 36,
       "date": "19 Desember 2024",
       "money": 154790,
       "exp": 200,
