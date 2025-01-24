@@ -561,7 +561,8 @@
     "Button4",
     "To",
     "",
-    "Delownee"
+    "Delownee",
+    "Delsewa"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -730,6 +731,11 @@
       "cmd": "Listowner",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Delsewa",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -802,7 +808,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 96
+      "totalcmd": 97
     }
   ],
   "clearchat": [],
@@ -814,7 +820,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1523,
+      "hit": 1524,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
