@@ -611,7 +611,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 73,
+      "succes": 74,
       "failed": 0
     },
     {
@@ -896,7 +896,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1310
+      "totalcmd": 1312
     }
   ],
   "clearchat": [],
@@ -19875,9 +19875,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 14,
-      "hit": 2800,
+      "hit": 2801,
       "date": "20 Desember 2024",
-      "money": 95040643,
+      "money": 95185645,
       "exp": 30586,
       "limit": 84,
       "speed": 0,
@@ -20045,7 +20045,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737700429395,
+      "lastkerja": 1737701656742,
       "lastparming": 1737700420565,
       "rokets": 41,
       "lastmulung": 1737700423385,
@@ -36199,7 +36199,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 43546744,
+      "balance": 45546744,
       "skillexp": 0,
       "chip": 0,
       "atm": 1,
@@ -37434,7 +37434,7 @@
       "autolevelup": false,
       "serial": "ZEQ7",
       "glimit": 10,
-      "hit": 341,
+      "hit": 342,
       "date": "22 Desember 2024",
       "money": -5100,
       "exp": 34950,
@@ -37462,7 +37462,7 @@
       "warning": 0,
       "level": 6,
       "role": "Beginner",
-      "balance": 144137311,
+      "balance": 142137311,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
