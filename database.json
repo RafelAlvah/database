@@ -123039,7 +123039,7 @@
       "glimit": 9,
       "hit": 111,
       "date": "12 Januari 2025",
-      "money": 313415,
+      "money": 360475,
       "exp": 6184,
       "limit": 30,
       "speed": 0,
@@ -123078,7 +123078,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 0,
+      "wood": 27,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -123208,7 +123208,8 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastmulung": 1737725246785,
-      "lastkerja": 1737725825036
+      "lastkerja": 1737725825036,
+      "lastparming": 1737725860754
     },
     "241523258081441@lid": {
       "sticker": {},
