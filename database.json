@@ -905,7 +905,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -930,7 +930,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 370
+      "totalcmd": 371
     }
   ],
   "clearchat": [],
@@ -43480,11 +43480,11 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2916,
+      "hit": 2917,
       "date": "22 Desember 2024",
       "money": 1878949,
       "exp": 6100,
-      "limit": 2160,
+      "limit": 2159,
       "speed": 3,
       "strength": 9,
       "defense": 2,
