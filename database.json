@@ -618,7 +618,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -748,7 +748,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1048,7 +1048,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 851
+      "totalcmd": 853
     }
   ],
   "clearchat": [],
@@ -43598,7 +43598,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2845,
+      "hit": 2846,
       "date": "22 Desember 2024",
       "money": 10908802,
       "exp": 50399,
@@ -96611,7 +96611,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6290,
+      "hit": 6291,
       "date": "3 Januari 2025",
       "money": 771641,
       "exp": 3243,
