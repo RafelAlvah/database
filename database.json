@@ -604,13 +604,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6283163420613",
-      "expired": 1737690528774
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Kerja",
@@ -659,7 +653,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -984,7 +978,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 666
+      "totalcmd": 667
     }
   ],
   "clearchat": [],
@@ -36035,7 +36029,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 356,
-      "hit": 3193,
+      "hit": 3194,
       "date": "22 Desember 2024",
       "money": 2508658,
       "exp": 17023,
