@@ -608,7 +608,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -948,7 +948,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 516
+      "totalcmd": 517
     }
   ],
   "clearchat": [],
@@ -17565,7 +17565,7 @@
       "autolevelup": false,
       "serial": "FWMP",
       "glimit": 30,
-      "hit": 25,
+      "hit": 26,
       "date": "19 Desember 2024",
       "money": 104790,
       "exp": 100,
