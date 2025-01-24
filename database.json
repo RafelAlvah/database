@@ -651,7 +651,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 76,
+      "succes": 77,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2007
+      "totalcmd": 2008
     }
   ],
   "clearchat": [],
@@ -123037,7 +123037,7 @@
       "autolevelup": false,
       "serial": "BDTM",
       "glimit": 9,
-      "hit": 106,
+      "hit": 107,
       "date": "12 Januari 2025",
       "money": 197144,
       "exp": 6184,
