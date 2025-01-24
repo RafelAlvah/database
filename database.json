@@ -680,7 +680,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -897,6 +897,11 @@
       "cmd": "Ya",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tourl",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -920,7 +925,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 363
+      "totalcmd": 365
     }
   ],
   "clearchat": [],
@@ -29144,7 +29149,7 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 740,
+      "hit": 742,
       "date": "22 Desember 2024",
       "money": 87195,
       "exp": 28711,
