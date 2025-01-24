@@ -628,6 +628,11 @@
       "cmd": "Airdrop",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Openbo",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -700,7 +705,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 4
+      "totalcmd": 5
     }
   ],
   "clearchat": [],
@@ -98966,7 +98971,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 66,
-      "hit": 806,
+      "hit": 807,
       "date": "3 Januari 2025",
       "money": 2864425,
       "exp": 39400,
