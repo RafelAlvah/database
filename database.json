@@ -1033,6 +1033,11 @@
       "cmd": "Yts",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Tomp4",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1105,7 +1110,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1240
+      "totalcmd": 1242
     }
   ],
   "clearchat": [],
@@ -36156,7 +36161,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 353,
-      "hit": 3241,
+      "hit": 3242,
       "date": "22 Desember 2024",
       "money": 0,
       "exp": 21023,
@@ -114729,7 +114734,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1069,
+      "hit": 1070,
       "date": "7 Januari 2025",
       "money": 3415073,
       "exp": 3785,
