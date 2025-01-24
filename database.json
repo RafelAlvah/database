@@ -686,7 +686,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -716,7 +716,7 @@
     },
     {
       "cmd": "Tarik",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1324
+      "totalcmd": 1326
     }
   ],
   "clearchat": [],
@@ -36171,9 +36171,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 353,
-      "hit": 3260,
+      "hit": 3262,
       "date": "22 Desember 2024",
-      "money": 80000000,
+      "money": 79000000,
       "exp": 21023,
       "limit": 11948,
       "speed": 1,
@@ -36201,7 +36201,7 @@
       "role": "Beginner",
       "balance": 45546744,
       "skillexp": 0,
-      "chip": 0,
+      "chip": 1,
       "atm": 1,
       "fullatm": 500000000,
       "bank": 2508658,
