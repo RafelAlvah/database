@@ -896,7 +896,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1318
+      "totalcmd": 1319
     }
   ],
   "clearchat": [],
@@ -36171,7 +36171,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 353,
-      "hit": 3258,
+      "hit": 3259,
       "date": "22 Desember 2024",
       "money": 80000000,
       "exp": 21023,
@@ -36199,7 +36199,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 45546744,
+      "balance": 45546644,
       "skillexp": 0,
       "chip": 0,
       "atm": 1,
@@ -46919,7 +46919,7 @@
       "warning": 0,
       "level": 3,
       "role": "Beginner",
-      "balance": 22222222,
+      "balance": 22222322,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
