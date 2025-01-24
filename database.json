@@ -880,6 +880,11 @@
       "cmd": "Addprem",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tebakgambar",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -948,7 +953,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 525
+      "totalcmd": 526
     }
   ],
   "clearchat": [],
@@ -17564,8 +17569,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "FWMP",
-      "glimit": 30,
-      "hit": 34,
+      "glimit": 29,
+      "hit": 35,
       "date": "19 Desember 2024",
       "money": 154790,
       "exp": 200,
