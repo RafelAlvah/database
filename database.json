@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -958,7 +958,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 572
+      "totalcmd": 573
     }
   ],
   "clearchat": [],
@@ -19713,9 +19713,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 21,
-      "hit": 2687,
+      "hit": 2688,
       "date": "20 Desember 2024",
-      "money": 51869356,
+      "money": 49769356,
       "exp": 17286,
       "limit": 84,
       "speed": 0,
@@ -19733,9 +19733,9 @@
       "pasangan": "",
       "age": 17,
       "regTime": 1736490255339,
-      "afk": 1737678385239,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "sekolaa",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -19761,7 +19761,7 @@
       "hubungan": 0,
       "lokasi": 0,
       "emerald": 0,
-      "diamond": 18,
+      "diamond": 25,
       "gold": 62,
       "botol": 28663,
       "kardus": 33150,
