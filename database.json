@@ -728,7 +728,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -983,7 +983,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 676
+      "totalcmd": 677
     }
   ],
   "clearchat": [],
@@ -49076,9 +49076,9 @@
       "autolevelup": false,
       "serial": "FBAW",
       "glimit": 44,
-      "hit": 1062,
+      "hit": 1063,
       "date": "22 Desember 2024",
-      "money": 3999977,
+      "money": 999977,
       "exp": 95859,
       "limit": 55,
       "speed": 0,
@@ -49184,7 +49184,7 @@
       "lastberkebon": 0,
       "lastdagang": 0,
       "lasthourly": 0,
-      "lastbansos": 0,
+      "lastbansos": 1737690836276,
       "lastrampok": 1736514541712,
       "lastclaim": 1736769168973,
       "lastnebang": 0,
@@ -89762,7 +89762,7 @@
       "glimit": 0,
       "hit": 330,
       "date": "31 Desember 2024",
-      "money": 793000,
+      "money": 809506,
       "exp": 12997,
       "limit": 29,
       "speed": 0,
@@ -89801,7 +89801,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 0,
+      "wood": 49,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -89929,7 +89929,8 @@
       "dirawat": false,
       "antarpaket": 0,
       "timeOrder": "",
-      "timeEnd": ""
+      "timeEnd": "",
+      "lastparming": 1737690837477
     },
     "6283170627461@s.whatsapp.net": {
       "sticker": {},
