@@ -902,6 +902,11 @@
       "cmd": "Tourl",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Hd",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -925,7 +930,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 368
+      "totalcmd": 369
     }
   ],
   "clearchat": [],
@@ -43475,11 +43480,11 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2914,
+      "hit": 2915,
       "date": "22 Desember 2024",
       "money": 1878949,
       "exp": 6100,
-      "limit": 2162,
+      "limit": 2160,
       "speed": 3,
       "strength": 9,
       "defense": 2,
@@ -43495,9 +43500,9 @@
       "pasangan": "",
       "age": 16,
       "regTime": 1736257050437,
-      "afk": 1737749770112,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "nak mandi",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
