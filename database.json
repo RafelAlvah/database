@@ -975,6 +975,11 @@
       "cmd": "Atm",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Inventory",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1043,7 +1048,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 825
+      "totalcmd": 826
     }
   ],
   "clearchat": [],
@@ -19797,7 +19802,7 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 20,
+      "glimit": 19,
       "hit": 2736,
       "date": "20 Desember 2024",
       "money": 24583232,
@@ -114663,7 +114668,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1049,
+      "hit": 1050,
       "date": "7 Januari 2025",
       "money": 7343302,
       "exp": 3685,
