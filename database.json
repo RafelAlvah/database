@@ -630,7 +630,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -910,7 +910,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 311
+      "totalcmd": 312
     }
   ],
   "clearchat": [],
@@ -33607,7 +33607,7 @@
       "autolevelup": false,
       "serial": "KUYK",
       "glimit": 2369,
-      "hit": 1233,
+      "hit": 1234,
       "date": "22 Desember 2024",
       "money": 1987540,
       "exp": 13442,
