@@ -826,7 +826,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1150,7 +1150,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1672
+      "totalcmd": 1673
     }
   ],
   "clearchat": [],
@@ -53708,11 +53708,11 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14619,
-      "hit": 2089,
+      "hit": 2090,
       "date": "24 Desember 2024",
       "money": 4035248,
       "exp": 15920,
-      "limit": 10278,
+      "limit": 10277,
       "speed": 0,
       "strength": 0,
       "defense": 0,
