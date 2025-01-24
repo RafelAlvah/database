@@ -858,7 +858,7 @@
     },
     {
       "cmd": "Topbalance",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -933,7 +933,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 488
+      "totalcmd": 489
     }
   ],
   "clearchat": [],
@@ -17550,7 +17550,7 @@
       "autolevelup": false,
       "serial": "FWMP",
       "glimit": 30,
-      "hit": 19,
+      "hit": 20,
       "date": "19 Desember 2024",
       "money": 51000,
       "exp": 100,
