@@ -786,7 +786,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1235,7 +1235,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2191
+      "totalcmd": 2192
     }
   ],
   "clearchat": [],
@@ -134347,7 +134347,7 @@
       "autolevelup": false,
       "serial": "XK4I",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
