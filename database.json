@@ -875,6 +875,11 @@
       "cmd": "Rpg",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Addprem",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -943,7 +948,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 491
+      "totalcmd": 492
     }
   ],
   "clearchat": [],
@@ -17560,7 +17565,7 @@
       "autolevelup": false,
       "serial": "FWMP",
       "glimit": 30,
-      "hit": 22,
+      "hit": 23,
       "date": "19 Desember 2024",
       "money": 51000,
       "exp": 100,
