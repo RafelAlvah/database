@@ -1153,6 +1153,11 @@
       "cmd": "Restart",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Antilinkgc",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1225,7 +1230,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2173
+      "totalcmd": 2174
     }
   ],
   "clearchat": [],
@@ -1237,7 +1242,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1479,
+      "hit": 1480,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 189611,
@@ -135346,7 +135351,7 @@
       "descUpdate": true,
       "autostiker": false,
       "antilink": false,
-      "antilinkgc": false,
+      "antilinkgc": true,
       "antilinkch": false,
       "antidelete": false,
       "antiasing": false,
@@ -135387,7 +135392,8 @@
       "antiLink": false,
       "antiLinkgc": false,
       "antiLinkch": false,
-      "viewonce": false
+      "viewonce": false,
+      "antilinkgcAction": "delete"
     }
   },
   "settings": {
