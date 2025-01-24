@@ -973,7 +973,7 @@
     },
     {
       "cmd": "Atm",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1048,7 +1048,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 831
+      "totalcmd": 832
     }
   ],
   "clearchat": [],
@@ -114668,7 +114668,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1053,
+      "hit": 1054,
       "date": "7 Januari 2025",
       "money": 4333302,
       "exp": 3685,
