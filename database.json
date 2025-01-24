@@ -1053,6 +1053,11 @@
       "cmd": "Tembak",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Putus",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1125,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1337
+      "totalcmd": 1338
     }
   ],
   "clearchat": [],
@@ -46896,7 +46901,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6028,
-      "hit": 725,
+      "hit": 726,
       "date": "22 Desember 2024",
       "money": 500000,
       "exp": 4968,
