@@ -797,6 +797,11 @@
       "cmd": "Spotify",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Spdl",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -869,7 +874,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 143
+      "totalcmd": 144
     }
   ],
   "clearchat": [],
@@ -881,7 +886,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1529,
+      "hit": 1530,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
