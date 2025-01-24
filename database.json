@@ -648,7 +648,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -948,7 +948,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 521
+      "totalcmd": 522
     }
   ],
   "clearchat": [],
@@ -17565,7 +17565,7 @@
       "autolevelup": false,
       "serial": "FWMP",
       "glimit": 30,
-      "hit": 30,
+      "hit": 31,
       "date": "19 Desember 2024",
       "money": 154790,
       "exp": 200,
