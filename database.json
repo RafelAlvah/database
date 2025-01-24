@@ -621,7 +621,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 55,
+      "succes": 56,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2016
+      "totalcmd": 2017
     }
   ],
   "clearchat": [],
@@ -123037,7 +123037,7 @@
       "autolevelup": false,
       "serial": "BDTM",
       "glimit": 9,
-      "hit": 110,
+      "hit": 111,
       "date": "12 Januari 2025",
       "money": 313415,
       "exp": 6184,
