@@ -700,7 +700,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -855,7 +855,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 185
+      "totalcmd": 186
     }
   ],
   "clearchat": [],
@@ -53417,11 +53417,11 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14612,
-      "hit": 2110,
+      "hit": 2111,
       "date": "24 Desember 2024",
       "money": 4035248,
       "exp": 15920,
-      "limit": 10275,
+      "limit": 10274,
       "speed": 0,
       "strength": 0,
       "defense": 0,
