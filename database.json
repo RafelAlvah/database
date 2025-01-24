@@ -668,6 +668,11 @@
       "cmd": "Transfer",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Leaderboard",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -740,7 +745,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 25
+      "totalcmd": 26
     }
   ],
   "clearchat": [],
@@ -96308,7 +96313,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 891,
-      "hit": 6592,
+      "hit": 6593,
       "date": "3 Januari 2025",
       "money": 38626860,
       "exp": 36743,
