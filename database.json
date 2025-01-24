@@ -683,6 +683,11 @@
       "cmd": "Menu",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Play",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -755,7 +760,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 36
+      "totalcmd": 37
     }
   ],
   "clearchat": [],
@@ -119941,11 +119946,11 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 24,
-      "hit": 236,
+      "hit": 237,
       "date": "10 Januari 2025",
       "money": 176499,
       "exp": 5200,
-      "limit": 29,
+      "limit": 28,
       "speed": 0,
       "strength": 0,
       "defense": 0,
