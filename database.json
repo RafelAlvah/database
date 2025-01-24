@@ -860,6 +860,11 @@
       "cmd": "Topbalance",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Register",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -928,7 +933,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 484
+      "totalcmd": 485
     }
   ],
   "clearchat": [],
@@ -17545,7 +17550,7 @@
       "autolevelup": false,
       "serial": "FWMP",
       "glimit": 30,
-      "hit": 15,
+      "hit": 16,
       "date": "19 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -17557,14 +17562,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "Rixyz Store",
+      "registered": true,
+      "name": "Rifki",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 16,
+      "regTime": 1737678039465,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
