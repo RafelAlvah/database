@@ -638,7 +638,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -1013,7 +1013,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 771
+      "totalcmd": 772
     }
   ],
   "clearchat": [],
@@ -58218,7 +58218,7 @@
       "glimit": 2127,
       "hit": 120,
       "date": "24 Desember 2024",
-      "money": 31101000,
+      "money": 32101000,
       "exp": 1199,
       "limit": 2018,
       "speed": 0,
@@ -96576,9 +96576,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6279,
+      "hit": 6280,
       "date": "3 Januari 2025",
-      "money": 2663767,
+      "money": 1663767,
       "exp": 3243,
       "limit": 330,
       "speed": 5,
