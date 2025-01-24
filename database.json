@@ -625,7 +625,7 @@
     },
     {
       "cmd": "Leaderboard",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -750,7 +750,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -990,7 +990,7 @@
     },
     {
       "cmd": "Suit",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1074,7 +1074,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 956
+      "totalcmd": 959
     }
   ],
   "clearchat": [],
@@ -46845,7 +46845,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6030,
-      "hit": 687,
+      "hit": 688,
       "date": "22 Desember 2024",
       "money": 32239327,
       "exp": 1968,
@@ -120612,7 +120612,7 @@
       "autolevelup": false,
       "serial": "MDEZ",
       "glimit": 30,
-      "hit": 135,
+      "hit": 136,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -131148,8 +131148,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "6CIE",
-      "glimit": 24,
-      "hit": 21,
+      "glimit": 23,
+      "hit": 22,
       "date": "23 Januari 2025",
       "money": 99392,
       "exp": 100,
