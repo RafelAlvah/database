@@ -725,6 +725,11 @@
       "cmd": "Delowner",
       "succes": 4,
       "failed": 0
+    },
+    {
+      "cmd": "Listowner",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -797,7 +802,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 94
+      "totalcmd": 95
     }
   ],
   "clearchat": [],
@@ -809,7 +814,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1521,
+      "hit": 1522,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
