@@ -646,7 +646,7 @@
     },
     {
       "cmd": "Getpp",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -745,7 +745,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 29
+      "totalcmd": 30
     }
   ],
   "clearchat": [],
@@ -119931,7 +119931,7 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 24,
-      "hit": 234,
+      "hit": 235,
       "date": "10 Januari 2025",
       "money": 176499,
       "exp": 5200,
