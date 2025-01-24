@@ -791,7 +791,7 @@
     },
     {
       "cmd": "Open",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1407
+      "totalcmd": 1408
     }
   ],
   "clearchat": [],
@@ -36181,7 +36181,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 351,
-      "hit": 3292,
+      "hit": 3293,
       "date": "22 Desember 2024",
       "money": 78990000,
       "exp": 26023,
@@ -36240,7 +36240,7 @@
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
-      "common": 1,
+      "common": 0,
       "uncommon": 0,
       "mythic": 0,
       "tbox": 0,
