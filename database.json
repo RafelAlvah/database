@@ -611,7 +611,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 104,
+      "succes": 105,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1753
+      "totalcmd": 1754
     }
   ],
   "clearchat": [],
@@ -33857,9 +33857,9 @@
       "autolevelup": false,
       "serial": "KUYK",
       "glimit": 2369,
-      "hit": 1214,
+      "hit": 1215,
       "date": "22 Desember 2024",
-      "money": 1321220,
+      "money": 1358370,
       "exp": 7691,
       "limit": 2876,
       "speed": 1,
@@ -34035,7 +34035,7 @@
       "tiketcoin": "undefined80",
       "lastnambang": 1735077870101,
       "lastmulung": 1737674993171,
-      "lastkerja": 1737674975074,
+      "lastkerja": 1737719553715,
       "lastparming": 1737674989085,
       "rokets": 4,
       "poin": null,
