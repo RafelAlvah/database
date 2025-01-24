@@ -641,7 +641,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -841,7 +841,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1085,7 +1085,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 982
+      "totalcmd": 984
     }
   ],
   "clearchat": [],
@@ -19842,7 +19842,7 @@
       "glimit": 18,
       "hit": 2754,
       "date": "20 Desember 2024",
-      "money": 37912936,
+      "money": 64102263,
       "exp": 27486,
       "limit": 84,
       "speed": 0,
@@ -46856,9 +46856,9 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 6030,
-      "hit": 698,
+      "hit": 699,
       "date": "22 Desember 2024",
-      "money": 26189327,
+      "money": 0,
       "exp": 1968,
       "limit": 2087,
       "speed": 0,
@@ -131160,7 +131160,7 @@
       "autolevelup": false,
       "serial": "6CIE",
       "glimit": 15,
-      "hit": 31,
+      "hit": 32,
       "date": "23 Januari 2025",
       "money": 99392,
       "exp": 100,
