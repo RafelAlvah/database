@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -928,7 +928,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 479
+      "totalcmd": 480
     }
   ],
   "clearchat": [],
@@ -127050,9 +127050,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 291,
+      "hit": 292,
       "date": "20 Januari 2025",
-      "money": 951178,
+      "money": 944928,
       "exp": 34500,
       "limit": 110,
       "speed": 0,
@@ -127086,7 +127086,7 @@
       "bank": 0,
       "health": 20,
       "stamina": 45,
-      "potion": 1,
+      "potion": 6,
       "wine": 0,
       "beer": 0,
       "trash": 0,
