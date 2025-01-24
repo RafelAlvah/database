@@ -623,6 +623,11 @@
       "cmd": "Mulung",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Airdrop",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -695,7 +700,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 3
+      "totalcmd": 4
     }
   ],
   "clearchat": [],
@@ -98961,11 +98966,11 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 66,
-      "hit": 805,
+      "hit": 806,
       "date": "3 Januari 2025",
-      "money": 2364425,
+      "money": 2864425,
       "exp": 39400,
-      "limit": 88,
+      "limit": 98,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -99071,7 +99076,7 @@
       "lasthourly": 0,
       "lastbansos": 1737647027487,
       "lastrampok": 1737726710444,
-      "lastclaim": 1737726680759,
+      "lastclaim": 1737735506834,
       "lastnebang": 0,
       "lastweekly": 1737393852369,
       "lastmonthly": 1736547179648,
@@ -99139,7 +99144,7 @@
       "sampah": 56,
       "kayu": 55,
       "batu": 78,
-      "poin": 100000
+      "poin": 200000
     },
     "6283833024905@s.whatsapp.net": {
       "sticker": {},
