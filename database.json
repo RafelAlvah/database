@@ -618,7 +618,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -1028,7 +1028,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 800
+      "totalcmd": 802
     }
   ],
   "clearchat": [],
@@ -19783,7 +19783,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 21,
-      "hit": 2730,
+      "hit": 2731,
       "date": "20 Desember 2024",
       "money": 24555493,
       "exp": 27486,
@@ -96591,7 +96591,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6283,
+      "hit": 6284,
       "date": "3 Januari 2025",
       "money": 660623,
       "exp": 3243,
