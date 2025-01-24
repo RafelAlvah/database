@@ -616,12 +616,12 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
       "cmd": "Nebang",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1018,6 +1018,11 @@
       "cmd": "Brat2",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Daily",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1090,7 +1095,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1056
+      "totalcmd": 1059
     }
   ],
   "clearchat": [],
@@ -19845,7 +19850,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 14,
-      "hit": 2769,
+      "hit": 2770,
       "date": "20 Desember 2024",
       "money": 64228199,
       "exp": 27486,
@@ -96654,7 +96659,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6323,
+      "hit": 6324,
       "date": "3 Januari 2025",
       "money": 30214870,
       "exp": 3343,
@@ -114714,7 +114719,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1064,
+      "hit": 1065,
       "date": "7 Januari 2025",
       "money": 3415073,
       "exp": 3785,
