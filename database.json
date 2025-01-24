@@ -783,7 +783,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -933,7 +933,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 487
+      "totalcmd": 488
     }
   ],
   "clearchat": [],
@@ -17550,7 +17550,7 @@
       "autolevelup": false,
       "serial": "FWMP",
       "glimit": 30,
-      "hit": 18,
+      "hit": 19,
       "date": "19 Desember 2024",
       "money": 51000,
       "exp": 100,
