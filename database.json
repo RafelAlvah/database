@@ -676,7 +676,7 @@
     },
     {
       "cmd": "Bank",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2025
+      "totalcmd": 2026
     }
   ],
   "clearchat": [],
@@ -19930,7 +19930,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 11,
-      "hit": 2886,
+      "hit": 2887,
       "date": "20 Desember 2024",
       "money": 101341235,
       "exp": 33886,
