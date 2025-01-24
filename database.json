@@ -668,7 +668,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 28,
+      "succes": 29,
       "failed": 0
     },
     {
@@ -848,7 +848,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1048,7 +1048,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 848
+      "totalcmd": 850
     }
   ],
   "clearchat": [],
@@ -43598,10 +43598,10 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2843,
+      "hit": 2844,
       "date": "22 Desember 2024",
-      "money": 10658802,
-      "exp": 45299,
+      "money": 10708802,
+      "exp": 45399,
       "limit": 2162,
       "speed": 3,
       "strength": 9,
@@ -43708,7 +43708,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1736579270054,
-      "lastclaim": 1737626555110,
+      "lastclaim": 1737693620089,
       "lastnebang": 0,
       "lastweekly": 1737626575013,
       "lastmonthly": 1735188185650,
@@ -114668,7 +114668,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1058,
+      "hit": 1059,
       "date": "7 Januari 2025",
       "money": 3333301,
       "exp": 3685,
@@ -114688,9 +114688,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1736259401454,
-      "afk": -1,
+      "afk": 1737693619700,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "jumatan",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
