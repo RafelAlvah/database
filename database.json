@@ -723,7 +723,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1003,7 +1003,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 706
+      "totalcmd": 707
     }
   ],
   "clearchat": [],
@@ -19758,7 +19758,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 21,
-      "hit": 2716,
+      "hit": 2717,
       "date": "20 Desember 2024",
       "money": 50851526,
       "exp": 23486,
