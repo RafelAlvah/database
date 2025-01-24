@@ -616,7 +616,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1476
+      "totalcmd": 1477
     }
   ],
   "clearchat": [],
@@ -80669,9 +80669,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1737705332854,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "main epep/scrol ttk/main ma temen / cari angin / menikmati sendiri",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -131207,7 +131207,7 @@
       "autolevelup": false,
       "serial": "6CIE",
       "glimit": 0,
-      "hit": 60,
+      "hit": 61,
       "date": "23 Januari 2025",
       "money": 347566,
       "exp": 300,
@@ -131257,11 +131257,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 0,
-      "kardus": 0,
-      "kaleng": 0,
-      "gelas": 0,
-      "plastik": 0,
+      "botol": 394,
+      "kardus": 628,
+      "kaleng": 644,
+      "gelas": 454,
+      "plastik": 724,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -131377,7 +131377,8 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737701423080
+      "lastkerja": 1737701423080,
+      "lastmulung": 1737705758265
     },
     "6281991471971@s.whatsapp.net": {
       "sticker": {},
