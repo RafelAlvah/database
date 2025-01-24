@@ -610,7 +610,7 @@
     {
       "name": "NotCase",
       "id": "6283163420613",
-      "expired": 1737745972780
+      "expired": 1737746012769
     }
   ],
   "dashboard": [
@@ -778,6 +778,11 @@
       "cmd": "Balance",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Upsw",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -850,7 +855,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 130
+      "totalcmd": 131
     }
   ],
   "clearchat": [],
@@ -862,7 +867,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1527,
+      "hit": 1528,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
