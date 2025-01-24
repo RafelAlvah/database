@@ -696,7 +696,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -785,7 +785,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 86
+      "totalcmd": 87
     }
   ],
   "clearchat": [],
@@ -133541,7 +133541,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 13,
-      "hit": 22,
+      "hit": 23,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
