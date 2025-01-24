@@ -668,7 +668,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -1003,7 +1003,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 735
+      "totalcmd": 736
     }
   ],
   "clearchat": [],
@@ -58206,10 +58206,10 @@
       "autolevelup": false,
       "serial": "RXUB",
       "glimit": 2127,
-      "hit": 111,
+      "hit": 112,
       "date": "24 Desember 2024",
-      "money": 51000,
-      "exp": 1099,
+      "money": 101000,
+      "exp": 1199,
       "limit": 2018,
       "speed": 0,
       "strength": 0,
@@ -58316,7 +58316,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
-      "lastclaim": 1737638182354,
+      "lastclaim": 1737691508239,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
