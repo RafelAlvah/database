@@ -621,7 +621,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -801,7 +801,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 70,
+      "succes": 71,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1375
+      "totalcmd": 1377
     }
   ],
   "clearchat": [],
@@ -19885,9 +19885,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 14,
-      "hit": 2805,
+      "hit": 2806,
       "date": "20 Desember 2024",
-      "money": 96779098,
+      "money": 96825102,
       "exp": 30586,
       "limit": 84,
       "speed": 0,
@@ -19926,7 +19926,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 469,
+      "wood": 476,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -20056,7 +20056,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1737702144524,
-      "lastparming": 1737700420565,
+      "lastparming": 1737702530814,
       "rokets": 41,
       "lastmulung": 1737702522360,
       "lastmaling": 1736422655610,
@@ -36181,7 +36181,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 351,
-      "hit": 3283,
+      "hit": 3284,
       "date": "22 Desember 2024",
       "money": 78995000,
       "exp": 26023,
