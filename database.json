@@ -560,7 +560,8 @@
     "Button5",
     "Button4",
     "To",
-    ""
+    "",
+    "Delownee"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -718,6 +719,16 @@
       "cmd": "Tembak",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Delownee",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Delowner",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -790,7 +801,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 89
+      "totalcmd": 91
     }
   ],
   "clearchat": [],
@@ -802,7 +813,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1516,
+      "hit": 1518,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
