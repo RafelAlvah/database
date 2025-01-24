@@ -925,6 +925,11 @@
       "cmd": "Tt",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Roket",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -993,7 +998,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 696
+      "totalcmd": 697
     }
   ],
   "clearchat": [],
@@ -96556,7 +96561,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6258,
+      "hit": 6259,
       "date": "3 Januari 2025",
       "money": 2967922,
       "exp": 96243,
