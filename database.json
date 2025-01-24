@@ -618,7 +618,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -890,6 +890,11 @@
       "cmd": "Maling",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tf",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -958,7 +963,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 617
+      "totalcmd": 619
     }
   ],
   "clearchat": [],
@@ -19713,9 +19718,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 21,
-      "hit": 2692,
+      "hit": 2693,
       "date": "20 Desember 2024",
-      "money": 49820971,
+      "money": 49839840,
       "exp": 17286,
       "limit": 84,
       "speed": 0,
@@ -19741,7 +19746,7 @@
       "warning": 0,
       "level": 9,
       "role": "Beginner",
-      "balance": 14544524,
+      "balance": 14683413,
       "skillexp": 0,
       "chip": 0,
       "atm": 1,
@@ -19754,7 +19759,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 252,
+      "wood": 296,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -19884,7 +19889,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1737684187510,
-      "lastparming": 1737677714449,
+      "lastparming": 1737684199479,
       "rokets": 38,
       "lastmulung": 1737684190105,
       "lastmaling": 1736422655610,
@@ -96520,7 +96525,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6241,
+      "hit": 6242,
       "date": "3 Januari 2025",
       "money": 1841269,
       "exp": 90143,
@@ -96548,7 +96553,7 @@
       "warning": 0,
       "level": 10,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 66805555,
+      "balance": 66666666,
       "skillexp": 0,
       "chip": 0,
       "atm": 3,
