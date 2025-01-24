@@ -801,7 +801,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 64,
+      "succes": 65,
       "failed": 0
     },
     {
@@ -926,7 +926,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1085,7 +1085,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1024
+      "totalcmd": 1026
     }
   ],
   "clearchat": [],
@@ -32001,11 +32001,11 @@
       "autolevelup": false,
       "serial": "QRWN",
       "glimit": 29,
-      "hit": 61,
+      "hit": 62,
       "date": "22 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 21,
+      "limit": 20,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -36136,7 +36136,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 354,
-      "hit": 3197,
+      "hit": 3198,
       "date": "22 Desember 2024",
       "money": 2508658,
       "exp": 17023,
