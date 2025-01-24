@@ -623,7 +623,7 @@
     },
     {
       "cmd": "Leaderboard",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -828,7 +828,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1013,7 +1013,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 767
+      "totalcmd": 769
     }
   ],
   "clearchat": [],
@@ -96576,7 +96576,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 984,
-      "hit": 6278,
+      "hit": 6279,
       "date": "3 Januari 2025",
       "money": 2663767,
       "exp": 3243,
@@ -129466,7 +129466,7 @@
       "autolevelup": false,
       "serial": "4YV1",
       "glimit": 30,
-      "hit": 50,
+      "hit": 51,
       "date": "22 Januari 2025",
       "money": 1000,
       "exp": 0,
