@@ -650,7 +650,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -834,7 +834,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 124
+      "totalcmd": 125
     }
   ],
   "clearchat": [],
@@ -134836,7 +134836,7 @@
       "autolevelup": false,
       "serial": "OZZE",
       "glimit": 30,
-      "hit": 3,
+      "hit": 4,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
