@@ -616,7 +616,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 46,
+      "succes": 47,
       "failed": 0
     },
     {
@@ -1170,7 +1170,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1815
+      "totalcmd": 1816
     }
   ],
   "clearchat": [],
@@ -123032,7 +123032,7 @@
       "autolevelup": false,
       "serial": "BDTM",
       "glimit": 3,
-      "hit": 89,
+      "hit": 90,
       "date": "12 Januari 2025",
       "money": 3000,
       "exp": 5984,
@@ -123082,11 +123082,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 0,
-      "kardus": 0,
-      "kaleng": 0,
-      "gelas": 0,
-      "plastik": 0,
+      "botol": 606,
+      "kardus": 571,
+      "kaleng": 895,
+      "gelas": 756,
+      "plastik": 647,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -123201,7 +123201,8 @@
       "dirawat": false,
       "antarpaket": 0,
       "timeOrder": "",
-      "timeEnd": ""
+      "timeEnd": "",
+      "lastmulung": 1737721974017
     },
     "241523258081441@lid": {
       "sticker": {},
