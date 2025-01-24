@@ -736,6 +736,11 @@
       "cmd": "Delsewa",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Daftar",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -808,7 +813,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 101
+      "totalcmd": 102
     }
   ],
   "clearchat": [],
@@ -131962,7 +131967,7 @@
       "autolevelup": false,
       "serial": "GNHT",
       "glimit": 30,
-      "hit": 23,
+      "hit": 24,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
