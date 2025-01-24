@@ -601,8 +601,7 @@
     {
       "name": "owner",
       "id": [
-        "6281316643491@s.whatsapp.net",
-        "6287866274739@s.whatsapp.net"
+        "6281316643491@s.whatsapp.net"
       ]
     }
   ],
@@ -726,7 +725,7 @@
     },
     {
       "cmd": "Delowner",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -800,7 +799,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 92
+      "totalcmd": 93
     }
   ],
   "clearchat": [],
@@ -812,7 +811,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1519,
+      "hit": 1520,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
