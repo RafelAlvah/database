@@ -671,7 +671,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 60,
+      "succes": 61,
       "failed": 0
     },
     {
@@ -1165,7 +1165,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1806
+      "totalcmd": 1807
     }
   ],
   "clearchat": [],
@@ -116050,10 +116050,10 @@
       "autolevelup": false,
       "serial": "3LE7",
       "glimit": 1,
-      "hit": 200,
+      "hit": 201,
       "date": "7 Januari 2025",
-      "money": 1063905,
-      "exp": 6091,
+      "money": 1113905,
+      "exp": 6191,
       "limit": 29,
       "speed": 0,
       "strength": 0,
@@ -116160,7 +116160,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
-      "lastclaim": 1737613478434,
+      "lastclaim": 1737721893678,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
