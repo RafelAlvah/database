@@ -842,6 +842,11 @@
       "cmd": "Cekkhodam",
       "succes": 7,
       "failed": 0
+    },
+    {
+      "cmd": "Berdagang",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -865,7 +870,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 216
+      "totalcmd": 217
     }
   ],
   "clearchat": [],
@@ -19622,7 +19627,7 @@
       "glimit": 11,
       "hit": 2888,
       "date": "20 Desember 2024",
-      "money": 101198020,
+      "money": 101196189,
       "exp": 33886,
       "limit": 104,
       "speed": 0,
@@ -96433,9 +96438,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6650,
+      "hit": 6651,
       "date": "3 Januari 2025",
-      "money": 43953378,
+      "money": 43951547,
       "exp": 49843,
       "limit": 360,
       "speed": 5,
@@ -96539,7 +96544,7 @@
       "lasthunt": 1736578038707,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1737711107375,
+      "lastdagang": 1737749839326,
       "lasthourly": 0,
       "lastbansos": 1737744987274,
       "lastrampok": 1737749811854,
