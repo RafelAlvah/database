@@ -648,7 +648,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -893,7 +893,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1038,7 +1038,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 812
+      "totalcmd": 814
     }
   ],
   "clearchat": [],
@@ -19821,7 +19821,7 @@
       "warning": 0,
       "level": 9,
       "role": "Beginner",
-      "balance": 14688422,
+      "balance": 15688422,
       "skillexp": 0,
       "chip": 0,
       "atm": 1,
@@ -80556,7 +80556,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2500,
-      "hit": 1795,
+      "hit": 1796,
       "date": "30 Desember 2024",
       "money": 1417707,
       "exp": 45689,
@@ -80584,7 +80584,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 73061299,
+      "balance": 72061299,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -114658,7 +114658,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1042,
+      "hit": 1043,
       "date": "7 Januari 2025",
       "money": 8093302,
       "exp": 3685,
