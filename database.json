@@ -802,6 +802,11 @@
       "cmd": "Spdl",
       "succes": 1,
       "failed": 2
+    },
+    {
+      "cmd": "Volaudio",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -825,7 +830,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 151
+      "totalcmd": 152
     }
   ],
   "clearchat": [],
@@ -837,7 +842,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1533,
+      "hit": 1534,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
