@@ -945,6 +945,11 @@
       "cmd": "Add",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Limit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1013,7 +1018,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 786
+      "totalcmd": 787
     }
   ],
   "clearchat": [],
@@ -80531,7 +80536,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2495,
-      "hit": 1790,
+      "hit": 1791,
       "date": "30 Desember 2024",
       "money": 1417707,
       "exp": 45689,
