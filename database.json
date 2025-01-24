@@ -1242,7 +1242,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1500,
+      "hit": 1501,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
@@ -96826,7 +96826,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 74964666,
+      "balance": 75114666,
       "skillexp": 0,
       "chip": 0,
       "atm": 3,
@@ -136105,7 +136105,8 @@
       "antiLinkgc": false,
       "antiLinkch": false,
       "viewonce": false,
-      "antilinkgcAction": "delete"
+      "antilinkgcAction": "delete",
+      "blacklist": "6282180287630@s.whatsapp.net"
     },
     "120363391643700478@g.us": {
       "name": "Komunitas Group Whatsapp",
