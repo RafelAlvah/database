@@ -1117,6 +1117,11 @@
       "cmd": "Rvo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Setwelcometype",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1189,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 2116
+      "totalcmd": 2117
     }
   ],
   "clearchat": [],
@@ -1201,7 +1206,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -6,
-      "hit": 1465,
+      "hit": 1466,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 189611,
@@ -135304,7 +135309,7 @@
       "sBye": "",
       "sPromote": "",
       "sDemote": "",
-      "welcomeType": "web",
+      "welcomeType": "sticker",
       "leafType": "web",
       "desc": true,
       "descUpdate": true,
