@@ -608,7 +608,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 56,
+      "succes": 57,
       "failed": 0
     },
     {
@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -1053,7 +1053,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 879
+      "totalcmd": 881
     }
   ],
   "clearchat": [],
@@ -43603,9 +43603,9 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2859,
+      "hit": 2860,
       "date": "22 Desember 2024",
-      "money": 5122652,
+      "money": 2122652,
       "exp": 0,
       "limit": 2162,
       "speed": 3,
@@ -43652,7 +43652,7 @@
       "lokasi": 0,
       "emerald": 0,
       "diamond": 30,
-      "gold": 10,
+      "gold": 30,
       "botol": 819,
       "kardus": 2458,
       "kaleng": 1108,
@@ -127178,9 +127178,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 317,
+      "hit": 318,
       "date": "20 Januari 2025",
-      "money": 67303,
+      "money": 190186,
       "exp": 1500,
       "limit": 110,
       "speed": 0,
@@ -127352,7 +127352,7 @@
       "lastparming": 1737692968612,
       "poin": 520000,
       "rokets": 12,
-      "lastkerja": 1737692956177,
+      "lastkerja": 1737694058673,
       "sampah": 103,
       "kayu": 82,
       "batu": 154,
