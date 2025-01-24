@@ -873,7 +873,7 @@
     },
     {
       "cmd": "Rpg",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -948,7 +948,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 492
+      "totalcmd": 493
     }
   ],
   "clearchat": [],
@@ -114566,7 +114566,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1034,
+      "hit": 1035,
       "date": "7 Januari 2025",
       "money": 7989721,
       "exp": 3685,
