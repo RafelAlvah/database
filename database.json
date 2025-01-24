@@ -653,6 +653,11 @@
       "cmd": "Brat",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Merampok",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -725,7 +730,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 17
+      "totalcmd": 18
     }
   ],
   "clearchat": [],
@@ -19482,7 +19487,7 @@
       "glimit": 11,
       "hit": 2888,
       "date": "20 Desember 2024",
-      "money": 101373878,
+      "money": 101347798,
       "exp": 33886,
       "limit": 104,
       "speed": 0,
@@ -98991,10 +98996,10 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 66,
-      "hit": 811,
+      "hit": 812,
       "date": "3 Januari 2025",
-      "money": 3464425,
-      "exp": 45400,
+      "money": 3495505,
+      "exp": 5400,
       "limit": 98,
       "speed": 0,
       "strength": 0,
@@ -99017,7 +99022,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 4,
+      "level": 5,
       "role": "Beginner",
       "balance": 12200,
       "skillexp": 0,
@@ -99100,7 +99105,7 @@
       "lastdagang": 1737726787376,
       "lasthourly": 0,
       "lastbansos": 1737647027487,
-      "lastrampok": 1737726710444,
+      "lastrampok": 1737736061369,
       "lastclaim": 1737735506834,
       "lastnebang": 0,
       "lastweekly": 1737393852369,
