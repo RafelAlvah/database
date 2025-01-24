@@ -848,7 +848,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -948,7 +948,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 493
+      "totalcmd": 494
     }
   ],
   "clearchat": [],
@@ -19702,7 +19702,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 21,
-      "hit": 2686,
+      "hit": 2687,
       "date": "20 Desember 2024",
       "money": 51916347,
       "exp": 17286,
@@ -19722,9 +19722,9 @@
       "pasangan": "",
       "age": 17,
       "regTime": 1736490255339,
-      "afk": -1,
+      "afk": 1737678385239,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "sekolaa",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
