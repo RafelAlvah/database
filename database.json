@@ -611,7 +611,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 85,
+      "succes": 86,
       "failed": 0
     },
     {
@@ -801,7 +801,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 81,
+      "succes": 82,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737735285100,
-      "totalcmd": 1506
+      "totalcmd": 1508
     }
   ],
   "clearchat": [],
@@ -19890,9 +19890,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 14,
-      "hit": 2824,
+      "hit": 2825,
       "date": "20 Desember 2024",
-      "money": 98614621,
+      "money": 98687747,
       "exp": 31686,
       "limit": 84,
       "speed": 0,
@@ -20060,7 +20060,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737705393572,
+      "lastkerja": 1737706458829,
       "lastparming": 1737705058602,
       "rokets": 42,
       "lastmulung": 1737705049790,
@@ -36186,7 +36186,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 339,
-      "hit": 3321,
+      "hit": 3322,
       "date": "22 Desember 2024",
       "money": 79036507,
       "exp": 26023,
