@@ -641,7 +641,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -745,7 +745,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 32
+      "totalcmd": 34
     }
   ],
   "clearchat": [],
@@ -8448,7 +8448,7 @@
       "autolevelup": false,
       "serial": "NDNM",
       "glimit": 30,
-      "hit": 19,
+      "hit": 20,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -76340,8 +76340,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "GCXP",
-      "glimit": 57,
-      "hit": 500,
+      "glimit": 56,
+      "hit": 501,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 12932,
