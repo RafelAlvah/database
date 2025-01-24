@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -915,7 +915,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 352
+      "totalcmd": 353
     }
   ],
   "clearchat": [],
@@ -97395,7 +97395,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 494,
-      "hit": 994,
+      "hit": 995,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97415,9 +97415,9 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1736509904536,
-      "afk": -1,
+      "afk": 1737759245139,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "mo skolaa",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
