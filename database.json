@@ -977,6 +977,11 @@
       "cmd": "Topbalance",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Weekly",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1005,7 +1010,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 940
+      "totalcmd": 941
     }
   ],
   "clearchat": [],
@@ -101603,10 +101608,10 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 23,
-      "hit": 546,
+      "hit": 547,
       "date": "4 Januari 2025",
-      "money": 6628583,
-      "exp": 1545,
+      "money": 6664582,
+      "exp": 16545,
       "limit": 38,
       "speed": 0,
       "strength": 0,
@@ -101639,7 +101644,7 @@
       "bank": 0,
       "health": 40,
       "stamina": 40,
-      "potion": 0,
+      "potion": 9,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -101715,7 +101720,7 @@
       "lastrampok": 1737613949084,
       "lastclaim": 1737725281253,
       "lastnebang": 0,
-      "lastweekly": 0,
+      "lastweekly": 1737782916436,
       "lastmonthly": 0,
       "apel": 0,
       "anggur": 0,
