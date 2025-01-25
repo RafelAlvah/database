@@ -740,7 +740,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -990,7 +990,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 797
+      "totalcmd": 798
     }
   ],
   "clearchat": [],
@@ -122137,7 +122137,7 @@
       "autolevelup": false,
       "serial": "DY0Q",
       "glimit": 30,
-      "hit": 32,
+      "hit": 33,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -122149,14 +122149,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "Panggil Aja Sa",
+      "registered": true,
+      "name": "zahira",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 13,
+      "regTime": 1737774560129,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
