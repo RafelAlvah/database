@@ -837,6 +837,11 @@
       "cmd": "Bonus",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Claim",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -869,7 +874,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 551
+      "totalcmd": 552
     }
   ],
   "clearchat": [],
@@ -43419,7 +43424,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2924,
+      "hit": 2925,
       "date": "22 Desember 2024",
       "money": 1928949,
       "exp": 6200,
