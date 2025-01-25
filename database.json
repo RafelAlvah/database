@@ -743,6 +743,11 @@
       "cmd": "Merampok",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Leaderboard",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -775,7 +780,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 217
+      "totalcmd": 218
     }
   ],
   "clearchat": [],
@@ -46546,7 +46551,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5865,
-      "hit": 1137,
+      "hit": 1138,
       "date": "22 Desember 2024",
       "money": 6705000,
       "exp": 25063,
