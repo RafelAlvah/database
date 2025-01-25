@@ -726,7 +726,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -785,7 +785,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 221
+      "totalcmd": 223
     }
   ],
   "clearchat": [],
@@ -46556,9 +46556,9 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5864,
-      "hit": 1141,
+      "hit": 1142,
       "date": "22 Desember 2024",
-      "money": 6034500,
+      "money": 6705000,
       "exp": 25063,
       "limit": 2076,
       "speed": 0,
@@ -96359,9 +96359,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 810,
-      "hit": 6951,
+      "hit": 6952,
       "date": "3 Januari 2025",
-      "money": 45284386,
+      "money": 44613886,
       "exp": 80343,
       "limit": 360,
       "speed": 5,
