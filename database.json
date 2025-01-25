@@ -615,7 +615,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -825,7 +825,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -940,7 +940,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 462
+      "totalcmd": 464
     }
   ],
   "clearchat": [],
@@ -46710,8 +46710,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 6004,
-      "hit": 811,
+      "glimit": 6003,
+      "hit": 812,
       "date": "22 Desember 2024",
       "money": 603813,
       "exp": 25063,
@@ -96508,7 +96508,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6668,
+      "hit": 6669,
       "date": "3 Januari 2025",
       "money": 44610971,
       "exp": 49943,
