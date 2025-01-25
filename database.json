@@ -972,6 +972,11 @@
       "cmd": "Stiker",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Topbalance",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1000,7 +1005,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 929
+      "totalcmd": 930
     }
   ],
   "clearchat": [],
@@ -96568,7 +96573,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6695,
+      "hit": 6696,
       "date": "3 Januari 2025",
       "money": 42307680,
       "exp": 58943,
