@@ -842,6 +842,11 @@
       "cmd": "Claim",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Monthly",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -874,7 +879,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 554
+      "totalcmd": 555
     }
   ],
   "clearchat": [],
@@ -43424,10 +43429,10 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2927,
+      "hit": 2928,
       "date": "22 Desember 2024",
-      "money": 1928949,
-      "exp": 6200,
+      "money": 1978948,
+      "exp": 56200,
       "limit": 2158,
       "speed": 3,
       "strength": 9,
@@ -43460,7 +43465,7 @@
       "bank": 869003,
       "health": 20,
       "stamina": 60,
-      "potion": 29,
+      "potion": 39,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -43485,9 +43490,9 @@
       "rawiron": 0,
       "common": 0,
       "uncommon": 0,
-      "mythic": 0,
+      "mythic": 3,
       "tbox": 0,
-      "legendary": 0,
+      "legendary": 1,
       "kondom": 8,
       "umpan": 0,
       "pet": 0,
@@ -43537,7 +43542,7 @@
       "lastclaim": 1737843155349,
       "lastnebang": 0,
       "lastweekly": 1737626575013,
-      "lastmonthly": 1735188185650,
+      "lastmonthly": 1737843206788,
       "apel": 0,
       "anggur": 0,
       "jeruk": 0,
