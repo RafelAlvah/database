@@ -638,7 +638,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 46,
+      "succes": 47,
       "failed": 0
     },
     {
@@ -758,7 +758,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1140,7 +1140,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1246
+      "totalcmd": 1248
     }
   ],
   "clearchat": [],
@@ -19895,10 +19895,10 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 2977,
+      "hit": 2979,
       "date": "20 Desember 2024",
-      "money": 46355647,
-      "exp": 49986,
+      "money": 46405647,
+      "exp": 50086,
       "limit": 124,
       "speed": 0,
       "strength": 0,
@@ -19929,9 +19929,9 @@
       "atm": 1,
       "fullatm": 500000000,
       "bank": 266214418,
-      "health": 20,
+      "health": 100,
       "stamina": 65,
-      "potion": 7,
+      "potion": 5,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -20005,7 +20005,7 @@
       "lasthourly": 0,
       "lastbansos": 1737647392116,
       "lastrampok": 1736625325462,
-      "lastclaim": 1737784400321,
+      "lastclaim": 1737793695188,
       "lastnebang": 0,
       "lastweekly": 1737420983156,
       "lastmonthly": 1736635974029,
