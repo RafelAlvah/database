@@ -640,7 +640,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 82,
+      "succes": 83,
       "failed": 0
     },
     {
@@ -795,7 +795,7 @@
     },
     {
       "cmd": "Spotify",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1045,7 +1045,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1054
+      "totalcmd": 1056
     }
   ],
   "clearchat": [],
@@ -53606,8 +53606,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "FNTJ",
-      "glimit": 14587,
-      "hit": 2157,
+      "glimit": 14586,
+      "hit": 2158,
       "date": "24 Desember 2024",
       "money": 4240904,
       "exp": 16020,
@@ -96613,7 +96613,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6727,
+      "hit": 6728,
       "date": "3 Januari 2025",
       "money": 42057583,
       "exp": 58943,
