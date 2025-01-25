@@ -990,7 +990,7 @@
     {
       "cmd": "Monthly",
       "succes": 2,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Open",
@@ -1163,7 +1163,12 @@
       "failed": 0
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "((user.lastmonthly + cooldown) - (intermediate value)).toTimeString is not a function",
+      "cmd": "monthly"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1184,7 +1189,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1599
+      "totalcmd": 1600
     }
   ],
   "clearchat": [],
@@ -36235,7 +36240,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3416,
+      "hit": 3417,
       "date": "22 Desember 2024",
       "money": 63812539,
       "exp": 20000,
