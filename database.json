@@ -701,7 +701,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -726,7 +726,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -765,7 +765,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 208
+      "totalcmd": 210
     }
   ],
   "clearchat": [],
@@ -46536,7 +46536,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5866,
-      "hit": 1133,
+      "hit": 1134,
       "date": "22 Desember 2024",
       "money": 6661454,
       "exp": 25063,
@@ -96339,10 +96339,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 810,
-      "hit": 6946,
+      "hit": 6947,
       "date": "3 Januari 2025",
-      "money": 44496322,
-      "exp": 71243,
+      "money": 44546322,
+      "exp": 71343,
       "limit": 360,
       "speed": 5,
       "strength": 6,
@@ -96449,7 +96449,7 @@
       "lasthourly": 0,
       "lastbansos": 1737744987274,
       "lastrampok": 1737800327562,
-      "lastclaim": 1737804999463,
+      "lastclaim": 1737827413411,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
       "lastmonthly": 1736423963407,
