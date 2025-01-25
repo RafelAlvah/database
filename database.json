@@ -848,7 +848,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1153,7 +1153,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1473
+      "totalcmd": 1474
     }
   ],
   "clearchat": [],
@@ -19908,7 +19908,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 3024,
+      "hit": 3025,
       "date": "20 Desember 2024",
       "money": 46535061,
       "exp": 58086,
