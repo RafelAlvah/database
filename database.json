@@ -1063,7 +1063,7 @@
     },
     {
       "cmd": "Craft",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1140,7 +1140,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1276
+      "totalcmd": 1277
     }
   ],
   "clearchat": [],
@@ -19895,7 +19895,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 2992,
+      "hit": 2993,
       "date": "20 Desember 2024",
       "money": 46460647,
       "exp": 58086,
