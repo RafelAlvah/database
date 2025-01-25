@@ -993,7 +993,7 @@
     },
     {
       "cmd": "Open",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1101,7 +1101,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1164
+      "totalcmd": 1165
     }
   ],
   "clearchat": [],
@@ -131004,7 +131004,7 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 134,
+      "hit": 135,
       "date": "23 Januari 2025",
       "money": 1035913,
       "exp": 25100,
@@ -131046,7 +131046,7 @@
       "trash": 0,
       "coal": 0,
       "wood": 82,
-      "rock": 0,
+      "rock": 1,
       "string": 0,
       "petfood": 0,
       "hubungan": 0,
