@@ -618,7 +618,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -638,7 +638,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 40,
+      "succes": 41,
       "failed": 0
     },
     {
@@ -1082,7 +1082,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1142
+      "totalcmd": 1144
     }
   ],
   "clearchat": [],
@@ -127219,7 +127219,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 393,
+      "hit": 394,
       "date": "20 Januari 2025",
       "money": 2842364,
       "exp": 22600,
@@ -130985,7 +130985,7 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 120,
+      "hit": 121,
       "date": "23 Januari 2025",
       "money": 822427,
       "exp": 10100,
