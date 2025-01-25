@@ -1239,6 +1239,11 @@
       "cmd": "Atm",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Mediafire",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1271,7 +1276,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2094
+      "totalcmd": 2095
     }
   ],
   "clearchat": [],
@@ -98654,7 +98659,7 @@
       "autolevelup": false,
       "serial": "G3WH",
       "glimit": 30,
-      "hit": 42,
+      "hit": 43,
       "date": "3 Januari 2025",
       "money": 1000,
       "exp": 0,
