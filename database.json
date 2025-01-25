@@ -736,7 +736,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -895,7 +895,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 567
+      "totalcmd": 568
     }
   ],
   "clearchat": [],
@@ -6818,7 +6818,7 @@
       "autolevelup": false,
       "serial": "DBZS",
       "glimit": 27,
-      "hit": 56,
+      "hit": 57,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 7996,
