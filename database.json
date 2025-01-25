@@ -850,7 +850,7 @@
     },
     {
       "cmd": "Buka",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -884,7 +884,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 559
+      "totalcmd": 560
     }
   ],
   "clearchat": [],
@@ -43434,7 +43434,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2932,
+      "hit": 2933,
       "date": "22 Desember 2024",
       "money": 1978948,
       "exp": 56200,
@@ -43482,7 +43482,7 @@
       "hubungan": 0,
       "lokasi": 0,
       "emerald": 0,
-      "diamond": 30,
+      "diamond": 31,
       "gold": 30,
       "botol": 819,
       "kardus": 2458,
@@ -43497,7 +43497,7 @@
       "uncommon": 0,
       "mythic": 0,
       "tbox": 0,
-      "legendary": 1,
+      "legendary": 0,
       "kondom": 8,
       "umpan": 0,
       "pet": 0,
