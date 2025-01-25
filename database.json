@@ -645,7 +645,7 @@
     },
     {
       "cmd": "Getpp",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -975,7 +975,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 717
+      "totalcmd": 718
     }
   ],
   "clearchat": [],
@@ -31712,7 +31712,7 @@
       "autolevelup": false,
       "serial": "WWR5",
       "glimit": 18,
-      "hit": 277,
+      "hit": 278,
       "date": "22 Desember 2024",
       "money": 1396605,
       "exp": 57450,
