@@ -1082,7 +1082,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1156
+      "totalcmd": 1157
     }
   ],
   "clearchat": [],
@@ -130985,10 +130985,10 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 130,
+      "hit": 131,
       "date": "23 Januari 2025",
-      "money": 1031913,
-      "exp": 55100,
+      "money": 1035913,
+      "exp": 25100,
       "limit": 80,
       "speed": 0,
       "strength": 0,
@@ -131011,7 +131011,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 3,
+      "level": 4,
       "role": "Beginner",
       "balance": 336043,
       "skillexp": 0,
