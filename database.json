@@ -695,7 +695,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 64,
+      "succes": 65,
       "failed": 0
     },
     {
@@ -1030,7 +1030,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 974
+      "totalcmd": 975
     }
   ],
   "clearchat": [],
@@ -66632,7 +66632,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 444,
-      "hit": 739,
+      "hit": 740,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -96602,7 +96602,7 @@
       "date": "3 Januari 2025",
       "money": 42003214,
       "exp": 58943,
-      "limit": 369,
+      "limit": 368,
       "speed": 5,
       "strength": 6,
       "defense": 5,
