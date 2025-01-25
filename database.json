@@ -725,7 +725,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 88,
+      "succes": 89,
       "failed": 0
     },
     {
@@ -844,7 +844,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 466
+      "totalcmd": 467
     }
   ],
   "clearchat": [],
@@ -96418,8 +96418,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 801,
-      "hit": 6981,
+      "glimit": 800,
+      "hit": 6982,
       "date": "3 Januari 2025",
       "money": 45514440,
       "exp": 83343,
