@@ -1182,7 +1182,7 @@
     },
     {
       "cmd": "Buylimit",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1266,7 +1266,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2026
+      "totalcmd": 2027
     }
   ],
   "clearchat": [],
@@ -114901,11 +114901,11 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 35,
-      "hit": 1120,
+      "hit": 1121,
       "date": "7 Januari 2025",
       "money": 4426368,
       "exp": 11085,
-      "limit": 22,
+      "limit": 72,
       "speed": 1,
       "strength": 4,
       "defense": 1,
@@ -114929,7 +114929,7 @@
       "warning": 0,
       "level": 7,
       "role": "Beginner",
-      "balance": 3415234,
+      "balance": 3365234,
       "skillexp": 0,
       "chip": 0,
       "atm": 1,
