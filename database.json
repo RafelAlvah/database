@@ -1110,6 +1110,11 @@
       "cmd": "Makan",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Eat",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1150,7 +1155,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1311
+      "totalcmd": 1312
     }
   ],
   "clearchat": [],
@@ -36201,7 +36206,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3381,
+      "hit": 3382,
       "date": "22 Desember 2024",
       "money": 62858767,
       "exp": 26023,
