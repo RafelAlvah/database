@@ -1115,6 +1115,11 @@
       "cmd": "Eat",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Allmenu",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1155,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1331
+      "totalcmd": 1332
     }
   ],
   "clearchat": [],
@@ -131058,7 +131063,7 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 214,
-      "hit": 176,
+      "hit": 177,
       "date": "23 Januari 2025",
       "money": 1269513,
       "exp": 31200,
