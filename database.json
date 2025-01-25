@@ -653,7 +653,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 98,
+      "succes": 99,
       "failed": 0
     },
     {
@@ -833,7 +833,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 98,
+      "succes": 99,
       "failed": 0
     },
     {
@@ -1153,7 +1153,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1407
+      "totalcmd": 1409
     }
   ],
   "clearchat": [],
@@ -80676,7 +80676,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2498,
-      "hit": 1867,
+      "hit": 1868,
       "date": "30 Desember 2024",
       "money": 1417707,
       "exp": 45689,
@@ -80696,9 +80696,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1737798155562,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "mandi, terus sibukin diri",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -96721,7 +96721,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 865,
-      "hit": 6793,
+      "hit": 6794,
       "date": "3 Januari 2025",
       "money": 43199057,
       "exp": 71143,
