@@ -613,7 +613,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 56,
+      "succes": 57,
       "failed": 0
     },
     {
@@ -948,7 +948,7 @@
     },
     {
       "cmd": "Brat2",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1153,7 +1153,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1467
+      "totalcmd": 1469
     }
   ],
   "clearchat": [],
@@ -19908,9 +19908,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 3019,
+      "hit": 3021,
       "date": "20 Desember 2024",
-      "money": 46431256,
+      "money": 46512916,
       "exp": 58086,
       "limit": 124,
       "speed": 0,
@@ -20078,7 +20078,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737794614368,
+      "lastkerja": 1737804635780,
       "lastparming": 1737793693525,
       "rokets": 49,
       "lastmulung": 1737793686168,
