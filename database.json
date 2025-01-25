@@ -930,7 +930,7 @@
     },
     {
       "cmd": "Register",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -955,7 +955,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 483
+      "totalcmd": 484
     }
   ],
   "clearchat": [],
@@ -135135,7 +135135,7 @@
       "autolevelup": false,
       "serial": "IKLG",
       "glimit": 30,
-      "hit": 3,
+      "hit": 4,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
