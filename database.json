@@ -927,6 +927,11 @@
       "cmd": "Rpg",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Register",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -950,7 +955,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 481
+      "totalcmd": 482
     }
   ],
   "clearchat": [],
@@ -135130,7 +135135,7 @@
       "autolevelup": false,
       "serial": "IKLG",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
