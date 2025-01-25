@@ -894,7 +894,7 @@
     },
     {
       "cmd": "Sell",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -1214,7 +1214,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1796
+      "totalcmd": 1797
     }
   ],
   "clearchat": [],
@@ -36265,9 +36265,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3428,
+      "hit": 3429,
       "date": "22 Desember 2024",
-      "money": 64142539,
+      "money": 64142964,
       "exp": 20000,
       "limit": 11943,
       "speed": 1,
@@ -36307,7 +36307,7 @@
       "trash": 0,
       "coal": 0,
       "wood": 70,
-      "rock": 12,
+      "rock": 11,
       "string": 0,
       "petfood": 0,
       "hubungan": 0,
