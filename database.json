@@ -634,12 +634,12 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 46,
+      "succes": 47,
       "failed": 0
     },
     {
       "cmd": "Heal",
-      "succes": 64,
+      "succes": 65,
       "failed": 0
     },
     {
@@ -829,7 +829,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 167,
+      "succes": 168,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1661
+      "totalcmd": 1664
     }
   ],
   "clearchat": [],
@@ -19949,7 +19949,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 95,
-      "hit": 3057,
+      "hit": 3059,
       "date": "20 Desember 2024",
       "money": 46725858,
       "exp": 65086,
@@ -96767,8 +96767,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 856,
-      "hit": 6840,
+      "glimit": 855,
+      "hit": 6841,
       "date": "3 Januari 2025",
       "money": 44450363,
       "exp": 71243,
