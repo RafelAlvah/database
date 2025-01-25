@@ -611,13 +611,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6283867902727",
-      "expired": 1737842588277
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Afk",
@@ -833,6 +827,11 @@
       "cmd": "Gitclone",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Cekprem",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -865,7 +864,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 547
+      "totalcmd": 548
     }
   ],
   "clearchat": [],
@@ -1968,7 +1967,7 @@
       "autolevelup": false,
       "serial": "GIEU",
       "glimit": -550,
-      "hit": 2329,
+      "hit": 2330,
       "date": "16 Desember 2024",
       "money": 1556142,
       "exp": 2107,
