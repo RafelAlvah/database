@@ -711,7 +711,7 @@
     },
     {
       "cmd": "Dare",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     }
   ],
@@ -745,7 +745,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 130
+      "totalcmd": 131
     }
   ],
   "clearchat": [],
@@ -96319,7 +96319,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 815,
-      "hit": 6931,
+      "hit": 6932,
       "date": "3 Januari 2025",
       "money": 44450363,
       "exp": 71243,
