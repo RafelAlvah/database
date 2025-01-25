@@ -619,7 +619,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -828,7 +828,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 341
+      "totalcmd": 342
     }
   ],
   "clearchat": [],
@@ -97315,7 +97315,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 494,
-      "hit": 1021,
+      "hit": 1022,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97335,9 +97335,9 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1736509904536,
-      "afk": 1737822365833,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "mo mknn seblakk",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
