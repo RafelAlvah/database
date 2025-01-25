@@ -568,7 +568,8 @@
     "Hd.",
     "Hdd",
     "Hbd",
-    "Listsrv"
+    "Listsrv",
+    "Kodebahasa"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -852,6 +853,11 @@
       "cmd": "Buka",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Kodebahasa",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -884,7 +890,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 561
+      "totalcmd": 562
     }
   ],
   "clearchat": [],
@@ -8231,7 +8237,7 @@
       "autolevelup": false,
       "serial": "HPSG",
       "glimit": 28,
-      "hit": 67,
+      "hit": 68,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 5000,
