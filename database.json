@@ -651,7 +651,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 76,
+      "succes": 77,
       "failed": 0
     },
     {
@@ -711,7 +711,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 21,
+      "succes": 22,
       "failed": 2
     },
     {
@@ -1056,7 +1056,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1094
+      "totalcmd": 1096
     }
   ],
   "clearchat": [],
@@ -1068,7 +1068,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -7,
-      "hit": 1569,
+      "hit": 1570,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
@@ -49154,7 +49154,7 @@
       "autolevelup": false,
       "serial": "FBAW",
       "glimit": 43,
-      "hit": 1075,
+      "hit": 1076,
       "date": "22 Desember 2024",
       "money": 1129727,
       "exp": 96059,
