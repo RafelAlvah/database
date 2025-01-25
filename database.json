@@ -609,7 +609,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6282145543838",
+      "expired": 1737795228436
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Kerja",
@@ -138379,6 +138385,10 @@
     },
     {
       "id": "60189025004@s.whatsapp.net",
+      "count": 2
+    },
+    {
+      "id": "6282145543838@s.whatsapp.net",
       "count": 2
     }
   ],
