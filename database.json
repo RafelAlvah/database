@@ -643,7 +643,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 123,
+      "succes": 124,
       "failed": 0
     },
     {
@@ -1263,7 +1263,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1972
+      "totalcmd": 1973
     }
   ],
   "clearchat": [],
@@ -47062,7 +47062,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 36378333,
+      "balance": 36528333,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -101867,8 +101867,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "Y0X4",
-      "glimit": 37,
-      "hit": 565,
+      "glimit": 36,
+      "hit": 566,
       "date": "4 Januari 2025",
       "money": 6723581,
       "exp": 1545,
