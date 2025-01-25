@@ -1063,7 +1063,7 @@
     },
     {
       "cmd": "Craft",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -1140,7 +1140,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1282
+      "totalcmd": 1283
     }
   ],
   "clearchat": [],
@@ -19895,7 +19895,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 2998,
+      "hit": 2999,
       "date": "20 Desember 2024",
       "money": 46332647,
       "exp": 58086,
@@ -19936,9 +19936,9 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 841,
+      "wood": 831,
       "rock": 1,
-      "string": 21,
+      "string": 1,
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
@@ -19950,7 +19950,7 @@
       "kaleng": 43046,
       "gelas": 41056,
       "plastik": 39221,
-      "iron": 12,
+      "iron": 10,
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
@@ -20053,8 +20053,8 @@
       "sworddurability": 40,
       "pickaxe": 0,
       "pickaxedurability": 0,
-      "fishingrod": 0,
-      "fishingroddurability": 0,
+      "fishingrod": 1,
+      "fishingroddurability": 40,
       "premium": false,
       "premiumTime": 0,
       "job": "Pengangguran",
