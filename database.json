@@ -1133,7 +1133,7 @@
     },
     {
       "cmd": "Addultah",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1158,7 +1158,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1489
+      "totalcmd": 1490
     }
   ],
   "clearchat": [],
@@ -78001,7 +78001,7 @@
       "autolevelup": false,
       "serial": "QFWE",
       "glimit": 18,
-      "hit": 66,
+      "hit": 67,
       "date": "29 Desember 2024",
       "money": 28834,
       "exp": 6463,
@@ -78016,7 +78016,7 @@
       "registered": true,
       "name": "ruby",
       "skill": "",
-      "ultah": "",
+      "ultah": "01,03,2007",
       "sahabat": "",
       "pasangan": "",
       "age": 17,
