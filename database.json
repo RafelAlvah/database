@@ -654,7 +654,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 142,
+      "succes": 143,
       "failed": 0
     },
     {
@@ -1189,7 +1189,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1604
+      "totalcmd": 1605
     }
   ],
   "clearchat": [],
@@ -53751,7 +53751,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14584,
-      "hit": 2167,
+      "hit": 2168,
       "date": "24 Desember 2024",
       "money": 4240904,
       "exp": 16020,
