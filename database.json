@@ -798,7 +798,7 @@
     },
     {
       "cmd": "Spotify",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -828,7 +828,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 228,
+      "succes": 229,
       "failed": 0
     },
     {
@@ -1263,7 +1263,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1983
+      "totalcmd": 1985
     }
   ],
   "clearchat": [],
@@ -1275,7 +1275,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -8,
-      "hit": 1598,
+      "hit": 1599,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -47033,8 +47033,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 5897,
-      "hit": 1038,
+      "glimit": 5896,
+      "hit": 1039,
       "date": "22 Desember 2024",
       "money": 603813,
       "exp": 25063,
