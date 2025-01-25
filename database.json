@@ -613,7 +613,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 50,
+      "succes": 51,
       "failed": 0
     },
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "cmd": "Mining",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1145,7 +1145,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1295
+      "totalcmd": 1297
     }
   ],
   "clearchat": [],
@@ -19900,9 +19900,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 3008,
+      "hit": 3009,
       "date": "20 Desember 2024",
-      "money": 46280397,
+      "money": 46321601,
       "exp": 58086,
       "limit": 124,
       "speed": 0,
@@ -20070,7 +20070,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737793683240,
+      "lastkerja": 1737794304141,
       "lastparming": 1737793693525,
       "rokets": 49,
       "lastmulung": 1737793686168,
@@ -131048,7 +131048,7 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 165,
+      "hit": 166,
       "date": "23 Januari 2025",
       "money": 1269513,
       "exp": 31200,
