@@ -618,6 +618,11 @@
       "cmd": "Brat",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tf",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -650,7 +655,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 2
+      "totalcmd": 3
     }
   ],
   "clearchat": [],
@@ -80201,7 +80206,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 70070399,
+      "balance": 70088177,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -96224,7 +96229,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 819,
-      "hit": 6905,
+      "hit": 6906,
       "date": "3 Januari 2025",
       "money": 44450363,
       "exp": 71243,
@@ -96252,7 +96257,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 100017777,
+      "balance": 99999999,
       "skillexp": 0,
       "chip": 0,
       "atm": 3,
