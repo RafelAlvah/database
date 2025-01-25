@@ -1159,7 +1159,7 @@
     },
     {
       "cmd": "Delete",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1184,7 +1184,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1598
+      "totalcmd": 1599
     }
   ],
   "clearchat": [],
@@ -22631,7 +22631,7 @@
       "autolevelup": false,
       "serial": "E0AE",
       "glimit": 47,
-      "hit": 233,
+      "hit": 234,
       "date": "21 Desember 2024",
       "money": -18049,
       "exp": 9932,
