@@ -984,7 +984,7 @@
     {
       "cmd": "Weekly",
       "succes": 2,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Monthly",
@@ -1065,6 +1065,10 @@
     {
       "error": "isFiltered is not defined",
       "cmd": "airdrop"
+    },
+    {
+      "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
+      "cmd": "weekly"
     }
   ],
   "jadibot": {},
@@ -1087,7 +1091,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1158
+      "totalcmd": 1159
     }
   ],
   "clearchat": [],
@@ -127224,7 +127228,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 397,
+      "hit": 398,
       "date": "20 Januari 2025",
       "money": 3329864,
       "exp": 31600,
