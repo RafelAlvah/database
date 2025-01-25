@@ -794,7 +794,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -828,7 +828,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 335
+      "totalcmd": 336
     }
   ],
   "clearchat": [],
@@ -58037,11 +58037,11 @@
       "autolevelup": false,
       "serial": "RXUB",
       "glimit": 2127,
-      "hit": 139,
+      "hit": 140,
       "date": "24 Desember 2024",
       "money": 0,
       "exp": 1199,
-      "limit": 2016,
+      "limit": 2015,
       "speed": 0,
       "strength": 0,
       "defense": 0,
