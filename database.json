@@ -526,7 +526,6 @@
     "Leaderboard",
     "Tokoikan",
     "Dapur",
-    "Berat",
     "Smith",
     "Role",
     "Batu",
@@ -1077,7 +1076,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1111
+      "totalcmd": 1112
     }
   ],
   "clearchat": [],
@@ -66679,7 +66678,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 444,
-      "hit": 741,
+      "hit": 742,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
