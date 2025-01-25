@@ -1234,6 +1234,11 @@
       "cmd": "",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Atm",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1266,7 +1271,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2064
+      "totalcmd": 2065
     }
   ],
   "clearchat": [],
@@ -114901,7 +114906,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 35,
-      "hit": 1134,
+      "hit": 1135,
       "date": "7 Januari 2025",
       "money": 4600721,
       "exp": 12185,
