@@ -654,7 +654,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 134,
+      "succes": 135,
       "failed": 0
     },
     {
@@ -1156,6 +1156,11 @@
       "cmd": "",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Delete",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1179,7 +1184,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1591
+      "totalcmd": 1593
     }
   ],
   "clearchat": [],
@@ -22626,7 +22631,7 @@
       "autolevelup": false,
       "serial": "E0AE",
       "glimit": 47,
-      "hit": 231,
+      "hit": 232,
       "date": "21 Desember 2024",
       "money": -18049,
       "exp": 9932,
@@ -46950,7 +46955,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5926,
-      "hit": 976,
+      "hit": 977,
       "date": "22 Desember 2024",
       "money": 603813,
       "exp": 25063,
