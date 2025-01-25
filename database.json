@@ -625,7 +625,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -995,7 +995,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 832
+      "totalcmd": 833
     }
   ],
   "clearchat": [],
@@ -29219,11 +29219,11 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 757,
+      "hit": 758,
       "date": "22 Desember 2024",
-      "money": 4862586,
+      "money": 4962586,
       "exp": 39711,
-      "limit": 69,
+      "limit": 79,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -29329,7 +29329,7 @@
       "lasthourly": 0,
       "lastbansos": 1737523681980,
       "lastrampok": 1737622923467,
-      "lastclaim": 1737732955195,
+      "lastclaim": 1737777828323,
       "lastnebang": 0,
       "lastweekly": 1737412871353,
       "lastmonthly": 1736504236117,
@@ -29394,7 +29394,7 @@
       "rokets": 11,
       "lastparming": 1737613477027,
       "lastmulung": 1737613469232,
-      "poin": null
+      "poin": 500000
     },
     "6285840843727@s.whatsapp.net": {
       "sticker": {},
