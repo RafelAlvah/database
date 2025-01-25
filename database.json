@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -1105,7 +1105,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1171
+      "totalcmd": 1172
     }
   ],
   "clearchat": [],
@@ -120291,7 +120291,7 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 18,
-      "hit": 259,
+      "hit": 260,
       "date": "10 Januari 2025",
       "money": 178499,
       "exp": 200,
