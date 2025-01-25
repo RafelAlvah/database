@@ -670,7 +670,7 @@
     },
     {
       "cmd": "Leaderboard",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1030,7 +1030,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 968
+      "totalcmd": 969
     }
   ],
   "clearchat": [],
@@ -16576,7 +16576,7 @@
       "date": "19 Desember 2024",
       "money": 1441776,
       "exp": 6979,
-      "limit": 95,
+      "limit": 94,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -36081,7 +36081,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3360,
+      "hit": 3361,
       "date": "22 Desember 2024",
       "money": 68408767,
       "exp": 26023,
