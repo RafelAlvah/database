@@ -1088,7 +1088,7 @@
     },
     {
       "cmd": "Mancing",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1155,7 +1155,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1317
+      "totalcmd": 1318
     }
   ],
   "clearchat": [],
@@ -131058,7 +131058,7 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 166,
+      "hit": 167,
       "date": "23 Januari 2025",
       "money": 1269513,
       "exp": 31200,
