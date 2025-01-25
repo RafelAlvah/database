@@ -957,6 +957,11 @@
       "cmd": "Simi",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Blacklist",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -980,7 +985,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 778
+      "totalcmd": 779
     }
   ],
   "clearchat": [],
@@ -992,7 +997,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -7,
-      "hit": 1549,
+      "hit": 1550,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
@@ -136220,7 +136225,7 @@
       "antiLinkgc": false,
       "antiLinkch": false,
       "viewonce": false,
-      "blacklist": "62831374040299@s.whatsapp.net, 6283847388936@s.whatsapp.net, 6285259603024@s.whatsapp.net"
+      "blacklist": "6283847388936@s.whatsapp.net, 6285259603024@s.whatsapp.net"
     },
     "120363379979266392@g.us": {
       "name": "Place of discussion",
