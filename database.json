@@ -656,7 +656,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -733,6 +733,11 @@
       "cmd": "Tt",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Maling",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -765,7 +770,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 211
+      "totalcmd": 213
     }
   ],
   "clearchat": [],
@@ -96339,10 +96344,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 810,
-      "hit": 6948,
+      "hit": 6950,
       "date": "3 Januari 2025",
-      "money": 44557432,
-      "exp": 71343,
+      "money": 44657432,
+      "exp": 80343,
       "limit": 360,
       "speed": 5,
       "strength": 6,
@@ -96373,8 +96378,8 @@
       "atm": 3,
       "fullatm": 1000000000,
       "bank": 610526606,
-      "health": 100,
-      "stamina": 100,
+      "health": 20,
+      "stamina": 60,
       "potion": 51,
       "wine": 0,
       "beer": 0,
@@ -96436,7 +96441,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1737805004213,
+      "lastmisi": 1737827429374,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -96519,7 +96524,7 @@
       "lastnambang": 1736243261278,
       "lastparming": 1737827425044,
       "lastmulung": 1737804998269,
-      "rokets": 90,
+      "rokets": 91,
       "sampah": 231,
       "kayu": 355,
       "batu": 228,
