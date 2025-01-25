@@ -945,7 +945,7 @@
     },
     {
       "cmd": "Brat2",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -990,7 +990,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 812
+      "totalcmd": 813
     }
   ],
   "clearchat": [],
@@ -133746,7 +133746,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 8,
-      "hit": 29,
+      "hit": 30,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
