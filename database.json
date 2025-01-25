@@ -1079,6 +1079,10 @@
     {
       "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
       "cmd": "weekly"
+    },
+    {
+      "error": "Cannot read properties of undefined (reading 'includes')",
+      "cmd": "updategempa"
     }
   ],
   "jadibot": {},
