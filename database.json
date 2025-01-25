@@ -653,7 +653,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 202,
+      "succes": 203,
       "failed": 0
     },
     {
@@ -713,7 +713,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 36,
+      "succes": 37,
       "failed": 2
     },
     {
@@ -1253,7 +1253,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1875
+      "totalcmd": 1877
     }
   ],
   "clearchat": [],
@@ -80776,7 +80776,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2494,
-      "hit": 1894,
+      "hit": 1896,
       "date": "30 Desember 2024",
       "money": 1454720,
       "exp": 0,
@@ -80796,9 +80796,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": -1,
+      "afk": 1737815699963,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "mam martabak",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
