@@ -724,7 +724,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 59,
+      "succes": 60,
       "failed": 0
     },
     {
@@ -828,7 +828,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 336
+      "totalcmd": 337
     }
   ],
   "clearchat": [],
@@ -46598,8 +46598,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 5813,
-      "hit": 1237,
+      "glimit": 5812,
+      "hit": 1238,
       "date": "22 Desember 2024",
       "money": 6863133,
       "exp": 25163,
@@ -46619,9 +46619,9 @@
       "pasangan": "6283824612951@s.whatsapp.net",
       "age": 16,
       "regTime": 1737696188397,
-      "afk": 1737829253856,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "bokep,(bbo ckep)",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
