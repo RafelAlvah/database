@@ -983,7 +983,7 @@
     },
     {
       "cmd": "Weekly",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1082,7 +1082,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1154
+      "totalcmd": 1155
     }
   ],
   "clearchat": [],
@@ -130985,10 +130985,10 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 128,
+      "hit": 129,
       "date": "23 Januari 2025",
-      "money": 942915,
-      "exp": 10100,
+      "money": 978914,
+      "exp": 25100,
       "limit": 80,
       "speed": 0,
       "strength": 0,
@@ -131020,8 +131020,8 @@
       "fullatm": 0,
       "bank": 0,
       "health": 100,
-      "stamina": 115,
-      "potion": 3,
+      "stamina": 100,
+      "potion": 12,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -131097,7 +131097,7 @@
       "lastrampok": 0,
       "lastclaim": 1737637052081,
       "lastnebang": 0,
-      "lastweekly": 0,
+      "lastweekly": 1737790169918,
       "lastmonthly": 0,
       "apel": 0,
       "anggur": 10,
