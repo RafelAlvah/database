@@ -893,7 +893,7 @@
     },
     {
       "cmd": "Sell",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1232
+      "totalcmd": 1233
     }
   ],
   "clearchat": [],
@@ -36181,9 +36181,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3379,
+      "hit": 3380,
       "date": "22 Desember 2024",
-      "money": 59858767,
+      "money": 62858767,
       "exp": 26023,
       "limit": 11943,
       "speed": 1,
@@ -36211,12 +36211,12 @@
       "role": "Beginner",
       "balance": 47901744,
       "skillexp": 0,
-      "chip": 10,
+      "chip": 7,
       "atm": 1,
       "fullatm": 500000000,
       "bank": 2508658,
       "health": 100,
-      "stamina": 126,
+      "stamina": 100,
       "potion": 24,
       "wine": 0,
       "beer": 0,
@@ -36339,7 +36339,7 @@
       "sworddurability": 40,
       "pickaxe": 1,
       "pickaxedurability": 40,
-      "fishingrod": 1,
+      "fishingrod": 0,
       "fishingroddurability": 0,
       "premium": false,
       "premiumTime": 0,
