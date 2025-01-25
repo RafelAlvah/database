@@ -992,6 +992,11 @@
       "cmd": "Open",
       "succes": 7,
       "failed": 0
+    },
+    {
+      "cmd": "Menambang",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1020,7 +1025,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 958
+      "totalcmd": 959
     }
   ],
   "clearchat": [],
@@ -96588,7 +96593,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6704,
+      "hit": 6705,
       "date": "3 Januari 2025",
       "money": 42006991,
       "exp": 58943,
