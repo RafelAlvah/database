@@ -614,7 +614,7 @@
   "dashboard": [
     {
       "cmd": "Afk",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -833,7 +833,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 401
+      "totalcmd": 402
     }
   ],
   "clearchat": [],
@@ -58042,7 +58042,7 @@
       "autolevelup": false,
       "serial": "RXUB",
       "glimit": 2126,
-      "hit": 142,
+      "hit": 143,
       "date": "24 Desember 2024",
       "money": 0,
       "exp": 1199,
@@ -58062,9 +58062,9 @@
       "pasangan": "",
       "age": 16,
       "regTime": 1737441303971,
-      "afk": -1,
+      "afk": 1737830351743,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "hji",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
