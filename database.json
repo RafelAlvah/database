@@ -679,7 +679,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -699,7 +699,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 93,
+      "succes": 94,
       "failed": 0
     },
     {
@@ -1224,7 +1224,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1831
+      "totalcmd": 1833
     }
   ],
   "clearchat": [],
@@ -58432,11 +58432,11 @@
       "autolevelup": false,
       "serial": "RXUB",
       "glimit": 2127,
-      "hit": 133,
+      "hit": 135,
       "date": "24 Desember 2024",
       "money": 0,
       "exp": 1199,
-      "limit": 2018,
+      "limit": 2017,
       "speed": 0,
       "strength": 0,
       "defense": 0,
