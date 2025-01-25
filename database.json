@@ -863,7 +863,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1230
+      "totalcmd": 1231
     }
   ],
   "clearchat": [],
@@ -131033,9 +131033,9 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 147,
+      "hit": 148,
       "date": "23 Januari 2025",
-      "money": 1072913,
+      "money": 1069513,
       "exp": 25200,
       "limit": 79,
       "speed": 0,
@@ -131075,7 +131075,7 @@
       "trash": 0,
       "coal": 0,
       "wood": 82,
-      "rock": 1,
+      "rock": 5,
       "string": 20,
       "petfood": 0,
       "hubungan": 0,
