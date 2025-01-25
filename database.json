@@ -863,7 +863,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 15,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1125,7 +1125,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1217
+      "totalcmd": 1219
     }
   ],
   "clearchat": [],
@@ -131028,9 +131028,9 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 141,
+      "hit": 143,
       "date": "23 Januari 2025",
-      "money": 1045913,
+      "money": 1030913,
       "exp": 25100,
       "limit": 79,
       "speed": 0,
@@ -131083,7 +131083,7 @@
       "kaleng": 269,
       "gelas": 558,
       "plastik": 346,
-      "iron": 0,
+      "iron": 5,
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
