@@ -825,7 +825,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 48,
+      "succes": 50,
       "failed": 0
     },
     {
@@ -955,7 +955,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 511
+      "totalcmd": 513
     }
   ],
   "clearchat": [],
@@ -46726,7 +46726,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5994,
-      "hit": 831,
+      "hit": 832,
       "date": "22 Desember 2024",
       "money": 603813,
       "exp": 25063,
@@ -46754,7 +46754,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 25576822,
+      "balance": 25726822,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -132109,7 +132109,7 @@
       "autolevelup": false,
       "serial": "GNHT",
       "glimit": 27,
-      "hit": 51,
+      "hit": 52,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
