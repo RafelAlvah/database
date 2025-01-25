@@ -138457,35 +138457,7 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ],
-    "restart": {
-      "m": {
-        "key": {
-          "remoteJid": "120363361865610907@g.us",
-          "fromMe": false,
-          "id": "F7754788897016B27CAF7C078EB45C38",
-          "participant": "6287737937323@s.whatsapp.net"
-        },
-        "message": {
-          "extendedTextMessage": {
-            "text": ".restart",
-            "previewType": "NONE",
-            "contextInfo": {
-              "expiration": 604800,
-              "disappearingMode": {
-                "initiator": "CHANGED_IN_CHAT",
-                "trigger": "UNKNOWN"
-              }
-            },
-            "inviteLinkGroupTypeV2": "DEFAULT"
-          }
-        },
-        "messageTimestamp": "1737790366",
-        "broadcast": false,
-        "pushName": "«< R >»"
-      },
-      "from": "120363361865610907@g.us"
-    }
+    ]
   },
   "respon": {}
 }
