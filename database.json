@@ -782,7 +782,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 62,
+      "succes": 63,
       "failed": 0
     },
     {
@@ -802,7 +802,7 @@
     },
     {
       "cmd": "Spdl",
-      "succes": 3,
+      "succes": 4,
       "failed": 2
     },
     {
@@ -1266,7 +1266,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2030
+      "totalcmd": 2032
     }
   ],
   "clearchat": [],
@@ -47037,7 +47037,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5887,
-      "hit": 1062,
+      "hit": 1063,
       "date": "22 Desember 2024",
       "money": 603813,
       "exp": 25063,
@@ -114901,7 +114901,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 35,
-      "hit": 1122,
+      "hit": 1123,
       "date": "7 Januari 2025",
       "money": 4426368,
       "exp": 11085,
