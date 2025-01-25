@@ -645,7 +645,7 @@
     },
     {
       "cmd": "Getpp",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -975,7 +975,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 713
+      "totalcmd": 714
     }
   ],
   "clearchat": [],
@@ -36026,7 +36026,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3353,
+      "hit": 3354,
       "date": "22 Desember 2024",
       "money": 68457229,
       "exp": 26023,
