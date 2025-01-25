@@ -748,6 +748,11 @@
       "cmd": "Leaderboard",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Transfer",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -780,7 +785,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 219
+      "totalcmd": 220
     }
   ],
   "clearchat": [],
@@ -46551,9 +46556,9 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5865,
-      "hit": 1139,
+      "hit": 1140,
       "date": "22 Desember 2024",
-      "money": 6705000,
+      "money": 6034500,
       "exp": 25063,
       "limit": 2076,
       "speed": 0,
@@ -96356,7 +96361,7 @@
       "glimit": 810,
       "hit": 6951,
       "date": "3 Januari 2025",
-      "money": 44613886,
+      "money": 45284386,
       "exp": 80343,
       "limit": 360,
       "speed": 5,
