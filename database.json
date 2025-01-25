@@ -614,7 +614,7 @@
   "dashboard": [
     {
       "cmd": "Afk",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -833,7 +833,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 413
+      "totalcmd": 414
     }
   ],
   "clearchat": [],
@@ -46604,7 +46604,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5788,
-      "hit": 1293,
+      "hit": 1294,
       "date": "22 Desember 2024",
       "money": 6863133,
       "exp": 25163,
@@ -46624,9 +46624,9 @@
       "pasangan": "6283824612951@s.whatsapp.net",
       "age": 16,
       "regTime": 1737696188397,
-      "afk": -1,
+      "afk": 1737830508254,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "cari anginnn",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
