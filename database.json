@@ -136729,7 +136729,7 @@
       "antibadword": true,
       "antiaudio": false,
       "antibot": false,
-      "antiimage": false,
+      "antiimage": true,
       "antivideo": false,
       "antisticker": false,
       "antispam": false,
