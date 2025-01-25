@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -930,7 +930,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 417
+      "totalcmd": 418
     }
   ],
   "clearchat": [],
@@ -29154,7 +29154,7 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 748,
+      "hit": 749,
       "date": "22 Desember 2024",
       "money": 162586,
       "exp": 30711,
@@ -29174,9 +29174,9 @@
       "pasangan": "",
       "age": 12,
       "regTime": 1736490432213,
-      "afk": -1,
+      "afk": 1737763249983,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "jalan jalan ke kalteng dan kalbar",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
