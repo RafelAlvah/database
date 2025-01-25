@@ -614,7 +614,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 67,
+      "succes": 68,
       "failed": 0
     },
     {
@@ -759,7 +759,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1644
+      "totalcmd": 1646
     }
   ],
   "clearchat": [],
@@ -127338,9 +127338,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 417,
+      "hit": 418,
       "date": "20 Januari 2025",
-      "money": 4784068,
+      "money": 4799144,
       "exp": 39600,
       "limit": 140,
       "speed": 0,
@@ -127512,7 +127512,7 @@
       "lastparming": 1737807765836,
       "poin": 540000,
       "rokets": 22,
-      "lastkerja": 1737804747003,
+      "lastkerja": 1737807772500,
       "sampah": 259,
       "kayu": 230,
       "batu": 345,
@@ -131286,10 +131286,10 @@
       "autolevelup": false,
       "serial": "6CIE",
       "glimit": 0,
-      "hit": 100,
+      "hit": 101,
       "date": "23 Januari 2025",
-      "money": 1672101,
-      "exp": 700,
+      "money": 1722101,
+      "exp": 800,
       "limit": 30,
       "speed": 0,
       "strength": 0,
@@ -131396,7 +131396,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
-      "lastclaim": 1737793172237,
+      "lastclaim": 1737807772385,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
