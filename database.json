@@ -634,7 +634,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 44,
+      "succes": 45,
       "failed": 0
     },
     {
@@ -759,7 +759,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1649
+      "totalcmd": 1651
     }
   ],
   "clearchat": [],
@@ -127338,7 +127338,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 421,
+      "hit": 422,
       "date": "20 Januari 2025",
       "money": 4849144,
       "exp": 39700,
@@ -131286,7 +131286,7 @@
       "autolevelup": false,
       "serial": "6CIE",
       "glimit": 0,
-      "hit": 101,
+      "hit": 102,
       "date": "23 Januari 2025",
       "money": 1722101,
       "exp": 800,
