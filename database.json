@@ -680,7 +680,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -975,7 +975,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 716
+      "totalcmd": 717
     }
   ],
   "clearchat": [],
@@ -9746,7 +9746,7 @@
       "autolevelup": false,
       "serial": "OPRF",
       "glimit": 24,
-      "hit": 23,
+      "hit": 24,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 3996,
