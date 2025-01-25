@@ -908,7 +908,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1158,7 +1158,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1499
+      "totalcmd": 1500
     }
   ],
   "clearchat": [],
@@ -29026,11 +29026,11 @@
       "autolevelup": false,
       "serial": "HUAY",
       "glimit": 0,
-      "hit": 131,
+      "hit": 132,
       "date": "22 Desember 2024",
       "money": 1000,
       "exp": 6993,
-      "limit": 6,
+      "limit": 5,
       "speed": 0,
       "strength": 0,
       "defense": 0,
