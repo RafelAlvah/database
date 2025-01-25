@@ -138430,7 +138430,7 @@
       "antilinkch": false,
       "antidelete": false,
       "antiasing": false,
-      "banchat": true,
+      "banchat": false,
       "expired": 0,
       "antipromosi": false,
       "antibadword": true,
