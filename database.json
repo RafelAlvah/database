@@ -759,7 +759,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 21,
+      "succes": 22,
       "failed": 0
     },
     {
@@ -1189,7 +1189,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1614
+      "totalcmd": 1615
     }
   ],
   "clearchat": [],
@@ -53751,10 +53751,10 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14584,
-      "hit": 2172,
+      "hit": 2173,
       "date": "24 Desember 2024",
-      "money": 4373345,
-      "exp": 16020,
+      "money": 4423345,
+      "exp": 16120,
       "limit": 10270,
       "speed": 0,
       "strength": 0,
@@ -53861,7 +53861,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1735456584734,
-      "lastclaim": 1737749686878,
+      "lastclaim": 1737807440949,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
