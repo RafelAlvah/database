@@ -1171,6 +1171,11 @@
       "cmd": "Blown",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Earrape",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1199,7 +1204,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1770
+      "totalcmd": 1771
     }
   ],
   "clearchat": [],
@@ -43749,7 +43754,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2919,
+      "hit": 2920,
       "date": "22 Desember 2024",
       "money": 1878949,
       "exp": 6100,
