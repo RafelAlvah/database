@@ -619,7 +619,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -824,7 +824,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1179,7 +1179,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1569
+      "totalcmd": 1571
     }
   ],
   "clearchat": [],
@@ -53741,7 +53741,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14584,
-      "hit": 2163,
+      "hit": 2164,
       "date": "24 Desember 2024",
       "money": 4240904,
       "exp": 16020,
@@ -53769,7 +53769,7 @@
       "warning": 0,
       "level": 9,
       "role": "Beginner",
-      "balance": 3253185,
+      "balance": 3053185,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -97847,7 +97847,7 @@
       "autolevelup": false,
       "serial": "OYAO",
       "glimit": 12,
-      "hit": 293,
+      "hit": 294,
       "date": "3 Januari 2025",
       "money": 2482455,
       "exp": 17193,
@@ -136284,7 +136284,7 @@
       "warning": 0,
       "level": 0,
       "role": "Beginner",
-      "balance": 11500,
+      "balance": 211500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
