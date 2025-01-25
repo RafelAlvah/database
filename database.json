@@ -698,6 +698,11 @@
       "cmd": "Cekkhodam",
       "succes": 5,
       "failed": 0
+    },
+    {
+      "cmd": "Gaji",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -730,7 +735,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 89
+      "totalcmd": 90
     }
   ],
   "clearchat": [],
@@ -99003,10 +99008,10 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 820,
+      "hit": 821,
       "date": "3 Januari 2025",
-      "money": 82824,
-      "exp": 5400,
+      "money": 132824,
+      "exp": 5500,
       "limit": 98,
       "speed": 0,
       "strength": 0,
@@ -99113,7 +99118,7 @@
       "lasthourly": 0,
       "lastbansos": 1737647027487,
       "lastrampok": 1737736061369,
-      "lastclaim": 1737735506834,
+      "lastclaim": 1737825239963,
       "lastnebang": 0,
       "lastweekly": 1737393852369,
       "lastmonthly": 1736547179648,
