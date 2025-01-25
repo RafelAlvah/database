@@ -869,7 +869,7 @@
     },
     {
       "cmd": "Nabung",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1214,7 +1214,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1808
+      "totalcmd": 1809
     }
   ],
   "clearchat": [],
@@ -36265,9 +36265,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3438,
+      "hit": 3439,
       "date": "22 Desember 2024",
-      "money": 60173289,
+      "money": 0,
       "exp": 20000,
       "limit": 11943,
       "speed": 1,
@@ -36298,7 +36298,7 @@
       "chip": 7,
       "atm": 1,
       "fullatm": 500000000,
-      "bank": 2508658,
+      "bank": 62681947,
       "health": 100,
       "stamina": 70,
       "potion": 24,
