@@ -566,7 +566,8 @@
     "Brar",
     "Meny",
     "Hd.",
-    "Hdd"
+    "Hdd",
+    "Hbd"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -785,6 +786,11 @@
       "cmd": "Hdd",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Hbd",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -817,7 +823,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 294
+      "totalcmd": 295
     }
   ],
   "clearchat": [],
@@ -126783,7 +126789,7 @@
       "autolevelup": false,
       "serial": "VTGJ",
       "glimit": 30,
-      "hit": 157,
+      "hit": 158,
       "date": "20 Januari 2025",
       "money": 1000,
       "exp": 0,
