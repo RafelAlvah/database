@@ -884,7 +884,7 @@
     },
     {
       "cmd": "Tarik",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1214,7 +1214,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1814
+      "totalcmd": 1815
     }
   ],
   "clearchat": [],
@@ -36265,9 +36265,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3443,
+      "hit": 3444,
       "date": "22 Desember 2024",
-      "money": 0,
+      "money": 62681947,
       "exp": 20000,
       "limit": 11943,
       "speed": 1,
@@ -36298,7 +36298,7 @@
       "chip": 7,
       "atm": 1,
       "fullatm": 500000000,
-      "bank": 62681947,
+      "bank": 0,
       "health": 100,
       "stamina": 70,
       "potion": 24,
