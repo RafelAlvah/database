@@ -711,7 +711,7 @@
     },
     {
       "cmd": "Dare",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     }
   ],
@@ -745,7 +745,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 131
+      "totalcmd": 132
     }
   ],
   "clearchat": [],
@@ -80268,7 +80268,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2467,
-      "hit": 1976,
+      "hit": 1977,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
