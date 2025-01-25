@@ -713,7 +713,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 38,
+      "succes": 39,
       "failed": 2
     },
     {
@@ -1253,7 +1253,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1901
+      "totalcmd": 1902
     }
   ],
   "clearchat": [],
@@ -36304,7 +36304,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3456,
+      "hit": 3457,
       "date": "22 Desember 2024",
       "money": 62681947,
       "exp": 20000,
@@ -36324,9 +36324,9 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1736653617488,
-      "afk": -1,
+      "afk": 1737816471460,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "mw jd prenli",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
