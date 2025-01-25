@@ -683,6 +683,11 @@
       "cmd": "Me",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tebakgambar",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -715,7 +720,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 34
+      "totalcmd": 35
     }
   ],
   "clearchat": [],
@@ -96288,8 +96293,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 819,
-      "hit": 6908,
+      "glimit": 818,
+      "hit": 6909,
       "date": "3 Januari 2025",
       "money": 44450363,
       "exp": 71243,
