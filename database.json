@@ -695,7 +695,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -970,7 +970,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 658
+      "totalcmd": 659
     }
   ],
   "clearchat": [],
@@ -120156,10 +120156,10 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 24,
-      "hit": 238,
+      "hit": 239,
       "date": "10 Januari 2025",
-      "money": 176499,
-      "exp": 10200,
+      "money": 178499,
+      "exp": 200,
       "limit": 28,
       "speed": 0,
       "strength": 0,
@@ -120182,7 +120182,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 1,
+      "level": 2,
       "role": "Beginner",
       "balance": 2228668,
       "skillexp": 0,
