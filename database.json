@@ -1127,28 +1127,7 @@
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "Cannot read properties of undefined (reading 'videos')",
-      "cmd": "ttsearch"
-    },
-    {
-      "error": "isFiltered is not defined",
-      "cmd": "airdrop"
-    },
-    {
-      "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
-      "cmd": "weekly"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'includes')",
-      "cmd": "updategempa"
-    },
-    {
-      "error": "socket hang up",
-      "cmd": "get"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
