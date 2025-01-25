@@ -612,7 +612,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 73,
+      "succes": 74,
       "failed": 0
     },
     {
@@ -1266,7 +1266,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2047
+      "totalcmd": 2048
     }
   ],
   "clearchat": [],
@@ -47037,9 +47037,9 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5887,
-      "hit": 1071,
+      "hit": 1072,
       "date": "22 Desember 2024",
-      "money": 603813,
+      "money": 661454,
       "exp": 25063,
       "limit": 2080,
       "speed": 0,
@@ -47207,7 +47207,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737731229550,
+      "lastkerja": 1737819202810,
       "rokets": null,
       "sampah": 73,
       "kayu": 33,
