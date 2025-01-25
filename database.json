@@ -1130,6 +1130,11 @@
       "cmd": "Ai",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Addultah",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1153,7 +1158,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1488
+      "totalcmd": 1489
     }
   ],
   "clearchat": [],
@@ -77996,7 +78001,7 @@
       "autolevelup": false,
       "serial": "QFWE",
       "glimit": 18,
-      "hit": 65,
+      "hit": 66,
       "date": "29 Desember 2024",
       "money": 28834,
       "exp": 6463,
