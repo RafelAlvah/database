@@ -565,8 +565,7 @@
     "Bebaskan",
     "Bra",
     "Brar",
-    "Meny",
-    ""
+    "Meny"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1152,11 +1151,6 @@
       "failed": 0
     },
     {
-      "cmd": "",
-      "succes": 1,
-      "failed": 0
-    },
-    {
       "cmd": "Delete",
       "succes": 2,
       "failed": 0
@@ -1235,12 +1229,21 @@
       "cmd": "Ai2",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
     {
       "error": "((user.lastmonthly + cooldown) - (intermediate value)).toTimeString is not a function",
       "cmd": "monthly"
+    },
+    {
+      "error": "Cannot read properties of undefined (reading 'cmd')",
+      "cmd": ""
     }
   ],
   "jadibot": {},
@@ -1263,7 +1266,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2009
+      "totalcmd": 2010
     }
   ],
   "clearchat": [],
@@ -114898,7 +114901,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 35,
-      "hit": 1108,
+      "hit": 1109,
       "date": "7 Januari 2025",
       "money": 4426368,
       "exp": 11085,
