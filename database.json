@@ -137960,7 +137960,7 @@
       "antilinkch": false,
       "antidelete": false,
       "antiasing": false,
-      "banchat": false,
+      "banchat": true,
       "expired": 0,
       "antipromosi": false,
       "antibadword": true,
