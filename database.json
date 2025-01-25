@@ -810,7 +810,7 @@
     },
     {
       "cmd": "Listsrv",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -844,7 +844,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 441
+      "totalcmd": 442
     }
   ],
   "clearchat": [],
@@ -5877,7 +5877,7 @@
       "autolevelup": false,
       "serial": "HVYM",
       "glimit": 30,
-      "hit": 66,
+      "hit": 67,
       "date": "17 Desember 2024",
       "money": 0,
       "exp": 0,
