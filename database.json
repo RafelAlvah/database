@@ -942,6 +942,11 @@
       "cmd": "Game",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Brat2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -965,7 +970,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 590
+      "totalcmd": 591
     }
   ],
   "clearchat": [],
@@ -977,7 +982,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -7,
-      "hit": 1539,
+      "hit": 1540,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
