@@ -861,7 +861,7 @@
     },
     {
       "cmd": "Sell",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -895,7 +895,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 563
+      "totalcmd": 564
     }
   ],
   "clearchat": [],
@@ -43445,9 +43445,9 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2935,
+      "hit": 2936,
       "date": "22 Desember 2024",
-      "money": 1879373,
+      "money": 9629373,
       "exp": 56200,
       "limit": 2158,
       "speed": 3,
@@ -43493,7 +43493,7 @@
       "hubungan": 0,
       "lokasi": 0,
       "emerald": 0,
-      "diamond": 31,
+      "diamond": 0,
       "gold": 30,
       "botol": 819,
       "kardus": 2458,
