@@ -803,7 +803,7 @@
     },
     {
       "cmd": "Spdl",
-      "succes": 2,
+      "succes": 3,
       "failed": 2
     },
     {
@@ -833,7 +833,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 162,
+      "succes": 163,
       "failed": 0
     },
     {
@@ -1263,7 +1263,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1985
+      "totalcmd": 1987
     }
   ],
   "clearchat": [],
@@ -1275,7 +1275,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -8,
-      "hit": 1599,
+      "hit": 1600,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -47034,7 +47034,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5896,
-      "hit": 1039,
+      "hit": 1040,
       "date": "22 Desember 2024",
       "money": 603813,
       "exp": 25063,
