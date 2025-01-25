@@ -763,6 +763,11 @@
       "cmd": "Tarik",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Nabung",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -795,7 +800,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 231
+      "totalcmd": 232
     }
   ],
   "clearchat": [],
@@ -96369,9 +96374,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 810,
-      "hit": 6956,
+      "hit": 6957,
       "date": "3 Januari 2025",
-      "money": 655140492,
+      "money": 44613886,
       "exp": 80343,
       "limit": 360,
       "speed": 5,
@@ -96402,7 +96407,7 @@
       "chip": 0,
       "atm": 3,
       "fullatm": 1000000000,
-      "bank": 0,
+      "bank": 610526606,
       "health": 20,
       "stamina": 60,
       "potion": 51,
