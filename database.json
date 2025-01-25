@@ -694,7 +694,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 45,
+      "succes": 46,
       "failed": 0
     },
     {
@@ -823,7 +823,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 318
+      "totalcmd": 319
     }
   ],
   "clearchat": [],
@@ -46593,8 +46593,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 5815,
-      "hit": 1222,
+      "glimit": 5814,
+      "hit": 1223,
       "date": "22 Desember 2024",
       "money": 6705000,
       "exp": 25063,
@@ -46622,7 +46622,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 8116000,
+      "balance": 8117000,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
