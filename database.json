@@ -1100,6 +1100,11 @@
       "cmd": "Latih",
       "succes": 6,
       "failed": 0
+    },
+    {
+      "cmd": "Memancing",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1140,7 +1145,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1283
+      "totalcmd": 1284
     }
   ],
   "clearchat": [],
@@ -19895,7 +19900,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 2999,
+      "hit": 3000,
       "date": "20 Desember 2024",
       "money": 46332647,
       "exp": 58086,
