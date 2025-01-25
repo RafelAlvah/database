@@ -990,7 +990,7 @@
     },
     {
       "cmd": "Open",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     }
   ],
@@ -1020,7 +1020,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 955
+      "totalcmd": 956
     }
   ],
   "clearchat": [],
@@ -96588,7 +96588,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6701,
+      "hit": 6702,
       "date": "3 Januari 2025",
       "money": 42004721,
       "exp": 58943,
@@ -96637,7 +96637,7 @@
       "lokasi": 0,
       "emerald": 0,
       "diamond": 55,
-      "gold": 56,
+      "gold": 57,
       "botol": 35974,
       "kardus": 42543,
       "kaleng": 39942,
@@ -96651,7 +96651,7 @@
       "uncommon": 1,
       "mythic": 0,
       "tbox": 0,
-      "legendary": 1,
+      "legendary": 0,
       "kondom": 7,
       "umpan": 0,
       "pet": 0,
