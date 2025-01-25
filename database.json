@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1148,7 +1148,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1339
+      "totalcmd": 1340
     }
   ],
   "clearchat": [],
@@ -6181,7 +6181,7 @@
       "autolevelup": false,
       "serial": "HVYM",
       "glimit": 30,
-      "hit": 60,
+      "hit": 61,
       "date": "17 Desember 2024",
       "money": 0,
       "exp": 0,
