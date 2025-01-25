@@ -771,7 +771,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -805,7 +805,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 289
+      "totalcmd": 290
     }
   ],
   "clearchat": [],
@@ -126771,7 +126771,7 @@
       "autolevelup": false,
       "serial": "VTGJ",
       "glimit": 30,
-      "hit": 153,
+      "hit": 154,
       "date": "20 Januari 2025",
       "money": 1000,
       "exp": 0,
