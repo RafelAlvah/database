@@ -638,7 +638,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 56,
+      "succes": 58,
       "failed": 0
     },
     {
@@ -758,7 +758,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -1158,7 +1158,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1493
+      "totalcmd": 1496
     }
   ],
   "clearchat": [],
@@ -96732,10 +96732,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 862,
-      "hit": 6807,
+      "hit": 6810,
       "date": "3 Januari 2025",
-      "money": 43371350,
-      "exp": 71143,
+      "money": 43421350,
+      "exp": 71243,
       "limit": 360,
       "speed": 5,
       "strength": 6,
@@ -96766,9 +96766,9 @@
       "atm": 3,
       "fullatm": 1000000000,
       "bank": 610526606,
-      "health": 20,
-      "stamina": 70,
-      "potion": 57,
+      "health": 100,
+      "stamina": 105,
+      "potion": 54,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -96842,7 +96842,7 @@
       "lasthourly": 0,
       "lastbansos": 1737744987274,
       "lastrampok": 1737800327562,
-      "lastclaim": 1737800283068,
+      "lastclaim": 1737804999463,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
       "lastmonthly": 1736423963407,
