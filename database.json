@@ -654,7 +654,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 130,
+      "succes": 131,
       "failed": 0
     },
     {
@@ -699,7 +699,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 84,
+      "succes": 85,
       "failed": 0
     },
     {
@@ -1179,7 +1179,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1585
+      "totalcmd": 1587
     }
   ],
   "clearchat": [],
@@ -19934,7 +19934,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 3039,
+      "hit": 3040,
       "date": "20 Desember 2024",
       "money": 46612753,
       "exp": 65086,
@@ -19954,9 +19954,9 @@
       "pasangan": "",
       "age": 17,
       "regTime": 1736490255339,
-      "afk": 1737806473601,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "mau bobo🙇‍♀️🙇‍♀️",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -36230,7 +36230,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3412,
+      "hit": 3413,
       "date": "22 Desember 2024",
       "money": 63812539,
       "exp": 20000,
