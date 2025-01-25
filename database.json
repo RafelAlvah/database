@@ -458,7 +458,6 @@
     "Becak",
     "Ambil",
     "Kocag",
-    "Jadibot",
     "Suaunkata",
     "Buka",
     "Menabung",
@@ -1249,7 +1248,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1857
+      "totalcmd": 1858
     }
   ],
   "clearchat": [],
@@ -135793,7 +135792,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 25,
-      "hit": 24,
+      "hit": 25,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
