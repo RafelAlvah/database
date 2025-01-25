@@ -583,7 +583,9 @@
   "data": [
     {
       "name": "premium",
-      "id": []
+      "id": [
+        "ttsearch"
+      ]
     },
     {
       "name": "commands",
@@ -120305,7 +120307,7 @@
       "date": "10 Januari 2025",
       "money": 178499,
       "exp": 200,
-      "limit": 25,
+      "limit": 24,
       "speed": 0,
       "strength": 0,
       "defense": 0,
