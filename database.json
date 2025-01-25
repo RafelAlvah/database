@@ -706,12 +706,12 @@
     },
     {
       "cmd": "Truth",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
       "cmd": "Dare",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     }
   ],
@@ -745,7 +745,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 134
+      "totalcmd": 136
     }
   ],
   "clearchat": [],
@@ -80268,7 +80268,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2467,
-      "hit": 1978,
+      "hit": 1979,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -96319,7 +96319,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 815,
-      "hit": 6932,
+      "hit": 6933,
       "date": "3 Januari 2025",
       "money": 44450363,
       "exp": 71243,
