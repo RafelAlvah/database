@@ -946,7 +946,7 @@
     },
     {
       "cmd": "Brat2",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -1056,7 +1056,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1065
+      "totalcmd": 1066
     }
   ],
   "clearchat": [],
@@ -1068,7 +1068,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -7,
-      "hit": 1565,
+      "hit": 1566,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
