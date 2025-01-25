@@ -840,7 +840,7 @@
     },
     {
       "cmd": "Cekkhodam",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -985,7 +985,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 785
+      "totalcmd": 786
     }
   ],
   "clearchat": [],
@@ -2279,7 +2279,7 @@
       "autolevelup": false,
       "serial": "6EVV",
       "glimit": 30,
-      "hit": 216,
+      "hit": 217,
       "date": "16 Desember 2024",
       "money": 3000,
       "exp": 5000,
