@@ -1145,6 +1145,11 @@
       "cmd": "Menfes",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Rvo",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1168,7 +1173,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1521
+      "totalcmd": 1522
     }
   ],
   "clearchat": [],
@@ -96742,7 +96747,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 862,
-      "hit": 6816,
+      "hit": 6817,
       "date": "3 Januari 2025",
       "money": 44321350,
       "exp": 71243,
