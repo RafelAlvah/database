@@ -652,7 +652,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 222,
+      "succes": 223,
       "failed": 0
     },
     {
@@ -1276,7 +1276,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2116
+      "totalcmd": 2117
     }
   ],
   "clearchat": [],
@@ -121361,7 +121361,7 @@
       "autolevelup": false,
       "serial": "64P9",
       "glimit": 30,
-      "hit": 49,
+      "hit": 50,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
