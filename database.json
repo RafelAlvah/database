@@ -1055,6 +1055,11 @@
       "cmd": "Updategempa",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Dungeon",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1091,7 +1096,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1160
+      "totalcmd": 1161
     }
   ],
   "clearchat": [],
@@ -130994,7 +130999,7 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 131,
+      "hit": 132,
       "date": "23 Januari 2025",
       "money": 1035913,
       "exp": 25100,
