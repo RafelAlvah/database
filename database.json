@@ -714,7 +714,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 35,
+      "succes": 36,
       "failed": 2
     },
     {
@@ -1179,7 +1179,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1579
+      "totalcmd": 1580
     }
   ],
   "clearchat": [],
@@ -19934,7 +19934,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 3038,
+      "hit": 3039,
       "date": "20 Desember 2024",
       "money": 46612753,
       "exp": 65086,
@@ -19954,9 +19954,9 @@
       "pasangan": "",
       "age": 17,
       "regTime": 1736490255339,
-      "afk": -1,
+      "afk": 1737806473601,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "mau bobo🙇‍♀️🙇‍♀️",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
