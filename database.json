@@ -566,7 +566,8 @@
     "Bebaskan",
     "Bra",
     "Brar",
-    "Meny"
+    "Meny",
+    ""
   ],
   "anonymous": [],
   "blockcmd": [
@@ -673,7 +674,7 @@
     },
     {
       "cmd": "Leaderboard",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1150,6 +1151,11 @@
       "cmd": "Rvo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1173,7 +1179,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1560
+      "totalcmd": 1562
     }
   ],
   "clearchat": [],
@@ -36224,7 +36230,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3406,
+      "hit": 3407,
       "date": "22 Desember 2024",
       "money": 63806516,
       "exp": 26023,
@@ -133046,7 +133052,7 @@
       "autolevelup": false,
       "serial": "OMUC",
       "glimit": 30,
-      "hit": 14,
+      "hit": 15,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
