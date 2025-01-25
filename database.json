@@ -623,6 +623,11 @@
       "cmd": "Tf",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Qc",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -655,7 +660,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 6
+      "totalcmd": 7
     }
   ],
   "clearchat": [],
@@ -80178,7 +80183,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2484,
-      "hit": 1937,
+      "hit": 1938,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80198,9 +80203,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1737822200518,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "musang sama keadaan",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
