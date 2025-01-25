@@ -962,6 +962,11 @@
       "cmd": "Blacklist",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Ttp",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -985,7 +990,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 788
+      "totalcmd": 789
     }
   ],
   "clearchat": [],
@@ -997,7 +1002,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -7,
-      "hit": 1550,
+      "hit": 1551,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
