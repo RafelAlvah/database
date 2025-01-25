@@ -610,7 +610,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -1035,7 +1035,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1013
+      "totalcmd": 1014
     }
   ],
   "clearchat": [],
@@ -19792,7 +19792,7 @@
       "glimit": 98,
       "hit": 2965,
       "date": "20 Desember 2024",
-      "money": 45418684,
+      "money": 45429986,
       "exp": 44986,
       "limit": 124,
       "speed": 0,
@@ -19831,7 +19831,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 822,
+      "wood": 828,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -19961,7 +19961,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1737784392034,
-      "lastparming": 1737772834083,
+      "lastparming": 1737784397612,
       "rokets": 47,
       "lastmulung": 1737784385359,
       "lastmaling": 1736422655610,
@@ -96603,9 +96603,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6721,
+      "hit": 6722,
       "date": "3 Januari 2025",
-      "money": 42003214,
+      "money": 42123557,
       "exp": 58943,
       "limit": 360,
       "speed": 5,
@@ -96773,7 +96773,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737783185349,
+      "lastkerja": 1737784397366,
       "lastmaling": 1737393049271,
       "clay": "undefined1940",
       "sand": "undefined550",
