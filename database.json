@@ -1093,7 +1093,7 @@
     },
     {
       "cmd": "Mining",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1140,7 +1140,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1254
+      "totalcmd": 1255
     }
   ],
   "clearchat": [],
@@ -131043,7 +131043,7 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 160,
+      "hit": 161,
       "date": "23 Januari 2025",
       "money": 1069513,
       "exp": 25200,
