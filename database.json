@@ -780,7 +780,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -990,7 +990,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 801
+      "totalcmd": 802
     }
   ],
   "clearchat": [],
@@ -122137,7 +122137,7 @@
       "autolevelup": false,
       "serial": "DY0Q",
       "glimit": 30,
-      "hit": 34,
+      "hit": 35,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
