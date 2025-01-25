@@ -711,7 +711,7 @@
     },
     {
       "cmd": "Dare",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     }
   ],
@@ -745,7 +745,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 125
+      "totalcmd": 126
     }
   ],
   "clearchat": [],
@@ -114380,7 +114380,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 23,
-      "hit": 1173,
+      "hit": 1174,
       "date": "7 Januari 2025",
       "money": 1457949,
       "exp": 12185,
