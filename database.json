@@ -1063,7 +1063,7 @@
     },
     {
       "cmd": "Craft",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1125,7 +1125,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1226
+      "totalcmd": 1227
     }
   ],
   "clearchat": [],
@@ -131028,7 +131028,7 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 145,
+      "hit": 146,
       "date": "23 Januari 2025",
       "money": 1072913,
       "exp": 25200,
