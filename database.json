@@ -650,7 +650,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -695,7 +695,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -970,7 +970,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 707
+      "totalcmd": 709
     }
   ],
   "clearchat": [],
@@ -31707,7 +31707,7 @@
       "autolevelup": false,
       "serial": "WWR5",
       "glimit": 18,
-      "hit": 275,
+      "hit": 276,
       "date": "22 Desember 2024",
       "money": 1396605,
       "exp": 57450,
@@ -46741,7 +46741,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5945,
-      "hit": 932,
+      "hit": 933,
       "date": "22 Desember 2024",
       "money": 603813,
       "exp": 25063,
