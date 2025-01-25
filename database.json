@@ -97849,7 +97849,7 @@
       "glimit": 12,
       "hit": 294,
       "date": "3 Januari 2025",
-      "money": 2482455,
+      "money": 2490581,
       "exp": 17193,
       "limit": 56,
       "speed": 0,
@@ -97888,7 +97888,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 0,
+      "wood": 43,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -98018,7 +98018,8 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1737806306534,
-      "lastmulung": 1737771666486
+      "lastmulung": 1737771666486,
+      "lastparming": 1737806388483
     },
     "6282147748627@s.whatsapp.net": {
       "sticker": {},
