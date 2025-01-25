@@ -893,7 +893,7 @@
     },
     {
       "cmd": "Sell",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1155,7 +1155,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1320
+      "totalcmd": 1321
     }
   ],
   "clearchat": [],
@@ -36206,9 +36206,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3388,
+      "hit": 3389,
       "date": "22 Desember 2024",
-      "money": 63658767,
+      "money": 63758767,
       "exp": 26023,
       "limit": 11943,
       "speed": 1,
@@ -36326,7 +36326,7 @@
       "mangga": 0,
       "pisang": 1,
       "makanan": 0,
-      "bibitanggur": 100,
+      "bibitanggur": 0,
       "bibitpisang": 1,
       "bibitapel": 0,
       "bibitmangga": 0,
