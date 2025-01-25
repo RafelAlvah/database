@@ -863,7 +863,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 28,
+      "succes": 29,
       "failed": 0
     },
     {
@@ -1145,7 +1145,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1294
+      "totalcmd": 1295
     }
   ],
   "clearchat": [],
@@ -19900,9 +19900,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 3007,
+      "hit": 3008,
       "date": "20 Desember 2024",
-      "money": 46300397,
+      "money": 46280397,
       "exp": 58086,
       "limit": 124,
       "speed": 0,
@@ -20017,7 +20017,7 @@
       "apel": 0,
       "anggur": 0,
       "jeruk": 10,
-      "mangga": 2,
+      "mangga": 12,
       "pisang": 0,
       "makanan": 0,
       "bibitanggur": 0,
