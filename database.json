@@ -641,7 +641,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -765,7 +765,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 210
+      "totalcmd": 211
     }
   ],
   "clearchat": [],
@@ -46564,7 +46564,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 3000000,
+      "balance": 3150000,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -96339,7 +96339,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 810,
-      "hit": 6947,
+      "hit": 6948,
       "date": "3 Januari 2025",
       "money": 44546322,
       "exp": 71343,
