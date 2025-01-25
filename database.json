@@ -1143,7 +1143,7 @@
     },
     {
       "cmd": "Menfes",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1173,7 +1173,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1530
+      "totalcmd": 1531
     }
   ],
   "clearchat": [],
@@ -22620,7 +22620,7 @@
       "autolevelup": false,
       "serial": "E0AE",
       "glimit": 47,
-      "hit": 225,
+      "hit": 226,
       "date": "21 Desember 2024",
       "money": -18049,
       "exp": 9932,
