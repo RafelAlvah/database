@@ -1034,6 +1034,10 @@
     {
       "error": "Cannot read properties of undefined (reading 'videos')",
       "cmd": "ttsearch"
+    },
+    {
+      "error": "isFiltered is not defined",
+      "cmd": "airdrop"
     }
   ],
   "jadibot": {},
@@ -30532,11 +30536,11 @@
       "autolevelup": false,
       "serial": "2EUZ",
       "glimit": 102,
-      "hit": 903,
+      "hit": 904,
       "date": "22 Desember 2024",
-      "money": 18426882,
+      "money": 18526882,
       "exp": 15827,
-      "limit": 192,
+      "limit": 202,
       "speed": 1,
       "strength": 5,
       "defense": 1,
@@ -30642,7 +30646,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1736678535736,
-      "lastclaim": 1737775690098,
+      "lastclaim": 1737787318776,
       "lastnebang": 0,
       "lastweekly": 1737438182677,
       "lastmonthly": 1736233485036,
@@ -30713,7 +30717,7 @@
       "lastmaling": 1735906977938,
       "lastparming": 1737718799118,
       "rokets": 9,
-      "poin": 1630000,
+      "poin": 2130000,
       "sampah": 24,
       "kayu": 90,
       "batu": 107
