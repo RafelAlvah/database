@@ -1143,6 +1143,10 @@
     {
       "error": "Cannot read properties of undefined (reading 'includes')",
       "cmd": "updategempa"
+    },
+    {
+      "error": "socket hang up",
+      "cmd": "get"
     }
   ],
   "jadibot": {},
