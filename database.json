@@ -750,7 +750,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -970,7 +970,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 678
+      "totalcmd": 679
     }
   ],
   "clearchat": [],
@@ -97450,7 +97450,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 494,
-      "hit": 995,
+      "hit": 996,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97470,9 +97470,9 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1736509904536,
-      "afk": 1737759245139,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "mo skolaa",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -137645,6 +137645,10 @@
     },
     {
       "id": "6288287186174@s.whatsapp.net",
+      "count": 2
+    },
+    {
+      "id": "60189025004@s.whatsapp.net",
       "count": 2
     }
   ],
