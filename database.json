@@ -1060,6 +1060,11 @@
       "cmd": "Dungeon",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Craft",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1096,7 +1101,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1162
+      "totalcmd": 1163
     }
   ],
   "clearchat": [],
@@ -130999,7 +131004,7 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 132,
+      "hit": 133,
       "date": "23 Januari 2025",
       "money": 1035913,
       "exp": 25100,
