@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -975,7 +975,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 721
+      "totalcmd": 722
     }
   ],
   "clearchat": [],
@@ -987,7 +987,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -7,
-      "hit": 1546,
+      "hit": 1547,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
@@ -1007,9 +1007,9 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1734340571144,
-      "afk": -1,
+      "afk": 1737772013967,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "main gurda tales",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
