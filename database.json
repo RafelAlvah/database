@@ -860,7 +860,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -935,7 +935,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 420
+      "totalcmd": 421
     }
   ],
   "clearchat": [],
@@ -35986,9 +35986,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3348,
+      "hit": 3349,
       "date": "22 Desember 2024",
-      "money": 69957229,
+      "money": 68457229,
       "exp": 26023,
       "limit": 11947,
       "speed": 1,
@@ -36034,7 +36034,7 @@
       "hubungan": 0,
       "lokasi": 0,
       "emerald": 1,
-      "diamond": 45,
+      "diamond": 50,
       "gold": 21,
       "botol": 1691,
       "kardus": 2417,
