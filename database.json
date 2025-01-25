@@ -913,7 +913,7 @@
     },
     {
       "cmd": "Limit",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1155,7 +1155,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1319
+      "totalcmd": 1320
     }
   ],
   "clearchat": [],
@@ -36206,7 +36206,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3387,
+      "hit": 3388,
       "date": "22 Desember 2024",
       "money": 63658767,
       "exp": 26023,
