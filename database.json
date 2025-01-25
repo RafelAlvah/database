@@ -894,7 +894,7 @@
     },
     {
       "cmd": "Sell",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1214,7 +1214,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1795
+      "totalcmd": 1796
     }
   ],
   "clearchat": [],
@@ -36265,9 +36265,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3427,
+      "hit": 3428,
       "date": "22 Desember 2024",
-      "money": 63992539,
+      "money": 64142539,
       "exp": 20000,
       "limit": 11943,
       "speed": 1,
@@ -36312,7 +36312,7 @@
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
-      "emerald": 1,
+      "emerald": 0,
       "diamond": 50,
       "gold": 18,
       "botol": 1691,
