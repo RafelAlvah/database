@@ -997,6 +997,11 @@
       "cmd": "Menambang",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Ttsearch",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1025,7 +1030,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 966
+      "totalcmd": 967
     }
   ],
   "clearchat": [],
@@ -16567,7 +16572,7 @@
       "autolevelup": false,
       "serial": "82GO",
       "glimit": 24,
-      "hit": 188,
+      "hit": 189,
       "date": "19 Desember 2024",
       "money": 1441776,
       "exp": 6979,
