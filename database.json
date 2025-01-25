@@ -641,7 +641,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -661,7 +661,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -735,7 +735,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 90
+      "totalcmd": 92
     }
   ],
   "clearchat": [],
@@ -99008,7 +99008,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 821,
+      "hit": 823,
       "date": "3 Januari 2025",
       "money": 132824,
       "exp": 5500,
