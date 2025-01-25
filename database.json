@@ -990,7 +990,7 @@
     },
     {
       "cmd": "Open",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -1020,7 +1020,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 947
+      "totalcmd": 948
     }
   ],
   "clearchat": [],
@@ -101618,7 +101618,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 23,
-      "hit": 552,
+      "hit": 553,
       "date": "4 Januari 2025",
       "money": 6718581,
       "exp": 36545,
@@ -101654,14 +101654,14 @@
       "bank": 0,
       "health": 40,
       "stamina": 40,
-      "potion": 19,
+      "potion": 20,
       "wine": 0,
       "beer": 0,
       "trash": 0,
       "coal": 0,
       "wood": 162,
       "rock": 0,
-      "string": 0,
+      "string": 1,
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
@@ -101679,12 +101679,12 @@
       "rawiron": 0,
       "common": 1,
       "uncommon": 1,
-      "mythic": 2,
+      "mythic": 0,
       "tbox": 0,
       "legendary": 1,
       "kondom": 1,
       "umpan": 0,
-      "pet": 0,
+      "pet": 1,
       "paus": 0,
       "kepiting": 0,
       "gurita": 0,
