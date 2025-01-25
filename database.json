@@ -650,12 +650,12 @@
     },
     {
       "cmd": "Brat",
-      "succes": 59,
+      "succes": 60,
       "failed": 0
     },
     {
       "cmd": "Merampok",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1000,7 +1000,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 917
+      "totalcmd": 919
     }
   ],
   "clearchat": [],
@@ -36053,7 +36053,7 @@
       "glimit": 333,
       "hit": 3357,
       "date": "22 Desember 2024",
-      "money": 68457229,
+      "money": 68408767,
       "exp": 26023,
       "limit": 11947,
       "speed": 1,
@@ -96568,9 +96568,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6687,
+      "hit": 6688,
       "date": "3 Januari 2025",
-      "money": 45559218,
+      "money": 45607680,
       "exp": 58943,
       "limit": 369,
       "speed": 5,
@@ -96677,7 +96677,7 @@
       "lastdagang": 1737749839326,
       "lasthourly": 0,
       "lastbansos": 1737744987274,
-      "lastrampok": 1737749811854,
+      "lastrampok": 1737782191447,
       "lastclaim": 1737781813016,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
@@ -132866,7 +132866,7 @@
       "autolevelup": false,
       "serial": "OMUC",
       "glimit": 30,
-      "hit": 5,
+      "hit": 6,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
