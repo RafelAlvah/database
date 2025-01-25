@@ -728,6 +728,11 @@
       "cmd": "Aigemini",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Tt",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -760,7 +765,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 168
+      "totalcmd": 169
     }
   ],
   "clearchat": [],
@@ -80648,11 +80653,11 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 28,
-      "hit": 199,
+      "hit": 200,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 23,
+      "limit": 22,
       "speed": 0,
       "strength": 0,
       "defense": 0,
