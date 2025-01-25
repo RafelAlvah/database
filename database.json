@@ -1040,7 +1040,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1044
+      "totalcmd": 1045
     }
   ],
   "clearchat": [],
@@ -36091,7 +36091,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3363,
+      "hit": 3364,
       "date": "22 Desember 2024",
       "money": 68408767,
       "exp": 26023,
@@ -53630,7 +53630,7 @@
       "warning": 0,
       "level": 9,
       "role": "Beginner",
-      "balance": 3297385,
+      "balance": 3298385,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
