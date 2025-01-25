@@ -937,7 +937,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -947,7 +947,7 @@
     },
     {
       "cmd": "Brat2",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -1276,7 +1276,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2105
+      "totalcmd": 2107
     }
   ],
   "clearchat": [],
@@ -97762,7 +97762,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 494,
-      "hit": 1014,
+      "hit": 1015,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -114910,8 +114910,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "968H",
-      "glimit": 29,
-      "hit": 1152,
+      "glimit": 28,
+      "hit": 1153,
       "date": "7 Januari 2025",
       "money": 1457949,
       "exp": 12185,
