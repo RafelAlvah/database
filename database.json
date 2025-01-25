@@ -654,7 +654,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 143,
+      "succes": 144,
       "failed": 0
     },
     {
@@ -829,7 +829,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 162,
+      "succes": 163,
       "failed": 0
     },
     {
@@ -1189,7 +1189,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1631
+      "totalcmd": 1633
     }
   ],
   "clearchat": [],
@@ -19943,8 +19943,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 98,
-      "hit": 3047,
+      "glimit": 97,
+      "hit": 3048,
       "date": "20 Desember 2024",
       "money": 46701991,
       "exp": 65086,
@@ -130743,7 +130743,7 @@
       "autolevelup": false,
       "serial": "JSBC",
       "glimit": 30,
-      "hit": 59,
+      "hit": 60,
       "date": "23 Januari 2025",
       "money": 1000,
       "exp": 0,
