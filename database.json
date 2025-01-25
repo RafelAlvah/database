@@ -611,7 +611,7 @@
   "dashboard": [
     {
       "cmd": "Afk",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -655,7 +655,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 4
+      "totalcmd": 5
     }
   ],
   "clearchat": [],
@@ -48753,7 +48753,7 @@
       "autolevelup": false,
       "serial": "FBAW",
       "glimit": 43,
-      "hit": 1077,
+      "hit": 1078,
       "date": "22 Desember 2024",
       "money": 1129727,
       "exp": 96059,
@@ -48773,7 +48773,7 @@
       "pasangan": "6287764444301@s.whatsapp.net",
       "age": 11,
       "regTime": 1736638851504,
-      "afk": -1,
+      "afk": 1737822132519,
       "unreg": true,
       "afkReason": "",
       "banned": false,
