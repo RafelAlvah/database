@@ -832,6 +832,11 @@
       "cmd": "Cekprem",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Bonus",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -864,7 +869,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 549
+      "totalcmd": 550
     }
   ],
   "clearchat": [],
@@ -43414,7 +43419,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2922,
+      "hit": 2923,
       "date": "22 Desember 2024",
       "money": 1878949,
       "exp": 6100,
