@@ -680,7 +680,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -975,7 +975,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 760
+      "totalcmd": 761
     }
   ],
   "clearchat": [],
@@ -46774,7 +46774,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 32777822,
+      "balance": 32727822,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -132129,7 +132129,7 @@
       "autolevelup": false,
       "serial": "GNHT",
       "glimit": 24,
-      "hit": 57,
+      "hit": 58,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
