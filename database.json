@@ -850,7 +850,7 @@
     },
     {
       "cmd": "Buka",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -884,7 +884,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 558
+      "totalcmd": 559
     }
   ],
   "clearchat": [],
@@ -43434,7 +43434,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2931,
+      "hit": 2932,
       "date": "22 Desember 2024",
       "money": 1978948,
       "exp": 56200,
@@ -43494,7 +43494,7 @@
       "rawgold": 0,
       "rawiron": 0,
       "common": 0,
-      "uncommon": 1,
+      "uncommon": 0,
       "mythic": 0,
       "tbox": 0,
       "legendary": 1,
