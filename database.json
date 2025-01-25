@@ -625,7 +625,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -940,7 +940,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 464
+      "totalcmd": 465
     }
   ],
   "clearchat": [],
@@ -96508,9 +96508,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6669,
+      "hit": 6670,
       "date": "3 Januari 2025",
-      "money": 44610971,
+      "money": 44615504,
       "exp": 49943,
       "limit": 360,
       "speed": 5,
@@ -96549,7 +96549,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 1642,
+      "wood": 1652,
       "rock": 4,
       "string": 4,
       "petfood": 0,
@@ -96686,7 +96686,7 @@
       "emas": "undefined60",
       "tiketcoin": "undefined60",
       "lastnambang": 1736243261278,
-      "lastparming": 1737749713766,
+      "lastparming": 1737768662654,
       "lastmulung": 1737749928058,
       "rokets": 86,
       "sampah": 231,
