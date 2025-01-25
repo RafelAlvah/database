@@ -700,7 +700,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -830,7 +830,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 46,
+      "succes": 47,
       "failed": 0
     },
     {
@@ -965,7 +965,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 533
+      "totalcmd": 535
     }
   ],
   "clearchat": [],
@@ -46736,7 +46736,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5989,
-      "hit": 840,
+      "hit": 841,
       "date": "22 Desember 2024",
       "money": 603813,
       "exp": 25063,
@@ -115316,11 +115316,11 @@
       "autolevelup": false,
       "serial": "Z6RY",
       "glimit": 30,
-      "hit": 28,
+      "hit": 29,
       "date": "7 Januari 2025",
       "money": 1000,
       "exp": 0,
-      "limit": 16,
+      "limit": 15,
       "speed": 0,
       "strength": 0,
       "defense": 0,
