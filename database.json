@@ -636,7 +636,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -905,7 +905,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 580
+      "totalcmd": 581
     }
   ],
   "clearchat": [],
@@ -114541,9 +114541,9 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 21,
-      "hit": 1184,
+      "hit": 1185,
       "date": "7 Januari 2025",
-      "money": 1457949,
+      "money": 1597336,
       "exp": 12185,
       "limit": 69,
       "speed": 1,
@@ -114561,9 +114561,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1736259401454,
-      "afk": 1737826690124,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "molor",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -114711,7 +114711,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737820030678,
+      "lastkerja": 1737846672852,
       "lastmaling": 1736290186303,
       "lastmulung": 1737717031430,
       "rokets": 11,
