@@ -654,7 +654,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 145,
+      "succes": 146,
       "failed": 0
     },
     {
@@ -834,7 +834,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 117,
+      "succes": 118,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1674
+      "totalcmd": 1676
     }
   ],
   "clearchat": [],
@@ -96768,7 +96768,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 850,
-      "hit": 6850,
+      "hit": 6851,
       "date": "3 Januari 2025",
       "money": 44450363,
       "exp": 71243,
@@ -130748,7 +130748,7 @@
       "autolevelup": false,
       "serial": "JSBC",
       "glimit": 30,
-      "hit": 60,
+      "hit": 61,
       "date": "23 Januari 2025",
       "money": 1000,
       "exp": 0,
