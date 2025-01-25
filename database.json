@@ -825,7 +825,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 38,
+      "succes": 39,
       "failed": 0
     },
     {
@@ -950,7 +950,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 480
+      "totalcmd": 481
     }
   ],
   "clearchat": [],
@@ -46720,8 +46720,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 6001,
-      "hit": 818,
+      "glimit": 6000,
+      "hit": 819,
       "date": "22 Desember 2024",
       "money": 603813,
       "exp": 25063,
