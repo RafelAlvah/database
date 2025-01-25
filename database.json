@@ -706,7 +706,7 @@
     },
     {
       "cmd": "Ytmp4",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 34,
+      "succes": 35,
       "failed": 0
     },
     {
@@ -1023,6 +1023,11 @@
       "cmd": "Bebaskan",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Telestick",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1051,7 +1056,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1061
+      "totalcmd": 1064
     }
   ],
   "clearchat": [],
@@ -1063,7 +1068,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -7,
-      "hit": 1564,
+      "hit": 1565,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
@@ -36102,11 +36107,11 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3368,
+      "hit": 3369,
       "date": "22 Desember 2024",
       "money": 68408767,
       "exp": 26023,
-      "limit": 11944,
+      "limit": 11943,
       "speed": 1,
       "strength": 29,
       "defense": 1,
@@ -96619,7 +96624,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6728,
+      "hit": 6729,
       "date": "3 Januari 2025",
       "money": 42057583,
       "exp": 58943,
