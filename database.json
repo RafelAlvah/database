@@ -1225,6 +1225,11 @@
       "cmd": "Jadian",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Terima",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1253,7 +1258,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1940
+      "totalcmd": 1941
     }
   ],
   "clearchat": [],
@@ -2356,7 +2361,7 @@
       "autolevelup": false,
       "serial": "GIEU",
       "glimit": -550,
-      "hit": 2325,
+      "hit": 2326,
       "date": "16 Desember 2024",
       "money": 1556142,
       "exp": 2107,
