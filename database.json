@@ -675,7 +675,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -879,7 +879,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 556
+      "totalcmd": 557
     }
   ],
   "clearchat": [],
@@ -43429,7 +43429,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2929,
+      "hit": 2930,
       "date": "22 Desember 2024",
       "money": 1978948,
       "exp": 56200,
