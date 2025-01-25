@@ -1079,10 +1079,6 @@
     {
       "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
       "cmd": "weekly"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'includes')",
-      "cmd": "updategempa"
     }
   ],
   "jadibot": {},
@@ -1117,7 +1113,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -8,
-      "hit": 1585,
+      "hit": 1584,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
@@ -131008,9 +131004,9 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 148,
+      "hit": 135,
       "date": "23 Januari 2025",
-      "money": 715363,
+      "money": 1035913,
       "exp": 25100,
       "limit": 80,
       "speed": 0,
@@ -131049,13 +131045,13 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 72,
-      "rock": 4,
-      "string": 20,
+      "wood": 82,
+      "rock": 1,
+      "string": 0,
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
-      "emerald": 1,
+      "emerald": 0,
       "diamond": 0,
       "gold": 0,
       "botol": 196,
@@ -131063,7 +131059,7 @@
       "kaleng": 269,
       "gelas": 558,
       "plastik": 346,
-      "iron": 5,
+      "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
@@ -131162,8 +131158,8 @@
       "robodurability": 0,
       "armor": 0,
       "armordurability": 0,
-      "sword": 1,
-      "sworddurability": 40,
+      "sword": 0,
+      "sworddurability": 0,
       "pickaxe": 0,
       "pickaxedurability": 0,
       "fishingrod": 0,
@@ -138467,7 +138463,7 @@
         "key": {
           "remoteJid": "120363361865610907@g.us",
           "fromMe": false,
-          "id": "2FCB48C6A9A1932DC3BD209AF9BB0E6F",
+          "id": "F7754788897016B27CAF7C078EB45C38",
           "participant": "6287737937323@s.whatsapp.net"
         },
         "message": {
@@ -138484,7 +138480,7 @@
             "inviteLinkGroupTypeV2": "DEFAULT"
           }
         },
-        "messageTimestamp": "1737790533",
+        "messageTimestamp": "1737790366",
         "broadcast": false,
         "pushName": "«< R >»"
       },
