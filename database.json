@@ -668,6 +668,11 @@
       "cmd": "Menu",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Money",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -700,7 +705,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 20
+      "totalcmd": 21
     }
   ],
   "clearchat": [],
@@ -19455,7 +19460,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 95,
-      "hit": 3078,
+      "hit": 3079,
       "date": "20 Desember 2024",
       "money": 41338913,
       "exp": 70086,
