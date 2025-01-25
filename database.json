@@ -713,6 +713,11 @@
       "cmd": "Dare",
       "succes": 25,
       "failed": 0
+    },
+    {
+      "cmd": "Family100",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -745,7 +750,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 145
+      "totalcmd": 146
     }
   ],
   "clearchat": [],
@@ -96318,8 +96323,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 815,
-      "hit": 6937,
+      "glimit": 814,
+      "hit": 6938,
       "date": "3 Januari 2025",
       "money": 44450363,
       "exp": 71243,
@@ -126205,7 +126210,7 @@
       "warning": 0,
       "level": 0,
       "role": "Beginner",
-      "balance": 16545167,
+      "balance": 16546167,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
