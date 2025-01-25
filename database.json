@@ -623,7 +623,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 24,
+      "succes": 25,
       "failed": 0
     },
     {
@@ -1150,7 +1150,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1308
+      "totalcmd": 1309
     }
   ],
   "clearchat": [],
@@ -19905,7 +19905,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 3018,
+      "hit": 3019,
       "date": "20 Desember 2024",
       "money": 46431256,
       "exp": 58086,
