@@ -612,7 +612,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 74,
+      "succes": 75,
       "failed": 0
     },
     {
@@ -632,7 +632,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 48,
+      "succes": 49,
       "failed": 0
     },
     {
@@ -1266,7 +1266,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2050
+      "totalcmd": 2052
     }
   ],
   "clearchat": [],
@@ -80789,7 +80789,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2484,
-      "hit": 1921,
+      "hit": 1922,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -114901,7 +114901,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 35,
-      "hit": 1128,
+      "hit": 1129,
       "date": "7 Januari 2025",
       "money": 4550721,
       "exp": 11085,
