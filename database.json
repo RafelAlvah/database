@@ -618,7 +618,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -1153,7 +1153,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1445
+      "totalcmd": 1446
     }
   ],
   "clearchat": [],
@@ -36204,9 +36204,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3394,
+      "hit": 3395,
       "date": "22 Desember 2024",
-      "money": 63758767,
+      "money": 63806516,
       "exp": 26023,
       "limit": 11943,
       "speed": 1,
@@ -36245,7 +36245,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 28,
+      "wood": 70,
       "rock": 12,
       "string": 0,
       "petfood": 0,
@@ -36383,7 +36383,7 @@
       "lastkerja": 1737702936158,
       "lastmaling": 1736652257808,
       "rokets": 7,
-      "lastparming": 1735973711565,
+      "lastparming": 1737802452359,
       "lastmulung": 1737454194947,
       "ultahSent": "01,01",
       "sampah": 180,
