@@ -1220,6 +1220,11 @@
       "cmd": "Tts",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Jadian",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1248,7 +1253,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1858
+      "totalcmd": 1859
     }
   ],
   "clearchat": [],
@@ -135792,7 +135797,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 25,
-      "hit": 25,
+      "hit": 26,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
