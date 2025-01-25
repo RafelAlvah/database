@@ -713,7 +713,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 29,
+      "succes": 30,
       "failed": 2
     },
     {
@@ -1153,7 +1153,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1461
+      "totalcmd": 1462
     }
   ],
   "clearchat": [],
@@ -36204,7 +36204,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3398,
+      "hit": 3399,
       "date": "22 Desember 2024",
       "money": 63806516,
       "exp": 26023,
@@ -36224,9 +36224,9 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1736653617488,
-      "afk": 1737803549587,
+      "afk": 1737803670590,
       "unreg": true,
-      "afkReason": "lieur",
+      "afkReason": "inpokan jamet social islands",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
