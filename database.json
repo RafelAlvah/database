@@ -893,7 +893,7 @@
     },
     {
       "cmd": "Sell",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1211
+      "totalcmd": 1212
     }
   ],
   "clearchat": [],
@@ -131023,9 +131023,9 @@
       "autolevelup": false,
       "serial": "NL9H",
       "glimit": 19,
-      "hit": 138,
+      "hit": 139,
       "date": "23 Januari 2025",
-      "money": 1035913,
+      "money": 1045913,
       "exp": 25100,
       "limit": 79,
       "speed": 0,
@@ -131138,7 +131138,7 @@
       "lastweekly": 1737790169918,
       "lastmonthly": 1737790178420,
       "apel": 0,
-      "anggur": 10,
+      "anggur": 0,
       "jeruk": 0,
       "mangga": 0,
       "pisang": 1,
