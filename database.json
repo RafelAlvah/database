@@ -711,7 +711,7 @@
     {
       "cmd": "Afk",
       "succes": 19,
-      "failed": 1
+      "failed": 2
     },
     {
       "cmd": "Tembak",
@@ -1030,7 +1030,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 981
+      "totalcmd": 982
     }
   ],
   "clearchat": [],
@@ -1042,7 +1042,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -7,
-      "hit": 1556,
+      "hit": 1557,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
@@ -36085,7 +36085,7 @@
       "date": "22 Desember 2024",
       "money": 68408767,
       "exp": 26023,
-      "limit": 11947,
+      "limit": 11946,
       "speed": 1,
       "strength": 29,
       "defense": 1,
@@ -96602,7 +96602,7 @@
       "date": "3 Januari 2025",
       "money": 42003214,
       "exp": 58943,
-      "limit": 367,
+      "limit": 366,
       "speed": 5,
       "strength": 6,
       "defense": 5,
