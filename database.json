@@ -622,7 +622,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -1266,7 +1266,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2043
+      "totalcmd": 2044
     }
   ],
   "clearchat": [],
@@ -99904,7 +99904,7 @@
       "autolevelup": false,
       "serial": "0YVF",
       "glimit": 30,
-      "hit": 74,
+      "hit": 75,
       "date": "4 Januari 2025",
       "money": 6000,
       "exp": 7002,
