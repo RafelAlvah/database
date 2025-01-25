@@ -860,7 +860,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1035,7 +1035,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1015
+      "totalcmd": 1016
     }
   ],
   "clearchat": [],
@@ -96603,9 +96603,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6722,
+      "hit": 6723,
       "date": "3 Januari 2025",
-      "money": 42123557,
+      "money": 42061057,
       "exp": 58943,
       "limit": 360,
       "speed": 5,
@@ -96639,7 +96639,7 @@
       "bank": 610526606,
       "health": 20,
       "stamina": 80,
-      "potion": 13,
+      "potion": 63,
       "wine": 0,
       "beer": 0,
       "trash": 0,
