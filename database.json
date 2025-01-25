@@ -713,7 +713,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 25,
+      "succes": 26,
       "failed": 2
     },
     {
@@ -1153,7 +1153,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1344
+      "totalcmd": 1345
     }
   ],
   "clearchat": [],
@@ -7076,7 +7076,7 @@
       "autolevelup": false,
       "serial": "DBZS",
       "glimit": 27,
-      "hit": 55,
+      "hit": 56,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 7996,
@@ -7096,9 +7096,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1737728614670,
-      "afk": -1,
+      "afk": 1737797322266,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "afk",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
