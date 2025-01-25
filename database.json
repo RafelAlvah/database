@@ -829,7 +829,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 193,
+      "succes": 194,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1722
+      "totalcmd": 1723
     }
   ],
   "clearchat": [],
@@ -96767,8 +96767,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 826,
-      "hit": 6889,
+      "glimit": 825,
+      "hit": 6890,
       "date": "3 Januari 2025",
       "money": 44450363,
       "exp": 71243,
@@ -96796,7 +96796,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 98967777,
+      "balance": 99117777,
       "skillexp": 0,
       "chip": 0,
       "atm": 3,
