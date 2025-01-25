@@ -828,7 +828,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 236,
+      "succes": 237,
       "failed": 0
     },
     {
@@ -1263,7 +1263,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2007
+      "totalcmd": 2008
     }
   ],
   "clearchat": [],
@@ -47033,8 +47033,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 5889,
-      "hit": 1056,
+      "glimit": 5888,
+      "hit": 1057,
       "date": "22 Desember 2024",
       "money": 603813,
       "exp": 25063,
@@ -80806,9 +80806,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1737816603761,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "scroll ttk , sambil berharap dia balik😓🦶🏿🆙",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
