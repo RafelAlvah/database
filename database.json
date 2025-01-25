@@ -642,7 +642,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 91,
+      "succes": 92,
       "failed": 0
     },
     {
@@ -652,7 +652,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 78,
+      "succes": 79,
       "failed": 0
     },
     {
@@ -1071,7 +1071,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1101
+      "totalcmd": 1103
     }
   ],
   "clearchat": [],
@@ -1082,8 +1082,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "BDCE",
-      "glimit": -7,
-      "hit": 1574,
+      "glimit": -8,
+      "hit": 1576,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
