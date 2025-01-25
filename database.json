@@ -633,6 +633,11 @@
       "cmd": "Kerja",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Mulung",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -665,7 +670,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 10
+      "totalcmd": 11
     }
   ],
   "clearchat": [],
@@ -19420,7 +19425,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 95,
-      "hit": 3068,
+      "hit": 3069,
       "date": "20 Desember 2024",
       "money": 41320398,
       "exp": 70086,
@@ -19470,11 +19475,11 @@
       "emerald": 1,
       "diamond": 70,
       "gold": 63,
-      "botol": 41169,
-      "kardus": 45323,
-      "kaleng": 44753,
-      "gelas": 42944,
-      "plastik": 41248,
+      "botol": 41684,
+      "kardus": 45498,
+      "kaleng": 45740,
+      "gelas": 43561,
+      "plastik": 41977,
       "iron": 5,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -19593,7 +19598,7 @@
       "lastkerja": 1737822519883,
       "lastparming": 1737820183815,
       "rokets": 51,
-      "lastmulung": 1737820175605,
+      "lastmulung": 1737822525911,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
       "sand": "undefined850",
