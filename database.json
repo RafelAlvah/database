@@ -771,7 +771,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -805,7 +805,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 290
+      "totalcmd": 291
     }
   ],
   "clearchat": [],
@@ -46604,7 +46604,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 7009000,
+      "balance": 7159000,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -126771,7 +126771,7 @@
       "autolevelup": false,
       "serial": "VTGJ",
       "glimit": 30,
-      "hit": 154,
+      "hit": 155,
       "date": "20 Januari 2025",
       "money": 1000,
       "exp": 0,
