@@ -640,7 +640,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 75,
+      "succes": 76,
       "failed": 0
     },
     {
@@ -750,7 +750,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1040,7 +1040,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1040
+      "totalcmd": 1042
     }
   ],
   "clearchat": [],
@@ -2334,7 +2334,7 @@
       "autolevelup": false,
       "serial": "6EVV",
       "glimit": 30,
-      "hit": 224,
+      "hit": 225,
       "date": "16 Desember 2024",
       "money": 3000,
       "exp": 5000,
@@ -53601,8 +53601,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "FNTJ",
-      "glimit": 14594,
-      "hit": 2150,
+      "glimit": 14593,
+      "hit": 2151,
       "date": "24 Desember 2024",
       "money": 4240904,
       "exp": 16020,
