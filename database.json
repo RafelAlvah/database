@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -970,7 +970,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 705
+      "totalcmd": 706
     }
   ],
   "clearchat": [],
@@ -120156,7 +120156,7 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 18,
-      "hit": 257,
+      "hit": 258,
       "date": "10 Januari 2025",
       "money": 178499,
       "exp": 200,
@@ -120176,7 +120176,7 @@
       "pasangan": "",
       "age": 18,
       "regTime": 1736557774918,
-      "afk": -1,
+      "afk": 1737771726804,
       "unreg": false,
       "afkReason": "",
       "banned": false,
