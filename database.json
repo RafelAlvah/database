@@ -987,6 +987,11 @@
       "cmd": "Monthly",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Open",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1015,7 +1020,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 945
+      "totalcmd": 946
     }
   ],
   "clearchat": [],
@@ -101613,7 +101618,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 23,
-      "hit": 550,
+      "hit": 551,
       "date": "4 Januari 2025",
       "money": 6718581,
       "exp": 36545,
@@ -101654,7 +101659,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 161,
+      "wood": 162,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -101672,9 +101677,9 @@
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
-      "common": 0,
-      "uncommon": 0,
-      "mythic": 3,
+      "common": 1,
+      "uncommon": 1,
+      "mythic": 2,
       "tbox": 0,
       "legendary": 1,
       "kondom": 1,
