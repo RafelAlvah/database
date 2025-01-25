@@ -721,12 +721,12 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 40,
+      "succes": 41,
       "failed": 0
     },
     {
       "cmd": "Aigemini",
-      "succes": 36,
+      "succes": 37,
       "failed": 0
     },
     {
@@ -800,7 +800,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 272
+      "totalcmd": 274
     }
   ],
   "clearchat": [],
@@ -46570,8 +46570,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 5840,
-      "hit": 1182,
+      "glimit": 5839,
+      "hit": 1184,
       "date": "22 Desember 2024",
       "money": 6705000,
       "exp": 25063,
@@ -76424,7 +76424,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 47700,
+      "balance": 48700,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
