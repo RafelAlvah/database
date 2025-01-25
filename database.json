@@ -612,7 +612,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 70,
+      "succes": 71,
       "failed": 0
     },
     {
@@ -627,7 +627,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 24,
+      "succes": 25,
       "failed": 0
     },
     {
@@ -1266,7 +1266,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2041
+      "totalcmd": 2043
     }
   ],
   "clearchat": [],
@@ -47037,7 +47037,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5887,
-      "hit": 1068,
+      "hit": 1069,
       "date": "22 Desember 2024",
       "money": 603813,
       "exp": 25063,
@@ -47147,7 +47147,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1736430826318,
-      "lastclaim": 1737771026621,
+      "lastclaim": 1737819175555,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
@@ -47209,9 +47209,9 @@
       "timeEnd": "",
       "lastkerja": 1737731229550,
       "rokets": null,
-      "sampah": 30,
-      "kayu": 28,
-      "batu": 45,
+      "sampah": 73,
+      "kayu": 33,
+      "batu": 94,
       "lastmulung": 1737819169999
     },
     "6285800383349@s.whatsapp.net": {
@@ -114901,9 +114901,9 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 35,
-      "hit": 1125,
+      "hit": 1126,
       "date": "7 Januari 2025",
-      "money": 4426368,
+      "money": 4550721,
       "exp": 11085,
       "limit": 72,
       "speed": 1,
@@ -115071,7 +115071,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737759661415,
+      "lastkerja": 1737819175577,
       "lastmaling": 1736290186303,
       "lastmulung": 1737717031430,
       "rokets": 10,
