@@ -894,7 +894,7 @@
     },
     {
       "cmd": "Sell",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -1214,7 +1214,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1793
+      "totalcmd": 1794
     }
   ],
   "clearchat": [],
@@ -36265,9 +36265,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3426,
+      "hit": 3427,
       "date": "22 Desember 2024",
-      "money": 63812539,
+      "money": 63992539,
       "exp": 20000,
       "limit": 11943,
       "speed": 1,
@@ -36331,7 +36331,7 @@
       "legendary": 0,
       "kondom": 3,
       "umpan": 0,
-      "pet": 3,
+      "pet": 0,
       "paus": 7,
       "kepiting": 12,
       "gurita": 10,
