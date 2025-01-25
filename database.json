@@ -653,7 +653,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 81,
+      "succes": 82,
       "failed": 0
     },
     {
@@ -753,7 +753,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -1077,7 +1077,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1107
+      "totalcmd": 1109
     }
   ],
   "clearchat": [],
@@ -1089,7 +1089,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -8,
-      "hit": 1580,
+      "hit": 1582,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
