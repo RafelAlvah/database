@@ -620,7 +620,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -970,7 +970,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 700
+      "totalcmd": 701
     }
   ],
   "clearchat": [],
@@ -97632,7 +97632,7 @@
       "autolevelup": false,
       "serial": "OYAO",
       "glimit": 15,
-      "hit": 281,
+      "hit": 282,
       "date": "3 Januari 2025",
       "money": 2314997,
       "exp": 17093,
