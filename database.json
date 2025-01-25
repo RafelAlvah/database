@@ -700,7 +700,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -990,7 +990,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 798
+      "totalcmd": 799
     }
   ],
   "clearchat": [],
@@ -56238,11 +56238,11 @@
       "autolevelup": false,
       "serial": "FFZV",
       "glimit": 30,
-      "hit": 15,
+      "hit": 16,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 19,
+      "limit": 18,
       "speed": 0,
       "strength": 0,
       "defense": 0,
