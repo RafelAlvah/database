@@ -1012,6 +1012,11 @@
       "cmd": "Styletext",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Logomaker",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1040,7 +1045,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1048
+      "totalcmd": 1049
     }
   ],
   "clearchat": [],
@@ -36091,11 +36096,11 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3364,
+      "hit": 3365,
       "date": "22 Desember 2024",
       "money": 68408767,
       "exp": 26023,
-      "limit": 11946,
+      "limit": 11945,
       "speed": 1,
       "strength": 29,
       "defense": 1,
