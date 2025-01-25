@@ -753,7 +753,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 65,
+      "succes": 66,
       "failed": 0
     },
     {
@@ -1253,7 +1253,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1900
+      "totalcmd": 1901
     }
   ],
   "clearchat": [],
@@ -36304,7 +36304,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3455,
+      "hit": 3456,
       "date": "22 Desember 2024",
       "money": 62681947,
       "exp": 20000,
@@ -36324,9 +36324,9 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1736653617488,
-      "afk": 1737816413844,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "lieur ah salome",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
