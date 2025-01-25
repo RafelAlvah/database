@@ -663,6 +663,11 @@
       "cmd": "Airdrop",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -695,7 +700,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 19
+      "totalcmd": 20
     }
   ],
   "clearchat": [],
@@ -19450,7 +19455,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 95,
-      "hit": 3077,
+      "hit": 3078,
       "date": "20 Desember 2024",
       "money": 41338913,
       "exp": 70086,
