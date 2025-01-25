@@ -1228,7 +1228,7 @@
     },
     {
       "cmd": "Terima",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1258,7 +1258,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1948
+      "totalcmd": 1949
     }
   ],
   "clearchat": [],
@@ -2361,7 +2361,7 @@
       "autolevelup": false,
       "serial": "GIEU",
       "glimit": -550,
-      "hit": 2326,
+      "hit": 2327,
       "date": "16 Desember 2024",
       "money": 1556142,
       "exp": 2107,
