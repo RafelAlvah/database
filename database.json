@@ -638,6 +638,11 @@
       "cmd": "Mulung",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Nebang",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -670,7 +675,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 11
+      "totalcmd": 12
     }
   ],
   "clearchat": [],
@@ -19425,9 +19430,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 95,
-      "hit": 3069,
+      "hit": 3070,
       "date": "20 Desember 2024",
-      "money": 41320398,
+      "money": 41345163,
       "exp": 70086,
       "limit": 124,
       "speed": 0,
@@ -19466,7 +19471,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 869,
+      "wood": 880,
       "rock": 1,
       "string": 1,
       "petfood": 0,
@@ -19596,7 +19601,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1737822519883,
-      "lastparming": 1737820183815,
+      "lastparming": 1737822534640,
       "rokets": 51,
       "lastmulung": 1737822525911,
       "lastmaling": 1736422655610,
