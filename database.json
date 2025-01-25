@@ -611,7 +611,7 @@
   "dashboard": [
     {
       "cmd": "Afk",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -660,7 +660,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 8
+      "totalcmd": 9
     }
   ],
   "clearchat": [],
@@ -97146,7 +97146,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 494,
-      "hit": 1020,
+      "hit": 1021,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97166,9 +97166,9 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1736509904536,
-      "afk": -1,
+      "afk": 1737822365833,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "mo mknn seblakk",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
