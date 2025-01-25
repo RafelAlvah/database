@@ -670,7 +670,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -859,7 +859,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 546
+      "totalcmd": 547
     }
   ],
   "clearchat": [],
@@ -1962,7 +1962,7 @@
       "autolevelup": false,
       "serial": "GIEU",
       "glimit": -550,
-      "hit": 2328,
+      "hit": 2329,
       "date": "16 Desember 2024",
       "money": 1556142,
       "exp": 2107,
