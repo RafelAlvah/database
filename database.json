@@ -863,7 +863,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1140,7 +1140,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1275
+      "totalcmd": 1276
     }
   ],
   "clearchat": [],
@@ -19895,9 +19895,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 2991,
+      "hit": 2992,
       "date": "20 Desember 2024",
-      "money": 46960647,
+      "money": 46460647,
       "exp": 58086,
       "limit": 124,
       "speed": 0,
@@ -19942,7 +19942,7 @@
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
-      "emerald": 0,
+      "emerald": 2,
       "diamond": 75,
       "gold": 63,
       "botol": 39698,
