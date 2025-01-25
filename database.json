@@ -609,13 +609,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6283867902727",
-      "expired": 1737818196279
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Kerja",
@@ -47068,7 +47062,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 37178333,
+      "balance": 37328333,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
