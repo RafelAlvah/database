@@ -685,7 +685,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 21,
+      "succes": 22,
       "failed": 0
     },
     {
@@ -970,7 +970,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 692
+      "totalcmd": 693
     }
   ],
   "clearchat": [],
@@ -120156,11 +120156,11 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 18,
-      "hit": 251,
+      "hit": 252,
       "date": "10 Januari 2025",
       "money": 178499,
       "exp": 200,
-      "limit": 28,
+      "limit": 27,
       "speed": 0,
       "strength": 0,
       "defense": 0,
