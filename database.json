@@ -922,6 +922,11 @@
       "cmd": "Pin",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Rpg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -945,7 +950,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 477
+      "totalcmd": 479
     }
   ],
   "clearchat": [],
@@ -114573,7 +114578,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1090,
+      "hit": 1091,
       "date": "7 Januari 2025",
       "money": 3926368,
       "exp": 4085,
@@ -135125,7 +135130,7 @@
       "autolevelup": false,
       "serial": "IKLG",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
@@ -137173,7 +137178,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "creator": "",
-      "rpg": false,
+      "rpg": true,
       "game": false,
       "autolevelup": false,
       "simi": true,
