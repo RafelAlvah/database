@@ -1073,7 +1073,7 @@
     },
     {
       "cmd": "Addnotifsholat",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1115,7 +1115,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1176
+      "totalcmd": 1177
     }
   ],
   "clearchat": [],
@@ -1127,7 +1127,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -8,
-      "hit": 1591,
+      "hit": 1592,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
