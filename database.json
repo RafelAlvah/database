@@ -930,7 +930,7 @@
     },
     {
       "cmd": "Register",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -990,7 +990,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 796
+      "totalcmd": 797
     }
   ],
   "clearchat": [],
@@ -56238,7 +56238,7 @@
       "autolevelup": false,
       "serial": "FFZV",
       "glimit": 30,
-      "hit": 14,
+      "hit": 15,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -56250,14 +56250,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "al",
+      "registered": true,
+      "name": "alicia",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 16,
+      "regTime": 1737774556825,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
