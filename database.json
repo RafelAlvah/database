@@ -1105,6 +1105,11 @@
       "cmd": "Memancing",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Makan",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1145,7 +1150,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1302
+      "totalcmd": 1303
     }
   ],
   "clearchat": [],
@@ -19900,7 +19905,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 3014,
+      "hit": 3015,
       "date": "20 Desember 2024",
       "money": 46301601,
       "exp": 58086,
