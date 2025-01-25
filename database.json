@@ -712,7 +712,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 42,
+      "succes": 43,
       "failed": 2
     },
     {
@@ -1266,7 +1266,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2035
+      "totalcmd": 2036
     }
   ],
   "clearchat": [],
@@ -47037,7 +47037,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5887,
-      "hit": 1066,
+      "hit": 1067,
       "date": "22 Desember 2024",
       "money": 603813,
       "exp": 25063,
@@ -47057,9 +47057,9 @@
       "pasangan": "6283824612951@s.whatsapp.net",
       "age": 16,
       "regTime": 1737696188397,
-      "afk": -1,
+      "afk": 1737818970800,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "labrak teronton",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
