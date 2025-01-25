@@ -1098,7 +1098,7 @@
     },
     {
       "cmd": "Latih",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1150,7 +1150,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1310
+      "totalcmd": 1311
     }
   ],
   "clearchat": [],
@@ -36201,14 +36201,14 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3380,
+      "hit": 3381,
       "date": "22 Desember 2024",
       "money": 62858767,
       "exp": 26023,
       "limit": 11943,
       "speed": 1,
       "strength": 29,
-      "defense": 1,
+      "defense": 2,
       "skata": 0,
       "joinlimit": 1,
       "pc": 0,
@@ -36236,7 +36236,7 @@
       "fullatm": 500000000,
       "bank": 2508658,
       "health": 100,
-      "stamina": 100,
+      "stamina": 70,
       "potion": 24,
       "wine": 0,
       "beer": 0,
