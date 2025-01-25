@@ -1070,6 +1070,11 @@
       "cmd": "Autosholat",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Addnotifsholat",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1110,7 +1115,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1175
+      "totalcmd": 1176
     }
   ],
   "clearchat": [],
@@ -1122,7 +1127,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -8,
-      "hit": 1590,
+      "hit": 1591,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
