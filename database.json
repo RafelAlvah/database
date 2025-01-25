@@ -703,6 +703,11 @@
       "cmd": "Gaji",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Truth",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -735,7 +740,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 96
+      "totalcmd": 97
     }
   ],
   "clearchat": [],
@@ -80258,7 +80263,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2467,
-      "hit": 1963,
+      "hit": 1964,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
