@@ -610,7 +610,7 @@
   "dashboard": [
     {
       "cmd": "Kerja",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -755,7 +755,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -940,7 +940,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 460
+      "totalcmd": 462
     }
   ],
   "clearchat": [],
@@ -96508,10 +96508,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 889,
-      "hit": 6666,
+      "hit": 6668,
       "date": "3 Januari 2025",
-      "money": 44536568,
-      "exp": 49843,
+      "money": 44610971,
+      "exp": 49943,
       "limit": 360,
       "speed": 5,
       "strength": 6,
@@ -96618,7 +96618,7 @@
       "lasthourly": 0,
       "lastbansos": 1737744987274,
       "lastrampok": 1737749811854,
-      "lastclaim": 1737749782426,
+      "lastclaim": 1737768647029,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
       "lastmonthly": 1736423963407,
@@ -96678,7 +96678,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737749993095,
+      "lastkerja": 1737768646051,
       "lastmaling": 1737393049271,
       "clay": "undefined1940",
       "sand": "undefined550",
