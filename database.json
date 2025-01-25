@@ -863,7 +863,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 24,
+      "succes": 25,
       "failed": 0
     },
     {
@@ -1145,7 +1145,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1285
+      "totalcmd": 1286
     }
   ],
   "clearchat": [],
@@ -19900,9 +19900,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 3001,
+      "hit": 3002,
       "date": "20 Desember 2024",
-      "money": 46332647,
+      "money": 46324647,
       "exp": 58086,
       "limit": 124,
       "speed": 0,
@@ -19943,7 +19943,7 @@
       "coal": 0,
       "wood": 831,
       "rock": 1,
-      "string": 1,
+      "string": 21,
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
