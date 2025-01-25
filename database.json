@@ -1054,7 +1054,7 @@
     {
       "cmd": "Updategempa",
       "succes": 1,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Dungeon",
@@ -1079,6 +1079,10 @@
     {
       "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
       "cmd": "weekly"
+    },
+    {
+      "error": "Cannot read properties of undefined (reading 'includes')",
+      "cmd": "updategempa"
     }
   ],
   "jadibot": {},
@@ -1101,7 +1105,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1167
+      "totalcmd": 1168
     }
   ],
   "clearchat": [],
@@ -1113,7 +1117,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -8,
-      "hit": 1585,
+      "hit": 1586,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
