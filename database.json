@@ -685,7 +685,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -947,6 +947,11 @@
       "cmd": "Brat2",
       "succes": 4,
       "failed": 0
+    },
+    {
+      "cmd": "Swm",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -970,7 +975,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 709
+      "totalcmd": 711
     }
   ],
   "clearchat": [],
@@ -982,7 +987,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -7,
-      "hit": 1543,
+      "hit": 1544,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
@@ -36021,7 +36026,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3352,
+      "hit": 3353,
       "date": "22 Desember 2024",
       "money": 68457229,
       "exp": 26023,
