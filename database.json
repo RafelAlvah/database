@@ -1068,7 +1068,7 @@
     },
     {
       "cmd": "Autosholat",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1110,7 +1110,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1174
+      "totalcmd": 1175
     }
   ],
   "clearchat": [],
@@ -1122,7 +1122,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -8,
-      "hit": 1589,
+      "hit": 1590,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
@@ -138394,6 +138394,9 @@
         "status": true
       },
       "120363362104012185@g.us": {
+        "status": true
+      },
+      "120363394753656520@g.us": {
         "status": true
       }
     },
