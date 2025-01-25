@@ -1191,6 +1191,11 @@
       "cmd": "Buylimit",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Sewa",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1219,7 +1224,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1829
+      "totalcmd": 1830
     }
   ],
   "clearchat": [],
@@ -135763,7 +135768,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 27,
-      "hit": 13,
+      "hit": 14,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
