@@ -738,6 +738,11 @@
       "cmd": "Maling",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Merampok",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -770,7 +775,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 215
+      "totalcmd": 216
     }
   ],
   "clearchat": [],
@@ -46541,9 +46546,9 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5865,
-      "hit": 1136,
+      "hit": 1137,
       "date": "22 Desember 2024",
-      "money": 6661454,
+      "money": 6705000,
       "exp": 25063,
       "limit": 2076,
       "speed": 0,
@@ -46650,7 +46655,7 @@
       "lastdagang": 0,
       "lasthourly": 0,
       "lastbansos": 0,
-      "lastrampok": 1736430826318,
+      "lastrampok": 1737827460526,
       "lastclaim": 1737819175555,
       "lastnebang": 0,
       "lastweekly": 0,
@@ -96346,7 +96351,7 @@
       "glimit": 810,
       "hit": 6950,
       "date": "3 Januari 2025",
-      "money": 44657432,
+      "money": 44613886,
       "exp": 80343,
       "limit": 360,
       "speed": 5,
