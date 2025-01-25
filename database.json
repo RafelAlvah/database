@@ -783,7 +783,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1201
+      "totalcmd": 1202
     }
   ],
   "clearchat": [],
@@ -93641,7 +93641,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 26,
-      "hit": 479,
+      "hit": 480,
       "date": "1 Januari 2025",
       "money": 4992056,
       "exp": 8061,
