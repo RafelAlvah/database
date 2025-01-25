@@ -937,6 +937,11 @@
       "cmd": "Tebakkata",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Game",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -960,7 +965,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 528
+      "totalcmd": 529
     }
   ],
   "clearchat": [],
@@ -114588,7 +114593,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 39,
-      "hit": 1093,
+      "hit": 1094,
       "date": "7 Januari 2025",
       "money": 3926368,
       "exp": 4085,
@@ -137189,7 +137194,7 @@
       "timeEnd": "",
       "creator": "",
       "rpg": true,
-      "game": false,
+      "game": true,
       "autolevelup": false,
       "simi": true,
       "open": 0,
