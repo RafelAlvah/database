@@ -791,6 +791,11 @@
       "cmd": "Hbd",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Play",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -823,7 +828,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 334
+      "totalcmd": 335
     }
   ],
   "clearchat": [],
@@ -58032,11 +58037,11 @@
       "autolevelup": false,
       "serial": "RXUB",
       "glimit": 2127,
-      "hit": 138,
+      "hit": 139,
       "date": "24 Desember 2024",
       "money": 0,
       "exp": 1199,
-      "limit": 2017,
+      "limit": 2016,
       "speed": 0,
       "strength": 0,
       "defense": 0,
