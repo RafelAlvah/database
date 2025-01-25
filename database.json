@@ -1065,6 +1065,11 @@
       "cmd": "Craft",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Autosholat",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1105,7 +1110,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1173
+      "totalcmd": 1174
     }
   ],
   "clearchat": [],
@@ -1117,7 +1122,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -8,
-      "hit": 1588,
+      "hit": 1589,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
