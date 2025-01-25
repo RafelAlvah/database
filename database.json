@@ -874,7 +874,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1219,7 +1219,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1827
+      "totalcmd": 1828
     }
   ],
   "clearchat": [],
@@ -8565,8 +8565,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "HPSG",
-      "glimit": 27,
-      "hit": 66,
+      "glimit": 28,
+      "hit": 67,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 5000,
@@ -8594,7 +8594,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 709337,
+      "balance": 708637,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
