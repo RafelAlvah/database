@@ -1002,14 +1002,14 @@
       "cmd": "Ttsearch",
       "succes": 12,
       "failed": 0
-    }
-  ],
-  "listerror": [
+    },
     {
-      "error": "onlyGroup is not defined",
-      "cmd": "afk"
+      "cmd": "Clearallerror",
+      "succes": 1,
+      "failed": 0
     }
   ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1030,7 +1030,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 987
+      "totalcmd": 988
     }
   ],
   "clearchat": [],
@@ -1042,7 +1042,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -7,
-      "hit": 1558,
+      "hit": 1559,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 279602,
