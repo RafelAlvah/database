@@ -875,7 +875,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 3,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -970,7 +970,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 671
+      "totalcmd": 673
     }
   ],
   "clearchat": [],
@@ -120155,8 +120155,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "LVMM",
-      "glimit": 22,
-      "hit": 245,
+      "glimit": 21,
+      "hit": 246,
       "date": "10 Januari 2025",
       "money": 178499,
       "exp": 200,
@@ -133726,7 +133726,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 12,
-      "hit": 24,
+      "hit": 25,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
