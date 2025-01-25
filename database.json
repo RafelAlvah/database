@@ -1080,6 +1080,11 @@
       "cmd": "Tiktoksearch",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Inventory",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1120,7 +1125,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1216
+      "totalcmd": 1217
     }
   ],
   "clearchat": [],
@@ -36171,7 +36176,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 3376,
+      "hit": 3377,
       "date": "22 Desember 2024",
       "money": 59858767,
       "exp": 26023,
