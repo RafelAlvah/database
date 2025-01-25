@@ -46596,7 +46596,7 @@
       "glimit": 5813,
       "hit": 1231,
       "date": "22 Desember 2024",
-      "money": 6883693,
+      "money": 6913133,
       "exp": 25163,
       "limit": 2076,
       "speed": 0,
@@ -46635,7 +46635,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 0,
+      "wood": 27,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -46769,7 +46769,8 @@
       "sampah": 73,
       "kayu": 33,
       "batu": 94,
-      "lastmulung": 1737829146338
+      "lastmulung": 1737829146338,
+      "lastparming": 1737829184863
     },
     "6285800383349@s.whatsapp.net": {
       "sticker": {},
