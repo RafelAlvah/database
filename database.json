@@ -834,7 +834,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 107,
+      "succes": 109,
       "failed": 0
     },
     {
@@ -1189,7 +1189,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1629
+      "totalcmd": 1631
     }
   ],
   "clearchat": [],
@@ -19944,7 +19944,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 98,
-      "hit": 3046,
+      "hit": 3047,
       "date": "20 Desember 2024",
       "money": 46701991,
       "exp": 65086,
@@ -96763,7 +96763,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 858,
-      "hit": 6835,
+      "hit": 6836,
       "date": "3 Januari 2025",
       "money": 44450363,
       "exp": 71243,
