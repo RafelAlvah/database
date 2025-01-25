@@ -564,7 +564,8 @@
     "Bebaskan",
     "Bra",
     "Brar",
-    "Meny"
+    "Meny",
+    "Hd."
   ],
   "anonymous": [],
   "blockcmd": [
@@ -773,6 +774,11 @@
       "cmd": "Hd",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Hd.",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -805,7 +811,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 291
+      "totalcmd": 292
     }
   ],
   "clearchat": [],
@@ -126771,7 +126777,7 @@
       "autolevelup": false,
       "serial": "VTGJ",
       "glimit": 30,
-      "hit": 155,
+      "hit": 156,
       "date": "20 Januari 2025",
       "money": 1000,
       "exp": 0,
