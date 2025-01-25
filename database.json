@@ -565,7 +565,8 @@
     "Ya",
     "Bebaskan",
     "Bra",
-    "Brar"
+    "Brar",
+    "Meny"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -682,7 +683,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1044,6 +1045,11 @@
       "cmd": "Brar",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Meny",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1076,7 +1082,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1115
+      "totalcmd": 1117
     }
   ],
   "clearchat": [],
@@ -75421,7 +75427,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 474,
-      "hit": 670,
+      "hit": 672,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
