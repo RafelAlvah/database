@@ -616,7 +616,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -726,7 +726,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -765,7 +765,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 174
+      "totalcmd": 176
     }
   ],
   "clearchat": [],
@@ -46536,7 +46536,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5880,
-      "hit": 1105,
+      "hit": 1106,
       "date": "22 Desember 2024",
       "money": 6661454,
       "exp": 25063,
@@ -80653,7 +80653,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 28,
-      "hit": 200,
+      "hit": 201,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
