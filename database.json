@@ -711,7 +711,7 @@
     {
       "cmd": "Afk",
       "succes": 18,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Tembak",
@@ -974,7 +974,12 @@
       "failed": 0
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "onlyGroup is not defined",
+      "cmd": "afk"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -995,7 +1000,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 897
+      "totalcmd": 898
     }
   ],
   "clearchat": [],
@@ -97475,7 +97480,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 494,
-      "hit": 999,
+      "hit": 1000,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
