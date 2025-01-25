@@ -639,7 +639,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 60,
+      "succes": 61,
       "failed": 0
     },
     {
@@ -1189,7 +1189,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1608
+      "totalcmd": 1609
     }
   ],
   "clearchat": [],
@@ -96763,7 +96763,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 862,
-      "hit": 6825,
+      "hit": 6826,
       "date": "3 Januari 2025",
       "money": 44450363,
       "exp": 71243,
@@ -96798,8 +96798,8 @@
       "fullatm": 1000000000,
       "bank": 610526606,
       "health": 100,
-      "stamina": 65,
-      "potion": 52,
+      "stamina": 100,
+      "potion": 51,
       "wine": 0,
       "beer": 0,
       "trash": 0,
