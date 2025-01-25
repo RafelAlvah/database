@@ -652,7 +652,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 215,
+      "succes": 216,
       "failed": 0
     },
     {
@@ -702,7 +702,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -1271,7 +1271,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2086
+      "totalcmd": 2088
     }
   ],
   "clearchat": [],
@@ -114906,11 +114906,11 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 35,
-      "hit": 1144,
+      "hit": 1145,
       "date": "7 Januari 2025",
       "money": 1400720,
       "exp": 12185,
-      "limit": 72,
+      "limit": 71,
       "speed": 1,
       "strength": 4,
       "defense": 1,
@@ -121356,7 +121356,7 @@
       "autolevelup": false,
       "serial": "64P9",
       "glimit": 30,
-      "hit": 43,
+      "hit": 44,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
