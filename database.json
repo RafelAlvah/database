@@ -868,6 +868,11 @@
       "cmd": "Pussy",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Nsfw",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -900,7 +905,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 579
+      "totalcmd": 580
     }
   ],
   "clearchat": [],
@@ -2003,7 +2008,7 @@
       "autolevelup": false,
       "serial": "GIEU",
       "glimit": -550,
-      "hit": 2333,
+      "hit": 2334,
       "date": "16 Desember 2024",
       "money": 1556142,
       "exp": 2107,
