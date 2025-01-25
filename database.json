@@ -626,7 +626,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -710,7 +710,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 29
+      "totalcmd": 30
     }
   ],
   "clearchat": [],
@@ -19465,7 +19465,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 95,
-      "hit": 3080,
+      "hit": 3081,
       "date": "20 Desember 2024",
       "money": 41338913,
       "exp": 70086,
