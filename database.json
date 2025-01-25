@@ -713,7 +713,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 41,
+      "succes": 42,
       "failed": 2
     },
     {
@@ -1263,7 +1263,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 2006
+      "totalcmd": 2007
     }
   ],
   "clearchat": [],
@@ -97749,7 +97749,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 494,
-      "hit": 1010,
+      "hit": 1011,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97769,9 +97769,9 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1736509904536,
-      "afk": -1,
+      "afk": 1737818397366,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "moo mainn",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
