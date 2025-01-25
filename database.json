@@ -619,7 +619,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1189,7 +1189,7 @@
     {
       "id": "run",
       "expired": 1737821881466,
-      "totalcmd": 1613
+      "totalcmd": 1614
     }
   ],
   "clearchat": [],
@@ -53751,9 +53751,9 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14584,
-      "hit": 2171,
+      "hit": 2172,
       "date": "24 Desember 2024",
-      "money": 4329771,
+      "money": 4373345,
       "exp": 16020,
       "limit": 10270,
       "speed": 0,
@@ -53792,7 +53792,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 43,
+      "wood": 69,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -53923,7 +53923,7 @@
       "timeEnd": "",
       "lastkerja": 1737807419173,
       "lastmulung": 1737807430488,
-      "lastparming": 1737749706806
+      "lastparming": 1737807437852
     },
     "6282143414899@s.whatsapp.net": {
       "sticker": {},
