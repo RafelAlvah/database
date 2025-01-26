@@ -625,7 +625,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 42,
+      "succes": 43,
       "failed": 0
     },
     {
@@ -970,7 +970,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 839
+      "totalcmd": 840
     }
   ],
   "clearchat": [],
@@ -126938,7 +126938,7 @@
       "autolevelup": false,
       "serial": "VTGJ",
       "glimit": 30,
-      "hit": 160,
+      "hit": 161,
       "date": "20 Januari 2025",
       "money": 1000,
       "exp": 0,
