@@ -716,7 +716,7 @@
     },
     {
       "cmd": "Truth",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -960,7 +960,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 744
+      "totalcmd": 745
     }
   ],
   "clearchat": [],
@@ -19717,7 +19717,7 @@
       "glimit": 95,
       "hit": 3107,
       "date": "20 Desember 2024",
-      "money": 43326412,
+      "money": 43341828,
       "exp": 79086,
       "limit": 124,
       "speed": 0,
@@ -19756,7 +19756,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 959,
+      "wood": 975,
       "rock": 1,
       "string": 1,
       "petfood": 0,
@@ -19886,7 +19886,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1737859998047,
-      "lastparming": 1737855612667,
+      "lastparming": 1737860010993,
       "rokets": 53,
       "lastmulung": 1737859993925,
       "lastmaling": 1736422655610,
@@ -114596,7 +114596,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 21,
-      "hit": 1198,
+      "hit": 1199,
       "date": "7 Januari 2025",
       "money": 2014845,
       "exp": 12285,
