@@ -633,7 +633,7 @@
     },
     {
       "cmd": "Qc2",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -684,7 +684,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 6
+      "totalcmd": 7
     }
   ],
   "clearchat": [],
@@ -696,7 +696,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -9,
-      "hit": 1631,
+      "hit": 1632,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
