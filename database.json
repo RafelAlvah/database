@@ -934,6 +934,11 @@
       "cmd": "Sell",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Leaderboard",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1010,7 +1015,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 379
+      "totalcmd": 380
     }
   ],
   "clearchat": [],
@@ -43562,7 +43567,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 162,
-      "hit": 3059,
+      "hit": 3060,
       "date": "22 Desember 2024",
       "money": 0,
       "exp": 25000,
