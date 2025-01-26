@@ -690,7 +690,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 51,
+      "succes": 52,
       "failed": 0
     },
     {
@@ -1050,7 +1050,7 @@
     },
     {
       "cmd": "Open",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1085,7 +1085,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1153
+      "totalcmd": 1155
     }
   ],
   "clearchat": [],
@@ -19840,7 +19840,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 49,
-      "hit": 3229,
+      "hit": 3230,
       "date": "20 Desember 2024",
       "money": 48461405,
       "exp": 86086,
@@ -114722,7 +114722,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 21,
-      "hit": 1203,
+      "hit": 1204,
       "date": "7 Januari 2025",
       "money": 2064845,
       "exp": 12285,
@@ -114765,7 +114765,7 @@
       "coal": 0,
       "wood": 73,
       "rock": 1,
-      "string": 0,
+      "string": 1,
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
@@ -114783,7 +114783,7 @@
       "rawiron": 0,
       "common": 0,
       "uncommon": 0,
-      "mythic": 2,
+      "mythic": 1,
       "tbox": 0,
       "legendary": 1,
       "kondom": 3,
