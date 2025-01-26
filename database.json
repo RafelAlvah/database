@@ -1152,6 +1152,10 @@
     {
       "error": "Request failed with status code 404",
       "cmd": "smeme"
+    },
+    {
+      "error": "Request path contains unescaped characters",
+      "cmd": "smeme"
     }
   ],
   "jadibot": {},
