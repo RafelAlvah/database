@@ -620,12 +620,12 @@
   "dashboard": [
     {
       "cmd": "Afk",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
       "cmd": "Brat",
-      "succes": 52,
+      "succes": 53,
       "failed": 0
     },
     {
@@ -1060,7 +1060,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1083
+      "totalcmd": 1085
     }
   ],
   "clearchat": [],
@@ -97548,7 +97548,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 471,
-      "hit": 1065,
+      "hit": 1066,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97568,7 +97568,7 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1736509904536,
-      "afk": -1,
+      "afk": 1737875036123,
       "unreg": true,
       "afkReason": "",
       "banned": false,
@@ -130616,7 +130616,7 @@
       "autolevelup": false,
       "serial": "JSBC",
       "glimit": 30,
-      "hit": 78,
+      "hit": 79,
       "date": "23 Januari 2025",
       "money": 1000,
       "exp": 0,
