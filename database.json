@@ -778,7 +778,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -803,7 +803,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -857,7 +857,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 124
+      "totalcmd": 126
     }
   ],
   "clearchat": [],
@@ -35909,11 +35909,11 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 335,
-      "hit": 3589,
+      "hit": 3590,
       "date": "22 Desember 2024",
       "money": 954197,
       "exp": 27101,
-      "limit": 11940,
+      "limit": 11939,
       "speed": 1,
       "strength": 29,
       "defense": 2,
@@ -133625,8 +133625,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "IHK1",
-      "glimit": 8,
-      "hit": 90,
+      "glimit": 7,
+      "hit": 91,
       "date": "24 Januari 2025",
       "money": 210281,
       "exp": 5000,
