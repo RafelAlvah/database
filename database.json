@@ -1160,6 +1160,10 @@
     {
       "error": "vreact is not defined",
       "cmd": "qc2"
+    },
+    {
+      "error": "author is not defined",
+      "cmd": "qc2"
     }
   ],
   "jadibot": {},
