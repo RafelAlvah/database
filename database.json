@@ -1050,7 +1050,7 @@
     },
     {
       "cmd": "Open",
-      "succes": 53,
+      "succes": 54,
       "failed": 0
     },
     {
@@ -1095,7 +1095,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1237
+      "totalcmd": 1238
     }
   ],
   "clearchat": [],
@@ -114732,7 +114732,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 21,
-      "hit": 1239,
+      "hit": 1240,
       "date": "7 Januari 2025",
       "money": 965654,
       "exp": 12285,
@@ -114791,7 +114791,7 @@
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
-      "common": 1,
+      "common": 0,
       "uncommon": 0,
       "mythic": 0,
       "tbox": 0,
