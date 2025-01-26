@@ -660,7 +660,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -1080,7 +1080,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1139
+      "totalcmd": 1140
     }
   ],
   "clearchat": [],
@@ -96656,9 +96656,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 632,
-      "hit": 7354,
+      "hit": 7355,
       "date": "3 Januari 2025",
-      "money": 409383,
+      "money": 109383,
       "exp": 89543,
       "limit": 358,
       "speed": 5,
@@ -96719,7 +96719,7 @@
       "uncommon": 1,
       "mythic": 0,
       "tbox": 0,
-      "legendary": 0,
+      "legendary": 1,
       "kondom": 7,
       "umpan": 0,
       "pet": 0,
