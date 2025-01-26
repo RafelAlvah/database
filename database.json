@@ -972,6 +972,11 @@
       "cmd": "Unbanchat",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Daftar",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1000,7 +1005,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 934
+      "totalcmd": 935
     }
   ],
   "clearchat": [],
@@ -96576,7 +96581,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 632,
-      "hit": 7315,
+      "hit": 7316,
       "date": "3 Januari 2025",
       "money": 48025667,
       "exp": 88543,
