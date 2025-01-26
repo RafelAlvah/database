@@ -1050,7 +1050,7 @@
     },
     {
       "cmd": "Latih",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1145,7 +1145,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1656
+      "totalcmd": 1657
     }
   ],
   "clearchat": [],
@@ -19900,12 +19900,12 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 1,
-      "hit": 3429,
+      "hit": 3430,
       "date": "20 Desember 2024",
       "money": 7315022,
       "exp": 286,
       "limit": 144,
-      "speed": 1,
+      "speed": 2,
       "strength": 0,
       "defense": 0,
       "skata": 0,
@@ -19935,7 +19935,7 @@
       "fullatm": 500000000,
       "bank": 312517306,
       "health": 20,
-      "stamina": 60,
+      "stamina": 10,
       "potion": 0,
       "wine": 0,
       "beer": 0,
