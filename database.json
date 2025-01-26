@@ -685,6 +685,11 @@
       "cmd": "Qc",
       "succes": 5,
       "failed": 0
+    },
+    {
+      "cmd": "Limit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -733,7 +738,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 56
+      "totalcmd": 57
     }
   ],
   "clearchat": [],
@@ -80258,7 +80263,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2455,
-      "hit": 2032,
+      "hit": 2033,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
