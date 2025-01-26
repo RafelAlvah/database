@@ -143954,7 +143954,12 @@
       "simi": true,
       "open": 0,
       "close": 0,
-      "threeDaysLeft": false
+      "threeDaysLeft": false,
+      "stiker": false,
+      "antiLink": false,
+      "antiLinkgc": false,
+      "antiLinkch": false,
+      "viewonce": false
     }
   },
   "settings": {
