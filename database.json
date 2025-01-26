@@ -617,13 +617,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "62881012971116",
-      "expired": 1737859487507
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Afk",
@@ -707,7 +701,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 60,
+      "succes": 61,
       "failed": 0
     },
     {
@@ -961,7 +955,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 718
+      "totalcmd": 719
     }
   ],
   "clearchat": [],
@@ -122115,8 +122109,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "DY0Q",
-      "glimit": 66,
-      "hit": 71,
+      "glimit": 65,
+      "hit": 72,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
