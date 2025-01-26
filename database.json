@@ -952,6 +952,11 @@
       "cmd": "Tts",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Swm",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -975,7 +980,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 859
+      "totalcmd": 860
     }
   ],
   "clearchat": [],
@@ -75321,7 +75326,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 704,
+      "hit": 705,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
