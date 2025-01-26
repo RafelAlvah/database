@@ -780,7 +780,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1125,7 +1125,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1376
+      "totalcmd": 1377
     }
   ],
   "clearchat": [],
@@ -27388,7 +27388,7 @@
       "autolevelup": false,
       "serial": "KV7S",
       "glimit": 27,
-      "hit": 152,
+      "hit": 153,
       "date": "22 Desember 2024",
       "money": 594151,
       "exp": 2451,
