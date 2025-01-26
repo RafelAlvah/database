@@ -741,6 +741,11 @@
       "cmd": "Topbalance",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tf",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -789,7 +794,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 76
+      "totalcmd": 77
     }
   ],
   "clearchat": [],
@@ -35841,7 +35846,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3575,
+      "hit": 3576,
       "date": "22 Desember 2024",
       "money": 954197,
       "exp": 27101,
@@ -35869,7 +35874,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 146846444,
+      "balance": 23389655,
       "skillexp": 0,
       "chip": 53,
       "atm": 5,
@@ -98560,7 +98565,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 0,
+      "balance": 123456789,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
