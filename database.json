@@ -573,7 +573,8 @@
     "Walpaper",
     "Google",
     "Lopyu",
-    "Blackbox"
+    "Blackbox",
+    "Kencan"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1122,6 +1123,11 @@
       "cmd": "Makan",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Kencan",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1150,7 +1156,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1683
+      "totalcmd": 1684
     }
   ],
   "clearchat": [],
@@ -19905,7 +19911,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 1,
-      "hit": 3456,
+      "hit": 3457,
       "date": "20 Desember 2024",
       "money": 7177522,
       "exp": 286,
