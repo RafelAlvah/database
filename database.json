@@ -1133,6 +1133,11 @@
       "cmd": "Berburu",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Buyglimit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1161,7 +1166,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1703
+      "totalcmd": 1704
     }
   ],
   "clearchat": [],
@@ -19915,8 +19920,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 0,
-      "hit": 3469,
+      "glimit": 100,
+      "hit": 3470,
       "date": "20 Desember 2024",
       "money": 7247846,
       "exp": 286,
@@ -19944,7 +19949,7 @@
       "warning": 0,
       "level": 10,
       "role": "Beginner",
-      "balance": 75642377,
+      "balance": 75572377,
       "skillexp": 0,
       "chip": 1,
       "atm": 1,
