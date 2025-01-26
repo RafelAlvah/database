@@ -641,7 +641,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -721,7 +721,7 @@
     },
     {
       "cmd": "Dare",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -960,7 +960,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 751
+      "totalcmd": 753
     }
   ],
   "clearchat": [],
@@ -93488,7 +93488,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 19,
-      "hit": 492,
+      "hit": 493,
       "date": "1 Januari 2025",
       "money": 5035069,
       "exp": 8061,
@@ -114597,7 +114597,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 21,
-      "hit": 1199,
+      "hit": 1200,
       "date": "7 Januari 2025",
       "money": 2014845,
       "exp": 12285,
