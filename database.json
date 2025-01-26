@@ -401,7 +401,6 @@
     "Qc🫢",
     "Meracik",
     "Lyrics",
-    "Smw",
     "Putar",
     "Lovely",
     "Unlimited",
@@ -1166,7 +1165,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1906
+      "totalcmd": 1907
     }
   ],
   "clearchat": [],
@@ -80691,7 +80690,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2464,
-      "hit": 1999,
+      "hit": 2000,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
