@@ -940,7 +940,7 @@
     },
     {
       "cmd": "Suit",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -979,7 +979,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 831
+      "totalcmd": 832
     }
   ],
   "clearchat": [],
@@ -19733,8 +19733,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 75,
-      "hit": 3130,
+      "glimit": 74,
+      "hit": 3131,
       "date": "20 Desember 2024",
       "money": 43379421,
       "exp": 79086,
