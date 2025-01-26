@@ -643,7 +643,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -857,7 +857,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 123
+      "totalcmd": 124
     }
   ],
   "clearchat": [],
@@ -133625,8 +133625,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "IHK1",
-      "glimit": 9,
-      "hit": 89,
+      "glimit": 8,
+      "hit": 90,
       "date": "24 Januari 2025",
       "money": 210281,
       "exp": 5000,
