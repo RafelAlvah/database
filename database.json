@@ -1050,7 +1050,7 @@
     },
     {
       "cmd": "Open",
-      "succes": 45,
+      "succes": 46,
       "failed": 0
     },
     {
@@ -1095,7 +1095,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1225
+      "totalcmd": 1226
     }
   ],
   "clearchat": [],
@@ -114732,7 +114732,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 21,
-      "hit": 1232,
+      "hit": 1233,
       "date": "7 Januari 2025",
       "money": 965654,
       "exp": 12285,
@@ -114775,7 +114775,7 @@
       "coal": 0,
       "wood": 75,
       "rock": 3,
-      "string": 3,
+      "string": 4,
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
@@ -114791,9 +114791,9 @@
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
-      "common": 0,
+      "common": 1,
       "uncommon": 0,
-      "mythic": 2,
+      "mythic": 1,
       "tbox": 0,
       "legendary": 0,
       "kondom": 3,
