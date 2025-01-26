@@ -684,7 +684,7 @@
     },
     {
       "cmd": "Limit",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -833,7 +833,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 106
+      "totalcmd": 107
     }
   ],
   "clearchat": [],
@@ -133602,7 +133602,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 0,
-      "hit": 80,
+      "hit": 81,
       "date": "24 Januari 2025",
       "money": 210281,
       "exp": 5000,
