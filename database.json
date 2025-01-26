@@ -616,13 +616,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287822381511",
-      "expired": 1737867848469
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Afk",
@@ -696,7 +690,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 34,
+      "succes": 35,
       "failed": 0
     },
     {
@@ -976,7 +970,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 841
+      "totalcmd": 842
     }
   ],
   "clearchat": [],
@@ -120171,7 +120165,7 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 18,
-      "hit": 264,
+      "hit": 265,
       "date": "10 Januari 2025",
       "money": 178499,
       "exp": 200,
