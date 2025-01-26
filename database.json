@@ -894,6 +894,11 @@
       "cmd": "Tebakkata",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Dare",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -970,7 +975,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 326
+      "totalcmd": 327
     }
   ],
   "clearchat": [],
@@ -122128,7 +122133,7 @@
       "autolevelup": false,
       "serial": "DY0Q",
       "glimit": 280,
-      "hit": 130,
+      "hit": 131,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
