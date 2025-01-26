@@ -1095,7 +1095,7 @@
     },
     {
       "cmd": "Polisi",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -1125,7 +1125,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1367
+      "totalcmd": 1368
     }
   ],
   "clearchat": [],
@@ -127271,9 +127271,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 509,
+      "hit": 510,
       "date": "20 Januari 2025",
-      "money": 666541,
+      "money": 667541,
       "exp": 13900,
       "limit": 200,
       "speed": 0,
