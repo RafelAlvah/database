@@ -573,8 +573,7 @@
     "Walpaper",
     "Google",
     "Audio",
-    "Lopyu",
-    "Tebak"
+    "Lopyu"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -920,14 +919,14 @@
       "failed": 0
     },
     {
-      "cmd": "Tebak",
+      "cmd": "Sewa",
       "succes": 1,
       "failed": 0
     },
     {
-      "cmd": "Sewa",
-      "succes": 1,
-      "failed": 0
+      "cmd": "Tebak",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -960,7 +959,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 760
+      "totalcmd": 761
     }
   ],
   "clearchat": [],
@@ -4035,7 +4034,7 @@
       "autolevelup": false,
       "serial": "DZ3A",
       "glimit": 29,
-      "hit": 69,
+      "hit": 70,
       "date": "16 Desember 2024",
       "money": 3000,
       "exp": 19994,
