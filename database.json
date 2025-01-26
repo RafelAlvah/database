@@ -1156,6 +1156,10 @@
     {
       "error": "Request path contains unescaped characters",
       "cmd": "smeme"
+    },
+    {
+      "error": "vreact is not defined",
+      "cmd": "qc2"
     }
   ],
   "jadibot": {},
