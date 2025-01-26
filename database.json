@@ -1077,6 +1077,11 @@
       "cmd": "Tembak",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Buyprem",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1105,7 +1110,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1288
+      "totalcmd": 1289
     }
   ],
   "clearchat": [],
@@ -135654,7 +135659,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 21,
-      "hit": 65,
+      "hit": 66,
       "date": "24 Januari 2025",
       "money": 52683,
       "exp": 0,
