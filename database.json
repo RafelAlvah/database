@@ -1050,7 +1050,7 @@
     },
     {
       "cmd": "Open",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -1090,7 +1090,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1184
+      "totalcmd": 1185
     }
   ],
   "clearchat": [],
@@ -19845,7 +19845,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 49,
-      "hit": 3243,
+      "hit": 3244,
       "date": "20 Desember 2024",
       "money": 49699405,
       "exp": 86086,
@@ -19904,7 +19904,7 @@
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
-      "common": 1,
+      "common": 0,
       "uncommon": 0,
       "mythic": 5,
       "tbox": 0,
