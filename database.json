@@ -1050,7 +1050,7 @@
     },
     {
       "cmd": "Open",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1060,7 +1060,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -1090,7 +1090,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1180
+      "totalcmd": 1182
     }
   ],
   "clearchat": [],
@@ -19845,7 +19845,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 49,
-      "hit": 3241,
+      "hit": 3242,
       "date": "20 Desember 2024",
       "money": 49699405,
       "exp": 86086,
@@ -19881,7 +19881,7 @@
       "bank": 267517306,
       "health": 20,
       "stamina": 15,
-      "potion": 3,
+      "potion": 4,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -19904,7 +19904,7 @@
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
-      "common": 2,
+      "common": 1,
       "uncommon": 0,
       "mythic": 5,
       "tbox": 0,
@@ -43640,9 +43640,9 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2950,
+      "hit": 2951,
       "date": "22 Desember 2024",
-      "money": 5309740,
+      "money": 8309740,
       "exp": 8000,
       "limit": 2158,
       "speed": 3,
@@ -43748,7 +43748,7 @@
       "lastberkebon": 0,
       "lastdagang": 1737693712228,
       "lasthourly": 0,
-      "lastbansos": 0,
+      "lastbansos": 1737876425551,
       "lastrampok": 1736579270054,
       "lastclaim": 1737843155349,
       "lastnebang": 0,
