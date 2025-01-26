@@ -692,7 +692,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1025,7 +1025,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 394
+      "totalcmd": 395
     }
   ],
   "clearchat": [],
@@ -2854,7 +2854,7 @@
       "autolevelup": false,
       "serial": "OYAY",
       "glimit": 30,
-      "hit": 17,
+      "hit": 18,
       "date": "16 Desember 2024",
       "money": 1000,
       "exp": 0,
