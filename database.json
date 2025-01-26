@@ -827,7 +827,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -960,7 +960,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 307
+      "totalcmd": 308
     }
   ],
   "clearchat": [],
@@ -27224,9 +27224,9 @@
       "autolevelup": false,
       "serial": "KV7S",
       "glimit": 27,
-      "hit": 157,
+      "hit": 158,
       "date": "22 Desember 2024",
-      "money": 594151,
+      "money": 735688,
       "exp": 2451,
       "limit": 29,
       "speed": 0,
@@ -27394,7 +27394,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737438275772,
+      "lastkerja": 1737928786615,
       "lastmaling": 1737438265824,
       "lastmulung": 1737928773980
     },
