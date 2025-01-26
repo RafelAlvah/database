@@ -650,7 +650,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1125,7 +1125,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1403
+      "totalcmd": 1405
     }
   ],
   "clearchat": [],
@@ -127271,7 +127271,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 514,
+      "hit": 516,
       "date": "20 Januari 2025",
       "money": 877833,
       "exp": 13900,
