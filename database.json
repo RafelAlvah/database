@@ -955,6 +955,11 @@
       "cmd": "Instagram",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Download",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1031,7 +1036,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 399
+      "totalcmd": 400
     }
   ],
   "clearchat": [],
@@ -2860,7 +2865,7 @@
       "autolevelup": false,
       "serial": "OYAY",
       "glimit": 30,
-      "hit": 20,
+      "hit": 21,
       "date": "16 Desember 2024",
       "money": 1000,
       "exp": 0,
