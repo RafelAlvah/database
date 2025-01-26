@@ -878,6 +878,11 @@
       "cmd": "Yuri",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Pin",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -910,7 +915,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 621
+      "totalcmd": 622
     }
   ],
   "clearchat": [],
@@ -6833,7 +6838,7 @@
       "autolevelup": false,
       "serial": "DBZS",
       "glimit": 27,
-      "hit": 58,
+      "hit": 59,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 7996,
