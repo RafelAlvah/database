@@ -759,7 +759,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -818,7 +818,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 98
+      "totalcmd": 99
     }
   ],
   "clearchat": [],
@@ -133587,7 +133587,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 0,
-      "hit": 74,
+      "hit": 75,
       "date": "24 Januari 2025",
       "money": 210281,
       "exp": 0,
