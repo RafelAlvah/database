@@ -640,7 +640,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -1025,7 +1025,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 979
+      "totalcmd": 980
     }
   ],
   "clearchat": [],
@@ -133791,7 +133791,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 1,
-      "hit": 50,
+      "hit": 51,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
