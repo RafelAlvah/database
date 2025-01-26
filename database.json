@@ -617,13 +617,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "60189025004",
-      "expired": 1737888639747
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Afk",
@@ -1172,7 +1166,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1886
+      "totalcmd": 1887
     }
   ],
   "clearchat": [],
@@ -76770,7 +76764,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 22,
-      "hit": 573,
+      "hit": 574,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 12932,
