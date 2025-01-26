@@ -573,7 +573,8 @@
     "Google",
     "Lopyu",
     "Blackbox",
-    "Kencan"
+    "Kencan",
+    "Qc2"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1142,6 +1143,11 @@
       "cmd": "Unreg",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Qc2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1186,7 +1192,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 2010
+      "totalcmd": 2011
     }
   ],
   "clearchat": [],
@@ -1198,7 +1204,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -9,
-      "hit": 1626,
+      "hit": 1627,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
