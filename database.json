@@ -1075,7 +1075,7 @@
     },
     {
       "cmd": "Tembak",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1105,7 +1105,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1279
+      "totalcmd": 1280
     }
   ],
   "clearchat": [],
@@ -80994,7 +80994,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 28,
-      "hit": 213,
+      "hit": 214,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
