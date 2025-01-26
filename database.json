@@ -919,6 +919,11 @@
       "cmd": "Buy",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Nabung",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -995,7 +1000,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 360
+      "totalcmd": 361
     }
   ],
   "clearchat": [],
@@ -29220,9 +29225,9 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 781,
+      "hit": 782,
       "date": "22 Desember 2024",
-      "money": 924324,
+      "money": 524324,
       "exp": 52711,
       "limit": 79,
       "speed": 0,
@@ -29253,7 +29258,7 @@
       "chip": 0,
       "atm": 1,
       "fullatm": 500000000,
-      "bank": 5600000,
+      "bank": 6000000,
       "health": 20,
       "stamina": 60,
       "potion": 6,
