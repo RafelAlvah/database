@@ -670,7 +670,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -900,7 +900,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1035,7 +1035,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1007
+      "totalcmd": 1009
     }
   ],
   "clearchat": [],
@@ -96611,11 +96611,11 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 632,
-      "hit": 7325,
+      "hit": 7327,
       "date": "3 Januari 2025",
       "money": 49085948,
       "exp": 89543,
-      "limit": 359,
+      "limit": 358,
       "speed": 5,
       "strength": 6,
       "defense": 5,
