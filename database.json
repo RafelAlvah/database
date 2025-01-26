@@ -622,7 +622,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -887,7 +887,7 @@
     },
     {
       "cmd": "Walpaper",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -921,7 +921,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 630
+      "totalcmd": 632
     }
   ],
   "clearchat": [],
@@ -6844,7 +6844,7 @@
       "autolevelup": false,
       "serial": "DBZS",
       "glimit": 27,
-      "hit": 62,
+      "hit": 63,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 7996,
@@ -99560,7 +99560,7 @@
       "autolevelup": false,
       "serial": "0YVF",
       "glimit": 30,
-      "hit": 79,
+      "hit": 80,
       "date": "4 Januari 2025",
       "money": 6000,
       "exp": 7002,
