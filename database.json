@@ -944,6 +944,11 @@
       "cmd": "Unreg",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Daftar",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1020,7 +1025,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 382
+      "totalcmd": 383
     }
   ],
   "clearchat": [],
@@ -43572,7 +43577,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 162,
-      "hit": 3062,
+      "hit": 3063,
       "date": "22 Desember 2024",
       "money": 0,
       "exp": 25000,
@@ -43584,14 +43589,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "anomali ameng",
+      "registered": true,
+      "name": "meyy",
       "skill": "",
       "ultah": "27,01,2009",
       "sahabat": "",
       "pasangan": "",
       "age": 16,
-      "regTime": 1736257050437,
+      "regTime": 1737933406388,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
