@@ -995,7 +995,7 @@
     },
     {
       "cmd": "Register",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1055,7 +1055,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1065
+      "totalcmd": 1066
     }
   ],
   "clearchat": [],
@@ -135604,7 +135604,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 21,
-      "hit": 53,
+      "hit": 54,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -135616,14 +135616,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "Raffzz",
+      "registered": true,
+      "name": "ELVANDO SILVA",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 23,
+      "regTime": 1737874854845,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
