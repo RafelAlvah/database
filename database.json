@@ -878,7 +878,7 @@
     {
       "cmd": "Hidetag",
       "succes": 0,
-      "failed": 1
+      "failed": 2
     }
   ],
   "listerror": [
@@ -925,6 +925,10 @@
     {
       "error": "conn.buttoncopy is not a function",
       "cmd": "hidetag"
+    },
+    {
+      "error": "conn.sendButtoncopy is not a function",
+      "cmd": "hidetag"
     }
   ],
   "jadibot": {},
@@ -947,7 +951,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 300
+      "totalcmd": 301
     }
   ],
   "clearchat": [],
@@ -120144,7 +120148,7 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 18,
-      "hit": 267,
+      "hit": 268,
       "date": "10 Januari 2025",
       "money": 178499,
       "exp": 200,
