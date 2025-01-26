@@ -942,6 +942,11 @@
       "cmd": "Suit",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Gc",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -974,7 +979,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 827
+      "totalcmd": 828
     }
   ],
   "clearchat": [],
@@ -123916,7 +123921,7 @@
       "autolevelup": false,
       "serial": "CMWZ",
       "glimit": 30,
-      "hit": 13,
+      "hit": 14,
       "date": "12 Januari 2025",
       "money": 1000,
       "exp": 0,
