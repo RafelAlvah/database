@@ -138246,7 +138246,7 @@
       "antiaudio": false,
       "antibot": false,
       "antiimage": false,
-      "antivideo": false,
+      "antivideo": true,
       "antisticker": false,
       "antispam": false,
       "antitroli": false,
