@@ -950,7 +950,7 @@
     },
     {
       "cmd": "Tts",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -975,7 +975,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 849
+      "totalcmd": 850
     }
   ],
   "clearchat": [],
@@ -65501,7 +65501,7 @@
       "autolevelup": false,
       "serial": "JZ1C",
       "glimit": 30,
-      "hit": 13,
+      "hit": 14,
       "date": "25 Desember 2024",
       "money": 1000,
       "exp": 0,
