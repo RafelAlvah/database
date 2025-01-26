@@ -634,7 +634,7 @@
     {
       "cmd": "Qc2",
       "succes": 4,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Delcmdprem",
@@ -707,6 +707,10 @@
     {
       "error": "author is not defined",
       "cmd": "qc2"
+    },
+    {
+      "error": "Request failed with status code 500",
+      "cmd": "qc2"
     }
   ],
   "jadibot": {},
@@ -729,7 +733,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 43
+      "totalcmd": 44
     }
   ],
   "clearchat": [],
@@ -53293,7 +53297,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14540,
-      "hit": 2264,
+      "hit": 2265,
       "date": "24 Desember 2024",
       "money": 4418804,
       "exp": 16120,
