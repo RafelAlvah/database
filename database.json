@@ -967,6 +967,11 @@
       "cmd": "Banchat",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Unbanchat",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -995,7 +1000,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 930
+      "totalcmd": 931
     }
   ],
   "clearchat": [],
@@ -1007,7 +1012,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -8,
-      "hit": 1609,
+      "hit": 1610,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -138224,7 +138229,7 @@
       "antilinkch": false,
       "antidelete": false,
       "antiasing": false,
-      "banchat": true,
+      "banchat": false,
       "expired": 0,
       "antipromosi": false,
       "antibadword": true,
