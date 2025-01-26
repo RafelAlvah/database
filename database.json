@@ -636,7 +636,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 41,
+      "succes": 42,
       "failed": 0
     },
     {
@@ -1166,7 +1166,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1892
+      "totalcmd": 1893
     }
   ],
   "clearchat": [],
@@ -75148,7 +75148,7 @@
       "autolevelup": false,
       "serial": "CXH5",
       "glimit": 1162,
-      "hit": 872,
+      "hit": 873,
       "date": "27 Desember 2024",
       "money": 4760378,
       "exp": 36393,
@@ -75168,9 +75168,9 @@
       "pasangan": "",
       "age": 25,
       "regTime": 1736486851298,
-      "afk": 1737835921509,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "bobo cakep",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
