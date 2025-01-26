@@ -820,7 +820,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1035,7 +1035,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 998
+      "totalcmd": 999
     }
   ],
   "clearchat": [],
@@ -127181,7 +127181,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 471,
+      "hit": 472,
       "date": "20 Januari 2025",
       "money": 7969222,
       "exp": 10700,
