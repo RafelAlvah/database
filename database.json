@@ -705,7 +705,7 @@
     },
     {
       "cmd": "Cekkhodam",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -959,7 +959,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 763
+      "totalcmd": 764
     }
   ],
   "clearchat": [],
@@ -4062,7 +4062,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 11500,
+      "balance": 21500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -132123,7 +132123,7 @@
       "autolevelup": false,
       "serial": "GNHT",
       "glimit": 24,
-      "hit": 76,
+      "hit": 77,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
