@@ -810,6 +810,11 @@
       "cmd": "Transfer",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Afk",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -862,7 +867,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 132
+      "totalcmd": 133
     }
   ],
   "clearchat": [],
@@ -874,7 +879,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1636,
+      "hit": 1637,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -894,9 +899,9 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1734340571144,
-      "afk": -1,
+      "afk": 1737913855681,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "tidur untuk melupakan beban hidup",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
