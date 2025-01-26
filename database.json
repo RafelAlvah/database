@@ -812,7 +812,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -985,7 +985,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 344
+      "totalcmd": 345
     }
   ],
   "clearchat": [],
@@ -43537,7 +43537,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 162,
-      "hit": 3036,
+      "hit": 3037,
       "date": "22 Desember 2024",
       "money": 8974227,
       "exp": 18000,
@@ -43557,9 +43557,9 @@
       "pasangan": "",
       "age": 16,
       "regTime": 1736257050437,
-      "afk": -1,
+      "afk": 1737931696994,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "sekul wak meski tgl merah😰",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
