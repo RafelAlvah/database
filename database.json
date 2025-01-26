@@ -1050,7 +1050,7 @@
     },
     {
       "cmd": "Open",
-      "succes": 42,
+      "succes": 43,
       "failed": 0
     },
     {
@@ -1095,7 +1095,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1222
+      "totalcmd": 1223
     }
   ],
   "clearchat": [],
@@ -19850,7 +19850,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 49,
-      "hit": 3260,
+      "hit": 3261,
       "date": "20 Desember 2024",
       "money": 4825145,
       "exp": 86186,
@@ -19893,7 +19893,7 @@
       "coal": 0,
       "wood": 1050,
       "rock": 5,
-      "string": 4,
+      "string": 5,
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
