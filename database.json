@@ -775,7 +775,7 @@
     },
     {
       "cmd": "Nabung",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1050,7 +1050,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1045
+      "totalcmd": 1046
     }
   ],
   "clearchat": [],
@@ -19805,9 +19805,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 56,
-      "hit": 3192,
+      "hit": 3193,
       "date": "20 Desember 2024",
-      "money": 51302888,
+      "money": 10000000,
       "exp": 86086,
       "limit": 144,
       "speed": 0,
@@ -19838,7 +19838,7 @@
       "chip": 0,
       "atm": 1,
       "fullatm": 500000000,
-      "bank": 266214418,
+      "bank": 307517306,
       "health": 20,
       "stamina": 65,
       "potion": 2,
