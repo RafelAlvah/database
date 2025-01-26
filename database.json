@@ -616,13 +616,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "60189025004",
-      "expired": 1737873514968
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Afk",
@@ -646,17 +640,17 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
       "cmd": "Mulung",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
       "cmd": "Nebang",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1026,7 +1020,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 955
+      "totalcmd": 958
     }
   ],
   "clearchat": [],
@@ -129678,9 +129672,9 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 231,
+      "hit": 234,
       "date": "22 Januari 2025",
-      "money": 462018,
+      "money": 509594,
       "exp": 38500,
       "limit": 90,
       "speed": 0,
@@ -129728,11 +129722,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 5571,
-      "kardus": 6665,
-      "kaleng": 5035,
-      "gelas": 8541,
-      "plastik": 8150,
+      "botol": 5593,
+      "kardus": 7069,
+      "kaleng": 6012,
+      "gelas": 8606,
+      "plastik": 9111,
       "iron": 1,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -129848,8 +129842,8 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737864920496,
-      "lastmulung": 1737864583822,
+      "lastkerja": 1737873606521,
+      "lastmulung": 1737873606515,
       "lastparming": 1737864592852,
       "clay": "undefined1840",
       "sand": "undefined190",
