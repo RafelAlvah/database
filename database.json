@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1125,7 +1125,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1386
+      "totalcmd": 1387
     }
   ],
   "clearchat": [],
@@ -19880,7 +19880,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 49,
-      "hit": 3294,
+      "hit": 3295,
       "date": "20 Desember 2024",
       "money": 4856842,
       "exp": 5286,
