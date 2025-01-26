@@ -925,7 +925,7 @@
     },
     {
       "cmd": "Limit",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1267
+      "totalcmd": 1268
     }
   ],
   "clearchat": [],
@@ -80989,7 +80989,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 28,
-      "hit": 212,
+      "hit": 213,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
