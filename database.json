@@ -625,7 +625,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 47,
+      "succes": 48,
       "failed": 0
     },
     {
@@ -975,7 +975,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 858
+      "totalcmd": 859
     }
   ],
   "clearchat": [],
@@ -75321,7 +75321,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 703,
+      "hit": 704,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
