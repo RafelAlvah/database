@@ -660,7 +660,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1322
+      "totalcmd": 1323
     }
   ],
   "clearchat": [],
@@ -19875,9 +19875,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 49,
-      "hit": 3272,
+      "hit": 3273,
       "date": "20 Desember 2024",
-      "money": 4342785,
+      "money": 4042785,
       "exp": 86186,
       "limit": 144,
       "speed": 1,
@@ -19924,7 +19924,7 @@
       "lokasi": 0,
       "emerald": 2,
       "diamond": 70,
-      "gold": 64,
+      "gold": 66,
       "botol": 43712,
       "kardus": 48475,
       "kaleng": 49117,
