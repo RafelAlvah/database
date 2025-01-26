@@ -618,7 +618,13 @@
   ],
   "sewa": [],
   "antispam": [],
-  "dashboard": [],
+  "dashboard": [
+    {
+      "cmd": "Swm",
+      "succes": 1,
+      "failed": 0
+    }
+  ],
   "listerror": [
     {
       "error": "footerMess is not defined",
@@ -657,7 +663,13 @@
     }
   },
   "audio": {},
-  "hittoday": [],
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1737994724080,
+      "totalcmd": 1
+    }
+  ],
   "clearchat": [],
   "users": {
     "6287737937323@s.whatsapp.net": {
@@ -35707,7 +35719,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 327,
-      "hit": 3544,
+      "hit": 3545,
       "date": "22 Desember 2024",
       "money": 254197,
       "exp": 25101,
