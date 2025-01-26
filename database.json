@@ -776,7 +776,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -910,7 +910,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 615
+      "totalcmd": 616
     }
   ],
   "clearchat": [],
@@ -109373,11 +109373,11 @@
       "autolevelup": false,
       "serial": "AK7R",
       "glimit": 0,
-      "hit": 62,
+      "hit": 63,
       "date": "5 Januari 2025",
       "money": 3000,
       "exp": 2987,
-      "limit": 24,
+      "limit": 23,
       "speed": 0,
       "strength": 0,
       "defense": 0,
