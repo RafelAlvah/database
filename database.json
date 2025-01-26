@@ -403,7 +403,6 @@
     "Lyrics",
     "Putar",
     "Lovely",
-    "Unlimited",
     "Infinite",
     "Infinity",
     "Autosticker",
@@ -853,7 +852,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 117
+      "totalcmd": 118
     }
   ],
   "clearchat": [],
@@ -133622,7 +133621,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 10,
-      "hit": 85,
+      "hit": 86,
       "date": "24 Januari 2025",
       "money": 210281,
       "exp": 5000,
