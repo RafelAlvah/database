@@ -621,7 +621,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 23,
+      "succes": 25,
       "failed": 0
     },
     {
@@ -915,7 +915,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 627
+      "totalcmd": 629
     }
   ],
   "clearchat": [],
@@ -58658,7 +58658,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 33,
+      "hit": 34,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 999,
@@ -99554,7 +99554,7 @@
       "autolevelup": false,
       "serial": "0YVF",
       "glimit": 30,
-      "hit": 78,
+      "hit": 79,
       "date": "4 Januari 2025",
       "money": 6000,
       "exp": 7002,
