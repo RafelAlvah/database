@@ -650,12 +650,12 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
       "cmd": "Heal",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -1035,7 +1035,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 995
+      "totalcmd": 997
     }
   ],
   "clearchat": [],
@@ -127181,7 +127181,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 469,
+      "hit": 470,
       "date": "20 Januari 2025",
       "money": 7869222,
       "exp": 9700,
@@ -127215,9 +127215,9 @@
       "atm": 0,
       "fullatm": 0,
       "bank": 0,
-      "health": 20,
+      "health": 100,
       "stamina": 60,
-      "potion": 8,
+      "potion": 6,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -131129,9 +131129,9 @@
       "autolevelup": false,
       "serial": "6CIE",
       "glimit": 0,
-      "hit": 104,
+      "hit": 105,
       "date": "23 Januari 2025",
-      "money": 1772101,
+      "money": 1804109,
       "exp": 900,
       "limit": 30,
       "speed": 0,
@@ -131170,7 +131170,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 0,
+      "wood": 5,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -131300,7 +131300,8 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1737793225169,
-      "lastmulung": 1737725644580
+      "lastmulung": 1737725644580,
+      "lastparming": 1737874068900
     },
     "6281991471971@s.whatsapp.net": {
       "sticker": {},
