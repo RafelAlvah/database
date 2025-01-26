@@ -645,12 +645,12 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
       "cmd": "Nebang",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1055,7 +1055,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1074
+      "totalcmd": 1077
     }
   ],
   "clearchat": [],
@@ -19810,7 +19810,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 50,
-      "hit": 3202,
+      "hit": 3203,
       "date": "20 Desember 2024",
       "money": 10110380,
       "exp": 86086,
@@ -30531,7 +30531,7 @@
       "autolevelup": false,
       "serial": "2EUZ",
       "glimit": 102,
-      "hit": 906,
+      "hit": 907,
       "date": "22 Desember 2024",
       "money": 18526882,
       "exp": 15827,
@@ -135604,7 +135604,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 21,
-      "hit": 55,
+      "hit": 56,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
