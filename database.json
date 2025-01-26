@@ -1047,6 +1047,11 @@
       "cmd": "Spdl",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Open",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1075,7 +1080,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1137
+      "totalcmd": 1138
     }
   ],
   "clearchat": [],
@@ -19830,7 +19835,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 49,
-      "hit": 3223,
+      "hit": 3224,
       "date": "20 Desember 2024",
       "money": 48390060,
       "exp": 86086,
@@ -19873,7 +19878,7 @@
       "coal": 0,
       "wood": 1048,
       "rock": 1,
-      "string": 1,
+      "string": 2,
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
@@ -19885,13 +19890,13 @@
       "kaleng": 49117,
       "gelas": 47250,
       "plastik": 45924,
-      "iron": 5,
+      "iron": 6,
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
       "common": 0,
       "uncommon": 0,
-      "mythic": 5,
+      "mythic": 1,
       "tbox": 0,
       "legendary": 0,
       "kondom": 13,
