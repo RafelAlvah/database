@@ -964,7 +964,12 @@
       "failed": 0
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "Cannot read properties of undefined (reading 'cmd')",
+      "cmd": "audio"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -96561,7 +96566,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 658,
-      "hit": 7260,
+      "hit": 7261,
       "date": "3 Januari 2025",
       "money": 47868724,
       "exp": 88443,
@@ -135531,7 +135536,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 21,
-      "hit": 39,
+      "hit": 40,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
