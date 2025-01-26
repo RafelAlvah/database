@@ -625,7 +625,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 63,
+      "succes": 64,
       "failed": 0
     },
     {
@@ -655,7 +655,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 54,
+      "succes": 55,
       "failed": 0
     },
     {
@@ -1165,7 +1165,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1938
+      "totalcmd": 1940
     }
   ],
   "clearchat": [],
@@ -127312,7 +127312,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 554,
+      "hit": 555,
       "date": "20 Januari 2025",
       "money": 633779,
       "exp": 19900,
@@ -127346,9 +127346,9 @@
       "atm": 0,
       "fullatm": 0,
       "bank": 0,
-      "health": 20,
+      "health": 100,
       "stamina": 115,
-      "potion": 7,
+      "potion": 5,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -129640,7 +129640,7 @@
       "autolevelup": false,
       "serial": "4YV1",
       "glimit": 30,
-      "hit": 75,
+      "hit": 76,
       "date": "22 Januari 2025",
       "money": 1000,
       "exp": 0,
