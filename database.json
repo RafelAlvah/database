@@ -573,8 +573,7 @@
     "Walpaper",
     "Google",
     "Audio",
-    "Lopyu",
-    ".nebang"
+    "Lopyu"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1097,11 +1096,6 @@
     {
       "cmd": "Polisi",
       "succes": 3,
-      "failed": 0
-    },
-    {
-      "cmd": ".nebang",
-      "succes": 1,
       "failed": 0
     }
   ],
