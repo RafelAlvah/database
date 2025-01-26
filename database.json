@@ -1055,7 +1055,7 @@
     },
     {
       "cmd": "Latih",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -1085,7 +1085,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1148
+      "totalcmd": 1149
     }
   ],
   "clearchat": [],
@@ -19840,7 +19840,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 49,
-      "hit": 3228,
+      "hit": 3229,
       "date": "20 Desember 2024",
       "money": 48461405,
       "exp": 86086,
