@@ -680,6 +680,11 @@
       "cmd": "Balance",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Qc",
+      "succes": 2,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -724,7 +729,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 40
+      "totalcmd": 42
     }
   ],
   "clearchat": [],
@@ -35776,7 +35781,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3558,
+      "hit": 3559,
       "date": "22 Desember 2024",
       "money": 254197,
       "exp": 25101,
@@ -53288,7 +53293,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14540,
-      "hit": 2263,
+      "hit": 2264,
       "date": "24 Desember 2024",
       "money": 4418804,
       "exp": 16120,
