@@ -625,7 +625,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 49,
+      "succes": 50,
       "failed": 0
     },
     {
@@ -640,7 +640,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -980,7 +980,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 864
+      "totalcmd": 866
     }
   ],
   "clearchat": [],
@@ -75326,7 +75326,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 707,
+      "hit": 708,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
@@ -96556,9 +96556,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 718,
-      "hit": 7154,
+      "hit": 7155,
       "date": "3 Januari 2025",
-      "money": 47003027,
+      "money": 47114809,
       "exp": 88443,
       "limit": 360,
       "speed": 5,
@@ -96726,7 +96726,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737866522997,
+      "lastkerja": 1737869650755,
       "lastmaling": 1737393049271,
       "clay": "undefined1940",
       "sand": "undefined550",
