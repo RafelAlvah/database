@@ -850,6 +850,11 @@
       "cmd": "Openbo",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Airdrop",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -902,7 +907,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 167
+      "totalcmd": 168
     }
   ],
   "clearchat": [],
@@ -96480,7 +96485,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 629,
-      "hit": 7393,
+      "hit": 7394,
       "date": "3 Januari 2025",
       "money": 1724288,
       "exp": 92843,
