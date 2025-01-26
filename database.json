@@ -1050,7 +1050,7 @@
     },
     {
       "cmd": "Open",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1085,7 +1085,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1145
+      "totalcmd": 1147
     }
   ],
   "clearchat": [],
@@ -114722,7 +114722,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 21,
-      "hit": 1201,
+      "hit": 1203,
       "date": "7 Januari 2025",
       "money": 2064845,
       "exp": 12285,
@@ -114742,7 +114742,7 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1736259401454,
-      "afk": 1737860087892,
+      "afk": -1,
       "unreg": false,
       "afkReason": "",
       "banned": false,
@@ -114764,7 +114764,7 @@
       "trash": 0,
       "coal": 0,
       "wood": 73,
-      "rock": 0,
+      "rock": 1,
       "string": 0,
       "petfood": 0,
       "hubungan": 0,
@@ -114777,13 +114777,13 @@
       "kaleng": 3904,
       "gelas": 5088,
       "plastik": 4249,
-      "iron": 0,
+      "iron": 1,
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
       "common": 0,
       "uncommon": 0,
-      "mythic": 3,
+      "mythic": 2,
       "tbox": 0,
       "legendary": 1,
       "kondom": 3,
