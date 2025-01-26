@@ -1097,6 +1097,11 @@
       "cmd": "Polisi",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Tourl",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1125,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1415
+      "totalcmd": 1416
     }
   ],
   "clearchat": [],
@@ -135674,7 +135679,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 21,
-      "hit": 72,
+      "hit": 73,
       "date": "24 Januari 2025",
       "money": 149136,
       "exp": 0,
