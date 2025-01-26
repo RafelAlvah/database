@@ -93490,7 +93490,7 @@
       "glimit": 19,
       "hit": 492,
       "date": "1 Januari 2025",
-      "money": 4992056,
+      "money": 5035069,
       "exp": 8061,
       "limit": 59,
       "speed": 0,
@@ -93529,7 +93529,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 0,
+      "wood": 17,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -93664,7 +93664,8 @@
       "sampah": 45,
       "kayu": 44,
       "batu": 49,
-      "lastmaling": 1737611782046
+      "lastmaling": 1737611782046,
+      "lastparming": 1737860049638
     },
     "6283180697012@s.whatsapp.net": {
       "sticker": {},
