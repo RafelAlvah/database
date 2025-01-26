@@ -641,12 +641,12 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
       "cmd": "Mulung",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -960,7 +960,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 739
+      "totalcmd": 741
     }
   ],
   "clearchat": [],
@@ -19715,9 +19715,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 95,
-      "hit": 3103,
+      "hit": 3105,
       "date": "20 Desember 2024",
-      "money": 43257826,
+      "money": 43326412,
       "exp": 79086,
       "limit": 124,
       "speed": 0,
@@ -19765,11 +19765,11 @@
       "emerald": 1,
       "diamond": 70,
       "gold": 63,
-      "botol": 42637,
-      "kardus": 46354,
-      "kaleng": 46910,
-      "gelas": 44990,
-      "plastik": 42946,
+      "botol": 42672,
+      "kardus": 46780,
+      "kaleng": 46950,
+      "gelas": 45874,
+      "plastik": 43780,
       "iron": 5,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -19885,10 +19885,10 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737855614409,
+      "lastkerja": 1737859998047,
       "lastparming": 1737855612667,
       "rokets": 53,
-      "lastmulung": 1737855604681,
+      "lastmulung": 1737859993925,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
       "sand": "undefined850",
@@ -114624,7 +114624,7 @@
       "warning": 0,
       "level": 7,
       "role": "Beginner",
-      "balance": 4410234,
+      "balance": 4411234,
       "skillexp": 0,
       "chip": 0,
       "atm": 1,
