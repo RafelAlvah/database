@@ -575,7 +575,8 @@
     "Blackbox",
     "Kencan",
     "Qc2",
-    "Addcmdprem"
+    "Addcmdprem",
+    "Delcmdprem"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -592,9 +593,7 @@
   "data": [
     {
       "name": "premium",
-      "id": [
-        "swm"
-      ]
+      "id": []
     },
     {
       "name": "commands",
@@ -634,6 +633,11 @@
     },
     {
       "cmd": "Qc2",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Delcmdprem",
       "succes": 1,
       "failed": 0
     }
@@ -680,7 +684,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 4
+      "totalcmd": 5
     }
   ],
   "clearchat": [],
@@ -692,7 +696,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -9,
-      "hit": 1629,
+      "hit": 1630,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
