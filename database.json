@@ -927,6 +927,11 @@
       "cmd": "Tebak",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Limit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -959,7 +964,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 775
+      "totalcmd": 776
     }
   ],
   "clearchat": [],
@@ -93487,7 +93492,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 19,
-      "hit": 501,
+      "hit": 502,
       "date": "1 Januari 2025",
       "money": 5132811,
       "exp": 8061,
@@ -93507,7 +93512,7 @@
       "pasangan": "",
       "age": 18,
       "regTime": 1737414809844,
-      "afk": 1737860414682,
+      "afk": -1,
       "unreg": true,
       "afkReason": "",
       "banned": false,
