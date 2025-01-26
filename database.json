@@ -900,7 +900,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1312
+      "totalcmd": 1313
     }
   ],
   "clearchat": [],
@@ -81009,11 +81009,11 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 28,
-      "hit": 215,
+      "hit": 216,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 21,
+      "limit": 20,
       "speed": 0,
       "strength": 0,
       "defense": 0,
