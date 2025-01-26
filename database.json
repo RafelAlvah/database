@@ -726,6 +726,11 @@
       "cmd": "Rob",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Heal",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -774,7 +779,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 71
+      "totalcmd": 72
     }
   ],
   "clearchat": [],
@@ -35826,7 +35831,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3570,
+      "hit": 3571,
       "date": "22 Desember 2024",
       "money": 254197,
       "exp": 25101,
@@ -35860,9 +35865,9 @@
       "atm": 5,
       "fullatm": 2000000000,
       "bank": 4012547,
-      "health": 20,
+      "health": 100,
       "stamina": 65,
-      "potion": 23,
+      "potion": 21,
       "wine": 0,
       "beer": 0,
       "trash": 0,
