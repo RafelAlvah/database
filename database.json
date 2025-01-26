@@ -945,7 +945,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1186,7 +1186,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 2004
+      "totalcmd": 2005
     }
   ],
   "clearchat": [],
@@ -36238,7 +36238,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 327,
-      "hit": 3534,
+      "hit": 3535,
       "date": "22 Desember 2024",
       "money": 254197,
       "exp": 25101,
