@@ -797,7 +797,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -995,7 +995,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 359
+      "totalcmd": 360
     }
   ],
   "clearchat": [],
@@ -29220,7 +29220,7 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 780,
+      "hit": 781,
       "date": "22 Desember 2024",
       "money": 924324,
       "exp": 52711,
