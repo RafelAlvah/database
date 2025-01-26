@@ -734,7 +734,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 166,
+      "succes": 167,
       "failed": 0
     },
     {
@@ -1098,12 +1098,7 @@
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "Cannot read properties of undefined (reading 'cmd')",
-      "cmd": "audio"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1124,7 +1119,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1523
+      "totalcmd": 1524
     }
   ],
   "clearchat": [],
@@ -76721,7 +76716,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 42,
-      "hit": 525,
+      "hit": 526,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 12932,
