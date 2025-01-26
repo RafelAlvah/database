@@ -939,6 +939,11 @@
       "cmd": "Leaderboard",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Unreg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1015,7 +1020,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 381
+      "totalcmd": 382
     }
   ],
   "clearchat": [],
@@ -43567,7 +43572,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 162,
-      "hit": 3061,
+      "hit": 3062,
       "date": "22 Desember 2024",
       "money": 0,
       "exp": 25000,
@@ -43579,7 +43584,7 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": true,
+      "registered": false,
       "name": "anomali ameng",
       "skill": "",
       "ultah": "27,01,2009",
