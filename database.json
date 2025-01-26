@@ -934,11 +934,6 @@
       "failed": 0
     },
     {
-      "cmd": "Tebak",
-      "succes": 0,
-      "failed": 1
-    },
-    {
       "cmd": "Suit",
       "succes": 4,
       "failed": 0
@@ -1027,6 +1022,11 @@
       "cmd": "Add",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tebak",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1055,7 +1055,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1081
+      "totalcmd": 1082
     }
   ],
   "clearchat": [],
@@ -135604,7 +135604,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 21,
-      "hit": 57,
+      "hit": 58,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
