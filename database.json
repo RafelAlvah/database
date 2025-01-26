@@ -620,7 +620,7 @@
   "dashboard": [
     {
       "cmd": "Afk",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -959,7 +959,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 772
+      "totalcmd": 773
     }
   ],
   "clearchat": [],
@@ -93487,7 +93487,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 19,
-      "hit": 500,
+      "hit": 501,
       "date": "1 Januari 2025",
       "money": 5132811,
       "exp": 8061,
@@ -93507,7 +93507,7 @@
       "pasangan": "",
       "age": 18,
       "regTime": 1737414809844,
-      "afk": -1,
+      "afk": 1737860414682,
       "unreg": true,
       "afkReason": "",
       "banned": false,
