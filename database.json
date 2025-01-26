@@ -1050,7 +1050,7 @@
     },
     {
       "cmd": "Open",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -1080,7 +1080,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1140
+      "totalcmd": 1141
     }
   ],
   "clearchat": [],
@@ -96656,7 +96656,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 632,
-      "hit": 7355,
+      "hit": 7356,
       "date": "3 Januari 2025",
       "money": 109383,
       "exp": 89543,
@@ -96699,7 +96699,7 @@
       "coal": 0,
       "wood": 1965,
       "rock": 4,
-      "string": 4,
+      "string": 5,
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
@@ -96711,15 +96711,15 @@
       "kaleng": 42024,
       "gelas": 43642,
       "plastik": 43280,
-      "iron": 1,
+      "iron": 2,
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
-      "common": 0,
+      "common": 1,
       "uncommon": 1,
       "mythic": 0,
       "tbox": 0,
-      "legendary": 1,
+      "legendary": 0,
       "kondom": 7,
       "umpan": 0,
       "pet": 0,
