@@ -631,7 +631,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -671,7 +671,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -910,7 +910,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 619
+      "totalcmd": 621
     }
   ],
   "clearchat": [],
@@ -6833,7 +6833,7 @@
       "autolevelup": false,
       "serial": "DBZS",
       "glimit": 27,
-      "hit": 57,
+      "hit": 58,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 7996,
@@ -53473,7 +53473,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14584,
-      "hit": 2176,
+      "hit": 2177,
       "date": "24 Desember 2024",
       "money": 4423345,
       "exp": 16120,
