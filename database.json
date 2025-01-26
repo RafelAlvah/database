@@ -1037,6 +1037,11 @@
       "cmd": "Cekjodoh",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Spotify",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1065,7 +1070,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1122
+      "totalcmd": 1123
     }
   ],
   "clearchat": [],
@@ -96641,7 +96646,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 632,
-      "hit": 7349,
+      "hit": 7350,
       "date": "3 Januari 2025",
       "money": 409383,
       "exp": 89543,
