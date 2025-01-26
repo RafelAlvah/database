@@ -572,7 +572,8 @@
     "Kodebahasa",
     "Walpaper",
     "Google",
-    "Lopyu"
+    "Lopyu",
+    "Blackbox"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1096,6 +1097,11 @@
       "cmd": "Tourl",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Blackbox",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1119,7 +1125,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1532
+      "totalcmd": 1533
     }
   ],
   "clearchat": [],
@@ -1131,7 +1137,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -9,
-      "hit": 1613,
+      "hit": 1614,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
