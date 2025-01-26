@@ -1109,7 +1109,12 @@
       "failed": 0
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "footerMess is not defined",
+      "cmd": "button"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
