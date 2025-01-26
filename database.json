@@ -1072,6 +1072,11 @@
       "cmd": "Reg",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Tembak",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1100,7 +1105,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1276
+      "totalcmd": 1277
     }
   ],
   "clearchat": [],
@@ -43650,7 +43655,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2959,
+      "hit": 2960,
       "date": "22 Desember 2024",
       "money": 106957,
       "exp": 8000,
