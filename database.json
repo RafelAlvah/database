@@ -965,7 +965,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1170,7 +1170,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1998
+      "totalcmd": 1999
     }
   ],
   "clearchat": [],
@@ -19925,7 +19925,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 47,
-      "hit": 3614,
+      "hit": 3615,
       "date": "20 Desember 2024",
       "money": 8471608,
       "exp": 8336,
@@ -19937,14 +19937,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "ayuu",
+      "registered": true,
+      "name": "yuu.!!",
       "skill": "",
       "ultah": "05,11,2007",
       "sahabat": "",
       "pasangan": "",
       "age": 17,
-      "regTime": 1736490255339,
+      "regTime": 1737899071519,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
