@@ -800,6 +800,11 @@
       "cmd": "Money",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Tebakgambar",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -852,7 +857,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 118
+      "totalcmd": 119
     }
   ],
   "clearchat": [],
@@ -35903,8 +35908,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "ENHU",
-      "glimit": 336,
-      "hit": 3587,
+      "glimit": 335,
+      "hit": 3588,
       "date": "22 Desember 2024",
       "money": 954197,
       "exp": 27101,
