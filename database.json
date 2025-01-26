@@ -1067,6 +1067,11 @@
       "cmd": "Inv",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Reg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1095,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1249
+      "totalcmd": 1250
     }
   ],
   "clearchat": [],
@@ -80984,7 +80989,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 28,
-      "hit": 207,
+      "hit": 208,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
