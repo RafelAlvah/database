@@ -695,7 +695,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 30,
+      "succes": 31,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1542
+      "totalcmd": 1544
     }
   ],
   "clearchat": [],
@@ -19889,8 +19889,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 15,
-      "hit": 3374,
+      "glimit": 14,
+      "hit": 3375,
       "date": "20 Desember 2024",
       "money": 5012440,
       "exp": 5286,
@@ -76732,7 +76732,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 37,
-      "hit": 537,
+      "hit": 538,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 12932,
