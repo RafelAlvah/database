@@ -620,7 +620,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "60189025004",
+      "expired": 1737912867961
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Swm",
@@ -145697,10 +145703,6 @@
     {
       "id": "6288287186174@s.whatsapp.net",
       "count": 2
-    },
-    {
-      "id": "60189025004@s.whatsapp.net",
-      "count": 5
     },
     {
       "id": "6282145543838@s.whatsapp.net",
