@@ -784,7 +784,7 @@
     {
       "cmd": "Ytmp3",
       "succes": 3,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Toaudio",
@@ -890,6 +890,10 @@
     {
       "error": "Cannot read properties of undefined (reading 'cmd')",
       "cmd": "qc"
+    },
+    {
+      "error": "LoadingReact is not defined",
+      "cmd": "ytmp3"
     }
   ],
   "jadibot": {},
@@ -912,7 +916,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 241
+      "totalcmd": 242
     }
   ],
   "clearchat": [],
@@ -924,7 +928,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1638,
+      "hit": 1639,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
