@@ -640,7 +640,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 44,
+      "succes": 45,
       "failed": 0
     },
     {
@@ -650,7 +650,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1055,7 +1055,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1079
+      "totalcmd": 1081
     }
   ],
   "clearchat": [],
@@ -30531,9 +30531,9 @@
       "autolevelup": false,
       "serial": "2EUZ",
       "glimit": 102,
-      "hit": 907,
+      "hit": 908,
       "date": "22 Desember 2024",
-      "money": 18564942,
+      "money": 18605566,
       "exp": 15827,
       "limit": 202,
       "speed": 1,
@@ -30701,7 +30701,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737718847461,
+      "lastkerja": 1737875018585,
       "clay": "undefined1630",
       "sand": "undefined310",
       "berlian": "undefined40",
@@ -96631,7 +96631,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 632,
-      "hit": 7335,
+      "hit": 7336,
       "date": "3 Januari 2025",
       "money": 9269306,
       "exp": 89543,
