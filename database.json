@@ -626,7 +626,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 60,
+      "succes": 61,
       "failed": 0
     },
     {
@@ -641,7 +641,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 100,
+      "succes": 101,
       "failed": 0
     },
     {
@@ -1166,7 +1166,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1802
+      "totalcmd": 1804
     }
   ],
   "clearchat": [],
@@ -122323,7 +122323,7 @@
       "autolevelup": false,
       "serial": "DY0Q",
       "glimit": 56,
-      "hit": 101,
+      "hit": 102,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -127313,9 +127313,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 545,
+      "hit": 546,
       "date": "20 Januari 2025",
-      "money": 197118,
+      "money": 317948,
       "exp": 19900,
       "limit": 220,
       "speed": 0,
@@ -127487,7 +127487,7 @@
       "lastparming": 1737886261993,
       "poin": 1740000,
       "rokets": 29,
-      "lastkerja": 1737886251261,
+      "lastkerja": 1737886919618,
       "sampah": 298,
       "kayu": 268,
       "batu": 393,
