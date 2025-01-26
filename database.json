@@ -1022,6 +1022,11 @@
       "cmd": "Shop",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Add",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1050,7 +1055,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1056
+      "totalcmd": 1057
     }
   ],
   "clearchat": [],
@@ -96626,7 +96631,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 632,
-      "hit": 7333,
+      "hit": 7334,
       "date": "3 Januari 2025",
       "money": 9179772,
       "exp": 89543,
