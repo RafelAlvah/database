@@ -655,7 +655,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 43,
+      "succes": 44,
       "failed": 0
     },
     {
@@ -740,7 +740,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1125,7 +1125,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1397
+      "totalcmd": 1399
     }
   ],
   "clearchat": [],
@@ -46896,11 +46896,11 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5788,
-      "hit": 1298,
+      "hit": 1299,
       "date": "22 Desember 2024",
       "money": 6863133,
       "exp": 25163,
-      "limit": 2073,
+      "limit": 2072,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -129777,7 +129777,7 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 265,
+      "hit": 266,
       "date": "22 Januari 2025",
       "money": 2003948,
       "exp": 11500,
