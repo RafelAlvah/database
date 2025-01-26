@@ -1128,6 +1128,11 @@
       "cmd": "Kencan",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Berburu",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1156,7 +1161,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1685
+      "totalcmd": 1686
     }
   ],
   "clearchat": [],
@@ -19911,7 +19916,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 1,
-      "hit": 3458,
+      "hit": 3459,
       "date": "20 Desember 2024",
       "money": 7177522,
       "exp": 286,
