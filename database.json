@@ -970,7 +970,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1259
+      "totalcmd": 1260
     }
   ],
   "clearchat": [],
@@ -80989,7 +80989,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 28,
-      "hit": 210,
+      "hit": 211,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -81001,14 +81001,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "Aulia",
+      "registered": true,
+      "name": "aulia",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 19,
+      "regTime": 1737877024556,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
