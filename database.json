@@ -691,7 +691,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 30,
+      "succes": 31,
       "failed": 0
     },
     {
@@ -923,6 +923,11 @@
       "cmd": "Tebak",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Sewa",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -955,7 +960,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 734
+      "totalcmd": 736
     }
   ],
   "clearchat": [],
@@ -58698,7 +58703,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 52,
+      "hit": 53,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 999,
@@ -93483,7 +93488,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 20,
-      "hit": 488,
+      "hit": 489,
       "date": "1 Januari 2025",
       "money": 4992056,
       "exp": 8061,
