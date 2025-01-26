@@ -623,7 +623,7 @@
   "dashboard": [
     {
       "cmd": "Swm",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -699,7 +699,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 19
+      "totalcmd": 20
     }
   ],
   "clearchat": [],
@@ -142549,9 +142549,9 @@
       "autolevelup": false,
       "serial": "BDY5",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "26 Januari 2025",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -142575,7 +142575,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
