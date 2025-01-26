@@ -695,6 +695,11 @@
       "cmd": "Buyprem",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -743,7 +748,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 60
+      "totalcmd": 61
     }
   ],
   "clearchat": [],
@@ -35795,7 +35800,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3560,
+      "hit": 3561,
       "date": "22 Desember 2024",
       "money": 254197,
       "exp": 25101,
