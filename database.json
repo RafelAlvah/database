@@ -1137,6 +1137,11 @@
       "cmd": "Buyglimit",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Unreg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1165,7 +1170,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1997
+      "totalcmd": 1998
     }
   ],
   "clearchat": [],
@@ -19920,7 +19925,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 47,
-      "hit": 3613,
+      "hit": 3614,
       "date": "20 Desember 2024",
       "money": 8471608,
       "exp": 8336,
@@ -19932,7 +19937,7 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": true,
+      "registered": false,
       "name": "ayuu",
       "skill": "",
       "ultah": "05,11,2007",
