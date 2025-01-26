@@ -619,7 +619,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6283824612951",
+      "expired": 1737909949746
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Swm",
