@@ -1017,6 +1017,11 @@
       "cmd": "Lirik",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Shop",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1045,7 +1050,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1042
+      "totalcmd": 1043
     }
   ],
   "clearchat": [],
@@ -96621,7 +96626,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 632,
-      "hit": 7331,
+      "hit": 7332,
       "date": "3 Januari 2025",
       "money": 9179772,
       "exp": 89543,
