@@ -695,7 +695,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -800,7 +800,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1055,7 +1055,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1069
+      "totalcmd": 1071
     }
   ],
   "clearchat": [],
@@ -19810,7 +19810,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 51,
-      "hit": 3200,
+      "hit": 3201,
       "date": "20 Desember 2024",
       "money": 10000000,
       "exp": 86086,
@@ -97543,11 +97543,11 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 471,
-      "hit": 1064,
+      "hit": 1065,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
-      "limit": 1504,
+      "limit": 1503,
       "speed": 0,
       "strength": 0,
       "defense": 0,
