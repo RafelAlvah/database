@@ -1062,6 +1062,11 @@
       "cmd": "Bansos",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Inv",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1090,7 +1095,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1207
+      "totalcmd": 1208
     }
   ],
   "clearchat": [],
@@ -114727,7 +114732,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 21,
-      "hit": 1224,
+      "hit": 1225,
       "date": "7 Januari 2025",
       "money": 1189845,
       "exp": 12285,
