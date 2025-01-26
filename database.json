@@ -884,6 +884,11 @@
       "cmd": "Maling",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Brat2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -960,7 +965,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 309
+      "totalcmd": 310
     }
   ],
   "clearchat": [],
@@ -122118,7 +122123,7 @@
       "autolevelup": false,
       "serial": "DY0Q",
       "glimit": 50,
-      "hit": 113,
+      "hit": 114,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
