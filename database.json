@@ -906,6 +906,11 @@
       "cmd": "Audio",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tiktok",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -938,7 +943,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 699
+      "totalcmd": 700
     }
   ],
   "clearchat": [],
@@ -66719,11 +66724,11 @@
       "autolevelup": false,
       "serial": "HEQK",
       "glimit": 30,
-      "hit": 10,
+      "hit": 11,
       "date": "25 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 29,
+      "limit": 28,
       "speed": 0,
       "strength": 0,
       "defense": 0,
