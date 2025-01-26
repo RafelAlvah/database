@@ -1092,6 +1092,11 @@
       "cmd": "Terima",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Polisi",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1120,7 +1125,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1365
+      "totalcmd": 1366
     }
   ],
   "clearchat": [],
@@ -127266,7 +127271,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 507,
+      "hit": 508,
       "date": "20 Januari 2025",
       "money": 666541,
       "exp": 13900,
