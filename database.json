@@ -680,7 +680,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1317
+      "totalcmd": 1319
     }
   ],
   "clearchat": [],
@@ -29344,7 +29344,7 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 772,
+      "hit": 773,
       "date": "22 Desember 2024",
       "money": 5686824,
       "exp": 48711,
@@ -43670,7 +43670,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2969,
+      "hit": 2970,
       "date": "22 Desember 2024",
       "money": 106957,
       "exp": 8000,
