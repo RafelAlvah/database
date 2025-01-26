@@ -665,7 +665,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -1120,7 +1120,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1342
+      "totalcmd": 1343
     }
   ],
   "clearchat": [],
@@ -19875,10 +19875,10 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 49,
-      "hit": 3283,
+      "hit": 3284,
       "date": "20 Desember 2024",
-      "money": 4289492,
-      "exp": 86186,
+      "money": 4589492,
+      "exp": 95186,
       "limit": 144,
       "speed": 1,
       "strength": 0,
@@ -19909,8 +19909,8 @@
       "atm": 1,
       "fullatm": 500000000,
       "bank": 312517306,
-      "health": 100,
-      "stamina": 85,
+      "health": 20,
+      "stamina": 45,
       "potion": 4,
       "wine": 0,
       "beer": 0,
@@ -19972,7 +19972,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1737873684035,
+      "lastmisi": 1737879283678,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -20047,7 +20047,7 @@
       "timeEnd": "",
       "lastkerja": 1737879263405,
       "lastparming": 1737878008848,
-      "rokets": 55,
+      "rokets": 56,
       "lastmulung": 1737877998867,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
