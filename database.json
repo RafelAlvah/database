@@ -1082,6 +1082,11 @@
       "cmd": "Buyprem",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tolak",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1110,7 +1115,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1299
+      "totalcmd": 1300
     }
   ],
   "clearchat": [],
@@ -19865,7 +19870,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 49,
-      "hit": 3267,
+      "hit": 3268,
       "date": "20 Desember 2024",
       "money": 4932785,
       "exp": 86186,
@@ -127273,7 +127278,7 @@
       "skill": "",
       "ultah": "",
       "sahabat": "",
-      "pasangan": "6285179632097@s.whatsapp.net",
+      "pasangan": "",
       "age": 16,
       "regTime": 1737416619902,
       "afk": -1,
