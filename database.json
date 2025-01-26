@@ -828,7 +828,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -925,7 +925,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 287
+      "totalcmd": 288
     }
   ],
   "clearchat": [],
@@ -96503,7 +96503,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 560,
-      "hit": 7506,
+      "hit": 7507,
       "date": "3 Januari 2025",
       "money": 2124444,
       "exp": 92843,
