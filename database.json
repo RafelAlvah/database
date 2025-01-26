@@ -879,6 +879,11 @@
       "cmd": "Hidetag",
       "succes": 2,
       "failed": 3
+    },
+    {
+      "cmd": "Maling",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -955,7 +960,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 305
+      "totalcmd": 306
     }
   ],
   "clearchat": [],
@@ -27219,7 +27224,7 @@
       "autolevelup": false,
       "serial": "KV7S",
       "glimit": 27,
-      "hit": 155,
+      "hit": 156,
       "date": "22 Desember 2024",
       "money": 594151,
       "exp": 2451,
