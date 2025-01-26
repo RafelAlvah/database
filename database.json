@@ -620,7 +620,7 @@
   "dashboard": [
     {
       "cmd": "Afk",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1050,7 +1050,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1050
+      "totalcmd": 1051
     }
   ],
   "clearchat": [],
@@ -1062,7 +1062,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -9,
-      "hit": 1612,
+      "hit": 1613,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -1082,9 +1082,9 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1734340571144,
-      "afk": -1,
+      "afk": 1737874655909,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "tidurr",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
