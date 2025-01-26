@@ -914,6 +914,11 @@
       "cmd": "Addultah",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Buy",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -990,7 +995,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 354
+      "totalcmd": 355
     }
   ],
   "clearchat": [],
@@ -29215,9 +29220,9 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 775,
+      "hit": 776,
       "date": "22 Desember 2024",
-      "money": 86824,
+      "money": 74324,
       "exp": 48711,
       "limit": 79,
       "speed": 0,
@@ -29251,7 +29256,7 @@
       "bank": 5600000,
       "health": 20,
       "stamina": 45,
-      "potion": 0,
+      "potion": 10,
       "wine": 0,
       "beer": 0,
       "trash": 0,
