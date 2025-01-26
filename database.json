@@ -1148,6 +1148,10 @@
     {
       "error": "footerMess is not defined",
       "cmd": "button"
+    },
+    {
+      "error": "Request failed with status code 404",
+      "cmd": "smeme"
     }
   ],
   "jadibot": {},
