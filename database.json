@@ -660,7 +660,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1090,7 +1090,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1199
+      "totalcmd": 1200
     }
   ],
   "clearchat": [],
@@ -114727,9 +114727,9 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 21,
-      "hit": 1220,
+      "hit": 1221,
       "date": "7 Januari 2025",
-      "money": 1539845,
+      "money": 1189845,
       "exp": 12285,
       "limit": 69,
       "speed": 1,
@@ -114788,7 +114788,7 @@
       "rawiron": 0,
       "common": 0,
       "uncommon": 0,
-      "mythic": 0,
+      "mythic": 2,
       "tbox": 0,
       "legendary": 1,
       "kondom": 3,
