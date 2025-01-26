@@ -924,6 +924,11 @@
       "cmd": "Nabung",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Berdagang",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1000,7 +1005,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 368
+      "totalcmd": 369
     }
   ],
   "clearchat": [],
@@ -43552,9 +43557,9 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 162,
-      "hit": 3048,
+      "hit": 3049,
       "date": "22 Desember 2024",
-      "money": 9135615,
+      "money": 9131590,
       "exp": 25000,
       "limit": 2185,
       "speed": 3,
@@ -43658,7 +43663,7 @@
       "lasthunt": 0,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1737898889923,
+      "lastdagang": 1737933233678,
       "lasthourly": 0,
       "lastbansos": 1737876425551,
       "lastrampok": 1736579270054,
@@ -49104,7 +49109,7 @@
       "glimit": 41,
       "hit": 1085,
       "date": "22 Desember 2024",
-      "money": 1129727,
+      "money": 1125702,
       "exp": 96059,
       "limit": 55,
       "speed": 0,
