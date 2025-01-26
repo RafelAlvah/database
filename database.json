@@ -695,7 +695,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1055,7 +1055,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1077
+      "totalcmd": 1078
     }
   ],
   "clearchat": [],
@@ -19810,7 +19810,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 50,
-      "hit": 3203,
+      "hit": 3204,
       "date": "20 Desember 2024",
       "money": 10110380,
       "exp": 86086,
@@ -30533,7 +30533,7 @@
       "glimit": 102,
       "hit": 907,
       "date": "22 Desember 2024",
-      "money": 18526882,
+      "money": 18564942,
       "exp": 15827,
       "limit": 202,
       "speed": 1,
@@ -30572,7 +30572,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 146,
+      "wood": 190,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -30710,7 +30710,7 @@
       "lastnambang": 1735110596894,
       "lastmulung": 1737550927858,
       "lastmaling": 1735906977938,
-      "lastparming": 1737718799118,
+      "lastparming": 1737875010681,
       "rokets": 9,
       "poin": 2130000,
       "sampah": 43,
