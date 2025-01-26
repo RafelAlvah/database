@@ -949,16 +949,7 @@
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "((user.lastmonthly + cooldown) - (intermediate value)).toTimeString is not a function",
-      "cmd": "monthly"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'cmd')",
-      "cmd": ""
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
