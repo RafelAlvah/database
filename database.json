@@ -1070,7 +1070,7 @@
     },
     {
       "cmd": "Reg",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1100,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1250
+      "totalcmd": 1252
     }
   ],
   "clearchat": [],
@@ -19855,7 +19855,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 49,
-      "hit": 3264,
+      "hit": 3265,
       "date": "20 Desember 2024",
       "money": 4825145,
       "exp": 86186,
@@ -80989,7 +80989,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 28,
-      "hit": 208,
+      "hit": 209,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
