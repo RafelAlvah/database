@@ -865,7 +865,7 @@
     },
     {
       "cmd": "Sell",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1140,7 +1140,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1610
+      "totalcmd": 1611
     }
   ],
   "clearchat": [],
@@ -43690,9 +43690,9 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2985,
+      "hit": 2986,
       "date": "22 Desember 2024",
-      "money": 1030420,
+      "money": 1045820,
       "exp": 9000,
       "limit": 2155,
       "speed": 3,
@@ -43731,7 +43731,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 44,
+      "wood": 0,
       "rock": 0,
       "string": 0,
       "petfood": 0,
