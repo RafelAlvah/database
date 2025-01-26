@@ -869,6 +869,11 @@
       "cmd": "Pin",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Bugpayment",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -933,7 +938,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 297
+      "totalcmd": 298
     }
   ],
   "clearchat": [],
@@ -5966,7 +5971,7 @@
       "autolevelup": false,
       "serial": "HVYM",
       "glimit": 30,
-      "hit": 70,
+      "hit": 71,
       "date": "17 Desember 2024",
       "money": 0,
       "exp": 0,
