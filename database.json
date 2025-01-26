@@ -877,7 +877,7 @@
     },
     {
       "cmd": "Hidetag",
-      "succes": 0,
+      "succes": 1,
       "failed": 2
     }
   ],
@@ -951,7 +951,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 301
+      "totalcmd": 302
     }
   ],
   "clearchat": [],
@@ -120148,7 +120148,7 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 18,
-      "hit": 268,
+      "hit": 269,
       "date": "10 Januari 2025",
       "money": 178499,
       "exp": 200,
