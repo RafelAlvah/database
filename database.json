@@ -572,7 +572,8 @@
     "Kodebahasa",
     "Walpaper",
     "Google",
-    "Audio"
+    "Audio",
+    "Lopyu"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -634,7 +635,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -911,6 +912,11 @@
       "cmd": "Tiktok",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Lopyu",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -943,7 +949,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 708
+      "totalcmd": 710
     }
   ],
   "clearchat": [],
@@ -58686,7 +58692,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 42,
+      "hit": 44,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 999,
