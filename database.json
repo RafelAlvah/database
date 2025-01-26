@@ -690,6 +690,11 @@
       "cmd": "Limit",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Buyprem",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -738,7 +743,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 57
+      "totalcmd": 58
     }
   ],
   "clearchat": [],
@@ -80263,7 +80268,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2455,
-      "hit": 2033,
+      "hit": 2034,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
