@@ -486,7 +486,6 @@
     "Bukaa",
     "Paprika",
     "Malingbank",
-    "Removebg",
     "Rob",
     "Haji",
     "Blockcmd",
@@ -929,7 +928,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 294
+      "totalcmd": 295
     }
   ],
   "clearchat": [],
@@ -5962,7 +5961,7 @@
       "autolevelup": false,
       "serial": "HVYM",
       "glimit": 30,
-      "hit": 69,
+      "hit": 70,
       "date": "17 Desember 2024",
       "money": 0,
       "exp": 0,
