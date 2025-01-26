@@ -860,6 +860,11 @@
       "cmd": "Inventory",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Ytmp4",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -894,6 +899,10 @@
     {
       "error": "LoadingReact is not defined",
       "cmd": "ytmp3"
+    },
+    {
+      "error": "ytdl.getURLVideoID is not a function",
+      "cmd": "ytmp4"
     }
   ],
   "jadibot": {},
@@ -916,7 +925,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 245
+      "totalcmd": 246
     }
   ],
   "clearchat": [],
@@ -928,7 +937,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1639,
+      "hit": 1640,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
