@@ -909,6 +909,11 @@
       "cmd": "Cekkhodam",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Addultah",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -985,7 +990,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 349
+      "totalcmd": 350
     }
   ],
   "clearchat": [],
@@ -43537,7 +43542,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 162,
-      "hit": 3038,
+      "hit": 3039,
       "date": "22 Desember 2024",
       "money": 8974227,
       "exp": 18000,
@@ -43552,7 +43557,7 @@
       "registered": true,
       "name": "anomali ameng",
       "skill": "",
-      "ultah": "18,12,2009",
+      "ultah": "27,01,2009",
       "sahabat": "",
       "pasangan": "",
       "age": 16,
