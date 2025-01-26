@@ -970,7 +970,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 6,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1100,7 +1100,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1253
+      "totalcmd": 1255
     }
   ],
   "clearchat": [],
@@ -19855,7 +19855,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 49,
-      "hit": 3265,
+      "hit": 3266,
       "date": "20 Desember 2024",
       "money": 4825145,
       "exp": 86186,
@@ -96676,7 +96676,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 632,
-      "hit": 7367,
+      "hit": 7368,
       "date": "3 Januari 2025",
       "money": 184894,
       "exp": 89643,
