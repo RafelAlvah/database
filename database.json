@@ -641,7 +641,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 103,
+      "succes": 104,
       "failed": 0
     },
     {
@@ -1166,7 +1166,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1882
+      "totalcmd": 1883
     }
   ],
   "clearchat": [],
@@ -133934,9 +133934,9 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 1,
-      "hit": 61,
+      "hit": 62,
       "date": "24 Januari 2025",
-      "money": 147131,
+      "money": 210281,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -134105,7 +134105,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastmulung": 1737873897472,
-      "lastkerja": 1737874371573
+      "lastkerja": 1737888593438
     },
     "6285710671975@s.whatsapp.net": {
       "sticker": {},
