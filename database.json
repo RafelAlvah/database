@@ -620,7 +620,7 @@
   "dashboard": [
     {
       "cmd": "Afk",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -1130,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1501
+      "totalcmd": 1502
     }
   ],
   "clearchat": [],
@@ -135679,7 +135679,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 20,
-      "hit": 77,
+      "hit": 78,
       "date": "24 Januari 2025",
       "money": 331006,
       "exp": 0,
@@ -135699,9 +135699,9 @@
       "pasangan": "",
       "age": 23,
       "regTime": 1737874854845,
-      "afk": -1,
+      "afk": 1737881966546,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "mau cas hp",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
