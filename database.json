@@ -975,7 +975,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1025,7 +1025,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 976
+      "totalcmd": 977
     }
   ],
   "clearchat": [],
@@ -19780,7 +19780,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 56,
-      "hit": 3186,
+      "hit": 3187,
       "date": "20 Desember 2024",
       "money": 43131135,
       "exp": 86086,
