@@ -736,6 +736,11 @@
       "cmd": "Hitman",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Topbalance",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -784,7 +789,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 75
+      "totalcmd": 76
     }
   ],
   "clearchat": [],
@@ -35836,7 +35841,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3574,
+      "hit": 3575,
       "date": "22 Desember 2024",
       "money": 954197,
       "exp": 27101,
