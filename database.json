@@ -786,6 +786,11 @@
       "cmd": "Ytmp3",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Toaudio",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -838,7 +843,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 110
+      "totalcmd": 111
     }
   ],
   "clearchat": [],
@@ -133607,7 +133612,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 0,
-      "hit": 82,
+      "hit": 83,
       "date": "24 Januari 2025",
       "money": 210281,
       "exp": 5000,
