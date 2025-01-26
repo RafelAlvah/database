@@ -695,7 +695,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -964,7 +964,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 776
+      "totalcmd": 777
     }
   ],
   "clearchat": [],
@@ -4038,8 +4038,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "DZ3A",
-      "glimit": 26,
-      "hit": 73,
+      "glimit": 25,
+      "hit": 74,
       "date": "16 Desember 2024",
       "money": 3000,
       "exp": 19994,
