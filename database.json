@@ -690,7 +690,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 59,
+      "succes": 60,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     },
     {
       "cmd": "Tembak",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1110,7 +1110,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1297
+      "totalcmd": 1299
     }
   ],
   "clearchat": [],
@@ -29334,7 +29334,7 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 769,
+      "hit": 770,
       "date": "22 Desember 2024",
       "money": 306824,
       "exp": 48711,
@@ -127256,7 +127256,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 491,
+      "hit": 492,
       "date": "20 Januari 2025",
       "money": 312989,
       "exp": 10800,
@@ -127273,7 +127273,7 @@
       "skill": "",
       "ultah": "",
       "sahabat": "",
-      "pasangan": "",
+      "pasangan": "6285179632097@s.whatsapp.net",
       "age": 16,
       "regTime": 1737416619902,
       "afk": -1,
