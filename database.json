@@ -653,7 +653,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -699,7 +699,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 14
+      "totalcmd": 15
     }
   ],
   "clearchat": [],
@@ -76297,7 +76297,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 389,
-      "hit": 644,
+      "hit": 645,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 12932,
