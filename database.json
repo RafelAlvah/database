@@ -1125,7 +1125,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1393
+      "totalcmd": 1394
     }
   ],
   "clearchat": [],
@@ -8472,7 +8472,7 @@
       "autolevelup": false,
       "serial": "HPSG",
       "glimit": 28,
-      "hit": 68,
+      "hit": 69,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 5000,
