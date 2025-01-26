@@ -992,6 +992,11 @@
       "cmd": "Surah",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Register",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1020,7 +1025,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 971
+      "totalcmd": 972
     }
   ],
   "clearchat": [],
@@ -133786,7 +133791,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 1,
-      "hit": 46,
+      "hit": 47,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
