@@ -616,7 +616,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6283163420613",
+      "expired": 1737869904066
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Afk",
@@ -730,7 +736,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 144,
+      "succes": 145,
       "failed": 0
     },
     {
@@ -957,6 +963,11 @@
       "cmd": "Swm",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Upsw",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -980,7 +991,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 897
+      "totalcmd": 899
     }
   ],
   "clearchat": [],
@@ -992,7 +1003,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -8,
-      "hit": 1607,
+      "hit": 1608,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -96556,7 +96567,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 711,
-      "hit": 7171,
+      "hit": 7172,
       "date": "3 Januari 2025",
       "money": 47757106,
       "exp": 88443,
