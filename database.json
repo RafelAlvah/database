@@ -653,7 +653,12 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 4,
+      "succes": 5,
+      "failed": 0
+    },
+    {
+      "cmd": "Susunkata",
+      "succes": 1,
       "failed": 0
     }
   ],
@@ -699,7 +704,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 23
+      "totalcmd": 25
     }
   ],
   "clearchat": [],
@@ -35750,8 +35755,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "ENHU",
-      "glimit": 327,
-      "hit": 3550,
+      "glimit": 326,
+      "hit": 3551,
       "date": "22 Desember 2024",
       "money": 254197,
       "exp": 25101,
@@ -76297,7 +76302,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 387,
-      "hit": 648,
+      "hit": 649,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 12932,
