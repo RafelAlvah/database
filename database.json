@@ -691,7 +691,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 83,
+      "succes": 84,
       "failed": 0
     },
     {
@@ -731,7 +731,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 282,
+      "succes": 283,
       "failed": 0
     },
     {
@@ -1166,7 +1166,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1883
+      "totalcmd": 1885
     }
   ],
   "clearchat": [],
@@ -80691,7 +80691,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2464,
-      "hit": 1991,
+      "hit": 1992,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -133933,8 +133933,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "IHK1",
-      "glimit": 1,
-      "hit": 62,
+      "glimit": 0,
+      "hit": 63,
       "date": "24 Januari 2025",
       "money": 210281,
       "exp": 0,
