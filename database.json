@@ -899,6 +899,11 @@
       "cmd": "Dare",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Truth",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -975,7 +980,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 328
+      "totalcmd": 329
     }
   ],
   "clearchat": [],
@@ -122133,7 +122138,7 @@
       "autolevelup": false,
       "serial": "DY0Q",
       "glimit": 280,
-      "hit": 132,
+      "hit": 133,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
