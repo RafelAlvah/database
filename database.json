@@ -639,7 +639,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -649,7 +649,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -938,7 +938,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 683
+      "totalcmd": 685
     }
   ],
   "clearchat": [],
@@ -127083,9 +127083,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 442,
+      "hit": 444,
       "date": "20 Januari 2025",
-      "money": 6269918,
+      "money": 6390679,
       "exp": 47700,
       "limit": 170,
       "speed": 0,
@@ -127124,7 +127124,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 533,
+      "wood": 554,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -127254,10 +127254,10 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastmulung": 1737855678234,
-      "lastparming": 1737853282310,
+      "lastparming": 1737855685910,
       "poin": 640000,
       "rokets": 24,
-      "lastkerja": 1737822743884,
+      "lastkerja": 1737855685722,
       "sampah": 269,
       "kayu": 242,
       "batu": 352,
