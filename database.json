@@ -855,6 +855,11 @@
       "cmd": "Airdrop",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Inventory",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -907,7 +912,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 208
+      "totalcmd": 209
     }
   ],
   "clearchat": [],
@@ -96485,7 +96490,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 605,
-      "hit": 7432,
+      "hit": 7433,
       "date": "3 Januari 2025",
       "money": 1752481,
       "exp": 92843,
