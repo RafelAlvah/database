@@ -924,11 +924,6 @@
       "failed": 0
     },
     {
-      "cmd": "Tebak",
-      "succes": 0,
-      "failed": 1
-    },
-    {
       "cmd": "Limit",
       "succes": 1,
       "failed": 0
@@ -937,6 +932,11 @@
       "cmd": "Jodohku",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tebak",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -969,7 +969,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 824
+      "totalcmd": 825
     }
   ],
   "clearchat": [],
@@ -19724,7 +19724,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 78,
-      "hit": 3125,
+      "hit": 3126,
       "date": "20 Desember 2024",
       "money": 43379421,
       "exp": 79086,
