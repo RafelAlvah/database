@@ -863,7 +863,7 @@
     },
     {
       "cmd": "Ytmp4",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     }
   ],
@@ -925,7 +925,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 263
+      "totalcmd": 264
     }
   ],
   "clearchat": [],
@@ -937,7 +937,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1641,
+      "hit": 1642,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
