@@ -1007,6 +1007,11 @@
       "cmd": "Motor",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Profil",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1035,7 +1040,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1030
+      "totalcmd": 1031
     }
   ],
   "clearchat": [],
@@ -133802,7 +133807,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 1,
-      "hit": 60,
+      "hit": 61,
       "date": "24 Januari 2025",
       "money": 147131,
       "exp": 0,
