@@ -685,12 +685,12 @@
     },
     {
       "cmd": "Del",
-      "succes": 62,
+      "succes": 63,
       "failed": 0
     },
     {
       "cmd": "Me",
-      "succes": 84,
+      "succes": 85,
       "failed": 0
     },
     {
@@ -1165,7 +1165,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1911
+      "totalcmd": 1913
     }
   ],
   "clearchat": [],
@@ -122322,7 +122322,7 @@
       "autolevelup": false,
       "serial": "DY0Q",
       "glimit": 51,
-      "hit": 109,
+      "hit": 110,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -135715,7 +135715,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 19,
-      "hit": 85,
+      "hit": 86,
       "date": "24 Januari 2025",
       "money": 331006,
       "exp": 0,
