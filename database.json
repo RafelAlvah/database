@@ -574,7 +574,8 @@
     "Lopyu",
     "Blackbox",
     "Kencan",
-    "Qc2"
+    "Qc2",
+    "Addcmdprem"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -591,7 +592,9 @@
   "data": [
     {
       "name": "premium",
-      "id": []
+      "id": [
+        "swm"
+      ]
     },
     {
       "name": "commands",
@@ -621,6 +624,11 @@
   "dashboard": [
     {
       "cmd": "Swm",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Addcmdprem",
       "succes": 1,
       "failed": 0
     }
@@ -667,7 +675,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1
+      "totalcmd": 2
     }
   ],
   "clearchat": [],
@@ -679,7 +687,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -9,
-      "hit": 1628,
+      "hit": 1629,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
