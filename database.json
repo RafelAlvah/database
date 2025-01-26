@@ -903,6 +903,10 @@
     {
       "error": "ytdl.getURLVideoID is not a function",
       "cmd": "ytmp4"
+    },
+    {
+      "error": "yts is not defined",
+      "cmd": "play"
     }
   ],
   "jadibot": {},
