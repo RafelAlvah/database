@@ -832,7 +832,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1000,7 +1000,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 364
+      "totalcmd": 365
     }
   ],
   "clearchat": [],
@@ -43552,7 +43552,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 162,
-      "hit": 3044,
+      "hit": 3045,
       "date": "22 Desember 2024",
       "money": 9035615,
       "exp": 18000,
