@@ -776,6 +776,11 @@
       "cmd": "Gcbot",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Play",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -828,7 +833,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 105
+      "totalcmd": 106
     }
   ],
   "clearchat": [],
@@ -35880,11 +35885,11 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3581,
+      "hit": 3582,
       "date": "22 Desember 2024",
       "money": 954197,
       "exp": 27101,
-      "limit": 11942,
+      "limit": 11941,
       "speed": 1,
       "strength": 29,
       "defense": 2,
