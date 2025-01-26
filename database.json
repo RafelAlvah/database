@@ -616,13 +616,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6285817604058",
-      "expired": 1737875629376
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Afk",
@@ -906,7 +900,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1071,7 +1065,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1116
+      "totalcmd": 1117
     }
   ],
   "clearchat": [],
@@ -115965,11 +115959,11 @@
       "autolevelup": false,
       "serial": "3LE7",
       "glimit": 1,
-      "hit": 204,
+      "hit": 205,
       "date": "7 Januari 2025",
       "money": 1113905,
       "exp": 6191,
-      "limit": 28,
+      "limit": 27,
       "speed": 0,
       "strength": 0,
       "defense": 0,
