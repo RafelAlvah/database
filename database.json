@@ -783,7 +783,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -877,7 +877,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 158
+      "totalcmd": 159
     }
   ],
   "clearchat": [],
@@ -74860,11 +74860,11 @@
       "autolevelup": false,
       "serial": "CXH5",
       "glimit": 1162,
-      "hit": 879,
+      "hit": 880,
       "date": "27 Desember 2024",
       "money": 4760378,
       "exp": 36393,
-      "limit": 102,
+      "limit": 101,
       "speed": 0,
       "strength": 0,
       "defense": 0,
