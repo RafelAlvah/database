@@ -625,7 +625,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 57,
+      "succes": 58,
       "failed": 0
     },
     {
@@ -650,7 +650,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 36,
+      "succes": 37,
       "failed": 0
     },
     {
@@ -1140,7 +1140,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1597
+      "totalcmd": 1599
     }
   ],
   "clearchat": [],
@@ -43690,7 +43690,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2977,
+      "hit": 2978,
       "date": "22 Desember 2024",
       "money": 106957,
       "exp": 8000,
@@ -127286,9 +127286,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 527,
+      "hit": 528,
       "date": "20 Januari 2025",
-      "money": 985739,
+      "money": 1021732,
       "exp": 13900,
       "limit": 200,
       "speed": 0,
@@ -127327,7 +127327,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 624,
+      "wood": 661,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -127457,7 +127457,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastmulung": 1737879297841,
-      "lastparming": 1737879304406,
+      "lastparming": 1737884420361,
       "poin": 1640000,
       "rokets": 28,
       "lastkerja": 1737881967957,
