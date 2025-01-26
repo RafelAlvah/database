@@ -929,6 +929,11 @@
       "cmd": "Berdagang",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Sell",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1005,7 +1010,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 371
+      "totalcmd": 372
     }
   ],
   "clearchat": [],
@@ -43557,9 +43562,9 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 162,
-      "hit": 3051,
+      "hit": 3052,
       "date": "22 Desember 2024",
-      "money": 9142071,
+      "money": 9152571,
       "exp": 25000,
       "limit": 2185,
       "speed": 3,
@@ -43598,7 +43603,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 30,
+      "wood": 0,
       "rock": 0,
       "string": 0,
       "petfood": 0,
