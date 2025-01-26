@@ -685,7 +685,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -969,7 +969,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 800
+      "totalcmd": 801
     }
   ],
   "clearchat": [],
@@ -97639,7 +97639,7 @@
       "autolevelup": false,
       "serial": "OYAO",
       "glimit": 12,
-      "hit": 295,
+      "hit": 296,
       "date": "3 Januari 2025",
       "money": 2686297,
       "exp": 17193,
