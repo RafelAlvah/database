@@ -690,7 +690,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 36,
+      "succes": 37,
       "failed": 0
     },
     {
@@ -985,7 +985,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 905
+      "totalcmd": 906
     }
   ],
   "clearchat": [],
@@ -75331,7 +75331,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 713,
+      "hit": 714,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
@@ -139279,7 +139279,7 @@
     },
     {
       "id": "6285133929328@s.whatsapp.net",
-      "count": 4
+      "count": 5
     },
     {
       "id": "6285695608081@s.whatsapp.net",
