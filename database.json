@@ -645,7 +645,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 54,
+      "succes": 55,
       "failed": 0
     },
     {
@@ -690,7 +690,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 88,
+      "succes": 89,
       "failed": 0
     },
     {
@@ -1165,7 +1165,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1980
+      "totalcmd": 1982
     }
   ],
   "clearchat": [],
@@ -1177,7 +1177,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -9,
-      "hit": 1624,
+      "hit": 1625,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -1197,9 +1197,9 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1734340571144,
-      "afk": 1737898350439,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "kuasai dunia isekai",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -43716,7 +43716,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 3002,
+      "hit": 3003,
       "date": "22 Desember 2024",
       "money": 1009068,
       "exp": 18000,
@@ -43766,11 +43766,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 1264,
-      "kardus": 3281,
-      "kaleng": 2067,
-      "gelas": 2527,
-      "plastik": 2222,
+      "botol": 1756,
+      "kardus": 3784,
+      "kaleng": 2081,
+      "gelas": 3112,
+      "plastik": 2992,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -43896,7 +43896,7 @@
       "rokets": 24,
       "lastmaling": 1735980705084,
       "ultahSent": "01,01",
-      "lastmulung": 1737884437120,
+      "lastmulung": 1737898852933,
       "lastparming": 1737898835437,
       "sampah": 15,
       "kayu": 46,
