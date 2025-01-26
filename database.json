@@ -572,7 +572,6 @@
     "Kodebahasa",
     "Walpaper",
     "Google",
-    "Audio",
     "Lopyu"
   ],
   "anonymous": [],
@@ -735,7 +734,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 165,
+      "succes": 166,
       "failed": 0
     },
     {
@@ -901,11 +900,6 @@
     {
       "cmd": "Ytmp3",
       "succes": 5,
-      "failed": 0
-    },
-    {
-      "cmd": "Audio",
-      "succes": 1,
       "failed": 0
     },
     {
@@ -1102,6 +1096,11 @@
       "cmd": "Tourl",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Audio",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1130,7 +1129,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1517
+      "totalcmd": 1519
     }
   ],
   "clearchat": [],
@@ -76727,7 +76726,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 43,
-      "hit": 522,
+      "hit": 523,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 12932,
@@ -115490,7 +115489,7 @@
       "autolevelup": false,
       "serial": "Z6RY",
       "glimit": 30,
-      "hit": 31,
+      "hit": 32,
       "date": "7 Januari 2025",
       "money": 1000,
       "exp": 0,
