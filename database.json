@@ -730,7 +730,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 213,
+      "succes": 214,
       "failed": 0
     },
     {
@@ -1140,7 +1140,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1581
+      "totalcmd": 1582
     }
   ],
   "clearchat": [],
@@ -19897,7 +19897,7 @@
       "glimit": 1,
       "hit": 3404,
       "date": "20 Desember 2024",
-      "money": 5046147,
+      "money": 5088971,
       "exp": 5286,
       "limit": 144,
       "speed": 1,
@@ -19936,7 +19936,7 @@
       "beer": 0,
       "trash": 1000,
       "coal": 0,
-      "wood": 1125,
+      "wood": 1133,
       "rock": 5,
       "string": 6,
       "petfood": 0,
@@ -20066,7 +20066,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1737884053765,
-      "lastparming": 1737880844497,
+      "lastparming": 1737884062856,
       "rokets": 56,
       "lastmulung": 1737884055920,
       "lastmaling": 1736422655610,
@@ -76737,7 +76737,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 36,
-      "hit": 543,
+      "hit": 544,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 12932,
