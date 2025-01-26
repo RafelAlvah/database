@@ -711,6 +711,11 @@
       "cmd": "Meracik",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Del",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -759,7 +764,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 67
+      "totalcmd": 68
     }
   ],
   "clearchat": [],
@@ -35811,7 +35816,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3566,
+      "hit": 3567,
       "date": "22 Desember 2024",
       "money": 254197,
       "exp": 25101,
