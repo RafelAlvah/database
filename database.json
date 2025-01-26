@@ -675,6 +675,11 @@
       "cmd": "Bank",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Balance",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -719,7 +724,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 37
+      "totalcmd": 38
     }
   ],
   "clearchat": [],
@@ -35771,7 +35776,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3555,
+      "hit": 3556,
       "date": "22 Desember 2024",
       "money": 254197,
       "exp": 25101,
