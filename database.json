@@ -650,6 +650,11 @@
       "cmd": "Me",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Aigemini",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -694,7 +699,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 10
+      "totalcmd": 11
     }
   ],
   "clearchat": [],
@@ -76292,7 +76297,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 391,
-      "hit": 640,
+      "hit": 641,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 12932,
