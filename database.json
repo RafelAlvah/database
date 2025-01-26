@@ -874,6 +874,11 @@
       "cmd": "Bugpayment",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Hidetag",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -916,6 +921,10 @@
     {
       "error": "yts is not defined",
       "cmd": "play"
+    },
+    {
+      "error": "conn.buttoncopy is not a function",
+      "cmd": "hidetag"
     }
   ],
   "jadibot": {},
@@ -938,7 +947,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 299
+      "totalcmd": 300
     }
   ],
   "clearchat": [],
@@ -120135,7 +120144,7 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 18,
-      "hit": 266,
+      "hit": 267,
       "date": "10 Januari 2025",
       "money": 178499,
       "exp": 200,
