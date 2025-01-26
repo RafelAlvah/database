@@ -1010,7 +1010,7 @@
     },
     {
       "cmd": "Shop",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1140,7 +1140,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1612
+      "totalcmd": 1613
     }
   ],
   "clearchat": [],
@@ -43690,7 +43690,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 169,
-      "hit": 2987,
+      "hit": 2988,
       "date": "22 Desember 2024",
       "money": 1045820,
       "exp": 9000,
