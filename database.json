@@ -716,6 +716,11 @@
       "cmd": "Del",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Misi",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -764,7 +769,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 69
+      "totalcmd": 70
     }
   ],
   "clearchat": [],
@@ -35816,7 +35821,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3568,
+      "hit": 3569,
       "date": "22 Desember 2024",
       "money": 254197,
       "exp": 25101,
