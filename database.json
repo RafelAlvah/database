@@ -575,7 +575,8 @@
     "Addcmdprem",
     "Delcmdprem",
     "Caripenyakit",
-    "Qc"
+    "Qc",
+    "Instagram"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -692,7 +693,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -949,6 +950,11 @@
       "cmd": "Daftar",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Instagram",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1025,7 +1031,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 395
+      "totalcmd": 397
     }
   ],
   "clearchat": [],
@@ -2854,7 +2860,7 @@
       "autolevelup": false,
       "serial": "OYAY",
       "glimit": 30,
-      "hit": 18,
+      "hit": 20,
       "date": "16 Desember 2024",
       "money": 1000,
       "exp": 0,
