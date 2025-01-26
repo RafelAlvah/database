@@ -744,7 +744,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 1,
+      "succes": 2,
       "failed": 1
     },
     {
@@ -803,7 +803,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 84
+      "totalcmd": 85
     }
   ],
   "clearchat": [],
@@ -35855,7 +35855,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3578,
+      "hit": 3579,
       "date": "22 Desember 2024",
       "money": 954197,
       "exp": 27101,
