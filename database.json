@@ -645,6 +645,11 @@
       "cmd": "Tebakbendera",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Me",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -689,7 +694,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 8
+      "totalcmd": 9
     }
   ],
   "clearchat": [],
@@ -76287,7 +76292,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 392,
-      "hit": 638,
+      "hit": 639,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 12932,
