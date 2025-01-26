@@ -1112,6 +1112,11 @@
       "cmd": "Ytmp4",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Putus",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1140,7 +1145,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1625
+      "totalcmd": 1626
     }
   ],
   "clearchat": [],
@@ -19895,7 +19900,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 1,
-      "hit": 3410,
+      "hit": 3411,
       "date": "20 Desember 2024",
       "money": 5313379,
       "exp": 5286,
@@ -19912,7 +19917,7 @@
       "skill": "",
       "ultah": "05,11,2007",
       "sahabat": "",
-      "pasangan": "6287889698191@s.whatsapp.net",
+      "pasangan": "",
       "age": 17,
       "regTime": 1736490255339,
       "afk": -1,
@@ -127303,7 +127308,7 @@
       "skill": "",
       "ultah": "",
       "sahabat": "",
-      "pasangan": "6285179632097@s.whatsapp.net",
+      "pasangan": "",
       "age": 16,
       "regTime": 1737416619902,
       "afk": -1,
