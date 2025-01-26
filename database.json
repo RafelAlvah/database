@@ -756,6 +756,11 @@
       "cmd": "Buylimit",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Buyglimit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -808,7 +813,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 95
+      "totalcmd": 96
     }
   ],
   "clearchat": [],
@@ -820,7 +825,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1634,
+      "hit": 1635,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
