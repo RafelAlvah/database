@@ -631,6 +631,11 @@
       "cmd": "Addcmdprem",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Qc2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -675,7 +680,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 3
+      "totalcmd": 4
     }
   ],
   "clearchat": [],
@@ -53239,7 +53244,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14547,
-      "hit": 2254,
+      "hit": 2255,
       "date": "24 Desember 2024",
       "money": 4418804,
       "exp": 16120,
