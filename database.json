@@ -644,7 +644,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -938,7 +938,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 682
+      "totalcmd": 683
     }
   ],
   "clearchat": [],
@@ -127083,7 +127083,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 441,
+      "hit": 442,
       "date": "20 Januari 2025",
       "money": 6269918,
       "exp": 47700,
@@ -127133,11 +127133,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 19785,
-      "kardus": 18895,
-      "kaleng": 21802,
-      "gelas": 17829,
-      "plastik": 20740,
+      "botol": 20017,
+      "kardus": 19518,
+      "kaleng": 21940,
+      "gelas": 18366,
+      "plastik": 21607,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -127253,7 +127253,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastmulung": 1737853271307,
+      "lastmulung": 1737855678234,
       "lastparming": 1737853282310,
       "poin": 640000,
       "rokets": 24,
