@@ -706,6 +706,11 @@
       "cmd": "Caripenyakit",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Meracik",
+      "succes": 2,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -754,7 +759,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 62
+      "totalcmd": 64
     }
   ],
   "clearchat": [],
@@ -35806,7 +35811,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3562,
+      "hit": 3563,
       "date": "22 Desember 2024",
       "money": 254197,
       "exp": 25101,
@@ -126189,7 +126194,7 @@
       "autolevelup": false,
       "serial": "CUDP",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "13 Januari 2025",
       "money": 0,
       "exp": 0,
