@@ -660,7 +660,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1065,7 +1065,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 1096
+      "totalcmd": 1097
     }
   ],
   "clearchat": [],
@@ -96641,9 +96641,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 632,
-      "hit": 7341,
+      "hit": 7342,
       "date": "3 Januari 2025",
-      "money": 9317657,
+      "money": 5317657,
       "exp": 89543,
       "limit": 358,
       "speed": 5,
@@ -96661,9 +96661,9 @@
       "pasangan": "6281399940982@s.whatsapp.net",
       "age": 19,
       "regTime": 1735937139204,
-      "afk": 1737875209259,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "nguli",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -96671,7 +96671,7 @@
       "role": "Beginner Grade 3 ⚊³",
       "balance": 103300000,
       "skillexp": 0,
-      "chip": 0,
+      "chip": 4,
       "atm": 3,
       "fullatm": 1000000000,
       "bank": 650526606,
