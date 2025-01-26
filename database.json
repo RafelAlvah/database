@@ -668,7 +668,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -932,7 +932,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 657
+      "totalcmd": 658
     }
   ],
   "clearchat": [],
@@ -127077,7 +127077,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 434,
+      "hit": 435,
       "date": "20 Januari 2025",
       "money": 5376168,
       "exp": 42700,
@@ -127187,7 +127187,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
-      "lastclaim": 1737822766426,
+      "lastclaim": 1737853290931,
       "lastnebang": 0,
       "lastweekly": 1737418797071,
       "lastmonthly": 1737418805948,
@@ -127252,9 +127252,9 @@
       "poin": 640000,
       "rokets": 23,
       "lastkerja": 1737822743884,
-      "sampah": 259,
-      "kayu": 230,
-      "batu": 345,
+      "sampah": 269,
+      "kayu": 242,
+      "batu": 352,
       "clay": "undefined1270",
       "sand": "undefined650",
       "berlian": "undefined0",
