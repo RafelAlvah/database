@@ -977,6 +977,11 @@
       "cmd": "Daftar",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Topbalance",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1005,7 +1010,7 @@
     {
       "id": "run",
       "expired": 1737908283619,
-      "totalcmd": 936
+      "totalcmd": 937
     }
   ],
   "clearchat": [],
@@ -96581,7 +96586,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 632,
-      "hit": 7317,
+      "hit": 7318,
       "date": "3 Januari 2025",
       "money": 48025667,
       "exp": 88543,
