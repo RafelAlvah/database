@@ -594,7 +594,9 @@
   "data": [
     {
       "name": "premium",
-      "id": []
+      "id": [
+        "sc"
+      ]
     },
     {
       "name": "commands",
