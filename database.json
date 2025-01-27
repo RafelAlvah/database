@@ -687,12 +687,12 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
       "cmd": "Airdrop",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -757,7 +757,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 51
+      "totalcmd": 53
     }
   ],
   "clearchat": [],
@@ -126914,11 +126914,11 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 722,
+      "hit": 724,
       "date": "20 Januari 2025",
-      "money": 4516774,
+      "money": 4646902,
       "exp": 6000,
-      "limit": 280,
+      "limit": 290,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -126955,7 +126955,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 371,
+      "wood": 412,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -127024,7 +127024,7 @@
       "lasthourly": 0,
       "lastbansos": 1737990227915,
       "lastrampok": 0,
-      "lastclaim": 1737989478377,
+      "lastclaim": 1737995517794,
       "lastnebang": 0,
       "lastweekly": 1737418797071,
       "lastmonthly": 1737418805948,
@@ -127085,8 +127085,8 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastmulung": 1737995510399,
-      "lastparming": 1737992792112,
-      "poin": 1850000,
+      "lastparming": 1737995518808,
+      "poin": 1950000,
       "rokets": 39,
       "lastkerja": 1737995508637,
       "sampah": 437,
