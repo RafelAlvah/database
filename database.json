@@ -749,7 +749,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -814,7 +814,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -849,7 +849,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 155
+      "totalcmd": 157
     }
   ],
   "clearchat": [],
@@ -80383,8 +80383,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 2421,
-      "hit": 2102,
+      "glimit": 2420,
+      "hit": 2103,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -120083,7 +120083,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2317668,
+      "balance": 2318668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -150189,7 +150189,7 @@
       "autolevelup": false,
       "serial": "URGM",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
