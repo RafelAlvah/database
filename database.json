@@ -743,7 +743,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 85,
+      "succes": 86,
       "failed": 0
     },
     {
@@ -1145,6 +1145,11 @@
       "cmd": "S",
       "succes": 5,
       "failed": 0
+    },
+    {
+      "cmd": "Spotify",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1177,7 +1182,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1243
+      "totalcmd": 1245
     }
   ],
   "clearchat": [],
@@ -96757,7 +96762,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 535,
-      "hit": 7611,
+      "hit": 7612,
       "date": "3 Januari 2025",
       "money": 5205713,
       "exp": 100043,
@@ -148371,7 +148376,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 80,
+      "hit": 81,
       "date": "27 Januari 2025",
       "money": 151074,
       "exp": 0,
