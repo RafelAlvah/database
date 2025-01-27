@@ -690,7 +690,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -925,7 +925,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 296
+      "totalcmd": 297
     }
   ],
   "clearchat": [],
@@ -99212,9 +99212,9 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 863,
+      "hit": 864,
       "date": "3 Januari 2025",
-      "money": 1062591,
+      "money": 1085719,
       "exp": 2100,
       "limit": 98,
       "speed": 0,
@@ -99253,7 +99253,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 4,
+      "wood": 45,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -99384,7 +99384,7 @@
       "timeEnd": "",
       "lastkerja": 1738002035037,
       "lastmaling": 1737393857258,
-      "lastparming": 1737963232872,
+      "lastparming": 1738002042015,
       "lastmulung": 1737963232396,
       "rokets": 20,
       "sampah": 56,
