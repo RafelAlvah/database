@@ -584,7 +584,8 @@
     "Tqto",
     "Audiosurah",
     "Audio",
-    "Audiobungamaaf"
+    "Audiobungamaaf",
+    "Kisahnabi"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -828,7 +829,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 91,
+      "succes": 92,
       "failed": 0
     },
     {
@@ -1260,6 +1261,11 @@
       "cmd": "Infogc",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Kisahnabi",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1283,7 +1289,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1641
+      "totalcmd": 1643
     }
   ],
   "clearchat": [],
@@ -20038,9 +20044,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 4,
-      "hit": 3864,
+      "hit": 3865,
       "date": "20 Desember 2024",
-      "money": 33114412,
+      "money": 33222841,
       "exp": 43436,
       "limit": 184,
       "speed": 3,
@@ -20208,7 +20214,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737966502733,
+      "lastkerja": 1737966804375,
       "lastparming": 1737966519724,
       "rokets": 65,
       "lastmulung": 1737966512375,
@@ -149368,7 +149374,7 @@
       "autolevelup": false,
       "serial": "SW3X",
       "glimit": 30,
-      "hit": 21,
+      "hit": 22,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
