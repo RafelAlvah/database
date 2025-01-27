@@ -1272,11 +1272,6 @@
       "failed": 0
     },
     {
-      "cmd": "Tes",
-      "succes": 0,
-      "failed": 1
-    },
-    {
       "cmd": "Weekly",
       "succes": 1,
       "failed": 0
@@ -1290,6 +1285,11 @@
       "cmd": "Tweetc2",
       "succes": 1,
       "failed": 2
+    },
+    {
+      "cmd": "Tes",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1330,7 +1330,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1835
+      "totalcmd": 1836
     }
   ],
   "clearchat": [],
@@ -147100,7 +147100,7 @@
       "autolevelup": false,
       "serial": "ODAA",
       "glimit": 30,
-      "hit": 23,
+      "hit": 24,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
