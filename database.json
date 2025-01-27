@@ -848,7 +848,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -933,7 +933,7 @@
     },
     {
       "cmd": "Leaderboard",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1202,7 +1202,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1364
+      "totalcmd": 1366
     }
   ],
   "clearchat": [],
@@ -19957,7 +19957,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 4,
-      "hit": 3816,
+      "hit": 3817,
       "date": "20 Desember 2024",
       "money": 41668229,
       "exp": 34436,
@@ -99481,7 +99481,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 832,
+      "hit": 833,
       "date": "3 Januari 2025",
       "money": 417486,
       "exp": 8600,
