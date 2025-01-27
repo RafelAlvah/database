@@ -631,7 +631,7 @@
   "dashboard": [
     {
       "cmd": "Swm",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1261,7 +1261,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1577
+      "totalcmd": 1578
     }
   ],
   "clearchat": [],
@@ -36313,7 +36313,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3672,
+      "hit": 3673,
       "date": "22 Desember 2024",
       "money": 6111499,
       "exp": 42100,
@@ -36333,9 +36333,9 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1736653617488,
-      "afk": 1737965501675,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "lieur",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
