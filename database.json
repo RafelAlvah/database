@@ -577,7 +577,8 @@
     "Qc2",
     "",
     "Link",
-    "Tes"
+    "Tes",
+    "Vn"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1128,6 +1129,11 @@
       "cmd": "Toimg",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Vn",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1160,7 +1166,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1129
+      "totalcmd": 1130
     }
   ],
   "clearchat": [],
@@ -148354,7 +148360,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 54,
+      "hit": 55,
       "date": "27 Januari 2025",
       "money": 151074,
       "exp": 0,
