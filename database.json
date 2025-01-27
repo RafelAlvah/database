@@ -1006,7 +1006,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 58,
+      "succes": 59,
       "failed": 4
     },
     {
@@ -1261,7 +1261,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1580
+      "totalcmd": 1581
     }
   ],
   "clearchat": [],
@@ -80789,7 +80789,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2452,
-      "hit": 2049,
+      "hit": 2050,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80809,9 +80809,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1737963018530,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "scroll ttk sama sibukin diri bro🥱",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
