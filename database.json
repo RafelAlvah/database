@@ -357,7 +357,6 @@
     "Hd",
     "Tf",
     "Blacklist",
-    "Menu",
     "Group",
     "Reset",
     "Tagme",
@@ -684,11 +683,6 @@
       "failed": 0
     },
     {
-      "cmd": "Menu",
-      "succes": 7,
-      "failed": 0
-    },
-    {
       "cmd": "Caripenyakit",
       "succes": 1,
       "failed": 0
@@ -992,6 +986,11 @@
       "cmd": "Tebakbom",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1072,7 +1071,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 756
+      "totalcmd": 757
     }
   ],
   "clearchat": [],
@@ -1084,7 +1083,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1652,
+      "hit": 1653,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -148968,7 +148967,35 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ]
+    ],
+    "restart": {
+      "m": {
+        "key": {
+          "remoteJid": "120363361865610907@g.us",
+          "fromMe": false,
+          "id": "B474BAE1955BDFA8D42C6A8F8EB8019E",
+          "participant": "6287737937323@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "restart",
+            "previewType": "NONE",
+            "contextInfo": {
+              "expiration": 604800,
+              "disappearingMode": {
+                "initiator": "CHANGED_IN_CHAT",
+                "trigger": "UNKNOWN"
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1737947720",
+        "broadcast": false,
+        "pushName": "«< R >»"
+      },
+      "from": "120363361865610907@g.us"
+    }
   },
   "respon": {}
 }
