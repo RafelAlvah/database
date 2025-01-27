@@ -1047,6 +1047,10 @@
     {
       "error": "msg is not defined",
       "cmd": "hidetag"
+    },
+    {
+      "error": "groupMetadata is not defined",
+      "cmd": "h"
     }
   ],
   "jadibot": {},
