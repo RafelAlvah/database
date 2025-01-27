@@ -756,7 +756,7 @@
     },
     {
       "cmd": "Buylimit",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2116
+      "totalcmd": 2117
     }
   ],
   "clearchat": [],
@@ -59123,7 +59123,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 0,
-      "hit": 136,
+      "hit": 137,
       "date": "24 Desember 2024",
       "money": 39697,
       "exp": 11683,
