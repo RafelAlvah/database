@@ -816,7 +816,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -1176,7 +1176,7 @@
     },
     {
       "cmd": "Sticker",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2130
+      "totalcmd": 2132
     }
   ],
   "clearchat": [],
@@ -5697,9 +5697,9 @@
       "autolevelup": false,
       "serial": "H36B",
       "glimit": 30,
-      "hit": 20,
+      "hit": 21,
       "date": "16 Desember 2024",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -5723,7 +5723,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
@@ -115020,7 +115020,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 200,
-      "hit": 1283,
+      "hit": 1284,
       "date": "7 Januari 2025",
       "money": 1145677,
       "exp": 12485,
@@ -115040,7 +115040,7 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1736259401454,
-      "afk": -1,
+      "afk": 1737977323232,
       "unreg": false,
       "afkReason": "",
       "banned": false,
