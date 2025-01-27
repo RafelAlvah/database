@@ -575,7 +575,6 @@
     "Instagram",
     "Qc",
     "Qc2",
-    "",
     "Link",
     "Vn",
     "Voicechanger",
@@ -633,13 +632,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287822381511",
-      "expired": 1737982079489
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Swm",
@@ -1057,11 +1050,6 @@
       "failed": 0
     },
     {
-      "cmd": "",
-      "succes": 2,
-      "failed": 0
-    },
-    {
       "cmd": "Upsw",
       "succes": 5,
       "failed": 0
@@ -1360,11 +1348,20 @@
       "cmd": "Taxy",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
     {
       "error": "Cannot read properties of undefined (reading 'url')",
+      "cmd": ""
+    },
+    {
+      "error": "Cannot read properties of undefined (reading 'cmd')",
       "cmd": ""
     }
   ],
@@ -1388,7 +1385,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2226
+      "totalcmd": 2227
     }
   ],
   "clearchat": [],
@@ -29613,7 +29610,7 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 801,
+      "hit": 802,
       "date": "22 Desember 2024",
       "money": 449324,
       "exp": 57911,
