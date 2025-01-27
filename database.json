@@ -937,7 +937,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1032,7 +1032,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 802
+      "totalcmd": 803
     }
   ],
   "clearchat": [],
@@ -75382,7 +75382,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 727,
+      "hit": 728,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
