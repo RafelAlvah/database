@@ -836,7 +836,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1108,6 +1108,11 @@
       "cmd": "Volaudio",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tovn",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1140,7 +1145,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1069
+      "totalcmd": 1071
     }
   ],
   "clearchat": [],
@@ -129796,7 +129801,7 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 339,
+      "hit": 340,
       "date": "22 Januari 2025",
       "money": 2852645,
       "exp": 45600,
@@ -148334,7 +148339,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 36,
+      "hit": 37,
       "date": "27 Januari 2025",
       "money": 149523,
       "exp": 0,
