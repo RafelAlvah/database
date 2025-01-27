@@ -944,7 +944,7 @@
     },
     {
       "cmd": "Unreg",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1324,7 +1324,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1935
+      "totalcmd": 1936
     }
   ],
   "clearchat": [],
@@ -79067,7 +79067,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 154,
-      "hit": 174,
+      "hit": 175,
       "date": "29 Desember 2024",
       "money": 1147513,
       "exp": 28670,
@@ -79079,7 +79079,7 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": true,
+      "registered": false,
       "name": "teguh",
       "skill": "",
       "ultah": "",
@@ -79088,7 +79088,7 @@
       "age": 12,
       "regTime": 1736082323264,
       "afk": -1,
-      "unreg": false,
+      "unreg": true,
       "afkReason": "",
       "banned": false,
       "lastBanned": 0,
