@@ -1059,7 +1059,7 @@
     },
     {
       "cmd": "Stiker",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1238,7 +1238,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1518
+      "totalcmd": 1519
     }
   ],
   "clearchat": [],
@@ -135791,7 +135791,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 16,
-      "hit": 129,
+      "hit": 130,
       "date": "24 Januari 2025",
       "money": 760567,
       "exp": 15098,
