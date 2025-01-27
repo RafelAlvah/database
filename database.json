@@ -931,7 +931,7 @@
     },
     {
       "cmd": "Dare",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -974,7 +974,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 424
+      "totalcmd": 425
     }
   ],
   "clearchat": [],
@@ -36026,7 +36026,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3783,
+      "hit": 3784,
       "date": "22 Desember 2024",
       "money": 2087,
       "exp": 49529,
