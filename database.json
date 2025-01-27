@@ -1028,6 +1028,11 @@
       "cmd": "Hd",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Spdl",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1051,7 +1056,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 907
+      "totalcmd": 908
     }
   ],
   "clearchat": [],
@@ -1063,7 +1068,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1672,
+      "hit": 1673,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
