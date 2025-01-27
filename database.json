@@ -574,7 +574,8 @@
     "Caripenyakit",
     "Instagram",
     "Qc",
-    "Qc2"
+    "Qc2",
+    ""
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1033,6 +1034,11 @@
       "cmd": "Spdl",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1056,7 +1062,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 912
+      "totalcmd": 913
     }
   ],
   "clearchat": [],
@@ -132225,7 +132231,7 @@
       "autolevelup": false,
       "serial": "GNHT",
       "glimit": 24,
-      "hit": 81,
+      "hit": 82,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
