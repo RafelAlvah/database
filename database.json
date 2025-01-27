@@ -582,7 +582,8 @@
     "Voicechanger",
     "Manfes",
     "Tqto",
-    "Audiosurah"
+    "Audiosurah",
+    "Audio"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1036,7 +1037,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1238,6 +1239,11 @@
       "cmd": "Smeme",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Audio",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1261,7 +1267,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1596
+      "totalcmd": 1598
     }
   ],
   "clearchat": [],
@@ -120818,7 +120824,7 @@
       "autolevelup": false,
       "serial": "MDEZ",
       "glimit": 27,
-      "hit": 173,
+      "hit": 174,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -147743,7 +147749,7 @@
       "autolevelup": false,
       "serial": "KUK7",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
