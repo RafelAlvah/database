@@ -731,7 +731,7 @@
     {
       "cmd": "Ytmp3",
       "succes": 14,
-      "failed": 4
+      "failed": 5
     },
     {
       "cmd": "Tt",
@@ -939,7 +939,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 325
+      "totalcmd": 326
     }
   ],
   "clearchat": [],
@@ -951,7 +951,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1791,
+      "hit": 1792,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
