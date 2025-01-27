@@ -900,7 +900,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     }
   ],
@@ -934,7 +934,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 315
+      "totalcmd": 316
     }
   ],
   "clearchat": [],
@@ -96524,7 +96524,7 @@
       "glimit": 531,
       "hit": 7787,
       "date": "3 Januari 2025",
-      "money": 0,
+      "money": 1501125,
       "exp": 32643,
       "limit": 351,
       "speed": 5,
@@ -99221,9 +99221,9 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 880,
+      "hit": 881,
       "date": "3 Januari 2025",
-      "money": 1501125,
+      "money": 0,
       "exp": 7200,
       "limit": 98,
       "speed": 0,
