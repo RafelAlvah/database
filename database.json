@@ -1012,7 +1012,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 116,
+      "succes": 118,
       "failed": 8
     },
     {
@@ -1457,7 +1457,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2818
+      "totalcmd": 2820
     }
   ],
   "clearchat": [],
@@ -80991,7 +80991,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2452,
-      "hit": 2058,
+      "hit": 2059,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -115104,7 +115104,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 164,
-      "hit": 1406,
+      "hit": 1407,
       "date": "7 Januari 2025",
       "money": 4782940,
       "exp": 17785,
