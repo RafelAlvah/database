@@ -993,11 +993,6 @@
       "cmd": "Tebakbom",
       "succes": 1,
       "failed": 0
-    },
-    {
-      "cmd": "Qc",
-      "succes": 0,
-      "failed": 1
     }
   ],
   "listerror": [
@@ -1078,7 +1073,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 742
+      "totalcmd": 743
     }
   ],
   "clearchat": [],
@@ -80606,7 +80601,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2455,
-      "hit": 2038,
+      "hit": 2039,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
