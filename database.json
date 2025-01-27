@@ -666,7 +666,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 81,
+      "succes": 82,
       "failed": 0
     },
     {
@@ -931,7 +931,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2078
+      "totalcmd": 2080
     }
   ],
   "clearchat": [],
@@ -20131,9 +20131,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 86,
-      "hit": 3916,
+      "hit": 3917,
       "date": "20 Desember 2024",
-      "money": 30637992,
+      "money": 30633223,
       "exp": 52436,
       "limit": 194,
       "speed": 3,
@@ -20237,7 +20237,7 @@
       "lasthunt": 0,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1737942320816,
+      "lastdagang": 1737976687276,
       "lasthourly": 0,
       "lastbansos": 1737967480481,
       "lastrampok": 1736625325462,
@@ -36430,7 +36430,7 @@
       "glimit": 323,
       "hit": 3709,
       "date": "22 Desember 2024",
-      "money": 6111510,
+      "money": 6106741,
       "exp": 42078,
       "limit": 11933,
       "speed": 1,
@@ -59122,8 +59122,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 10,
-      "hit": 123,
+      "glimit": 9,
+      "hit": 124,
       "date": "24 Desember 2024",
       "money": 39697,
       "exp": 11683,
