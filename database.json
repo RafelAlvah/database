@@ -571,7 +571,6 @@
     "Lopyu",
     "Blackbox",
     "Kencan",
-    "Qc2",
     "Addcmdprem",
     "Delcmdprem",
     "Caripenyakit",
@@ -630,11 +629,6 @@
       "cmd": "Addcmdprem",
       "succes": 1,
       "failed": 0
-    },
-    {
-      "cmd": "Qc2",
-      "succes": 4,
-      "failed": 1
     },
     {
       "cmd": "Delcmdprem",
@@ -975,6 +969,11 @@
       "cmd": "Shop",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Qc2",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1051,7 +1050,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 554
+      "totalcmd": 555
     }
   ],
   "clearchat": [],
@@ -36103,7 +36102,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 327,
-      "hit": 3614,
+      "hit": 3615,
       "date": "22 Desember 2024",
       "money": 943792,
       "exp": 27101,
