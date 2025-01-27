@@ -783,7 +783,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 28,
+      "succes": 29,
       "failed": 2
     },
     {
@@ -1330,7 +1330,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1841
+      "totalcmd": 1842
     }
   ],
   "clearchat": [],
@@ -148346,11 +148346,11 @@
       "autolevelup": false,
       "serial": "LNJI",
       "glimit": 30,
-      "hit": 11,
+      "hit": 12,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
-      "limit": 23,
+      "limit": 22,
       "speed": 0,
       "strength": 0,
       "defense": 0,
