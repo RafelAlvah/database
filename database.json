@@ -969,11 +969,6 @@
       "cmd": "Shop",
       "succes": 1,
       "failed": 0
-    },
-    {
-      "cmd": "Qc2",
-      "succes": 0,
-      "failed": 1
     }
   ],
   "listerror": [
@@ -1050,7 +1045,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 556
+      "totalcmd": 557
     }
   ],
   "clearchat": [],
@@ -36102,7 +36097,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 327,
-      "hit": 3616,
+      "hit": 3617,
       "date": "22 Desember 2024",
       "money": 943792,
       "exp": 27101,
