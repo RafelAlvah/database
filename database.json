@@ -1151,7 +1151,7 @@
     },
     {
       "cmd": "Menambang",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1441,7 +1441,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2710
+      "totalcmd": 2711
     }
   ],
   "clearchat": [],
@@ -115088,7 +115088,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 164,
-      "hit": 1385,
+      "hit": 1386,
       "date": "7 Januari 2025",
       "money": 5131940,
       "exp": 12685,
