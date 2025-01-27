@@ -1411,7 +1411,7 @@
     },
     {
       "cmd": "Craft",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1441,7 +1441,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2706
+      "totalcmd": 2707
     }
   ],
   "clearchat": [],
@@ -79189,7 +79189,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 110,
-      "hit": 270,
+      "hit": 271,
       "date": "29 Desember 2024",
       "money": 1808752,
       "exp": 3511,
