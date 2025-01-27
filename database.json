@@ -573,7 +573,8 @@
     "Addcmdprem",
     "Delcmdprem",
     "Caripenyakit",
-    "Instagram"
+    "Instagram",
+    "Qc"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -992,6 +993,11 @@
       "cmd": "Tebakbom",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Qc",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1050,6 +1056,10 @@
     {
       "error": "groupMetadata is not defined",
       "cmd": "h"
+    },
+    {
+      "error": "text is not defined",
+      "cmd": "qc"
     }
   ],
   "jadibot": {},
@@ -1072,7 +1082,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 756
+      "totalcmd": 757
     }
   ],
   "clearchat": [],
@@ -135625,7 +135635,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 16,
-      "hit": 117,
+      "hit": 118,
       "date": "24 Januari 2025",
       "money": 629370,
       "exp": 15098,
