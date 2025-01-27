@@ -793,7 +793,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1202,7 +1202,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1377
+      "totalcmd": 1378
     }
   ],
   "clearchat": [],
@@ -99481,7 +99481,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 840,
+      "hit": 841,
       "date": "3 Januari 2025",
       "money": 1138567,
       "exp": 17600,
