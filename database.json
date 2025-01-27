@@ -636,7 +636,7 @@
     {
       "name": "NotCase",
       "id": "6287822381511",
-      "expired": 1737982145443
+      "expired": 1737982179033
     }
   ],
   "dashboard": [
@@ -1057,7 +1057,7 @@
     },
     {
       "cmd": "Upsw",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1391,7 +1391,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2234
+      "totalcmd": 2235
     }
   ],
   "clearchat": [],
@@ -1403,7 +1403,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1715,
+      "hit": 1716,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
