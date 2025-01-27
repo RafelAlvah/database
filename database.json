@@ -732,7 +732,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -762,7 +762,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 56
+      "totalcmd": 57
     }
   ],
   "clearchat": [],
@@ -157043,11 +157043,11 @@
       "autolevelup": false,
       "serial": "QRFF",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
-      "limit": 29,
+      "limit": 28,
       "speed": 0,
       "strength": 0,
       "defense": 0,
