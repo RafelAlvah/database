@@ -884,7 +884,7 @@
     },
     {
       "cmd": "Maling",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1324,7 +1324,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1944
+      "totalcmd": 1945
     }
   ],
   "clearchat": [],
@@ -59071,7 +59071,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 91,
+      "hit": 92,
       "date": "24 Desember 2024",
       "money": 24263,
       "exp": 1685,
