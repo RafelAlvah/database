@@ -779,7 +779,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -1319,7 +1319,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1874
+      "totalcmd": 1875
     }
   ],
   "clearchat": [],
@@ -150472,11 +150472,11 @@
       "autolevelup": false,
       "serial": "SHSE",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
-      "limit": 30,
+      "limit": 29,
       "speed": 0,
       "strength": 0,
       "defense": 0,
