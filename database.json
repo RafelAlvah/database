@@ -884,7 +884,7 @@
     },
     {
       "cmd": "Maling",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1324,7 +1324,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1940
+      "totalcmd": 1941
     }
   ],
   "clearchat": [],
@@ -59071,10 +59071,10 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 88,
+      "hit": 89,
       "date": "24 Desember 2024",
-      "money": 1000,
-      "exp": 999,
+      "money": 24263,
+      "exp": 1685,
       "limit": 29,
       "speed": 0,
       "strength": 0,
@@ -59122,7 +59122,7 @@
       "diamond": 0,
       "gold": 0,
       "botol": 352,
-      "kardus": 635,
+      "kardus": 640,
       "kaleng": 477,
       "gelas": 416,
       "plastik": 481,
@@ -59241,7 +59241,8 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastmulung": 1737974037837
+      "lastmulung": 1737974037837,
+      "lastmaling": 1737974050388
     },
     "6282230174716@s.whatsapp.net": {
       "sticker": {},
