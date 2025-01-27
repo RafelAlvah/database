@@ -921,7 +921,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -1408,6 +1408,11 @@
       "cmd": "Open",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Craft",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1436,7 +1441,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2704
+      "totalcmd": 2706
     }
   ],
   "clearchat": [],
@@ -79184,7 +79189,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 110,
-      "hit": 269,
+      "hit": 270,
       "date": "29 Desember 2024",
       "money": 1808752,
       "exp": 3511,
@@ -115083,7 +115088,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 164,
-      "hit": 1382,
+      "hit": 1383,
       "date": "7 Januari 2025",
       "money": 5131940,
       "exp": 12685,
