@@ -645,7 +645,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -870,7 +870,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 189
+      "totalcmd": 190
     }
   ],
   "clearchat": [],
@@ -80405,7 +80405,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2414,
-      "hit": 2109,
+      "hit": 2110,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80433,7 +80433,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 72296955,
+      "balance": 72297955,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
