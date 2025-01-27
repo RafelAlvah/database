@@ -736,7 +736,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 28,
+      "succes": 29,
       "failed": 0
     },
     {
@@ -1051,7 +1051,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 895
+      "totalcmd": 896
     }
   ],
   "clearchat": [],
@@ -93583,7 +93583,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 14,
-      "hit": 513,
+      "hit": 514,
       "date": "1 Januari 2025",
       "money": 5132811,
       "exp": 8061,
