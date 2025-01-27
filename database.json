@@ -1298,28 +1298,7 @@
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "Cannot read properties of undefined (reading 'cmd')",
-      "cmd": "tes"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'url')",
-      "cmd": ""
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'push')",
-      "cmd": "tweetc2"
-    },
-    {
-      "error": "_data.push is not a function",
-      "cmd": "tweetc2"
-    },
-    {
-      "error": "Cannot access 'katakata' before initialization",
-      "cmd": "tweetc2"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -79111,7 +79090,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 90000,
+      "balance": 95000,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
