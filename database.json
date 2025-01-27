@@ -633,7 +633,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6287822381511",
+      "expired": 1737982079489
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Swm",
@@ -1057,7 +1063,7 @@
     },
     {
       "cmd": "Upsw",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1382,7 +1388,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2223
+      "totalcmd": 2224
     }
   ],
   "clearchat": [],
@@ -1394,7 +1400,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1712,
+      "hit": 1713,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
