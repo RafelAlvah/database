@@ -148968,7 +148968,35 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ]
+    ],
+    "restart": {
+      "m": {
+        "key": {
+          "remoteJid": "120363361865610907@g.us",
+          "fromMe": false,
+          "id": "B474BAE1955BDFA8D42C6A8F8EB8019E",
+          "participant": "6287737937323@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "restart",
+            "previewType": "NONE",
+            "contextInfo": {
+              "expiration": 604800,
+              "disappearingMode": {
+                "initiator": "CHANGED_IN_CHAT",
+                "trigger": "UNKNOWN"
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1737947720",
+        "broadcast": false,
+        "pushName": "«< R >»"
+      },
+      "from": "120363361865610907@g.us"
+    }
   },
   "respon": {}
 }
