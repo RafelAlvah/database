@@ -795,6 +795,11 @@
       "cmd": "Audiosurah",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Merampok",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -827,7 +832,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 135
+      "totalcmd": 136
     }
   ],
   "clearchat": [],
@@ -34254,7 +34259,7 @@
       "glimit": 852,
       "hit": 2425,
       "date": "22 Desember 2024",
-      "money": 26595694,
+      "money": 26563103,
       "exp": 45366,
       "limit": 320,
       "speed": 0,
@@ -96414,9 +96419,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7753,
+      "hit": 7754,
       "date": "3 Januari 2025",
-      "money": 17224950,
+      "money": 17257541,
       "exp": 30543,
       "limit": 361,
       "speed": 5,
@@ -96523,7 +96528,7 @@
       "lastdagang": 1737942289848,
       "lasthourly": 0,
       "lastbansos": 1737990264759,
-      "lastrampok": 1737958997814,
+      "lastrampok": 1737997588117,
       "lastclaim": 1737995310895,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
