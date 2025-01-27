@@ -942,7 +942,7 @@
     },
     {
       "cmd": "Unreg",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1306,7 +1306,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1780
+      "totalcmd": 1781
     }
   ],
   "clearchat": [],
@@ -148322,7 +148322,7 @@
       "autolevelup": false,
       "serial": "LNJI",
       "glimit": 30,
-      "hit": 10,
+      "hit": 11,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
