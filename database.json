@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 166,
+      "succes": 167,
       "failed": 0
     },
     {
@@ -951,7 +951,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 18,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1396,7 +1396,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2480
+      "totalcmd": 2483
     }
   ],
   "clearchat": [],
@@ -115043,7 +115043,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 200,
-      "hit": 1302,
+      "hit": 1303,
       "date": "7 Januari 2025",
       "money": 1233911,
       "exp": 12585,
@@ -121315,7 +121315,7 @@
       "autolevelup": false,
       "serial": "8IHL",
       "glimit": 30,
-      "hit": 84,
+      "hit": 85,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -121327,14 +121327,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "auu",
+      "registered": true,
+      "name": "naauputt",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 15,
+      "regTime": 1737986351582,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
@@ -126484,7 +126484,7 @@
       "autolevelup": false,
       "serial": "GNIK",
       "glimit": 30,
-      "hit": 15,
+      "hit": 16,
       "date": "13 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -126496,14 +126496,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "`-𝐯𝐚𝐧𝐲𝐲🥂",
+      "registered": true,
+      "name": "nabillaa",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 12,
+      "regTime": 1737986338790,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
