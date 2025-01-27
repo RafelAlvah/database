@@ -577,7 +577,6 @@
     "Qc2",
     "",
     "Link",
-    "Tes",
     "Vn",
     "Voicechanger",
     "Manfes",
@@ -1068,11 +1067,6 @@
       "failed": 0
     },
     {
-      "cmd": "Tes",
-      "succes": 1,
-      "failed": 0
-    },
-    {
       "cmd": "Ttsanime",
       "succes": 7,
       "failed": 0
@@ -1281,9 +1275,19 @@
       "cmd": "Ssvideo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tes",
+      "succes": 0,
+      "failed": 1
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "Cannot read properties of undefined (reading 'cmd')",
+      "cmd": "tes"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1304,7 +1308,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1691
+      "totalcmd": 1692
     }
   ],
   "clearchat": [],
@@ -147074,7 +147078,7 @@
       "autolevelup": false,
       "serial": "ODAA",
       "glimit": 30,
-      "hit": 3,
+      "hit": 4,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
