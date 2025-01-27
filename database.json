@@ -702,7 +702,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1088,7 +1088,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 772
+      "totalcmd": 774
     }
   ],
   "clearchat": [],
@@ -19843,7 +19843,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 5,
-      "hit": 3759,
+      "hit": 3760,
       "date": "20 Desember 2024",
       "money": 32656235,
       "exp": 13436,
@@ -29313,7 +29313,7 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 788,
+      "hit": 789,
       "date": "22 Desember 2024",
       "money": 574324,
       "exp": 52711,
