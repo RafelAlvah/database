@@ -743,7 +743,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 87,
+      "succes": 88,
       "failed": 0
     },
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "cmd": "Jadianime",
-      "succes": 33,
+      "succes": 34,
       "failed": 0
     },
     {
@@ -1182,7 +1182,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1248
+      "totalcmd": 1250
     }
   ],
   "clearchat": [],
@@ -19937,7 +19937,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 4,
-      "hit": 3796,
+      "hit": 3797,
       "date": "20 Desember 2024",
       "money": 31890931,
       "exp": 29436,
@@ -148376,7 +148376,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 82,
+      "hit": 83,
       "date": "27 Januari 2025",
       "money": 151074,
       "exp": 0,
