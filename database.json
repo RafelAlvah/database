@@ -820,12 +820,12 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
       "cmd": "Nebang",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1072,7 +1072,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 746
+      "totalcmd": 748
     }
   ],
   "clearchat": [],
@@ -19827,7 +19827,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 5,
-      "hit": 3753,
+      "hit": 3755,
       "date": "20 Desember 2024",
       "money": 32556726,
       "exp": 13436,
