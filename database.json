@@ -636,13 +636,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6283169385006",
-      "expired": 1738000183401
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Tf",
@@ -771,7 +765,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -881,7 +875,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 215
+      "totalcmd": 216
     }
   ],
   "clearchat": [],
@@ -121334,8 +121328,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "AZOX",
-      "glimit": 6,
-      "hit": 55,
+      "glimit": 5,
+      "hit": 56,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
