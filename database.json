@@ -1071,7 +1071,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1445,7 +1445,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2770
+      "totalcmd": 2771
     }
   ],
   "clearchat": [],
@@ -127602,7 +127602,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 712,
+      "hit": 713,
       "date": "20 Januari 2025",
       "money": 4360702,
       "exp": 6000,
