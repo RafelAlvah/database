@@ -674,6 +674,11 @@
       "cmd": "Blackbox",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Kerja",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -702,7 +707,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 28
+      "totalcmd": 29
     }
   ],
   "clearchat": [],
@@ -19457,9 +19462,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 87,
-      "hit": 3986,
+      "hit": 3987,
       "date": "20 Desember 2024",
-      "money": 39340635,
+      "money": 39460498,
       "exp": 64436,
       "limit": 204,
       "speed": 3,
@@ -19627,7 +19632,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737989984498,
+      "lastkerja": 1737995263539,
       "lastparming": 1737985204868,
       "rokets": 69,
       "lastmulung": 1737989144808,
