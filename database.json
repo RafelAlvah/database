@@ -748,7 +748,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -1041,7 +1041,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 424
+      "totalcmd": 425
     }
   ],
   "clearchat": [],
@@ -120598,7 +120598,7 @@
       "autolevelup": false,
       "serial": "MDEZ",
       "glimit": 27,
-      "hit": 164,
+      "hit": 165,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
