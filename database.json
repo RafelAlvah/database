@@ -667,7 +667,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 102,
+      "succes": 103,
       "failed": 0
     },
     {
@@ -1359,6 +1359,11 @@
       "cmd": "Button",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Zettai",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1395,7 +1400,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2316
+      "totalcmd": 2318
     }
   ],
   "clearchat": [],
@@ -59141,8 +59146,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 197,
-      "hit": 154,
+      "glimit": 196,
+      "hit": 155,
       "date": "24 Desember 2024",
       "money": 577324,
       "exp": 18683,
@@ -148594,7 +148599,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 120,
+      "hit": 121,
       "date": "27 Januari 2025",
       "money": 318627,
       "exp": 200,
