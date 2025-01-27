@@ -846,7 +846,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1096,7 +1096,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 997
+      "totalcmd": 998
     }
   ],
   "clearchat": [],
@@ -129752,9 +129752,9 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 335,
+      "hit": 336,
       "date": "22 Januari 2025",
-      "money": 3763819,
+      "money": 2763819,
       "exp": 45600,
       "limit": 90,
       "speed": 0,
@@ -129862,7 +129862,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
-      "lastclaim": 1737945480408,
+      "lastclaim": 1737954250679,
       "lastnebang": 0,
       "lastweekly": 1737552170003,
       "lastmonthly": 1737552175152,
