@@ -744,7 +744,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 95,
+      "succes": 96,
       "failed": 0
     },
     {
@@ -829,7 +829,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1233,7 +1233,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1490
+      "totalcmd": 1492
     }
   ],
   "clearchat": [],
@@ -58980,7 +58980,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 75,
+      "hit": 76,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 999,
@@ -96813,7 +96813,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7684,
+      "hit": 7685,
       "date": "3 Januari 2025",
       "money": 8625882,
       "exp": 105143,
