@@ -752,7 +752,7 @@
     },
     {
       "cmd": "Buylimit",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1316,7 +1316,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1809
+      "totalcmd": 1810
     }
   ],
   "clearchat": [],
@@ -79059,11 +79059,11 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 199,
-      "hit": 109,
+      "hit": 110,
       "date": "29 Desember 2024",
       "money": 1147513,
       "exp": 28670,
-      "limit": 30,
+      "limit": 50,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -79087,7 +79087,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 26911,
+      "balance": 6911,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
