@@ -761,7 +761,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -1396,7 +1396,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2466
+      "totalcmd": 2467
     }
   ],
   "clearchat": [],
@@ -93933,8 +93933,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "M4LA",
-      "glimit": 11,
-      "hit": 520,
+      "glimit": 61,
+      "hit": 521,
       "date": "1 Januari 2025",
       "money": 5132811,
       "exp": 8061,
@@ -93962,7 +93962,7 @@
       "warning": 0,
       "level": 5,
       "role": "Beginner",
-      "balance": 3448266,
+      "balance": 3413266,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
