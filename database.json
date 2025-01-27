@@ -726,7 +726,7 @@
     },
     {
       "cmd": "Rob",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2183
+      "totalcmd": 2184
     }
   ],
   "clearchat": [],
@@ -36428,10 +36428,10 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3710,
+      "hit": 3711,
       "date": "22 Desember 2024",
       "money": 6106741,
-      "exp": 42078,
+      "exp": 49078,
       "limit": 11933,
       "speed": 1,
       "strength": 29,
@@ -36462,7 +36462,7 @@
       "atm": 5,
       "fullatm": 2000000000,
       "bank": 4012547,
-      "health": 100,
+      "health": 20,
       "stamina": 60,
       "potion": 18,
       "wine": 0,
@@ -36525,7 +36525,7 @@
       "pizza": 0,
       "lastadventure": 1736693038216,
       "lastkill": 0,
-      "lastmisi": 1737954363963,
+      "lastmisi": 1737981570787,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
