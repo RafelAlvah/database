@@ -831,12 +831,12 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 113,
+      "succes": 114,
       "failed": 0
     },
     {
       "cmd": "Gaji",
-      "succes": 28,
+      "succes": 29,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2157
+      "totalcmd": 2159
     }
   ],
   "clearchat": [],
@@ -20131,9 +20131,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 87,
-      "hit": 3925,
+      "hit": 3926,
       "date": "20 Desember 2024",
-      "money": 30728582,
+      "money": 30865409,
       "exp": 52436,
       "limit": 194,
       "speed": 3,
@@ -20301,7 +20301,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737976792245,
+      "lastkerja": 1737977683389,
       "lastparming": 1737976485331,
       "rokets": 66,
       "lastmulung": 1737976477542,
@@ -96959,10 +96959,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7712,
+      "hit": 7713,
       "date": "3 Januari 2025",
-      "money": 10945243,
-      "exp": 11243,
+      "money": 10995243,
+      "exp": 11343,
       "limit": 361,
       "speed": 5,
       "strength": 6,
@@ -97069,7 +97069,7 @@
       "lasthourly": 0,
       "lastbansos": 1737959902465,
       "lastrampok": 1737958997814,
-      "lastclaim": 1737967308321,
+      "lastclaim": 1737977680671,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
       "lastmonthly": 1736423963407,
