@@ -825,7 +825,7 @@
     {
       "cmd": "Tg",
       "succes": 1,
-      "failed": 0
+      "failed": 1
     }
   ],
   "listerror": [
@@ -862,7 +862,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 144
+      "totalcmd": 145
     }
   ],
   "clearchat": [],
@@ -874,7 +874,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1771,
+      "hit": 1772,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
