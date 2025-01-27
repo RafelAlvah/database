@@ -775,6 +775,16 @@
       "cmd": "Ojek",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Yts",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Bank",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -803,7 +813,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 91
+      "totalcmd": 93
     }
   ],
   "clearchat": [],
@@ -815,7 +825,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1766,
+      "hit": 1767,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -35855,7 +35865,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3761,
+      "hit": 3762,
       "date": "22 Desember 2024",
       "money": 2087,
       "exp": 49529,
