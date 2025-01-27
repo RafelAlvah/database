@@ -893,7 +893,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 44,
+      "succes": 46,
       "failed": 0
     },
     {
@@ -1334,7 +1334,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1851
+      "totalcmd": 1853
     }
   ],
   "clearchat": [],
@@ -53901,7 +53901,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14538,
-      "hit": 2280,
+      "hit": 2281,
       "date": "24 Desember 2024",
       "money": 4418804,
       "exp": 16120,
@@ -79076,8 +79076,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "LYBW",
-      "glimit": 193,
-      "hit": 133,
+      "glimit": 192,
+      "hit": 134,
       "date": "29 Desember 2024",
       "money": 1147513,
       "exp": 28670,
