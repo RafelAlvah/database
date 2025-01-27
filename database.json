@@ -752,7 +752,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 185,
+      "succes": 186,
       "failed": 0
     },
     {
@@ -1012,7 +1012,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 120,
+      "succes": 121,
       "failed": 8
     },
     {
@@ -1457,7 +1457,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2824
+      "totalcmd": 2826
     }
   ],
   "clearchat": [],
@@ -81356,7 +81356,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 28,
-      "hit": 234,
+      "hit": 235,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -115104,7 +115104,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 164,
-      "hit": 1410,
+      "hit": 1411,
       "date": "7 Januari 2025",
       "money": 4782940,
       "exp": 17785,
