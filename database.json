@@ -853,7 +853,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -965,6 +965,11 @@
       "cmd": "Gc",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Merampok",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1041,7 +1046,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 496
+      "totalcmd": 498
     }
   ],
   "clearchat": [],
@@ -36095,7 +36100,7 @@
       "glimit": 328,
       "hit": 3606,
       "date": "22 Desember 2024",
-      "money": 954197,
+      "money": 946476,
       "exp": 27101,
       "limit": 11938,
       "speed": 1,
@@ -96621,9 +96626,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 560,
-      "hit": 7517,
+      "hit": 7518,
       "date": "3 Januari 2025",
-      "money": 3141929,
+      "money": 3149650,
       "exp": 96943,
       "limit": 358,
       "speed": 5,
@@ -96730,7 +96735,7 @@
       "lastdagang": 1737874104569,
       "lasthourly": 0,
       "lastbansos": 1737744987274,
-      "lastrampok": 1737872067155,
+      "lastrampok": 1737941713014,
       "lastclaim": 1737941682006,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
@@ -127191,9 +127196,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 582,
+      "hit": 583,
       "date": "20 Januari 2025",
-      "money": 142900,
+      "money": -851294,
       "exp": 31900,
       "limit": 250,
       "speed": 0,
@@ -127232,7 +127237,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 697,
+      "wood": 741,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -127301,7 +127306,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
-      "lastclaim": 1737898846804,
+      "lastclaim": 1737941712104,
       "lastnebang": 0,
       "lastweekly": 1737418797071,
       "lastmonthly": 1737418805948,
@@ -127362,7 +127367,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastmulung": 1737941704507,
-      "lastparming": 1737901042585,
+      "lastparming": 1737941713684,
       "poin": 1840000,
       "rokets": 31,
       "lastkerja": 1737901039929,
