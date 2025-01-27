@@ -931,7 +931,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1385,7 +1385,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2248
+      "totalcmd": 2249
     }
   ],
   "clearchat": [],
@@ -43938,9 +43938,9 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 162,
-      "hit": 3075,
+      "hit": 3076,
       "date": "22 Desember 2024",
-      "money": 100000,
+      "money": 97629,
       "exp": 25100,
       "limit": 2185,
       "speed": 3,
@@ -44044,7 +44044,7 @@
       "lasthunt": 0,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1737933233678,
+      "lastdagang": 1737982400293,
       "lasthourly": 0,
       "lastbansos": 1737876425551,
       "lastrampok": 1736579270054,
@@ -63962,7 +63962,7 @@
       "glimit": 9,
       "hit": 207,
       "date": "25 Desember 2024",
-      "money": 935472,
+      "money": 933101,
       "exp": 2288,
       "limit": 32,
       "speed": 0,
