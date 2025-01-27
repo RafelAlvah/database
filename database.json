@@ -632,13 +632,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6283824612951",
-      "expired": 1737991057973
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Swm",
@@ -1451,7 +1445,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2778
+      "totalcmd": 2779
     }
   ],
   "clearchat": [],
@@ -1463,7 +1457,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1751,
+      "hit": 1752,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
