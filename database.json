@@ -1274,6 +1274,11 @@
       "cmd": "Tes",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Weekly",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1306,7 +1311,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1796
+      "totalcmd": 1797
     }
   ],
   "clearchat": [],
@@ -79049,10 +79054,10 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 2,
-      "hit": 98,
+      "hit": 99,
       "date": "29 Desember 2024",
-      "money": 1111514,
-      "exp": 13670,
+      "money": 1147513,
+      "exp": 28670,
       "limit": 30,
       "speed": 0,
       "strength": 0,
@@ -79085,7 +79090,7 @@
       "bank": 0,
       "health": 20,
       "stamina": 60,
-      "potion": 19,
+      "potion": 28,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -79161,7 +79166,7 @@
       "lastrampok": 1736505097438,
       "lastclaim": 1736504595537,
       "lastnebang": 0,
-      "lastweekly": 1736504804369,
+      "lastweekly": 1737971050301,
       "lastmonthly": 1736504822852,
       "apel": 0,
       "anggur": 0,
