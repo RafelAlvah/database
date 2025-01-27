@@ -677,7 +677,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -692,6 +692,11 @@
     },
     {
       "cmd": "Airdrop",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Heal",
       "succes": 1,
       "failed": 0
     }
@@ -722,7 +727,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 33
+      "totalcmd": 35
     }
   ],
   "clearchat": [],
@@ -19477,7 +19482,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 87,
-      "hit": 3990,
+      "hit": 3991,
       "date": "20 Desember 2024",
       "money": 39467813,
       "exp": 64436,
@@ -19511,9 +19516,9 @@
       "atm": 1,
       "fullatm": 500000000,
       "bank": 237517306,
-      "health": 20,
+      "health": 100,
       "stamina": 75,
-      "potion": 64,
+      "potion": 62,
       "wine": 0,
       "beer": 0,
       "trash": 1000,
@@ -96308,7 +96313,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7745,
+      "hit": 7746,
       "date": "3 Januari 2025",
       "money": 16846982,
       "exp": 30543,
