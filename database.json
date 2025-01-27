@@ -836,6 +836,11 @@
       "cmd": "Roket",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Mancing",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -859,7 +864,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 167
+      "totalcmd": 168
     }
   ],
   "clearchat": [],
@@ -35911,7 +35916,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3770,
+      "hit": 3771,
       "date": "22 Desember 2024",
       "money": 2087,
       "exp": 49529,
@@ -35939,7 +35944,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 13005000,
+      "balance": 13006000,
       "skillexp": 0,
       "chip": 53,
       "atm": 5,
