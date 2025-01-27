@@ -741,7 +741,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 47,
+      "succes": 48,
       "failed": 0
     },
     {
@@ -1073,6 +1073,11 @@
       "cmd": "Ttsearch",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Bansos",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1101,7 +1106,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1009
+      "totalcmd": 1011
     }
   ],
   "clearchat": [],
@@ -19856,9 +19861,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 4,
-      "hit": 3778,
+      "hit": 3779,
       "date": "20 Desember 2024",
-      "money": 33787808,
+      "money": 36787808,
       "exp": 29436,
       "limit": 184,
       "speed": 3,
@@ -19964,7 +19969,7 @@
       "lastberkebon": 0,
       "lastdagang": 1737942320816,
       "lasthourly": 0,
-      "lastbansos": 1737876285664,
+      "lastbansos": 1737954382182,
       "lastrampok": 1736625325462,
       "lastclaim": 1737954137760,
       "lastnebang": 0,
@@ -148295,7 +148300,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 19,
+      "hit": 20,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
