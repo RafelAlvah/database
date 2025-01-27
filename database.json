@@ -1091,7 +1091,7 @@
     },
     {
       "cmd": "Jadianime",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1127
+      "totalcmd": 1128
     }
   ],
   "clearchat": [],
@@ -1172,7 +1172,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1687,
+      "hit": 1688,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
