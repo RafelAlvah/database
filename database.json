@@ -587,7 +587,8 @@
     "Kandang",
     "Ramuan",
     "Taxy",
-    "Button"
+    "Button",
+    ""
   ],
   "anonymous": [],
   "blockcmd": [
@@ -796,7 +797,7 @@
     },
     {
       "cmd": "Owner",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1351,7 +1352,7 @@
     },
     {
       "cmd": "",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     },
     {
@@ -1394,7 +1395,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2302
+      "totalcmd": 2304
     }
   ],
   "clearchat": [],
@@ -26768,7 +26769,7 @@
       "autolevelup": false,
       "serial": "FRCP",
       "glimit": 25,
-      "hit": 205,
+      "hit": 206,
       "date": "21 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -115039,7 +115040,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 200,
-      "hit": 1301,
+      "hit": 1302,
       "date": "7 Januari 2025",
       "money": 1233911,
       "exp": 12585,
