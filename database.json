@@ -931,7 +931,7 @@
     },
     {
       "cmd": "Dare",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -974,7 +974,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 428
+      "totalcmd": 429
     }
   ],
   "clearchat": [],
@@ -126064,7 +126064,7 @@
       "autolevelup": false,
       "serial": "GNIK",
       "glimit": 30,
-      "hit": 19,
+      "hit": 20,
       "date": "13 Januari 2025",
       "money": 66571,
       "exp": 0,
