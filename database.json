@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 178,
+      "succes": 179,
       "failed": 0
     },
     {
@@ -1036,7 +1036,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1445,7 +1445,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2751
+      "totalcmd": 2753
     }
   ],
   "clearchat": [],
@@ -115092,7 +115092,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 164,
-      "hit": 1396,
+      "hit": 1397,
       "date": "7 Januari 2025",
       "money": 5782940,
       "exp": 17785,
@@ -156836,9 +156836,9 @@
       "autolevelup": false,
       "serial": "WZEP",
       "glimit": 30,
-      "hit": 3,
+      "hit": 4,
       "date": "27 Januari 2025",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -156862,7 +156862,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
