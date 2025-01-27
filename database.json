@@ -642,7 +642,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -1060,7 +1060,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 586
+      "totalcmd": 587
     }
   ],
   "clearchat": [],
@@ -96640,7 +96640,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 560,
-      "hit": 7528,
+      "hit": 7529,
       "date": "3 Januari 2025",
       "money": 3240682,
       "exp": 96943,
@@ -96660,9 +96660,9 @@
       "pasangan": "6281399940982@s.whatsapp.net",
       "age": 19,
       "regTime": 1735937139204,
-      "afk": 1737942932892,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "dahar",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
