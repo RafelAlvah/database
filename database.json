@@ -559,7 +559,6 @@
     "Bra",
     "Brar",
     "Meny",
-    "Hd.",
     "Hdd",
     "Hbd",
     "Listsrv",
@@ -1385,7 +1384,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2266
+      "totalcmd": 2267
     }
   ],
   "clearchat": [],
@@ -149653,7 +149652,7 @@
       "autolevelup": false,
       "serial": "FO12",
       "glimit": 30,
-      "hit": 7,
+      "hit": 8,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
