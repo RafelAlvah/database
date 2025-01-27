@@ -1091,7 +1091,7 @@
     },
     {
       "cmd": "Jadianime",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1135,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1058
+      "totalcmd": 1059
     }
   ],
   "clearchat": [],
@@ -36187,7 +36187,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3647,
+      "hit": 3648,
       "date": "22 Desember 2024",
       "money": 6134607,
       "exp": 42100,
