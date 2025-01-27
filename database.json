@@ -1054,7 +1054,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1666,
+      "hit": 1667,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -1082,7 +1082,7 @@
       "warning": 0,
       "level": 64,
       "role": "Beginner",
-      "balance": -99999999999908290,
+      "balance": -99999999999907300,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -149116,7 +149116,33 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ]
+    ],
+    "restart": {
+      "m": {
+        "key": {
+          "remoteJid": "120363361865610907@g.us",
+          "fromMe": false,
+          "id": "729F560F3CB3A65908993F5E718E8BB5",
+          "participant": "6287737937323@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".restart",
+            "previewType": "NONE",
+            "contextInfo": {
+              "mentionedJid": [
+                "false,false,false,false,false,false@s.whatsapp.net"
+              ]
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1737950504",
+        "broadcast": false,
+        "pushName": "«< R >»"
+      },
+      "from": "120363361865610907@g.us"
+    }
   },
   "respon": {}
 }
