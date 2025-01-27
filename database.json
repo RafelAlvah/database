@@ -582,7 +582,6 @@
     "Manfes",
     "Tqto",
     "Audiosurah",
-    "Audio",
     "Audiobungamaaf",
     "Kisahnabi"
   ],
@@ -1237,11 +1236,6 @@
       "failed": 0
     },
     {
-      "cmd": "Audio",
-      "succes": 1,
-      "failed": 0
-    },
-    {
       "cmd": "Audiobungamaaf",
       "succes": 1,
       "failed": 0
@@ -1280,6 +1274,11 @@
       "cmd": "Tes",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Audio",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1308,7 +1307,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1698
+      "totalcmd": 1699
     }
   ],
   "clearchat": [],
@@ -147078,7 +147077,7 @@
       "autolevelup": false,
       "serial": "ODAA",
       "glimit": 30,
-      "hit": 7,
+      "hit": 8,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
