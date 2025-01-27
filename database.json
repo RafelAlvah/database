@@ -649,7 +649,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 205,
+      "succes": 206,
       "failed": 0
     },
     {
@@ -1169,7 +1169,7 @@
     },
     {
       "cmd": "Ojek",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1304,7 +1304,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1665
+      "totalcmd": 1667
     }
   ],
   "clearchat": [],
@@ -20058,8 +20058,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 2,
-      "hit": 3870,
+      "glimit": 1,
+      "hit": 3871,
       "date": "20 Desember 2024",
       "money": 33222841,
       "exp": 43436,
@@ -96884,10 +96884,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7700,
+      "hit": 7701,
       "date": "3 Januari 2025",
-      "money": 10424285,
-      "exp": 2243,
+      "money": 10524285,
+      "exp": 11243,
       "limit": 364,
       "speed": 5,
       "strength": 6,
@@ -96895,7 +96895,7 @@
       "skata": 0,
       "joinlimit": 1,
       "pc": 0,
-      "ojekk": 3,
+      "ojekk": 4,
       "registered": true,
       "name": "Aldi",
       "skill": "",
@@ -96981,7 +96981,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1737962913237,
+      "lastmisi": 1737967314527,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
