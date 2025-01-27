@@ -782,7 +782,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 19,
+      "succes": 20,
       "failed": 2
     },
     {
@@ -1302,7 +1302,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1704
+      "totalcmd": 1705
     }
   ],
   "clearchat": [],
@@ -147072,11 +147072,11 @@
       "autolevelup": false,
       "serial": "ODAA",
       "glimit": 30,
-      "hit": 12,
+      "hit": 13,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
-      "limit": 27,
+      "limit": 26,
       "speed": 0,
       "strength": 0,
       "defense": 0,
