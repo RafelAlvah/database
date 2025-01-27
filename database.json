@@ -836,7 +836,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -1016,7 +1016,7 @@
     },
     {
       "cmd": "Polisi",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1441,7 +1441,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2717
+      "totalcmd": 2719
     }
   ],
   "clearchat": [],
@@ -79189,10 +79189,10 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 110,
-      "hit": 275,
+      "hit": 277,
       "date": "29 Desember 2024",
-      "money": 1866756,
-      "exp": 3511,
+      "money": 1916756,
+      "exp": 3611,
       "limit": 70,
       "speed": 0,
       "strength": 0,
@@ -79299,7 +79299,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1737986669570,
-      "lastclaim": 1737985365972,
+      "lastclaim": 1737989945053,
       "lastnebang": 0,
       "lastweekly": 1737971050301,
       "lastmonthly": 1736504822852,
