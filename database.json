@@ -996,7 +996,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 16,
+      "succes": 17,
       "failed": 4
     },
     {
@@ -1051,7 +1051,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 904
+      "totalcmd": 906
     }
   ],
   "clearchat": [],
@@ -58798,7 +58798,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 59,
+      "hit": 60,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 999,
@@ -146643,7 +146643,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 11,
+      "hit": 12,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
