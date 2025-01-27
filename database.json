@@ -910,7 +910,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 284
+      "totalcmd": 285
     }
   ],
   "clearchat": [],
@@ -96498,7 +96498,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7777,
+      "hit": 7778,
       "date": "3 Januari 2025",
       "money": 18362528,
       "exp": 32643,
@@ -96533,7 +96533,7 @@
       "fullatm": 1000000000,
       "bank": 1351904,
       "health": 100,
-      "stamina": 105,
+      "stamina": 100,
       "potion": 6,
       "wine": 0,
       "beer": 0,
