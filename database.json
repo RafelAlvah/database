@@ -741,7 +741,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 54,
+      "succes": 55,
       "failed": 0
     },
     {
@@ -1083,6 +1083,11 @@
       "cmd": "Dungeon",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Animeindo",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1111,7 +1116,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1044
+      "totalcmd": 1046
     }
   ],
   "clearchat": [],
@@ -58858,7 +58863,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 70,
+      "hit": 71,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 999,
@@ -148305,7 +148310,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 25,
+      "hit": 26,
       "date": "27 Januari 2025",
       "money": 149523,
       "exp": 0,
