@@ -802,7 +802,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 49,
+      "succes": 50,
       "failed": 0
     },
     {
@@ -1382,7 +1382,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2209
+      "totalcmd": 2210
     }
   ],
   "clearchat": [],
@@ -127536,10 +127536,10 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 690,
+      "hit": 691,
       "date": "20 Januari 2025",
-      "money": 14374533,
-      "exp": 60000,
+      "money": 14381533,
+      "exp": 0,
       "limit": 280,
       "speed": 0,
       "strength": 0,
@@ -127562,7 +127562,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 6,
+      "level": 7,
       "role": "Beginner",
       "balance": 89422,
       "skillexp": 0,
