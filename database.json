@@ -630,7 +630,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6283849663007",
+      "expired": 1737974144174
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Swm",
@@ -839,7 +845,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 36,
+      "succes": 37,
       "failed": 0
     },
     {
@@ -969,7 +975,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1324,7 +1330,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1947
+      "totalcmd": 1949
     }
   ],
   "clearchat": [],
@@ -59071,7 +59077,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 92,
+      "hit": 93,
       "date": "24 Desember 2024",
       "money": 24263,
       "exp": 1685,
@@ -79069,7 +79075,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 154,
-      "hit": 180,
+      "hit": 181,
       "date": "29 Desember 2024",
       "money": 1167488,
       "exp": 28670,
