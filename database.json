@@ -1131,7 +1131,7 @@
     },
     {
       "cmd": "Toimg",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1256,7 +1256,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1569
+      "totalcmd": 1570
     }
   ],
   "clearchat": [],
@@ -36308,7 +36308,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3669,
+      "hit": 3670,
       "date": "22 Desember 2024",
       "money": 6111499,
       "exp": 42100,
