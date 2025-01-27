@@ -979,7 +979,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1304,7 +1304,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1668
+      "totalcmd": 1669
     }
   ],
   "clearchat": [],
@@ -5447,11 +5447,11 @@
       "autolevelup": false,
       "serial": "NNYP",
       "glimit": 30,
-      "hit": 25,
+      "hit": 26,
       "date": "16 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 28,
+      "limit": 27,
       "speed": 0,
       "strength": 0,
       "defense": 0,
