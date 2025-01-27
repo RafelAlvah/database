@@ -773,7 +773,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -783,7 +783,7 @@
     },
     {
       "cmd": "Toaudio",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1182
+      "totalcmd": 1184
     }
   ],
   "clearchat": [],
@@ -36229,11 +36229,11 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3662,
+      "hit": 3663,
       "date": "22 Desember 2024",
       "money": 6134607,
       "exp": 42100,
-      "limit": 11935,
+      "limit": 11934,
       "speed": 1,
       "strength": 29,
       "defense": 2,
@@ -148371,7 +148371,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 66,
+      "hit": 67,
       "date": "27 Januari 2025",
       "money": 151074,
       "exp": 0,
