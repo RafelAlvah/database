@@ -1388,6 +1388,11 @@
       "cmd": "Donasi",
       "succes": 5,
       "failed": 0
+    },
+    {
+      "cmd": "Addsewa",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1416,7 +1421,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2621
+      "totalcmd": 2622
     }
   ],
   "clearchat": [],
@@ -1428,7 +1433,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1748,
+      "hit": 1749,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -158481,7 +158486,7 @@
       "antidelete": false,
       "antiasing": false,
       "banchat": false,
-      "expired": 0,
+      "expired": 1740580749822,
       "antipromosi": false,
       "antibadword": true,
       "antiaudio": false,
@@ -158502,10 +158507,10 @@
       "treeDaysLeft": false,
       "oneDaysLeft": false,
       "endDays": false,
-      "linkgc": "",
-      "timeOrder": "",
-      "timeEnd": "",
-      "creator": "",
+      "linkgc": "https://chat.whatsapp.com/I93K6ZOmwHdI8xs2bFcPYN",
+      "timeOrder": "27/01/2025 21:39",
+      "timeEnd": "26/02/2025 21:39",
+      "creator": "wa.me/6285932010577",
       "rpg": false,
       "game": false,
       "autolevelup": false,
