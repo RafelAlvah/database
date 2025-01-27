@@ -834,12 +834,12 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
       "cmd": "Nebang",
-      "succes": 30,
+      "succes": 31,
       "failed": 0
     },
     {
@@ -1304,7 +1304,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1663
+      "totalcmd": 1665
     }
   ],
   "clearchat": [],
@@ -96884,10 +96884,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7698,
+      "hit": 7700,
       "date": "3 Januari 2025",
-      "money": 10343942,
-      "exp": 2143,
+      "money": 10424285,
+      "exp": 2243,
       "limit": 364,
       "speed": 5,
       "strength": 6,
@@ -96925,7 +96925,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 2310,
+      "wood": 2326,
       "rock": 4,
       "string": 5,
       "petfood": 0,
@@ -96994,7 +96994,7 @@
       "lasthourly": 0,
       "lastbansos": 1737959902465,
       "lastrampok": 1737958997814,
-      "lastclaim": 1737962892692,
+      "lastclaim": 1737967308321,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
       "lastmonthly": 1736423963407,
@@ -97062,7 +97062,7 @@
       "emas": "undefined60",
       "tiketcoin": "undefined60",
       "lastnambang": 1736243261278,
-      "lastparming": 1737962893041,
+      "lastparming": 1737967308379,
       "lastmulung": 1737960417888,
       "rokets": 101,
       "sampah": 244,
