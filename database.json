@@ -932,7 +932,7 @@
     },
     {
       "cmd": "Unreg",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1032,7 +1032,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 801
+      "totalcmd": 802
     }
   ],
   "clearchat": [],
@@ -75382,7 +75382,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 726,
+      "hit": 727,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
@@ -75394,7 +75394,7 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": true,
+      "registered": false,
       "name": "cila imupp",
       "skill": "",
       "ultah": "",
