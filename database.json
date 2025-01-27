@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 172,
+      "succes": 173,
       "failed": 0
     },
     {
@@ -831,7 +831,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 139,
+      "succes": 140,
       "failed": 0
     },
     {
@@ -1421,7 +1421,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2630
+      "totalcmd": 2632
     }
   ],
   "clearchat": [],
@@ -20176,9 +20176,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 87,
-      "hit": 3965,
+      "hit": 3966,
       "date": "20 Desember 2024",
-      "money": 46913130,
+      "money": 47032096,
       "exp": 57436,
       "limit": 194,
       "speed": 3,
@@ -20346,7 +20346,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737986583100,
+      "lastkerja": 1737989138701,
       "lastparming": 1737985204868,
       "rokets": 68,
       "lastmulung": 1737985192033,
@@ -153964,7 +153964,7 @@
       "autolevelup": false,
       "serial": "WXVZ",
       "glimit": 30,
-      "hit": 6,
+      "hit": 7,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
