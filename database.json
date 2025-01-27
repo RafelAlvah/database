@@ -730,7 +730,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 8,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -890,7 +890,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 246
+      "totalcmd": 248
     }
   ],
   "clearchat": [],
@@ -46665,11 +46665,11 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5712,
-      "hit": 1472,
+      "hit": 1473,
       "date": "22 Desember 2024",
       "money": 6910449,
       "exp": 25163,
-      "limit": 2068,
+      "limit": 2067,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -96477,11 +96477,11 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7763,
+      "hit": 7764,
       "date": "3 Januari 2025",
       "money": 17257541,
       "exp": 30543,
-      "limit": 358,
+      "limit": 357,
       "speed": 5,
       "strength": 6,
       "defense": 5,
