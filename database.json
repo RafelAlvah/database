@@ -985,11 +985,6 @@
       "failed": 0
     },
     {
-      "cmd": "Qc",
-      "succes": 0,
-      "failed": 1
-    },
-    {
       "cmd": "Profil",
       "succes": 1,
       "failed": 0
@@ -998,6 +993,11 @@
       "cmd": "Tebakbom",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Qc",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1078,7 +1078,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 661
+      "totalcmd": 662
     }
   ],
   "clearchat": [],
@@ -1090,7 +1090,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1651,
+      "hit": 1652,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
