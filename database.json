@@ -148575,7 +148575,7 @@
       "glimit": 30,
       "hit": 100,
       "date": "27 Januari 2025",
-      "money": 151074,
+      "money": 169257,
       "exp": 0,
       "limit": 23,
       "speed": 0,
@@ -148614,7 +148614,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 0,
+      "wood": 9,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -148743,7 +148743,8 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737955165608
+      "lastkerja": 1737955165608,
+      "lastparming": 1737977679311
     },
     "6281265521425@s.whatsapp.net": {
       "sticker": {},
