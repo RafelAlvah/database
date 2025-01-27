@@ -654,6 +654,11 @@
       "cmd": "Susunkata",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Donasi",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -682,7 +687,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 13
+      "totalcmd": 14
     }
   ],
   "clearchat": [],
@@ -35734,7 +35739,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3752,
+      "hit": 3753,
       "date": "22 Desember 2024",
       "money": 2087,
       "exp": 49529,
