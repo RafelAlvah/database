@@ -785,6 +785,11 @@
       "cmd": "Bank",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Afk",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -813,7 +818,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 95
+      "totalcmd": 96
     }
   ],
   "clearchat": [],
@@ -114461,7 +114466,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 164,
-      "hit": 1421,
+      "hit": 1422,
       "date": "7 Januari 2025",
       "money": 4782940,
       "exp": 17785,
@@ -114481,9 +114486,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1736259401454,
-      "afk": -1,
+      "afk": 1737996813725,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "cas hp",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
