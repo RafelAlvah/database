@@ -709,7 +709,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -864,7 +864,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 168
+      "totalcmd": 169
     }
   ],
   "clearchat": [],
@@ -35916,7 +35916,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3771,
+      "hit": 3772,
       "date": "22 Desember 2024",
       "money": 2087,
       "exp": 49529,
@@ -35944,7 +35944,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 13006000,
+      "balance": 13007000,
       "skillexp": 0,
       "chip": 53,
       "atm": 5,
