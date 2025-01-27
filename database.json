@@ -894,7 +894,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 52,
+      "succes": 53,
       "failed": 0
     },
     {
@@ -1229,7 +1229,7 @@
     },
     {
       "cmd": "Audiosurah",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1340,7 +1340,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1868
+      "totalcmd": 1870
     }
   ],
   "clearchat": [],
@@ -79082,8 +79082,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "LYBW",
-      "glimit": 187,
-      "hit": 140,
+      "glimit": 186,
+      "hit": 141,
       "date": "29 Desember 2024",
       "money": 1147513,
       "exp": 28670,
@@ -148356,7 +148356,7 @@
       "autolevelup": false,
       "serial": "LNJI",
       "glimit": 30,
-      "hit": 13,
+      "hit": 14,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
