@@ -701,7 +701,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 38,
+      "succes": 39,
       "failed": 0
     },
     {
@@ -921,7 +921,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2169
+      "totalcmd": 2171
     }
   ],
   "clearchat": [],
@@ -59123,9 +59123,9 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 197,
-      "hit": 147,
+      "hit": 148,
       "date": "24 Desember 2024",
-      "money": 139697,
+      "money": 89697,
       "exp": 11683,
       "limit": 130,
       "speed": 0,
@@ -59187,7 +59187,7 @@
       "mythic": 0,
       "tbox": 0,
       "legendary": 0,
-      "kondom": 0,
+      "kondom": 1,
       "umpan": 0,
       "pet": 0,
       "paus": 0,
@@ -148573,7 +148573,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 104,
+      "hit": 105,
       "date": "27 Januari 2025",
       "money": 219257,
       "exp": 100,
