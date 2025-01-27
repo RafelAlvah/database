@@ -1045,7 +1045,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 573
+      "totalcmd": 574
     }
   ],
   "clearchat": [],
@@ -76646,7 +76646,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 355,
-      "hit": 713,
+      "hit": 714,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 17932,
@@ -76666,9 +76666,9 @@
       "pasangan": "",
       "age": 16,
       "regTime": 1735988466495,
-      "afk": 1737942942076,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "lagi coli",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
