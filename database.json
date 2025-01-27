@@ -687,7 +687,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1042,7 +1042,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 845
+      "totalcmd": 846
     }
   ],
   "clearchat": [],
@@ -96650,7 +96650,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 112164111,
+      "balance": 112314111,
       "skillexp": 0,
       "chip": 9,
       "atm": 3,
@@ -146634,9 +146634,9 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "27 Januari 2025",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -146660,7 +146660,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
