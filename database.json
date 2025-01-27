@@ -79193,7 +79193,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 109,
-      "hit": 285,
+      "hit": 286,
       "date": "29 Desember 2024",
       "money": 3038314,
       "exp": 3611,
@@ -79213,9 +79213,9 @@
       "pasangan": "",
       "age": 20,
       "regTime": 1737974016987,
-      "afk": -1,
+      "afk": 1737990765056,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "kapan kapan lagi ya gays masuk gc ini🫰",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -159571,7 +159571,36 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ]
+    ],
+    "restart": {
+      "m": {
+        "key": {
+          "remoteJid": "120363361865610907@g.us",
+          "fromMe": false,
+          "id": "903D893C8A66F10BE4394E076044927F",
+          "participant": "6287737937323@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "restart",
+            "previewType": "NONE",
+            "contextInfo": {
+              "expiration": 86400,
+              "disappearingMode": {
+                "initiator": "CHANGED_IN_CHAT",
+                "trigger": "CHAT_SETTING",
+                "initiatedByMe": true
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1737990591",
+        "broadcast": false,
+        "pushName": "«< R >»"
+      },
+      "from": "120363361865610907@g.us"
+    }
   },
   "respon": {}
 }
