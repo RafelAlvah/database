@@ -652,7 +652,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -692,7 +692,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 16
+      "totalcmd": 18
     }
   ],
   "clearchat": [],
@@ -93230,7 +93230,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 59,
-      "hit": 542,
+      "hit": 543,
       "date": "1 Januari 2025",
       "money": 5295833,
       "exp": 8161,
@@ -146291,7 +146291,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 63,
+      "hit": 64,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
