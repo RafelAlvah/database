@@ -837,7 +837,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1060,7 +1060,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 630
+      "totalcmd": 631
     }
   ],
   "clearchat": [],
@@ -135613,7 +135613,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 18,
-      "hit": 99,
+      "hit": 100,
       "date": "24 Januari 2025",
       "money": 513196,
       "exp": 5100,
@@ -135663,11 +135663,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 715,
-      "kardus": 475,
-      "kaleng": 290,
-      "gelas": 551,
-      "plastik": 737,
+      "botol": 1336,
+      "kardus": 1399,
+      "kaleng": 1131,
+      "gelas": 1320,
+      "plastik": 831,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -135784,7 +135784,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1737889414686,
-      "lastmulung": 1737889408293
+      "lastmulung": 1737946095634
     },
     "6285756800313@s.whatsapp.net": {
       "sticker": {},
