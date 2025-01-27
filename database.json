@@ -677,7 +677,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -744,6 +744,11 @@
       "cmd": "Smeme",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Brat",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -772,7 +777,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 66
+      "totalcmd": 68
     }
   ],
   "clearchat": [],
@@ -96358,7 +96363,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7747,
+      "hit": 7748,
       "date": "3 Januari 2025",
       "money": 16913035,
       "exp": 30543,
@@ -97270,7 +97275,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 465,
-      "hit": 1092,
+      "hit": 1093,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
