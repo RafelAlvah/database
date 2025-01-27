@@ -893,7 +893,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -1289,7 +1289,7 @@
     {
       "cmd": "Tweetc2",
       "succes": 1,
-      "failed": 0
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1300,6 +1300,10 @@
     {
       "error": "Cannot read properties of undefined (reading 'url')",
       "cmd": ""
+    },
+    {
+      "error": "Cannot read properties of undefined (reading 'push')",
+      "cmd": "tweetc2"
     }
   ],
   "jadibot": {},
@@ -1322,7 +1326,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1831
+      "totalcmd": 1833
     }
   ],
   "clearchat": [],
@@ -1334,7 +1338,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1705,
+      "hit": 1706,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -79064,8 +79068,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "LYBW",
-      "glimit": 202,
-      "hit": 124,
+      "glimit": 201,
+      "hit": 125,
       "date": "29 Desember 2024",
       "money": 1147513,
       "exp": 28670,
