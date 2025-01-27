@@ -1026,7 +1026,7 @@
     },
     {
       "cmd": "Ai",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -1411,7 +1411,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2545
+      "totalcmd": 2546
     }
   ],
   "clearchat": [],
@@ -115058,11 +115058,11 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 188,
-      "hit": 1333,
+      "hit": 1334,
       "date": "7 Januari 2025",
       "money": 1272441,
       "exp": 12685,
-      "limit": 1069,
+      "limit": 1068,
       "speed": 1,
       "strength": 4,
       "defense": 1,
@@ -115086,7 +115086,7 @@
       "warning": 0,
       "level": 7,
       "role": "Beginner",
-      "balance": 5363123,
+      "balance": 5364123,
       "skillexp": 0,
       "chip": 0,
       "atm": 1,
