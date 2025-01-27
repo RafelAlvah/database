@@ -817,7 +817,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -1409,7 +1409,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2376
+      "totalcmd": 2377
     }
   ],
   "clearchat": [],
@@ -80942,7 +80942,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2452,
-      "hit": 2052,
+      "hit": 2053,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80962,9 +80962,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": -1,
+      "afk": 1737984027959,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "nemenin ayank",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
