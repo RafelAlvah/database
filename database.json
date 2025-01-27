@@ -896,7 +896,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 126,
+      "succes": 127,
       "failed": 0
     },
     {
@@ -1386,7 +1386,7 @@
     },
     {
       "cmd": "Donasi",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     }
   ],
@@ -1416,7 +1416,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2591
+      "totalcmd": 2594
     }
   ],
   "clearchat": [],
@@ -1428,7 +1428,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1744,
+      "hit": 1746,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -79163,8 +79163,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "LYBW",
-      "glimit": 137,
-      "hit": 236,
+      "glimit": 136,
+      "hit": 237,
       "date": "29 Desember 2024",
       "money": 1758752,
       "exp": 3511,
