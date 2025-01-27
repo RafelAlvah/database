@@ -656,7 +656,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 81,
+      "succes": 82,
       "failed": 0
     },
     {
@@ -716,7 +716,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 88,
+      "succes": 89,
       "failed": 0
     },
     {
@@ -1445,7 +1445,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2731
+      "totalcmd": 2733
     }
   ],
   "clearchat": [],
@@ -20200,7 +20200,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 87,
-      "hit": 3974,
+      "hit": 3975,
       "date": "20 Desember 2024",
       "money": 48340635,
       "exp": 64436,
@@ -97031,7 +97031,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7727,
+      "hit": 7728,
       "date": "3 Januari 2025",
       "money": 12434875,
       "exp": 15543,
