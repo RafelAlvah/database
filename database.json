@@ -852,7 +852,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 60,
+      "succes": 61,
       "failed": 0
     },
     {
@@ -1405,7 +1405,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2329
+      "totalcmd": 2330
     }
   ],
   "clearchat": [],
@@ -20160,7 +20160,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 87,
-      "hit": 3948,
+      "hit": 3949,
       "date": "20 Desember 2024",
       "money": 46621409,
       "exp": 55436,
