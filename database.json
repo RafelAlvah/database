@@ -793,7 +793,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -1202,7 +1202,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1343
+      "totalcmd": 1344
     }
   ],
   "clearchat": [],
@@ -19957,7 +19957,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 4,
-      "hit": 3812,
+      "hit": 3813,
       "date": "20 Desember 2024",
       "money": 32121292,
       "exp": 34436,
