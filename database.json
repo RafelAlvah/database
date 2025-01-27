@@ -654,7 +654,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 56,
+      "succes": 57,
       "failed": 0
     },
     {
@@ -1306,6 +1306,11 @@
       "cmd": "Belipet",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Createguild",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1334,7 +1339,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1978
+      "totalcmd": 1980
     }
   ],
   "clearchat": [],
@@ -36386,7 +36391,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3695,
+      "hit": 3696,
       "date": "22 Desember 2024",
       "money": 6111499,
       "exp": 42100,
@@ -79080,7 +79085,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 153,
-      "hit": 188,
+      "hit": 189,
       "date": "29 Desember 2024",
       "money": 1342759,
       "exp": 37511,
