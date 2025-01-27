@@ -1083,7 +1083,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1278,7 +1278,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1625
+      "totalcmd": 1626
     }
   ],
   "clearchat": [],
@@ -129934,10 +129934,10 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 371,
+      "hit": 372,
       "date": "22 Januari 2025",
-      "money": 816770,
-      "exp": 50600,
+      "money": 822770,
+      "exp": 600,
       "limit": 140,
       "speed": 0,
       "strength": 0,
@@ -129960,7 +129960,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 5,
+      "level": 6,
       "role": "Beginner",
       "balance": 5000,
       "skillexp": 0,
