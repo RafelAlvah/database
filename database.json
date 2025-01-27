@@ -1093,7 +1093,7 @@
     },
     {
       "cmd": "Jadianime",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -1187,7 +1187,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1259
+      "totalcmd": 1260
     }
   ],
   "clearchat": [],
@@ -19942,7 +19942,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 4,
-      "hit": 3797,
+      "hit": 3798,
       "date": "20 Desember 2024",
       "money": 31890931,
       "exp": 29436,
