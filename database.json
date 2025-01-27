@@ -823,12 +823,12 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 74,
+      "succes": 75,
       "failed": 0
     },
     {
       "cmd": "Gaji",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -1202,7 +1202,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1396
+      "totalcmd": 1398
     }
   ],
   "clearchat": [],
@@ -129858,9 +129858,9 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 355,
+      "hit": 356,
       "date": "22 Januari 2025",
-      "money": 73751,
+      "money": 156710,
       "exp": 47600,
       "limit": 110,
       "speed": 0,
@@ -130028,7 +130028,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737960125931,
+      "lastkerja": 1737960457770,
       "lastmulung": 1737959249520,
       "lastparming": 1737959257278,
       "clay": "undefined1840",
@@ -131300,10 +131300,10 @@
       "autolevelup": false,
       "serial": "6CIE",
       "glimit": 0,
-      "hit": 109,
+      "hit": 110,
       "date": "23 Januari 2025",
-      "money": 1856085,
-      "exp": 1000,
+      "money": 1906085,
+      "exp": 1100,
       "limit": 30,
       "speed": 0,
       "strength": 0,
@@ -131410,7 +131410,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
-      "lastclaim": 1737874095136,
+      "lastclaim": 1737960450380,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
