@@ -1019,6 +1019,11 @@
       "cmd": "Ai",
       "succes": 6,
       "failed": 0
+    },
+    {
+      "cmd": "Script",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1042,7 +1047,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 875
+      "totalcmd": 876
     }
   ],
   "clearchat": [],
@@ -135595,7 +135600,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 16,
-      "hit": 127,
+      "hit": 128,
       "date": "24 Januari 2025",
       "money": 760567,
       "exp": 15098,
