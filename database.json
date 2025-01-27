@@ -150743,7 +150743,7 @@
       "antibadword": true,
       "antiaudio": false,
       "antibot": true,
-      "antiimage": false,
+      "antiimage": true,
       "antivideo": true,
       "antisticker": false,
       "antispam": true,
