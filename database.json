@@ -730,7 +730,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -740,7 +740,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -895,7 +895,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 257
+      "totalcmd": 259
     }
   ],
   "clearchat": [],
@@ -80430,7 +80430,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2393,
-      "hit": 2139,
+      "hit": 2140,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -96482,11 +96482,11 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7765,
+      "hit": 7766,
       "date": "3 Januari 2025",
       "money": 17257541,
       "exp": 30543,
-      "limit": 356,
+      "limit": 355,
       "speed": 5,
       "strength": 6,
       "defense": 5,
