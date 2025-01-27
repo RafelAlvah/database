@@ -851,12 +851,12 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 55,
+      "succes": 56,
       "failed": 0
     },
     {
       "cmd": "Airdrop",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2195
+      "totalcmd": 2197
     }
   ],
   "clearchat": [],
@@ -36428,7 +36428,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3714,
+      "hit": 3715,
       "date": "22 Desember 2024",
       "money": 6106741,
       "exp": 49078,
@@ -36538,7 +36538,7 @@
       "lasthourly": 0,
       "lastbansos": 1737524175375,
       "lastrampok": 1737537418950,
-      "lastclaim": 1737900195735,
+      "lastclaim": 1737981620197,
       "lastnebang": 0,
       "lastweekly": 1737473371161,
       "lastmonthly": 1736232905199,
@@ -36610,9 +36610,9 @@
       "lastparming": 1737802452359,
       "lastmulung": 1737454194947,
       "ultahSent": "01,01",
-      "sampah": 180,
-      "kayu": 134,
-      "batu": 204,
+      "sampah": 225,
+      "kayu": 175,
+      "batu": 249,
       "poin": null,
       "warn": null
     },
@@ -130036,10 +130036,10 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 399,
+      "hit": 400,
       "date": "22 Januari 2025",
-      "money": 4457470,
-      "exp": 9600,
+      "money": 5257470,
+      "exp": 12600,
       "limit": 170,
       "speed": 0,
       "strength": 0,
@@ -130070,8 +130070,8 @@
       "atm": 0,
       "fullatm": 0,
       "bank": 0,
-      "health": 100,
-      "stamina": 65,
+      "health": 20,
+      "stamina": 25,
       "potion": 7,
       "wine": 0,
       "beer": 0,
@@ -130133,7 +130133,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1737976614015,
+      "lastmisi": 1737981620367,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -130215,7 +130215,7 @@
       "emas": "undefined10",
       "tiketcoin": "undefined10",
       "lastnambang": 1737547165719,
-      "rokets": 17,
+      "rokets": 18,
       "poin": 630000,
       "sampah": 145,
       "kayu": 197,
