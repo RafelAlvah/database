@@ -1013,7 +1013,7 @@
     {
       "cmd": "Qc",
       "succes": 84,
-      "failed": 6
+      "failed": 7
     },
     {
       "cmd": "Qc2",
@@ -1409,7 +1409,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2353
+      "totalcmd": 2354
     }
   ],
   "clearchat": [],
@@ -1421,7 +1421,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1722,
+      "hit": 1723,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -59184,7 +59184,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 813700,
+      "balance": 814700,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
