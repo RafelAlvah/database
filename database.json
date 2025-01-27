@@ -788,7 +788,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     }
   ],
@@ -822,7 +822,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 131
+      "totalcmd": 132
     }
   ],
   "clearchat": [],
@@ -53389,7 +53389,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14536,
-      "hit": 2296,
+      "hit": 2297,
       "date": "24 Desember 2024",
       "money": 4418804,
       "exp": 16120,
@@ -53409,9 +53409,9 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1735100047320,
-      "afk": -1,
+      "afk": 1737997458084,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "gerah ah gerah butuh ac raksasa punya pawank uzyan",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
