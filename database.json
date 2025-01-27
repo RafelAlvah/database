@@ -573,7 +573,6 @@
     "Caripenyakit",
     "Instagram",
     "Qc",
-    "Qc2",
     "Link",
     "Vn",
     "Voicechanger",
@@ -852,7 +851,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 67,
+      "succes": 68,
       "failed": 0
     },
     {
@@ -1014,11 +1013,6 @@
       "cmd": "Qc",
       "succes": 96,
       "failed": 8
-    },
-    {
-      "cmd": "Qc2",
-      "succes": 3,
-      "failed": 0
     },
     {
       "cmd": "Polisi",
@@ -1374,6 +1368,11 @@
       "cmd": "Blackbox",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Qc2",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1414,7 +1413,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2439
+      "totalcmd": 2441
     }
   ],
   "clearchat": [],
@@ -1426,7 +1425,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1727,
+      "hit": 1728,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -127569,10 +127568,10 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 697,
+      "hit": 698,
       "date": "20 Januari 2025",
-      "money": 35365,
-      "exp": 0,
+      "money": 435365,
+      "exp": 2000,
       "limit": 280,
       "speed": 0,
       "strength": 0,
@@ -127603,8 +127602,8 @@
       "atm": 0,
       "fullatm": 0,
       "bank": 0,
-      "health": 100,
-      "stamina": 110,
+      "health": 20,
+      "stamina": 70,
       "potion": 0,
       "wine": 0,
       "beer": 0,
@@ -127666,7 +127665,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1737981685611,
+      "lastmisi": 1737985344790,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -127742,7 +127741,7 @@
       "lastmulung": 1737985323539,
       "lastparming": 1737985330734,
       "poin": 1850000,
-      "rokets": 37,
+      "rokets": 38,
       "lastkerja": 1737981658508,
       "sampah": 396,
       "kayu": 431,
