@@ -1216,6 +1216,10 @@
     {
       "error": "Request failed with status code 500",
       "cmd": "qc"
+    },
+    {
+      "error": "p.download is not a function",
+      "cmd": "tag"
     }
   ],
   "jadibot": {},
