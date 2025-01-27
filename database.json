@@ -997,7 +997,7 @@
     {
       "cmd": "Qc",
       "succes": 0,
-      "failed": 2
+      "failed": 3
     }
   ],
   "listerror": [
@@ -1082,7 +1082,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 758
+      "totalcmd": 759
     }
   ],
   "clearchat": [],
@@ -135635,7 +135635,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 16,
-      "hit": 118,
+      "hit": 119,
       "date": "24 Januari 2025",
       "money": 629370,
       "exp": 15098,
