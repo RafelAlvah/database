@@ -731,7 +731,7 @@
     {
       "cmd": "Ytmp3",
       "succes": 14,
-      "failed": 5
+      "failed": 6
     },
     {
       "cmd": "Tt",
@@ -922,6 +922,10 @@
     {
       "error": "Cannot access 'format' before initialization",
       "cmd": "ytmp3"
+    },
+    {
+      "error": "number is not defined",
+      "cmd": "ytmp3"
     }
   ],
   "jadibot": {},
@@ -944,7 +948,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 334
+      "totalcmd": 335
     }
   ],
   "clearchat": [],
@@ -956,7 +960,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1795,
+      "hit": 1796,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
