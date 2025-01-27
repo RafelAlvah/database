@@ -1386,7 +1386,7 @@
     },
     {
       "cmd": "Donasi",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1441,7 +1441,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2711
+      "totalcmd": 2712
     }
   ],
   "clearchat": [],
@@ -79189,7 +79189,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 110,
-      "hit": 272,
+      "hit": 273,
       "date": "29 Desember 2024",
       "money": 1808752,
       "exp": 3511,
