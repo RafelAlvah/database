@@ -928,7 +928,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1051,7 +1051,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 553
+      "totalcmd": 554
     }
   ],
   "clearchat": [],
@@ -36103,9 +36103,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 327,
-      "hit": 3613,
+      "hit": 3614,
       "date": "22 Desember 2024",
-      "money": 946476,
+      "money": 943792,
       "exp": 27101,
       "limit": 11938,
       "speed": 1,
@@ -36209,7 +36209,7 @@
       "lasthunt": 0,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1736762046518,
+      "lastdagang": 1737942444672,
       "lasthourly": 0,
       "lastbansos": 1737524175375,
       "lastrampok": 1737537418950,
@@ -46828,7 +46828,7 @@
       "glimit": 5718,
       "hit": 1449,
       "date": "22 Desember 2024",
-      "money": 6863133,
+      "money": 6860449,
       "exp": 25163,
       "limit": 2071,
       "speed": 0,
