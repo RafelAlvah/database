@@ -790,7 +790,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -815,7 +815,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -1072,7 +1072,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 749
+      "totalcmd": 751
     }
   ],
   "clearchat": [],
@@ -127222,9 +127222,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 615,
+      "hit": 616,
       "date": "20 Januari 2025",
-      "money": 1348925,
+      "money": 1457125,
       "exp": 37000,
       "limit": 250,
       "speed": 0,
@@ -127396,7 +127396,7 @@
       "lastparming": 1737945414336,
       "poin": 1840000,
       "rokets": 32,
-      "lastkerja": 1737945405019,
+      "lastkerja": 1737947511829,
       "sampah": 336,
       "kayu": 301,
       "batu": 420,
@@ -135625,7 +135625,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 17,
-      "hit": 113,
+      "hit": 114,
       "date": "24 Januari 2025",
       "money": 584877,
       "exp": 15098,
