@@ -892,6 +892,11 @@
       "cmd": "Berdagang",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Nabung",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -920,7 +925,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 292
+      "totalcmd": 293
     }
   ],
   "clearchat": [],
@@ -96508,9 +96513,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7785,
+      "hit": 7786,
       "date": "3 Januari 2025",
-      "money": 15384380,
+      "money": 0,
       "exp": 32643,
       "limit": 351,
       "speed": 5,
@@ -96541,7 +96546,7 @@
       "chip": 650,
       "atm": 3,
       "fullatm": 1000000000,
-      "bank": 1351904,
+      "bank": 16736284,
       "health": 100,
       "stamina": 100,
       "potion": 6,
