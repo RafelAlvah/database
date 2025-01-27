@@ -1014,6 +1014,11 @@
       "cmd": "Family100",
       "succes": 7,
       "failed": 0
+    },
+    {
+      "cmd": "Tourl2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1037,7 +1042,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 825
+      "totalcmd": 826
     }
   ],
   "clearchat": [],
@@ -1049,7 +1054,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1661,
+      "hit": 1662,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
