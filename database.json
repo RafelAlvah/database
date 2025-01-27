@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 164,
+      "succes": 165,
       "failed": 0
     },
     {
@@ -1011,7 +1011,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 105,
+      "succes": 106,
       "failed": 8
     },
     {
@@ -1396,7 +1396,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2474
+      "totalcmd": 2476
     }
   ],
   "clearchat": [],
@@ -43949,7 +43949,7 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 162,
-      "hit": 3087,
+      "hit": 3088,
       "date": "22 Desember 2024",
       "money": 0,
       "exp": 27100,
@@ -79144,7 +79144,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 141,
-      "hit": 225,
+      "hit": 226,
       "date": "29 Desember 2024",
       "money": 1598119,
       "exp": 3511,
