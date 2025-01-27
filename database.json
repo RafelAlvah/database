@@ -646,7 +646,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 87,
+      "succes": 88,
       "failed": 0
     },
     {
@@ -801,7 +801,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -1073,7 +1073,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 649
+      "totalcmd": 651
     }
   ],
   "clearchat": [],
@@ -19828,7 +19828,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 42,
-      "hit": 3674,
+      "hit": 3675,
       "date": "20 Desember 2024",
       "money": 32526239,
       "exp": 13436,
@@ -36125,7 +36125,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 327,
-      "hit": 3621,
+      "hit": 3622,
       "date": "22 Desember 2024",
       "money": 993792,
       "exp": 27101,
@@ -36145,9 +36145,9 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1736653617488,
-      "afk": -1,
+      "afk": 1737946281472,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "nonton yete",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
