@@ -887,6 +887,11 @@
       "cmd": "Bansos",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Berdagang",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -915,7 +920,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 289
+      "totalcmd": 290
     }
   ],
   "clearchat": [],
@@ -96503,9 +96508,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7782,
+      "hit": 7783,
       "date": "3 Januari 2025",
-      "money": 15362528,
+      "money": 15361022,
       "exp": 32643,
       "limit": 351,
       "speed": 5,
@@ -96609,7 +96614,7 @@
       "lasthunt": 1736578038707,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1737942289848,
+      "lastdagang": 1738001790998,
       "lasthourly": 0,
       "lastbansos": 1738001690870,
       "lastrampok": 1737997588117,
@@ -97599,7 +97604,7 @@
       "glimit": 6,
       "hit": 310,
       "date": "3 Januari 2025",
-      "money": 2917849,
+      "money": 2916343,
       "exp": 17193,
       "limit": 56,
       "speed": 0,
