@@ -618,13 +618,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6285251525685",
-      "expired": 1737953110803
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Swm",
@@ -643,7 +637,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 199,
+      "succes": 200,
       "failed": 0
     },
     {
@@ -1068,7 +1062,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 918
+      "totalcmd": 919
     }
   ],
   "clearchat": [],
@@ -76668,8 +76662,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "GCXP",
-      "glimit": 354,
-      "hit": 718,
+      "glimit": 353,
+      "hit": 719,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 17932,
