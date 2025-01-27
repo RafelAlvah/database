@@ -732,7 +732,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 73,
+      "succes": 74,
       "failed": 0
     },
     {
@@ -1382,7 +1382,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2206
+      "totalcmd": 2207
     }
   ],
   "clearchat": [],
@@ -127536,7 +127536,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 688,
+      "hit": 689,
       "date": "20 Januari 2025",
       "money": 13674533,
       "exp": 52000,
@@ -127571,8 +127571,8 @@
       "fullatm": 0,
       "bank": 0,
       "health": 100,
-      "stamina": 45,
-      "potion": 5,
+      "stamina": 115,
+      "potion": 3,
       "wine": 0,
       "beer": 0,
       "trash": 0,
