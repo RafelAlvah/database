@@ -1226,7 +1226,7 @@
     },
     {
       "cmd": "Smeme",
-      "succes": 8,
+      "succes": 9,
       "failed": 2
     },
     {
@@ -1436,7 +1436,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2781
+      "totalcmd": 2782
     }
   ],
   "clearchat": [],
@@ -115083,7 +115083,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 164,
-      "hit": 1402,
+      "hit": 1403,
       "date": "7 Januari 2025",
       "money": 4782940,
       "exp": 17785,
