@@ -825,7 +825,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 85,
+      "succes": 86,
       "failed": 0
     },
     {
@@ -1250,7 +1250,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1546
+      "totalcmd": 1547
     }
   ],
   "clearchat": [],
@@ -99529,7 +99529,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 859,
+      "hit": 860,
       "date": "3 Januari 2025",
       "money": 50000,
       "exp": 100,
