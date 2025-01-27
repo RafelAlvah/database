@@ -811,7 +811,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1261,7 +1261,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1578
+      "totalcmd": 1579
     }
   ],
   "clearchat": [],
@@ -36313,7 +36313,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3673,
+      "hit": 3674,
       "date": "22 Desember 2024",
       "money": 6111499,
       "exp": 42100,
@@ -36333,9 +36333,9 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1736653617488,
-      "afk": -1,
+      "afk": 1737965661834,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "bobo gantengs",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
