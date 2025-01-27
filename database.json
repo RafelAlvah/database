@@ -690,7 +690,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -877,6 +877,11 @@
       "cmd": "Claim",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Gaji",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -905,7 +910,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 280
+      "totalcmd": 282
     }
   ],
   "clearchat": [],
@@ -96493,10 +96498,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7775,
+      "hit": 7777,
       "date": "3 Januari 2025",
-      "money": 18299446,
-      "exp": 32543,
+      "money": 18349446,
+      "exp": 32643,
       "limit": 351,
       "speed": 5,
       "strength": 6,
@@ -96603,7 +96608,7 @@
       "lasthourly": 0,
       "lastbansos": 1737990264759,
       "lastrampok": 1737997588117,
-      "lastclaim": 1737995310895,
+      "lastclaim": 1738001646725,
       "lastnebang": 0,
       "lastweekly": 1737393036207,
       "lastmonthly": 1736423963407,
