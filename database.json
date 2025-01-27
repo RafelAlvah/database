@@ -862,6 +862,11 @@
       "cmd": "Spdl",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Kick",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -885,7 +890,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 242
+      "totalcmd": 243
     }
   ],
   "clearchat": [],
@@ -46660,7 +46665,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5712,
-      "hit": 1470,
+      "hit": 1471,
       "date": "22 Desember 2024",
       "money": 6910449,
       "exp": 25163,
