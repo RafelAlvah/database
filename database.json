@@ -848,7 +848,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -1051,7 +1051,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 533
+      "totalcmd": 534
     }
   ],
   "clearchat": [],
@@ -76680,7 +76680,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 10878700,
+      "balance": 11028700,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -127201,7 +127201,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 603,
+      "hit": 604,
       "date": "20 Januari 2025",
       "money": 854807,
       "exp": 31900,
