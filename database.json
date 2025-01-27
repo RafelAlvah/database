@@ -149716,7 +149716,7 @@
       "autolevelup": false,
       "serial": "FO12",
       "glimit": 30,
-      "hit": 14,
+      "hit": 15,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -159571,36 +159571,7 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ],
-    "restart": {
-      "m": {
-        "key": {
-          "remoteJid": "120363361865610907@g.us",
-          "fromMe": false,
-          "id": "903D893C8A66F10BE4394E076044927F",
-          "participant": "6287737937323@s.whatsapp.net"
-        },
-        "message": {
-          "extendedTextMessage": {
-            "text": "restart",
-            "previewType": "NONE",
-            "contextInfo": {
-              "expiration": 86400,
-              "disappearingMode": {
-                "initiator": "CHANGED_IN_CHAT",
-                "trigger": "CHAT_SETTING",
-                "initiatedByMe": true
-              }
-            },
-            "inviteLinkGroupTypeV2": "DEFAULT"
-          }
-        },
-        "messageTimestamp": "1737990591",
-        "broadcast": false,
-        "pushName": "«< R >»"
-      },
-      "from": "120363361865610907@g.us"
-    }
+    ]
   },
   "respon": {}
 }
