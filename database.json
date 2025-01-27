@@ -646,7 +646,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 96,
+      "succes": 97,
       "failed": 0
     },
     {
@@ -1078,7 +1078,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 675
+      "totalcmd": 676
     }
   ],
   "clearchat": [],
@@ -19833,7 +19833,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 35,
-      "hit": 3690,
+      "hit": 3691,
       "date": "20 Desember 2024",
       "money": 32526239,
       "exp": 13436,
@@ -36150,15 +36150,15 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1736653617488,
-      "afk": 1737946581138,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "lieur",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 25555000,
+      "balance": 25705000,
       "skillexp": 0,
       "chip": 53,
       "atm": 5,
