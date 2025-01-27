@@ -693,7 +693,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1036,7 +1036,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 406
+      "totalcmd": 407
     }
   ],
   "clearchat": [],
@@ -42867,7 +42867,8 @@
       "timeEnd": "",
       "lastkerja": 1737432692729,
       "lastmaling": 1735999024314,
-      "rokets": 1
+      "rokets": 1,
+      "ultahSent": "27,01"
     },
     "62895402079768@s.whatsapp.net": {
       "sticker": {},
@@ -43767,7 +43768,7 @@
       "lastnambang": 1735116817711,
       "rokets": 25,
       "lastmaling": 1735980705084,
-      "ultahSent": "01,01",
+      "ultahSent": "27,01",
       "lastmulung": 1737898852933,
       "lastparming": 1737933280354,
       "sampah": 15,
@@ -66642,7 +66643,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 440,
-      "hit": 750,
+      "hit": 751,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
