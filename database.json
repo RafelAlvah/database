@@ -801,7 +801,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 63,
+      "succes": 64,
       "failed": 0
     },
     {
@@ -1071,7 +1071,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -1445,7 +1445,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2754
+      "totalcmd": 2756
     }
   ],
   "clearchat": [],
@@ -97031,7 +97031,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7733,
+      "hit": 7734,
       "date": "3 Januari 2025",
       "money": 13234875,
       "exp": 22543,
@@ -127602,9 +127602,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 711,
+      "hit": 712,
       "date": "20 Januari 2025",
-      "money": 3360702,
+      "money": 360702,
       "exp": 6000,
       "limit": 280,
       "speed": 0,
@@ -127710,7 +127710,7 @@
       "lastberkebon": 0,
       "lastdagang": 1737977002357,
       "lasthourly": 0,
-      "lastbansos": 1737966758147,
+      "lastbansos": 1737990227915,
       "lastrampok": 0,
       "lastclaim": 1737989478377,
       "lastnebang": 0,
