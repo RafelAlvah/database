@@ -1298,7 +1298,12 @@
       "failed": 0
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "Cannot read properties of undefined (reading 'url')",
+      "cmd": ""
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
