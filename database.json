@@ -830,6 +830,10 @@
     {
       "error": "setreply is not defined",
       "cmd": "donasi"
+    },
+    {
+      "error": "msg is not defined",
+      "cmd": "tg"
     }
   ],
   "jadibot": {},
