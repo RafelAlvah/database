@@ -579,7 +579,8 @@
     "Link",
     "Tes",
     "Vn",
-    "Voicechanger"
+    "Voicechanger",
+    "Audio"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1145,6 +1146,11 @@
       "cmd": "S",
       "succes": 4,
       "failed": 0
+    },
+    {
+      "cmd": "Audio",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1177,7 +1183,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1177
+      "totalcmd": 1178
     }
   ],
   "clearchat": [],
@@ -148371,7 +148377,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 62,
+      "hit": 63,
       "date": "27 Januari 2025",
       "money": 151074,
       "exp": 0,
