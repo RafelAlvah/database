@@ -991,7 +991,7 @@
     },
     {
       "cmd": "Tebakbom",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1051,7 +1051,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 900
+      "totalcmd": 901
     }
   ],
   "clearchat": [],
@@ -147889,7 +147889,7 @@
       "autolevelup": false,
       "serial": "JX2T",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
