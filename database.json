@@ -772,7 +772,7 @@
     },
     {
       "cmd": "Claim",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1405,7 +1405,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2340
+      "totalcmd": 2341
     }
   ],
   "clearchat": [],
@@ -134181,7 +134181,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 3,
-      "hit": 104,
+      "hit": 105,
       "date": "24 Januari 2025",
       "money": 210281,
       "exp": 5000,
@@ -134201,7 +134201,7 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1737873868741,
-      "afk": 1737914262979,
+      "afk": -1,
       "unreg": false,
       "afkReason": "",
       "banned": false,
