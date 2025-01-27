@@ -884,7 +884,7 @@
     },
     {
       "cmd": "Maling",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1334,7 +1334,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1977
+      "totalcmd": 1978
     }
   ],
   "clearchat": [],
@@ -79080,10 +79080,10 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 153,
-      "hit": 187,
+      "hit": 188,
       "date": "29 Desember 2024",
-      "money": 1332023,
-      "exp": 36670,
+      "money": 1342759,
+      "exp": 37511,
       "limit": 50,
       "speed": 0,
       "strength": 0,
@@ -79131,7 +79131,7 @@
       "diamond": 0,
       "gold": 0,
       "botol": 947,
-      "kardus": 2045,
+      "kardus": 2488,
       "kaleng": 1523,
       "gelas": 954,
       "plastik": 966,
@@ -79251,7 +79251,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1736505346943,
-      "lastmaling": 1736082374241,
+      "lastmaling": 1737974686362,
       "lastparming": 1737974122460,
       "lastmulung": 1737974120004,
       "rokets": 1
