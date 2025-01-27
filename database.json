@@ -747,7 +747,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 108,
+      "succes": 109,
       "failed": 0
     },
     {
@@ -892,7 +892,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1306,7 +1306,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1771
+      "totalcmd": 1773
     }
   ],
   "clearchat": [],
@@ -79048,8 +79048,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "LYBW",
-      "glimit": 12,
-      "hit": 86,
+      "glimit": 11,
+      "hit": 87,
       "date": "29 Desember 2024",
       "money": 1111514,
       "exp": 13670,
@@ -133187,7 +133187,7 @@
       "autolevelup": false,
       "serial": "OMUC",
       "glimit": 30,
-      "hit": 51,
+      "hit": 52,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
