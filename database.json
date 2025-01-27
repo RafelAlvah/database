@@ -148831,7 +148831,7 @@
       "prefix": "!",
       "autoblockcmd": false,
       "autoDetectCmd": true,
-      "replyType": "web",
+      "replyType": "web2",
       "autoReport": true,
       "autoLevel": true,
       "autoSticker": false,
