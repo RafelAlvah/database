@@ -589,7 +589,8 @@
     "Button",
     "Mathc",
     "Wink",
-    "Qc2"
+    "Qc2",
+    "Tg"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -820,6 +821,11 @@
       "cmd": "Ai",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -856,7 +862,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 142
+      "totalcmd": 143
     }
   ],
   "clearchat": [],
@@ -868,7 +874,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1770,
+      "hit": 1771,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -896,7 +902,7 @@
       "warning": 0,
       "level": 64,
       "role": "Beginner",
-      "balance": -99999999999913250,
+      "balance": -99999999999912260,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
