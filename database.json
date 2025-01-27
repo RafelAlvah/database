@@ -695,7 +695,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -715,7 +715,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -925,7 +925,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 298
+      "totalcmd": 300
     }
   ],
   "clearchat": [],
@@ -937,7 +937,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1787,
+      "hit": 1788,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -99212,7 +99212,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 865,
+      "hit": 866,
       "date": "3 Januari 2025",
       "money": 1135719,
       "exp": 2200,
