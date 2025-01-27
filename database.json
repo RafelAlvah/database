@@ -715,7 +715,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -895,7 +895,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 264
+      "totalcmd": 265
     }
   ],
   "clearchat": [],
@@ -46670,11 +46670,11 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5712,
-      "hit": 1479,
+      "hit": 1480,
       "date": "22 Desember 2024",
       "money": 6910449,
       "exp": 25163,
-      "limit": 3164,
+      "limit": 3163,
       "speed": 0,
       "strength": 0,
       "defense": 0,
