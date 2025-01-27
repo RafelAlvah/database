@@ -900,7 +900,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -934,7 +934,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 314
+      "totalcmd": 315
     }
   ],
   "clearchat": [],
@@ -99221,7 +99221,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 879,
+      "hit": 880,
       "date": "3 Januari 2025",
       "money": 1501125,
       "exp": 7200,
