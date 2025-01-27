@@ -971,7 +971,7 @@
     },
     {
       "cmd": "Tourl",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1078,7 +1078,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 741
+      "totalcmd": 742
     }
   ],
   "clearchat": [],
@@ -135631,7 +135631,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 17,
-      "hit": 111,
+      "hit": 112,
       "date": "24 Januari 2025",
       "money": 584877,
       "exp": 15098,
