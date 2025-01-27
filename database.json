@@ -921,7 +921,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2070
+      "totalcmd": 2071
     }
   ],
   "clearchat": [],
@@ -130035,9 +130035,9 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 389,
+      "hit": 390,
       "date": "22 Januari 2025",
-      "money": 3820162,
+      "money": 3807662,
       "exp": 600,
       "limit": 140,
       "speed": 0,
@@ -130071,7 +130071,7 @@
       "bank": 0,
       "health": 100,
       "stamina": 35,
-      "potion": 1,
+      "potion": 11,
       "wine": 0,
       "beer": 0,
       "trash": 0,
