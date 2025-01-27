@@ -666,7 +666,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 77,
+      "succes": 78,
       "failed": 0
     },
     {
@@ -731,7 +731,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 64,
+      "succes": 65,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2071
+      "totalcmd": 2073
     }
   ],
   "clearchat": [],
@@ -59122,8 +59122,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 14,
-      "hit": 119,
+      "glimit": 13,
+      "hit": 120,
       "date": "24 Desember 2024",
       "money": 39697,
       "exp": 11683,
@@ -130035,7 +130035,7 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 390,
+      "hit": 391,
       "date": "22 Januari 2025",
       "money": 3807662,
       "exp": 600,
@@ -130070,8 +130070,8 @@
       "fullatm": 0,
       "bank": 0,
       "health": 100,
-      "stamina": 35,
-      "potion": 11,
+      "stamina": 105,
+      "potion": 9,
       "wine": 0,
       "beer": 0,
       "trash": 0,
