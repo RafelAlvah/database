@@ -587,7 +587,8 @@
     "Tweetc2",
     "Tweetc",
     "Kandang",
-    "Ramuan"
+    "Ramuan",
+    "Taxy"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -736,7 +737,7 @@
     },
     {
       "cmd": "Hitman",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1348,6 +1349,11 @@
       "cmd": "Ramuan",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Taxy",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1376,7 +1382,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2198
+      "totalcmd": 2200
     }
   ],
   "clearchat": [],
@@ -36428,7 +36434,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3715,
+      "hit": 3717,
       "date": "22 Desember 2024",
       "money": 6106741,
       "exp": 49078,
