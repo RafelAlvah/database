@@ -576,7 +576,8 @@
     "Qc",
     "Qc2",
     "",
-    "Link"
+    "Link",
+    "Tes"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1055,6 +1056,11 @@
       "cmd": "Stiker",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Tes",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1078,7 +1084,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 937
+      "totalcmd": 938
     }
   ],
   "clearchat": [],
@@ -147382,7 +147388,7 @@
       "autolevelup": false,
       "serial": "GZFS",
       "glimit": 30,
-      "hit": 5,
+      "hit": 6,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
