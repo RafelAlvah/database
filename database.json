@@ -831,7 +831,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 106,
+      "succes": 107,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2056
+      "totalcmd": 2057
     }
   ],
   "clearchat": [],
@@ -39294,9 +39294,9 @@
       "autolevelup": false,
       "serial": "VXK6",
       "glimit": 39,
-      "hit": 386,
+      "hit": 387,
       "date": "22 Desember 2024",
-      "money": 215792,
+      "money": 345448,
       "exp": 7078,
       "limit": 11,
       "speed": 0,
@@ -39464,7 +39464,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1736432017935,
+      "lastkerja": 1737976533520,
       "lastmaling": 1736432048298
     },
     "6289665330730@s.whatsapp.net": {
