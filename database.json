@@ -778,7 +778,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1278,7 +1278,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1634
+      "totalcmd": 1635
     }
   ],
   "clearchat": [],
@@ -120835,11 +120835,11 @@
       "autolevelup": false,
       "serial": "MDEZ",
       "glimit": 27,
-      "hit": 175,
+      "hit": 176,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
-      "limit": 30,
+      "limit": 29,
       "speed": 0,
       "strength": 0,
       "defense": 0,
