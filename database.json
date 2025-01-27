@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Limit",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -1202,7 +1202,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1431
+      "totalcmd": 1432
     }
   ],
   "clearchat": [],
@@ -80730,7 +80730,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2455,
-      "hit": 2044,
+      "hit": 2045,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80750,9 +80750,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1737954194389,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "beli sosis",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
