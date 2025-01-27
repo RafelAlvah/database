@@ -731,7 +731,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 88,
+      "succes": 90,
       "failed": 0
     },
     {
@@ -1393,6 +1393,11 @@
       "cmd": "Addsewa",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Mining",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1421,7 +1426,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2675
+      "totalcmd": 2678
     }
   ],
   "clearchat": [],
@@ -102038,7 +102043,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 40,
-      "hit": 610,
+      "hit": 611,
       "date": "4 Januari 2025",
       "money": 6737474,
       "exp": 6645,
@@ -130084,7 +130089,7 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 420,
+      "hit": 422,
       "date": "22 Januari 2025",
       "money": 1325809,
       "exp": 16700,
@@ -130118,9 +130123,9 @@
       "atm": 0,
       "fullatm": 0,
       "bank": 0,
-      "health": 20,
-      "stamina": 55,
-      "potion": 3,
+      "health": 100,
+      "stamina": 90,
+      "potion": 0,
       "wine": 0,
       "beer": 0,
       "trash": 0,
