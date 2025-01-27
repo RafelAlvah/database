@@ -644,6 +644,11 @@
       "cmd": "Me",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Del",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -672,7 +677,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 4
+      "totalcmd": 5
     }
   ],
   "clearchat": [],
@@ -93210,7 +93215,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 61,
-      "hit": 538,
+      "hit": 539,
       "date": "1 Januari 2025",
       "money": 5295833,
       "exp": 8161,
