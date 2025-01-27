@@ -1068,7 +1068,12 @@
       "failed": 0
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "ENOENT: no such file or directory, open './temp/image/codingan.jpg'",
+      "cmd": "codingan"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
