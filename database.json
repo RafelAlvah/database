@@ -812,7 +812,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1382,7 +1382,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2213
+      "totalcmd": 2214
     }
   ],
   "clearchat": [],
@@ -20139,7 +20139,7 @@
       "glimit": 87,
       "hit": 3936,
       "date": "20 Desember 2024",
-      "money": 31102493,
+      "money": 45484026,
       "exp": 55436,
       "limit": 194,
       "speed": 3,
@@ -127536,9 +127536,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 691,
+      "hit": 692,
       "date": "20 Januari 2025",
-      "money": 14381533,
+      "money": 0,
       "exp": 0,
       "limit": 280,
       "speed": 0,
