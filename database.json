@@ -803,7 +803,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -823,7 +823,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 71,
+      "succes": 72,
       "failed": 0
     },
     {
@@ -1202,7 +1202,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1385
+      "totalcmd": 1387
     }
   ],
   "clearchat": [],
@@ -19957,9 +19957,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 4,
-      "hit": 3820,
+      "hit": 3821,
       "date": "20 Desember 2024",
-      "money": 23668229,
+      "money": 20668229,
       "exp": 34436,
       "limit": 184,
       "speed": 3,
@@ -99481,9 +99481,9 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 847,
+      "hit": 848,
       "date": "3 Januari 2025",
-      "money": 1156167,
+      "money": 1283014,
       "exp": 0,
       "limit": 98,
       "speed": 0,
@@ -99651,7 +99651,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737960041869,
+      "lastkerja": 1737960364384,
       "lastmaling": 1737393857258,
       "lastparming": 1737960051339,
       "lastmulung": 1737960049214,
@@ -127354,7 +127354,7 @@
       "glimit": 21,
       "hit": 652,
       "date": "20 Januari 2025",
-      "money": 8370,
+      "money": 3008370,
       "exp": 45000,
       "limit": 250,
       "speed": 0,
