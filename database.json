@@ -662,12 +662,12 @@
     },
     {
       "cmd": "Motor",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
       "cmd": "Mobil",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -697,7 +697,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 20
+      "totalcmd": 22
     }
   ],
   "clearchat": [],
@@ -35749,7 +35749,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3755,
+      "hit": 3756,
       "date": "22 Desember 2024",
       "money": 2087,
       "exp": 49529,
@@ -146296,7 +146296,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 64,
+      "hit": 65,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
