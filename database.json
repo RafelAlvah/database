@@ -778,7 +778,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 12,
+      "succes": 13,
       "failed": 2
     },
     {
@@ -1003,7 +1003,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 35,
+      "succes": 36,
       "failed": 4
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1194
+      "totalcmd": 1196
     }
   ],
   "clearchat": [],
@@ -96757,7 +96757,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 535,
-      "hit": 7595,
+      "hit": 7596,
       "date": "3 Januari 2025",
       "money": 5137078,
       "exp": 100043,
@@ -148371,11 +148371,11 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 74,
+      "hit": 75,
       "date": "27 Januari 2025",
       "money": 151074,
       "exp": 0,
-      "limit": 24,
+      "limit": 23,
       "speed": 0,
       "strength": 0,
       "defense": 0,
