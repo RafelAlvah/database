@@ -701,7 +701,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -1011,7 +1011,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 72,
+      "succes": 73,
       "failed": 4
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2175
+      "totalcmd": 2177
     }
   ],
   "clearchat": [],
@@ -20131,7 +20131,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 87,
-      "hit": 3928,
+      "hit": 3929,
       "date": "20 Desember 2024",
       "money": 30765409,
       "exp": 52436,
@@ -59123,7 +59123,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 197,
-      "hit": 150,
+      "hit": 151,
       "date": "24 Desember 2024",
       "money": 489697,
       "exp": 18683,
