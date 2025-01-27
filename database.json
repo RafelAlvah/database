@@ -839,12 +839,12 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
       "cmd": "Mulung",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -1324,7 +1324,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1945
+      "totalcmd": 1947
     }
   ],
   "clearchat": [],
@@ -79069,7 +79069,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 154,
-      "hit": 178,
+      "hit": 180,
       "date": "29 Desember 2024",
       "money": 1147513,
       "exp": 28670,
@@ -79119,11 +79119,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 658,
-      "kardus": 1140,
-      "kaleng": 689,
-      "gelas": 68,
-      "plastik": 744,
+      "botol": 947,
+      "kardus": 2045,
+      "kaleng": 1523,
+      "gelas": 954,
+      "plastik": 966,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -79242,7 +79242,7 @@
       "lastkerja": 1736505346943,
       "lastmaling": 1736082374241,
       "lastparming": 1736504643608,
-      "lastmulung": 1736504652672,
+      "lastmulung": 1737974120004,
       "rokets": null
     },
     "6282128283930@s.whatsapp.net": {
