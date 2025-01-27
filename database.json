@@ -586,7 +586,8 @@
     "Kisahnabi",
     "Tweetc2",
     "Tweetc",
-    "Kandang"
+    "Kandang",
+    "Ramuan"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1337,6 +1338,16 @@
       "cmd": "Tomoney",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Redeem",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Ramuan",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1365,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2035
+      "totalcmd": 2037
     }
   ],
   "clearchat": [],
@@ -36417,7 +36428,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3706,
+      "hit": 3708,
       "date": "22 Desember 2024",
       "money": 6111510,
       "exp": 42078,
