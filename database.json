@@ -748,7 +748,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -768,7 +768,7 @@
     },
     {
       "cmd": "Qc2",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -813,7 +813,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 93
+      "totalcmd": 95
     }
   ],
   "clearchat": [],
@@ -35865,7 +35865,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3762,
+      "hit": 3763,
       "date": "22 Desember 2024",
       "money": 2087,
       "exp": 49529,
@@ -96400,7 +96400,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7750,
+      "hit": 7751,
       "date": "3 Januari 2025",
       "money": 17064314,
       "exp": 30543,
