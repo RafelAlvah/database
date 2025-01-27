@@ -1301,6 +1301,11 @@
       "cmd": "Surah",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Belipet",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1329,7 +1334,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1975
+      "totalcmd": 1976
     }
   ],
   "clearchat": [],
@@ -36381,7 +36386,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3694,
+      "hit": 3695,
       "date": "22 Desember 2024",
       "money": 6111499,
       "exp": 42100,
