@@ -584,7 +584,8 @@
     "Audiosurah",
     "Audiobungamaaf",
     "Kisahnabi",
-    "Tweetc2"
+    "Tweetc2",
+    "Tweetc"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1290,6 +1291,11 @@
       "cmd": "Tes",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Tweetc",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1334,7 +1340,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1864
+      "totalcmd": 1865
     }
   ],
   "clearchat": [],
@@ -36386,7 +36392,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 325,
-      "hit": 3680,
+      "hit": 3681,
       "date": "22 Desember 2024",
       "money": 6111499,
       "exp": 42100,
