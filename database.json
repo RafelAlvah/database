@@ -587,7 +587,6 @@
     "Ramuan",
     "Taxy",
     "Button",
-    "",
     "Mathc"
   ],
   "anonymous": [],
@@ -1346,11 +1345,6 @@
       "failed": 0
     },
     {
-      "cmd": "",
-      "succes": 1,
-      "failed": 1
-    },
-    {
       "cmd": "Button",
       "succes": 1,
       "failed": 0
@@ -1424,9 +1418,19 @@
       "cmd": "Math",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "",
+      "succes": 0,
+      "failed": 1
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "Cannot read properties of undefined (reading 'cmd')",
+      "cmd": ""
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1447,7 +1451,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2792
+      "totalcmd": 2793
     }
   ],
   "clearchat": [],
@@ -148292,7 +148296,7 @@
       "autolevelup": false,
       "serial": "JX2T",
       "glimit": 30,
-      "hit": 7,
+      "hit": 8,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
