@@ -832,7 +832,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 131,
+      "succes": 132,
       "failed": 0
     },
     {
@@ -842,7 +842,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 52,
+      "succes": 53,
       "failed": 0
     },
     {
@@ -1414,7 +1414,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2430
+      "totalcmd": 2432
     }
   ],
   "clearchat": [],
@@ -79162,10 +79162,10 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 141,
-      "hit": 207,
+      "hit": 209,
       "date": "29 Desember 2024",
-      "money": 1449979,
-      "exp": 43511,
+      "money": 1487156,
+      "exp": 3511,
       "limit": 50,
       "speed": 0,
       "strength": 0,
@@ -79188,7 +79188,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 4,
+      "level": 5,
       "role": "Beginner",
       "balance": 944000,
       "skillexp": 0,
@@ -79332,7 +79332,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737974759986,
+      "lastkerja": 1737985312870,
       "lastmaling": 1737974686362,
       "lastparming": 1737974122460,
       "lastmulung": 1737974120004,
