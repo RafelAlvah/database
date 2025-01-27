@@ -729,7 +729,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -864,7 +864,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 185
+      "totalcmd": 186
     }
   ],
   "clearchat": [],
@@ -876,7 +876,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1775,
+      "hit": 1776,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -904,7 +904,7 @@
       "warning": 0,
       "level": 64,
       "role": "Beginner",
-      "balance": -99999999999911260,
+      "balance": -99999999999910270,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
