@@ -1012,8 +1012,8 @@
     },
     {
       "cmd": "Qc",
-      "succes": 80,
-      "failed": 4
+      "succes": 81,
+      "failed": 5
     },
     {
       "cmd": "Qc2",
@@ -1383,6 +1383,10 @@
     {
       "error": "Request path contains unescaped characters",
       "cmd": "smeme"
+    },
+    {
+      "error": "Request failed with status code 500",
+      "cmd": "qc"
     }
   ],
   "jadibot": {},
@@ -1405,7 +1409,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2341
+      "totalcmd": 2343
     }
   ],
   "clearchat": [],
@@ -1417,7 +1421,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1719,
+      "hit": 1720,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -59152,7 +59156,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 188,
-      "hit": 163,
+      "hit": 164,
       "date": "24 Desember 2024",
       "money": 577324,
       "exp": 18683,
@@ -59180,7 +59184,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 812900,
+      "balance": 812700,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
