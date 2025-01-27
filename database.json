@@ -1029,7 +1029,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1089,7 +1089,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 947
+      "totalcmd": 948
     }
   ],
   "clearchat": [],
@@ -75439,11 +75439,11 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 735,
+      "hit": 736,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
-      "limit": 533,
+      "limit": 532,
       "speed": 0,
       "strength": 0,
       "defense": 0,
