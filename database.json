@@ -1457,7 +1457,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1752,
+      "hit": 1751,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -97031,11 +97031,11 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7736,
+      "hit": 7735,
       "date": "3 Januari 2025",
       "money": 16234875,
       "exp": 22543,
-      "limit": 360,
+      "limit": 361,
       "speed": 5,
       "strength": 6,
       "defense": 5,
@@ -149716,7 +149716,7 @@
       "autolevelup": false,
       "serial": "FO12",
       "glimit": 30,
-      "hit": 16,
+      "hit": 14,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -156124,11 +156124,11 @@
       "autolevelup": false,
       "serial": "FMXO",
       "glimit": 30,
-      "hit": 5,
+      "hit": 4,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
-      "limit": 27,
+      "limit": 29,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -159577,7 +159577,7 @@
         "key": {
           "remoteJid": "120363361865610907@g.us",
           "fromMe": false,
-          "id": "3827B66D334F3E4478317E48B58DFB27",
+          "id": "903D893C8A66F10BE4394E076044927F",
           "participant": "6287737937323@s.whatsapp.net"
         },
         "message": {
@@ -159595,7 +159595,7 @@
             "inviteLinkGroupTypeV2": "DEFAULT"
           }
         },
-        "messageTimestamp": "1737990742",
+        "messageTimestamp": "1737990591",
         "broadcast": false,
         "pushName": "«< R >»"
       },
