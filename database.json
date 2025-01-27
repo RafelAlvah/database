@@ -687,7 +687,7 @@
     },
     {
       "cmd": "Limit",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -757,7 +757,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1316,7 +1316,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1817
+      "totalcmd": 1819
     }
   ],
   "clearchat": [],
@@ -32233,7 +32233,7 @@
       "autolevelup": false,
       "serial": "QRWN",
       "glimit": 29,
-      "hit": 70,
+      "hit": 71,
       "date": "22 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -79059,7 +79059,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 208,
-      "hit": 114,
+      "hit": 115,
       "date": "29 Desember 2024",
       "money": 1147513,
       "exp": 28670,
