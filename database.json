@@ -398,7 +398,6 @@
     "Buyalldm",
     "Yqc",
     "Bd",
-    "Qc🫢",
     "Meracik",
     "Lyrics",
     "Putar",
@@ -1073,7 +1072,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 743
+      "totalcmd": 744
     }
   ],
   "clearchat": [],
@@ -80601,7 +80600,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2455,
-      "hit": 2039,
+      "hit": 2040,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
