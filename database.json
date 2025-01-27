@@ -622,13 +622,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6285645837339",
-      "expired": 1737954580806
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Swm",
@@ -687,7 +681,7 @@
     },
     {
       "cmd": "Limit",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1117,7 +1111,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1040
+      "totalcmd": 1041
     }
   ],
   "clearchat": [],
@@ -28986,7 +28980,7 @@
       "autolevelup": false,
       "serial": "HUAY",
       "glimit": 0,
-      "hit": 143,
+      "hit": 144,
       "date": "22 Desember 2024",
       "money": 1000,
       "exp": 6993,
