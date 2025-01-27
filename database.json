@@ -810,6 +810,11 @@
       "cmd": "Limit",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Family100",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -842,7 +847,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 138
+      "totalcmd": 139
     }
   ],
   "clearchat": [],
@@ -80376,8 +80381,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 2430,
-      "hit": 2091,
+      "glimit": 2429,
+      "hit": 2092,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -120076,7 +120081,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2309668,
+      "balance": 2310668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
