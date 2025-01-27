@@ -1146,7 +1146,7 @@
     },
     {
       "cmd": "S",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1256,7 +1256,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1568
+      "totalcmd": 1569
     }
   ],
   "clearchat": [],
@@ -120813,7 +120813,7 @@
       "autolevelup": false,
       "serial": "MDEZ",
       "glimit": 27,
-      "hit": 168,
+      "hit": 169,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
