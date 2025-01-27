@@ -808,7 +808,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1051,7 +1051,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 525
+      "totalcmd": 526
     }
   ],
   "clearchat": [],
@@ -19806,9 +19806,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 46,
-      "hit": 3650,
+      "hit": 3651,
       "date": "20 Desember 2024",
-      "money": 32669383,
+      "money": 32169383,
       "exp": 8336,
       "limit": 154,
       "speed": 3,
@@ -127203,7 +127203,7 @@
       "glimit": 21,
       "hit": 599,
       "date": "20 Januari 2025",
-      "money": -632693,
+      "money": -132693,
       "exp": 31900,
       "limit": 250,
       "speed": 0,
