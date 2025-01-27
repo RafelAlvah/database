@@ -1091,7 +1091,7 @@
     },
     {
       "cmd": "Jadianime",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1160,7 +1160,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1124
+      "totalcmd": 1125
     }
   ],
   "clearchat": [],
@@ -96740,7 +96740,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 535,
-      "hit": 7588,
+      "hit": 7589,
       "date": "3 Januari 2025",
       "money": 5137078,
       "exp": 100043,
