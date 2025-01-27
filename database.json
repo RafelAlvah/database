@@ -575,7 +575,8 @@
     "Instagram",
     "Qc",
     "Qc2",
-    ""
+    "",
+    "Link"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1044,6 +1045,11 @@
       "cmd": "Upsw",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Link",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1067,7 +1073,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 923
+      "totalcmd": 924
     }
   ],
   "clearchat": [],
@@ -58814,7 +58820,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 63,
+      "hit": 64,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 999,
