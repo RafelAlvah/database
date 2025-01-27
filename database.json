@@ -666,7 +666,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 99,
+      "succes": 100,
       "failed": 0
     },
     {
@@ -1176,7 +1176,7 @@
     },
     {
       "cmd": "Sticker",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2136
+      "totalcmd": 2138
     }
   ],
   "clearchat": [],
@@ -5697,7 +5697,7 @@
       "autolevelup": false,
       "serial": "H36B",
       "glimit": 30,
-      "hit": 21,
+      "hit": 22,
       "date": "16 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -59122,8 +59122,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 198,
-      "hit": 144,
+      "glimit": 197,
+      "hit": 145,
       "date": "24 Desember 2024",
       "money": 39697,
       "exp": 11683,
