@@ -809,7 +809,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1201,6 +1201,11 @@
       "cmd": "Manfes",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Roket",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1233,7 +1238,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1495
+      "totalcmd": 1497
     }
   ],
   "clearchat": [],
@@ -19988,7 +19993,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 4,
-      "hit": 3849,
+      "hit": 3850,
       "date": "20 Desember 2024",
       "money": 38715752,
       "exp": 34436,
@@ -20008,9 +20013,9 @@
       "pasangan": "",
       "age": 17,
       "regTime": 1737899071519,
-      "afk": -1,
+      "afk": 1737962971525,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "mam",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -96813,10 +96818,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7686,
+      "hit": 7687,
       "date": "3 Januari 2025",
-      "money": 8725882,
-      "exp": 112143,
+      "money": 8737882,
+      "exp": 2143,
       "limit": 365,
       "speed": 5,
       "strength": 6,
@@ -96839,7 +96844,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 11,
+      "level": 12,
       "role": "Beginner Grade 3 ⚊³",
       "balance": 113164111,
       "skillexp": 0,
