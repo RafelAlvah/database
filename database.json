@@ -1322,6 +1322,11 @@
       "cmd": "Kandang",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Karung",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1350,7 +1355,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1999
+      "totalcmd": 2000
     }
   ],
   "clearchat": [],
@@ -36402,7 +36407,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3699,
+      "hit": 3700,
       "date": "22 Desember 2024",
       "money": 6111499,
       "exp": 42100,
@@ -59125,7 +59130,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 22500,
+      "balance": 23500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
