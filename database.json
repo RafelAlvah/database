@@ -744,7 +744,7 @@
     },
     {
       "cmd": "Buylimit",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1094,7 +1094,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 958
+      "totalcmd": 959
     }
   ],
   "clearchat": [],
@@ -28963,11 +28963,11 @@
       "autolevelup": false,
       "serial": "HUAY",
       "glimit": 0,
-      "hit": 140,
+      "hit": 141,
       "date": "22 Desember 2024",
       "money": 1000,
       "exp": 6993,
-      "limit": 0,
+      "limit": 1234,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -28991,7 +28991,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 4024500,
+      "balance": 2790500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
