@@ -1016,7 +1016,7 @@
     },
     {
       "cmd": "Polisi",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1441,7 +1441,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2719
+      "totalcmd": 2720
     }
   ],
   "clearchat": [],
@@ -79189,9 +79189,9 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 110,
-      "hit": 277,
+      "hit": 278,
       "date": "29 Desember 2024",
-      "money": 1916756,
+      "money": 1917756,
       "exp": 3611,
       "limit": 70,
       "speed": 0,
