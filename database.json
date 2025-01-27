@@ -1223,7 +1223,7 @@
     },
     {
       "cmd": "Spampring",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1273,7 +1273,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1617
+      "totalcmd": 1618
     }
   ],
   "clearchat": [],
@@ -149358,7 +149358,7 @@
       "autolevelup": false,
       "serial": "SW3X",
       "glimit": 30,
-      "hit": 14,
+      "hit": 15,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
