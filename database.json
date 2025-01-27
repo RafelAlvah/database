@@ -715,7 +715,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -790,7 +790,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -805,7 +805,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -939,7 +939,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 322
+      "totalcmd": 325
     }
   ],
   "clearchat": [],
@@ -951,7 +951,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1790,
+      "hit": 1791,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -80475,7 +80475,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2393,
-      "hit": 2142,
+      "hit": 2143,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80495,9 +80495,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1738001205670,
+      "afk": 1738002417599,
       "unreg": false,
-      "afkReason": "main epep cari duda",
+      "afkReason": "bobo cantik",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -96527,7 +96527,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7792,
+      "hit": 7793,
       "date": "3 Januari 2025",
       "money": 0,
       "exp": 32643,
