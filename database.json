@@ -1068,6 +1068,11 @@
       "cmd": "Ttsanime",
       "succes": 5,
       "failed": 0
+    },
+    {
+      "cmd": "Ttsearch",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1096,7 +1101,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 998
+      "totalcmd": 999
     }
   ],
   "clearchat": [],
@@ -149180,7 +149185,7 @@
       "autolevelup": false,
       "serial": "SW3X",
       "glimit": 30,
-      "hit": 3,
+      "hit": 4,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
