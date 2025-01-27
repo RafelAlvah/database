@@ -1111,7 +1111,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1042
+      "totalcmd": 1043
     }
   ],
   "clearchat": [],
@@ -148305,7 +148305,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 24,
+      "hit": 25,
       "date": "27 Januari 2025",
       "money": 149523,
       "exp": 0,
