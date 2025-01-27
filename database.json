@@ -1335,7 +1335,7 @@
     },
     {
       "cmd": "Tomoney",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1365,7 +1365,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2019
+      "totalcmd": 2020
     }
   ],
   "clearchat": [],
@@ -36417,10 +36417,10 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3704,
+      "hit": 3705,
       "date": "22 Desember 2024",
-      "money": 6111500,
-      "exp": 42098,
+      "money": 6111510,
+      "exp": 42078,
       "limit": 11934,
       "speed": 1,
       "strength": 29,
