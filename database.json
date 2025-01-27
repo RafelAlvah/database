@@ -697,7 +697,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -732,7 +732,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 40
+      "totalcmd": 41
     }
   ],
   "clearchat": [],
@@ -129395,7 +129395,7 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 427,
+      "hit": 428,
       "date": "22 Januari 2025",
       "money": 2221377,
       "exp": 18700,
