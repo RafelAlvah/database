@@ -630,13 +630,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6283849663007",
-      "expired": 1737974144174
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Swm",
@@ -59079,7 +59073,7 @@
       "glimit": 30,
       "hit": 93,
       "date": "24 Desember 2024",
-      "money": 24263,
+      "money": 37697,
       "exp": 1685,
       "limit": 29,
       "speed": 0,
@@ -59118,7 +59112,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 0,
+      "wood": 2,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -59248,7 +59242,8 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastmulung": 1737974037837,
-      "lastmaling": 1737974050388
+      "lastmaling": 1737974050388,
+      "lastparming": 1737974135244
     },
     "6282230174716@s.whatsapp.net": {
       "sticker": {},
