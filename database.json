@@ -1415,16 +1415,7 @@
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "Cannot access 'matches' before initialization",
-      "cmd": "qv"
-    },
-    {
-      "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
-      "cmd": "weekly"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
