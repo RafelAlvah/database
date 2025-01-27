@@ -643,7 +643,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -770,6 +770,11 @@
       "cmd": "Qc2",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Ojek",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -798,7 +803,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 87
+      "totalcmd": 89
     }
   ],
   "clearchat": [],
@@ -35850,7 +35855,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3759,
+      "hit": 3760,
       "date": "22 Desember 2024",
       "money": 2087,
       "exp": 49529,
@@ -96385,7 +96390,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7749,
+      "hit": 7750,
       "date": "3 Januari 2025",
       "money": 17064314,
       "exp": 30543,
