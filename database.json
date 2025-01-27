@@ -1078,7 +1078,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1197,7 +1197,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1316
+      "totalcmd": 1317
     }
   ],
   "clearchat": [],
@@ -96777,7 +96777,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 534,
-      "hit": 7641,
+      "hit": 7642,
       "date": "3 Januari 2025",
       "money": 2738656,
       "exp": 105143,
