@@ -741,7 +741,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 52,
+      "succes": 53,
       "failed": 0
     },
     {
@@ -1111,7 +1111,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1041
+      "totalcmd": 1042
     }
   ],
   "clearchat": [],
@@ -23457,7 +23457,7 @@
       "autolevelup": false,
       "serial": "ZYGG",
       "glimit": 28,
-      "hit": 61,
+      "hit": 62,
       "date": "21 Desember 2024",
       "money": 1000,
       "exp": 0,
