@@ -1009,6 +1009,11 @@
       "cmd": "Polisi",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Family100",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1032,7 +1037,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 817
+      "totalcmd": 818
     }
   ],
   "clearchat": [],
@@ -96611,8 +96616,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 560,
-      "hit": 7542,
+      "glimit": 559,
+      "hit": 7543,
       "date": "3 Januari 2025",
       "money": 4042200,
       "exp": 99943,
@@ -126498,7 +126503,7 @@
       "warning": 0,
       "level": 0,
       "role": "Beginner",
-      "balance": 16564278,
+      "balance": 16565278,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
