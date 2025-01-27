@@ -855,12 +855,12 @@
     },
     {
       "cmd": "Spotify",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
       "cmd": "Spdl",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -915,7 +915,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 287
+      "totalcmd": 289
     }
   ],
   "clearchat": [],
@@ -96503,7 +96503,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7780,
+      "hit": 7782,
       "date": "3 Januari 2025",
       "money": 15362528,
       "exp": 32643,
