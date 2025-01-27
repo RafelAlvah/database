@@ -1128,7 +1128,7 @@
     },
     {
       "cmd": "Toimg",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1174
+      "totalcmd": 1175
     }
   ],
   "clearchat": [],
@@ -101788,7 +101788,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 35,
-      "hit": 596,
+      "hit": 597,
       "date": "4 Januari 2025",
       "money": 6623581,
       "exp": 1645,
