@@ -1160,6 +1160,11 @@
       "cmd": "Menambang",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Ojek",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1192,7 +1197,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1294
+      "totalcmd": 1295
     }
   ],
   "clearchat": [],
@@ -96772,7 +96777,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 534,
-      "hit": 7634,
+      "hit": 7635,
       "date": "3 Januari 2025",
       "money": 5690751,
       "exp": 105143,
