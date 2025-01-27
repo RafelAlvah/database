@@ -767,7 +767,7 @@
     },
     {
       "cmd": "Claim",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -842,7 +842,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -1302,7 +1302,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1715
+      "totalcmd": 1717
     }
   ],
   "clearchat": [],
@@ -101913,10 +101913,10 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 35,
-      "hit": 599,
+      "hit": 600,
       "date": "4 Januari 2025",
       "money": 6623581,
-      "exp": 1645,
+      "exp": 6645,
       "limit": 41,
       "speed": 0,
       "strength": 0,
@@ -101941,7 +101941,7 @@
       "warning": 0,
       "level": 5,
       "role": "Beginner",
-      "balance": 12084500,
+      "balance": 12089500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -102023,7 +102023,7 @@
       "lasthourly": 0,
       "lastbansos": 1737524186438,
       "lastrampok": 1737613949084,
-      "lastclaim": 1737817564151,
+      "lastclaim": 1737968442453,
       "lastnebang": 0,
       "lastweekly": 1737782916436,
       "lastmonthly": 1737782935591,
@@ -127452,7 +127452,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 669,
+      "hit": 670,
       "date": "20 Januari 2025",
       "money": 12846670,
       "exp": 47000,
@@ -127502,11 +127502,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 28530,
-      "kardus": 26810,
-      "kaleng": 31017,
-      "gelas": 26872,
-      "plastik": 28098,
+      "botol": 28913,
+      "kardus": 27093,
+      "kaleng": 31671,
+      "gelas": 26948,
+      "plastik": 28485,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -127622,7 +127622,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastmulung": 1737966554899,
+      "lastmulung": 1737968442618,
       "lastparming": 1737966562418,
       "poin": 1840000,
       "rokets": 35,
