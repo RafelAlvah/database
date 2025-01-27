@@ -885,7 +885,7 @@
     },
     {
       "cmd": "Brat2",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1250,7 +1250,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1557
+      "totalcmd": 1558
     }
   ],
   "clearchat": [],
@@ -146842,7 +146842,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 48,
+      "hit": 49,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
