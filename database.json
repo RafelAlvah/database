@@ -907,6 +907,11 @@
       "cmd": "Leaderboard",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Weekly",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -939,7 +944,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 326
+      "totalcmd": 327
     }
   ],
   "clearchat": [],
@@ -96527,10 +96532,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7793,
+      "hit": 7794,
       "date": "3 Januari 2025",
-      "money": 0,
-      "exp": 32643,
+      "money": 35999,
+      "exp": 47643,
       "limit": 351,
       "speed": 5,
       "strength": 6,
@@ -96563,7 +96568,7 @@
       "bank": 18247354,
       "health": 100,
       "stamina": 100,
-      "potion": 6,
+      "potion": 15,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -96639,7 +96644,7 @@
       "lastrampok": 1738001801990,
       "lastclaim": 1738001646725,
       "lastnebang": 0,
-      "lastweekly": 1737393036207,
+      "lastweekly": 1738002453115,
       "lastmonthly": 1736423963407,
       "apel": 0,
       "anggur": 0,
