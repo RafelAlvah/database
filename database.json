@@ -1375,24 +1375,7 @@
       "failed": 1
     }
   ],
-  "listerror": [
-    {
-      "error": "Cannot read properties of undefined (reading 'url')",
-      "cmd": ""
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'cmd')",
-      "cmd": ""
-    },
-    {
-      "error": "Request path contains unescaped characters",
-      "cmd": "smeme"
-    },
-    {
-      "error": "Request failed with status code 500",
-      "cmd": "qc"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
