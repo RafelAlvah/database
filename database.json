@@ -622,7 +622,7 @@
   "dashboard": [
     {
       "cmd": "Swm",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -642,7 +642,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 21,
+      "succes": 22,
       "failed": 0
     },
     {
@@ -1045,7 +1045,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 569
+      "totalcmd": 571
     }
   ],
   "clearchat": [],
@@ -75395,7 +75395,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 720,
+      "hit": 721,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
@@ -96625,7 +96625,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 560,
-      "hit": 7526,
+      "hit": 7527,
       "date": "3 Januari 2025",
       "money": 3240682,
       "exp": 96943,
