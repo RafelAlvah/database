@@ -738,7 +738,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -768,7 +768,7 @@
     },
     {
       "cmd": "Qc2",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -803,7 +803,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 89
+      "totalcmd": 91
     }
   ],
   "clearchat": [],
@@ -35855,7 +35855,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3760,
+      "hit": 3761,
       "date": "22 Desember 2024",
       "money": 2087,
       "exp": 49529,
@@ -53370,7 +53370,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14536,
-      "hit": 2294,
+      "hit": 2295,
       "date": "24 Desember 2024",
       "money": 4418804,
       "exp": 16120,
