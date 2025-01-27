@@ -949,7 +949,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1324,7 +1324,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1936
+      "totalcmd": 1937
     }
   ],
   "clearchat": [],
@@ -79067,7 +79067,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 154,
-      "hit": 175,
+      "hit": 176,
       "date": "29 Desember 2024",
       "money": 1147513,
       "exp": 28670,
@@ -79079,14 +79079,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "teguh",
+      "registered": true,
+      "name": "aican",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": 12,
-      "regTime": 1736082323264,
+      "age": 20,
+      "regTime": 1737974016987,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
