@@ -802,7 +802,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -1042,7 +1042,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 861
+      "totalcmd": 862
     }
   ],
   "clearchat": [],
@@ -19797,7 +19797,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 4,
-      "hit": 3770,
+      "hit": 3771,
       "date": "20 Desember 2024",
       "money": 33014622,
       "exp": 20436,
@@ -19817,9 +19817,9 @@
       "pasangan": "",
       "age": 17,
       "regTime": 1737899071519,
-      "afk": -1,
+      "afk": 1737951418846,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "mo mandi",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
