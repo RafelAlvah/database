@@ -741,7 +741,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 57,
+      "succes": 58,
       "failed": 0
     },
     {
@@ -1103,6 +1103,11 @@
       "cmd": "Aivoice",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Volaudio",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1135,7 +1140,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1062
+      "totalcmd": 1064
     }
   ],
   "clearchat": [],
@@ -1147,7 +1152,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1683,
+      "hit": 1684,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -148329,7 +148334,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 34,
+      "hit": 35,
       "date": "27 Januari 2025",
       "money": 149523,
       "exp": 0,
