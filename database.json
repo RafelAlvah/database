@@ -816,7 +816,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -980,14 +980,14 @@
       "failed": 0
     },
     {
-      "cmd": "Qc",
-      "succes": 0,
-      "failed": 1
-    },
-    {
       "cmd": "Addcase",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Qc",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1064,7 +1064,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 636
+      "totalcmd": 638
     }
   ],
   "clearchat": [],
@@ -36116,7 +36116,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 327,
-      "hit": 3620,
+      "hit": 3621,
       "date": "22 Desember 2024",
       "money": 993792,
       "exp": 27101,
@@ -129720,9 +129720,9 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 320,
+      "hit": 321,
       "date": "22 Januari 2025",
-      "money": 2335155,
+      "money": 2479599,
       "exp": 33600,
       "limit": 90,
       "speed": 0,
@@ -129890,7 +129890,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737945494690,
+      "lastkerja": 1737946170701,
       "lastmulung": 1737945484331,
       "lastparming": 1737945491204,
       "clay": "undefined1840",
