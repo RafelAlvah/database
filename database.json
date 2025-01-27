@@ -667,7 +667,7 @@
     },
     {
       "cmd": "Mobil",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -697,7 +697,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 22
+      "totalcmd": 23
     }
   ],
   "clearchat": [],
@@ -35749,7 +35749,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3756,
+      "hit": 3757,
       "date": "22 Desember 2024",
       "money": 2087,
       "exp": 49529,
