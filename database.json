@@ -1029,7 +1029,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1094,7 +1094,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 952
+      "totalcmd": 953
     }
   ],
   "clearchat": [],
@@ -36146,11 +36146,11 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3627,
+      "hit": 3628,
       "date": "22 Desember 2024",
       "money": 993792,
       "exp": 37100,
-      "limit": 11938,
+      "limit": 11936,
       "speed": 1,
       "strength": 29,
       "defense": 2,
@@ -36166,9 +36166,9 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1736653617488,
-      "afk": 1737946604335,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "nonton yutub",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
