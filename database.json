@@ -737,7 +737,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 9,
+      "succes": 10,
       "failed": 1
     },
     {
@@ -822,7 +822,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1060,7 +1060,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 627
+      "totalcmd": 629
     }
   ],
   "clearchat": [],
@@ -19817,7 +19817,7 @@
       "glimit": 45,
       "hit": 3668,
       "date": "20 Desember 2024",
-      "money": 32204725,
+      "money": 32404725,
       "exp": 13436,
       "limit": 154,
       "speed": 3,
@@ -36114,7 +36114,7 @@
       "glimit": 327,
       "hit": 3619,
       "date": "22 Desember 2024",
-      "money": 943792,
+      "money": 993792,
       "exp": 27101,
       "limit": 11938,
       "speed": 1,
@@ -46837,7 +46837,7 @@
       "glimit": 5717,
       "hit": 1456,
       "date": "22 Desember 2024",
-      "money": 6860449,
+      "money": 6910449,
       "exp": 25163,
       "limit": 2070,
       "speed": 0,
@@ -96642,7 +96642,7 @@
       "glimit": 560,
       "hit": 7537,
       "date": "3 Januari 2025",
-      "money": 3856313,
+      "money": 3956313,
       "exp": 99943,
       "limit": 358,
       "speed": 5,
@@ -97734,9 +97734,9 @@
       "autolevelup": false,
       "serial": "OYAO",
       "glimit": 12,
-      "hit": 300,
+      "hit": 301,
       "date": "3 Januari 2025",
-      "money": 2686297,
+      "money": 2720810,
       "exp": 17193,
       "limit": 56,
       "speed": 0,
@@ -97904,7 +97904,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737806306534,
+      "lastkerja": 1737946084688,
       "lastmulung": 1737771666486,
       "lastparming": 1737806388483
     },
@@ -127212,7 +127212,7 @@
       "glimit": 21,
       "hit": 615,
       "date": "20 Januari 2025",
-      "money": 1298925,
+      "money": 1348925,
       "exp": 37000,
       "limit": 250,
       "speed": 0,
@@ -129718,7 +129718,7 @@
       "glimit": 0,
       "hit": 320,
       "date": "22 Januari 2025",
-      "money": 2285155,
+      "money": 2335155,
       "exp": 33600,
       "limit": 90,
       "speed": 0,
@@ -131158,7 +131158,7 @@
       "autolevelup": false,
       "serial": "6CIE",
       "glimit": 0,
-      "hit": 108,
+      "hit": 109,
       "date": "23 Januari 2025",
       "money": 1856085,
       "exp": 1000,
