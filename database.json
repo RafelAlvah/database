@@ -886,7 +886,7 @@
     },
     {
       "cmd": "Maling",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1411,7 +1411,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2498
+      "totalcmd": 2499
     }
   ],
   "clearchat": [],
@@ -27675,7 +27675,7 @@
       "autolevelup": false,
       "serial": "KV7S",
       "glimit": 27,
-      "hit": 158,
+      "hit": 159,
       "date": "22 Desember 2024",
       "money": 735688,
       "exp": 2451,
