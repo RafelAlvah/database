@@ -637,7 +637,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 188,
+      "succes": 190,
       "failed": 0
     },
     {
@@ -1042,7 +1042,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 839
+      "totalcmd": 841
     }
   ],
   "clearchat": [],
@@ -96621,8 +96621,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 547,
-      "hit": 7561,
+      "glimit": 546,
+      "hit": 7562,
       "date": "3 Januari 2025",
       "money": 4042200,
       "exp": 99943,
@@ -97716,7 +97716,7 @@
       "autolevelup": false,
       "serial": "OYAO",
       "glimit": 9,
-      "hit": 305,
+      "hit": 306,
       "date": "3 Januari 2025",
       "money": 2720810,
       "exp": 17193,
