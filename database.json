@@ -659,7 +659,7 @@
     {
       "cmd": "Donasi",
       "succes": 2,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Motor",
@@ -796,6 +796,10 @@
     {
       "error": "Cannot read properties of undefined (reading 'cmd')",
       "cmd": ""
+    },
+    {
+      "error": "setreply is not defined",
+      "cmd": "donasi"
     }
   ],
   "jadibot": {},
@@ -818,7 +822,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 130
+      "totalcmd": 131
     }
   ],
   "clearchat": [],
@@ -830,7 +834,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1769,
+      "hit": 1770,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
