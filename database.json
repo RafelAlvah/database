@@ -1098,6 +1098,11 @@
       "cmd": "Group",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Aivoice",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1130,7 +1135,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1056
+      "totalcmd": 1057
     }
   ],
   "clearchat": [],
@@ -148324,7 +148329,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 31,
+      "hit": 32,
       "date": "27 Januari 2025",
       "money": 149523,
       "exp": 0,
