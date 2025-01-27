@@ -755,7 +755,7 @@
     },
     {
       "cmd": "Buylimit",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -895,7 +895,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 96,
+      "succes": 97,
       "failed": 0
     },
     {
@@ -1365,7 +1365,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2031
+      "totalcmd": 2033
     }
   ],
   "clearchat": [],
@@ -59111,8 +59111,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 17,
-      "hit": 114,
+      "glimit": 16,
+      "hit": 115,
       "date": "24 Desember 2024",
       "money": 39697,
       "exp": 11683,
@@ -115009,11 +115009,11 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 0,
-      "hit": 1276,
+      "hit": 1277,
       "date": "7 Januari 2025",
       "money": 1145677,
       "exp": 12485,
-      "limit": 69,
+      "limit": 1069,
       "speed": 1,
       "strength": 4,
       "defense": 1,
@@ -115037,7 +115037,7 @@
       "warning": 0,
       "level": 7,
       "role": "Beginner",
-      "balance": 4913234,
+      "balance": 3913234,
       "skillexp": 0,
       "chip": 0,
       "atm": 1,
