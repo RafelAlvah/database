@@ -648,7 +648,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 139,
+      "succes": 140,
       "failed": 0
     },
     {
@@ -688,7 +688,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1073,7 +1073,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 930
+      "totalcmd": 932
     }
   ],
   "clearchat": [],
@@ -76674,7 +76674,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 352,
-      "hit": 722,
+      "hit": 723,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 17932,
@@ -148267,7 +148267,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
