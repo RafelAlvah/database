@@ -357,6 +357,7 @@
     "Hd",
     "Tf",
     "Blacklist",
+    "Menu",
     "Group",
     "Reset",
     "Tagme",
@@ -683,6 +684,11 @@
       "failed": 0
     },
     {
+      "cmd": "Menu",
+      "succes": 7,
+      "failed": 0
+    },
+    {
       "cmd": "Caripenyakit",
       "succes": 1,
       "failed": 0
@@ -986,11 +992,6 @@
       "cmd": "Tebakbom",
       "succes": 1,
       "failed": 0
-    },
-    {
-      "cmd": "Menu",
-      "succes": 0,
-      "failed": 1
     }
   ],
   "listerror": [
@@ -1071,7 +1072,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 758
+      "totalcmd": 756
     }
   ],
   "clearchat": [],
@@ -1083,7 +1084,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1654,
+      "hit": 1652,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
