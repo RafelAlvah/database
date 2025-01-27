@@ -830,7 +830,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -1250,7 +1250,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1547
+      "totalcmd": 1548
     }
   ],
   "clearchat": [],
@@ -99529,7 +99529,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 860,
+      "hit": 861,
       "date": "3 Januari 2025",
       "money": 80882,
       "exp": 100,
