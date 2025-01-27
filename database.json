@@ -1457,7 +1457,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2800
+      "totalcmd": 2801
     }
   ],
   "clearchat": [],
@@ -157204,7 +157204,7 @@
       "autolevelup": false,
       "serial": "SN0V",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
