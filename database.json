@@ -665,7 +665,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 62,
+      "succes": 63,
       "failed": 0
     },
     {
@@ -1327,6 +1327,11 @@
       "cmd": "Karung",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tokoikan",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1355,7 +1360,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2013
+      "totalcmd": 2015
     }
   ],
   "clearchat": [],
@@ -36407,7 +36412,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3701,
+      "hit": 3702,
       "date": "22 Desember 2024",
       "money": 6111499,
       "exp": 42100,
@@ -114998,8 +115003,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "968H",
-      "glimit": 12,
-      "hit": 1263,
+      "glimit": 11,
+      "hit": 1264,
       "date": "7 Januari 2025",
       "money": 1145677,
       "exp": 12485,
