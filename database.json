@@ -823,7 +823,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 81,
+      "succes": 82,
       "failed": 0
     },
     {
@@ -1178,7 +1178,7 @@
     },
     {
       "cmd": "Menfes",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1227,7 +1227,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1474
+      "totalcmd": 1476
     }
   ],
   "clearchat": [],
@@ -19982,9 +19982,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 4,
-      "hit": 3845,
+      "hit": 3846,
       "date": "20 Desember 2024",
-      "money": 38668228,
+      "money": 38705904,
       "exp": 34436,
       "limit": 184,
       "speed": 3,
@@ -20152,7 +20152,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737959540741,
+      "lastkerja": 1737962711611,
       "lastparming": 1737959074680,
       "rokets": 64,
       "lastmulung": 1737959067596,
@@ -146819,7 +146819,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 30,
+      "hit": 31,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
