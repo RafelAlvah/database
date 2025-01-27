@@ -690,7 +690,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -872,6 +872,11 @@
       "cmd": "Buylimit",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Claim",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -895,7 +900,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 270
+      "totalcmd": 272
     }
   ],
   "clearchat": [],
@@ -46670,9 +46675,9 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5712,
-      "hit": 1483,
+      "hit": 1485,
       "date": "22 Desember 2024",
-      "money": 7410449,
+      "money": 7436137,
       "exp": 25163,
       "limit": 3192,
       "speed": 0,
@@ -46711,7 +46716,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 27,
+      "wood": 59,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -46846,7 +46851,7 @@
       "kayu": 33,
       "batu": 94,
       "lastmulung": 1738001279091,
-      "lastparming": 1737829184863,
+      "lastparming": 1738001290102,
       "poin": null
     },
     "6285800383349@s.whatsapp.net": {
