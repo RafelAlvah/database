@@ -1166,7 +1166,7 @@
     },
     {
       "cmd": "Ojek",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2160
+      "totalcmd": 2161
     }
   ],
   "clearchat": [],
@@ -96959,10 +96959,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7714,
+      "hit": 7715,
       "date": "3 Januari 2025",
-      "money": 10995243,
-      "exp": 11343,
+      "money": 11495243,
+      "exp": 14343,
       "limit": 361,
       "speed": 5,
       "strength": 6,
@@ -96970,7 +96970,7 @@
       "skata": 0,
       "joinlimit": 1,
       "pc": 0,
-      "ojekk": 4,
+      "ojekk": 5,
       "registered": true,
       "name": "Aldi",
       "skill": "",
@@ -97056,7 +97056,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1737967314527,
+      "lastmisi": 1737977690214,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
