@@ -1332,6 +1332,11 @@
       "cmd": "Tokoikan",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tomoney",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1360,7 +1365,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2015
+      "totalcmd": 2016
     }
   ],
   "clearchat": [],
@@ -36412,10 +36417,10 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3702,
+      "hit": 3703,
       "date": "22 Desember 2024",
-      "money": 6111499,
-      "exp": 42100,
+      "money": 6111500,
+      "exp": 42098,
       "limit": 11934,
       "speed": 1,
       "strength": 29,
