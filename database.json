@@ -1146,7 +1146,7 @@
     },
     {
       "cmd": "Tiktok",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1436,7 +1436,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2786
+      "totalcmd": 2787
     }
   ],
   "clearchat": [],
@@ -148281,11 +148281,11 @@
       "autolevelup": false,
       "serial": "JX2T",
       "glimit": 30,
-      "hit": 6,
+      "hit": 7,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
-      "limit": 28,
+      "limit": 27,
       "speed": 0,
       "strength": 0,
       "defense": 0,
