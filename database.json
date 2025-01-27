@@ -637,7 +637,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 138,
+      "succes": 139,
       "failed": 0
     },
     {
@@ -737,7 +737,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 8,
+      "succes": 9,
       "failed": 1
     },
     {
@@ -1045,7 +1045,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 562
+      "totalcmd": 564
     }
   ],
   "clearchat": [],
@@ -19800,7 +19800,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 46,
-      "hit": 3654,
+      "hit": 3655,
       "date": "20 Desember 2024",
       "money": 31198362,
       "exp": 8336,
@@ -76645,8 +76645,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "GCXP",
-      "glimit": 356,
-      "hit": 708,
+      "glimit": 355,
+      "hit": 709,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 17932,
