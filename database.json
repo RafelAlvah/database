@@ -588,7 +588,8 @@
     "Taxy",
     "Button",
     "Mathc",
-    "Wink"
+    "Wink",
+    "Qc2"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -677,7 +678,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -764,6 +765,11 @@
       "cmd": "Tebakbendera",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Qc2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -792,7 +798,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 83
+      "totalcmd": 85
     }
   ],
   "clearchat": [],
@@ -804,7 +810,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1765,
+      "hit": 1766,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -96379,9 +96385,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7748,
+      "hit": 7749,
       "date": "3 Januari 2025",
-      "money": 16953628,
+      "money": 17064314,
       "exp": 30543,
       "limit": 361,
       "speed": 5,
@@ -96549,7 +96555,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737996156010,
+      "lastkerja": 1737996742110,
       "lastmaling": 1737393049271,
       "clay": "undefined1940",
       "sand": "undefined550",
