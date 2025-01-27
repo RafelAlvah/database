@@ -1289,7 +1289,7 @@
     {
       "cmd": "Tweetc2",
       "succes": 1,
-      "failed": 1
+      "failed": 2
     }
   ],
   "listerror": [
@@ -1303,6 +1303,10 @@
     },
     {
       "error": "Cannot read properties of undefined (reading 'push')",
+      "cmd": "tweetc2"
+    },
+    {
+      "error": "_data.push is not a function",
       "cmd": "tweetc2"
     }
   ],
@@ -1326,7 +1330,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1833
+      "totalcmd": 1834
     }
   ],
   "clearchat": [],
@@ -1338,7 +1342,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1706,
+      "hit": 1707,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
