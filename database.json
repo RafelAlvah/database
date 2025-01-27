@@ -838,7 +838,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1041,7 +1041,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 472
+      "totalcmd": 473
     }
   ],
   "clearchat": [],
@@ -19796,7 +19796,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 46,
-      "hit": 3644,
+      "hit": 3645,
       "date": "20 Desember 2024",
       "money": 31738027,
       "exp": 8336,
@@ -76670,7 +76670,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 10723700,
+      "balance": 10873700,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
