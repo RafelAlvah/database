@@ -629,13 +629,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287889698191",
-      "expired": 1737966777419
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Swm",
@@ -1261,6 +1255,11 @@
       "cmd": "Add",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Infogc",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1284,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1638
+      "totalcmd": 1639
     }
   ],
   "clearchat": [],
@@ -149369,7 +149368,7 @@
       "autolevelup": false,
       "serial": "SW3X",
       "glimit": 30,
-      "hit": 20,
+      "hit": 21,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
