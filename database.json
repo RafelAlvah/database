@@ -574,7 +574,6 @@
     "Addcmdprem",
     "Delcmdprem",
     "Caripenyakit",
-    "Qc",
     "Instagram"
   ],
   "anonymous": [],
@@ -734,11 +733,6 @@
       "cmd": "Tf",
       "succes": 6,
       "failed": 0
-    },
-    {
-      "cmd": "Qc",
-      "succes": 10,
-      "failed": 1
     },
     {
       "cmd": "Brat",
@@ -984,6 +978,11 @@
       "cmd": "Game",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Qc",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1060,7 +1059,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 634
+      "totalcmd": 635
     }
   ],
   "clearchat": [],
@@ -36112,7 +36111,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 327,
-      "hit": 3619,
+      "hit": 3620,
       "date": "22 Desember 2024",
       "money": 993792,
       "exp": 27101,
@@ -36132,9 +36131,9 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1736653617488,
-      "afk": 1737942606625,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "strws",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
