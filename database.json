@@ -1036,7 +1036,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 24,
+      "succes": 25,
       "failed": 0
     },
     {
@@ -1445,7 +1445,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2759
+      "totalcmd": 2760
     }
   ],
   "clearchat": [],
@@ -156124,9 +156124,9 @@
       "autolevelup": false,
       "serial": "FMXO",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "27 Januari 2025",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 29,
       "speed": 0,
@@ -156150,7 +156150,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
