@@ -583,7 +583,8 @@
     "Tqto",
     "Audiosurah",
     "Audiobungamaaf",
-    "Kisahnabi"
+    "Kisahnabi",
+    "Tweetc2"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1284,6 +1285,11 @@
       "cmd": "Styletext",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tweetc2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1316,7 +1322,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1830
+      "totalcmd": 1831
     }
   ],
   "clearchat": [],
@@ -1328,7 +1334,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1704,
+      "hit": 1705,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
