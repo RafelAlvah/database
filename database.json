@@ -1274,11 +1274,6 @@
       "cmd": "Tes",
       "succes": 0,
       "failed": 1
-    },
-    {
-      "cmd": "Audio",
-      "succes": 0,
-      "failed": 1
     }
   ],
   "listerror": [
@@ -1307,7 +1302,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1700
+      "totalcmd": 1701
     }
   ],
   "clearchat": [],
@@ -147077,7 +147072,7 @@
       "autolevelup": false,
       "serial": "ODAA",
       "glimit": 30,
-      "hit": 9,
+      "hit": 10,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
