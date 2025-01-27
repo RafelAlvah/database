@@ -1264,7 +1264,7 @@
     },
     {
       "cmd": "Kisahnabi",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1289,7 +1289,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1643
+      "totalcmd": 1644
     }
   ],
   "clearchat": [],
@@ -149374,7 +149374,7 @@
       "autolevelup": false,
       "serial": "SW3X",
       "glimit": 30,
-      "hit": 22,
+      "hit": 23,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
