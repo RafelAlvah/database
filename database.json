@@ -777,7 +777,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -1306,7 +1306,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1774
+      "totalcmd": 1775
     }
   ],
   "clearchat": [],
@@ -148322,11 +148322,11 @@
       "autolevelup": false,
       "serial": "LNJI",
       "glimit": 30,
-      "hit": 7,
+      "hit": 8,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
-      "limit": 26,
+      "limit": 25,
       "speed": 0,
       "strength": 0,
       "defense": 0,
