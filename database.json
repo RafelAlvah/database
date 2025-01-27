@@ -716,7 +716,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 80,
+      "succes": 81,
       "failed": 0
     },
     {
@@ -1406,7 +1406,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2516
+      "totalcmd": 2517
     }
   ],
   "clearchat": [],
@@ -115053,7 +115053,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 200,
-      "hit": 1313,
+      "hit": 1314,
       "date": "7 Januari 2025",
       "money": 1160632,
       "exp": 12585,
