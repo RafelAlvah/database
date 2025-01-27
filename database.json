@@ -897,6 +897,11 @@
       "cmd": "Nabung",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Transfer",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -929,7 +934,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 312
+      "totalcmd": 313
     }
   ],
   "clearchat": [],
@@ -96558,7 +96563,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 2446,
+      "wood": 2491,
       "rock": 4,
       "string": 5,
       "petfood": 0,
@@ -99216,7 +99221,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 877,
+      "hit": 878,
       "date": "3 Januari 2025",
       "money": 1501125,
       "exp": 7200,
@@ -99257,7 +99262,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 45,
+      "wood": 0,
       "rock": 0,
       "string": 0,
       "petfood": 0,
