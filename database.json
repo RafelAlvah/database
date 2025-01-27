@@ -1267,7 +1267,7 @@
     {
       "cmd": "Weekly",
       "succes": 1,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Styletext",
@@ -1419,6 +1419,10 @@
     {
       "error": "Cannot access 'matches' before initialization",
       "cmd": "qv"
+    },
+    {
+      "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
+      "cmd": "weekly"
     }
   ],
   "jadibot": {},
@@ -1441,7 +1445,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2720
+      "totalcmd": 2721
     }
   ],
   "clearchat": [],
@@ -79189,7 +79193,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 110,
-      "hit": 278,
+      "hit": 279,
       "date": "29 Desember 2024",
       "money": 1917756,
       "exp": 3611,
