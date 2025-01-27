@@ -918,7 +918,7 @@
     },
     {
       "cmd": "Nabung",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -933,7 +933,7 @@
     },
     {
       "cmd": "Leaderboard",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1202,7 +1202,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1422
+      "totalcmd": 1424
     }
   ],
   "clearchat": [],
@@ -19957,7 +19957,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 4,
-      "hit": 3829,
+      "hit": 3830,
       "date": "20 Desember 2024",
       "money": 8668228,
       "exp": 34436,
@@ -96782,9 +96782,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 534,
-      "hit": 7665,
+      "hit": 7666,
       "date": "3 Januari 2025",
-      "money": 1125298,
+      "money": 0,
       "exp": 105143,
       "limit": 355,
       "speed": 5,
@@ -96815,7 +96815,7 @@
       "chip": 658,
       "atm": 3,
       "fullatm": 1000000000,
-      "bank": 226606,
+      "bank": 1351904,
       "health": 100,
       "stamina": 85,
       "potion": 16,
