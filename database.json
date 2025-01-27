@@ -852,6 +852,11 @@
       "cmd": "Topsultan",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Spotify",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -875,7 +880,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 222
+      "totalcmd": 223
     }
   ],
   "clearchat": [],
@@ -96462,7 +96467,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7757,
+      "hit": 7758,
       "date": "3 Januari 2025",
       "money": 17257541,
       "exp": 30543,
@@ -96490,7 +96495,7 @@
       "warning": 0,
       "level": 12,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 101350111,
+      "balance": 101351111,
       "skillexp": 0,
       "chip": 650,
       "atm": 3,
