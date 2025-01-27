@@ -583,7 +583,8 @@
     "Manfes",
     "Tqto",
     "Audiosurah",
-    "Audio"
+    "Audio",
+    "Audiobungamaaf"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1244,6 +1245,11 @@
       "cmd": "Audio",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Audiobungamaaf",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1267,7 +1273,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1598
+      "totalcmd": 1599
     }
   ],
   "clearchat": [],
@@ -120824,7 +120830,7 @@
       "autolevelup": false,
       "serial": "MDEZ",
       "glimit": 27,
-      "hit": 174,
+      "hit": 175,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
