@@ -918,6 +918,11 @@
       "cmd": "Cosplayangel",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Pler",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -954,7 +959,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 341
+      "totalcmd": 342
     }
   ],
   "clearchat": [],
@@ -966,7 +971,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1802,
+      "hit": 1803,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
