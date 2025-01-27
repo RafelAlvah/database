@@ -756,7 +756,7 @@
     {
       "cmd": "Ytmp4",
       "succes": 1,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Aigemini",
@@ -879,7 +879,12 @@
       "failed": 0
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "nana is not defined",
+      "cmd": "ytmp4"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -900,7 +905,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 272
+      "totalcmd": 273
     }
   ],
   "clearchat": [],
@@ -912,7 +917,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1783,
+      "hit": 1784,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
