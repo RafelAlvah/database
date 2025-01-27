@@ -591,7 +591,8 @@
     "Wink",
     "Qc2",
     "Tg",
-    "Boneka"
+    "Boneka",
+    "Cosplayangel"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -912,6 +913,11 @@
       "cmd": "Weekly",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Cosplayangel",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -948,7 +954,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 338
+      "totalcmd": 339
     }
   ],
   "clearchat": [],
@@ -960,7 +966,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1799,
+      "hit": 1800,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
