@@ -741,7 +741,7 @@
     },
     {
       "cmd": "Topbalance",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -921,7 +921,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2065
+      "totalcmd": 2067
     }
   ],
   "clearchat": [],
@@ -39294,7 +39294,7 @@
       "autolevelup": false,
       "serial": "VXK6",
       "glimit": 39,
-      "hit": 389,
+      "hit": 390,
       "date": "22 Desember 2024",
       "money": 345448,
       "exp": 7078,
@@ -59123,7 +59123,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 14,
-      "hit": 118,
+      "hit": 119,
       "date": "24 Desember 2024",
       "money": 39697,
       "exp": 11683,
