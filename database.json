@@ -1378,9 +1378,19 @@
       "cmd": "Tembak",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Qv",
+      "succes": 0,
+      "failed": 1
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "Cannot access 'matches' before initialization",
+      "cmd": "qv"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1401,7 +1411,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2497
+      "totalcmd": 2498
     }
   ],
   "clearchat": [],
@@ -1413,7 +1423,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1734,
+      "hit": 1735,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
