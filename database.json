@@ -1086,7 +1086,7 @@
     },
     {
       "cmd": "Animeindo",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1116,7 +1116,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1047
+      "totalcmd": 1048
     }
   ],
   "clearchat": [],
@@ -148310,7 +148310,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 26,
+      "hit": 27,
       "date": "27 Januari 2025",
       "money": 149523,
       "exp": 0,
