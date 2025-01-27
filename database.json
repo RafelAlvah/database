@@ -632,13 +632,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287822381511",
-      "expired": 1737982203405
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Swm",
