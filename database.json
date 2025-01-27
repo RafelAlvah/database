@@ -937,7 +937,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1032,7 +1032,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 803
+      "totalcmd": 804
     }
   ],
   "clearchat": [],
@@ -75382,7 +75382,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 728,
+      "hit": 729,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
@@ -75394,14 +75394,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "cila imupp",
+      "registered": true,
+      "name": "cila imup",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": 17,
-      "regTime": 1736048870166,
+      "age": 16,
+      "regTime": 1737948457973,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
