@@ -724,6 +724,11 @@
       "cmd": "Pin",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Ytmp3",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -752,7 +757,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 48
+      "totalcmd": 49
     }
   ],
   "clearchat": [],
@@ -764,7 +769,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1759,
+      "hit": 1760,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
