@@ -282,7 +282,6 @@
     "Lamaa",
     "Bugkres",
     "Hardui+62",
-    "Menubug",
     "Balance",
     "Buydm",
     "Donasi",
@@ -1047,7 +1046,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 881
+      "totalcmd": 882
     }
   ],
   "clearchat": [],
@@ -146817,7 +146816,7 @@
       "autolevelup": false,
       "serial": "ODAA",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
