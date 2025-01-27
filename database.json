@@ -1386,7 +1386,7 @@
     },
     {
       "cmd": "Donasi",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1441,7 +1441,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2708
+      "totalcmd": 2710
     }
   ],
   "clearchat": [],
@@ -79189,7 +79189,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 110,
-      "hit": 271,
+      "hit": 272,
       "date": "29 Desember 2024",
       "money": 1808752,
       "exp": 3511,
@@ -115088,7 +115088,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 164,
-      "hit": 1384,
+      "hit": 1385,
       "date": "7 Januari 2025",
       "money": 5131940,
       "exp": 12685,
