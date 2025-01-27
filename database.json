@@ -969,6 +969,11 @@
       "cmd": "Shop",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tt",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1045,7 +1050,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 575
+      "totalcmd": 576
     }
   ],
   "clearchat": [],
@@ -46820,11 +46825,11 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5717,
-      "hit": 1450,
+      "hit": 1451,
       "date": "22 Desember 2024",
       "money": 6860449,
       "exp": 25163,
-      "limit": 2071,
+      "limit": 2070,
       "speed": 0,
       "strength": 0,
       "defense": 0,
