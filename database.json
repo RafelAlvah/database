@@ -949,7 +949,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1324,7 +1324,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1937
+      "totalcmd": 1938
     }
   ],
   "clearchat": [],
@@ -59071,7 +59071,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 86,
+      "hit": 87,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 999,
@@ -59083,14 +59083,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "piicekull👄💨",
+      "registered": true,
+      "name": "ipii",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 14,
+      "regTime": 1737974019813,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
