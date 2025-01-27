@@ -634,7 +634,13 @@
   ],
   "sewa": [],
   "antispam": [],
-  "dashboard": [],
+  "dashboard": [
+    {
+      "cmd": "Tf",
+      "succes": 1,
+      "failed": 0
+    }
+  ],
   "listerror": [
     {
       "error": "Cannot read properties of undefined (reading 'cmd')",
@@ -657,7 +663,13 @@
     }
   },
   "audio": {},
-  "hittoday": [],
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1738081168768,
+      "totalcmd": 1
+    }
+  ],
   "clearchat": [],
   "users": {
     "6287737937323@s.whatsapp.net": {
@@ -35707,7 +35719,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3750,
+      "hit": 3751,
       "date": "22 Desember 2024",
       "money": 2087,
       "exp": 49529,
@@ -35735,7 +35747,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 20000000,
+      "balance": 15000000,
       "skillexp": 0,
       "chip": 53,
       "atm": 5,
@@ -53250,7 +53262,7 @@
       "warning": 0,
       "level": 9,
       "role": "Beginner",
-      "balance": 7446185,
+      "balance": 12446185,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
