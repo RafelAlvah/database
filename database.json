@@ -691,7 +691,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -721,7 +721,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 33,
+      "succes": 34,
       "failed": 0
     },
     {
@@ -741,7 +741,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 51,
+      "succes": 52,
       "failed": 0
     },
     {
@@ -1111,7 +1111,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1035
+      "totalcmd": 1038
     }
   ],
   "clearchat": [],
@@ -36163,7 +36163,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 326,
-      "hit": 3641,
+      "hit": 3642,
       "date": "22 Desember 2024",
       "money": 6134607,
       "exp": 42100,
@@ -36197,9 +36197,9 @@
       "atm": 5,
       "fullatm": 2000000000,
       "bank": 4012547,
-      "health": 20,
+      "health": 100,
       "stamina": 60,
-      "potion": 20,
+      "potion": 18,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -58858,7 +58858,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 69,
+      "hit": 70,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 999,
@@ -148305,7 +148305,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 23,
+      "hit": 24,
       "date": "27 Januari 2025",
       "money": 149523,
       "exp": 0,
