@@ -832,7 +832,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 126,
+      "succes": 127,
       "failed": 0
     },
     {
@@ -1395,7 +1395,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2314
+      "totalcmd": 2315
     }
   ],
   "clearchat": [],
@@ -59142,7 +59142,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 197,
-      "hit": 153,
+      "hit": 154,
       "date": "24 Desember 2024",
       "money": 577324,
       "exp": 18683,
