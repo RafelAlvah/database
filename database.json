@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 127,
+      "succes": 128,
       "failed": 0
     },
     {
@@ -841,7 +841,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 44,
+      "succes": 45,
       "failed": 0
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2179
+      "totalcmd": 2181
     }
   ],
   "clearchat": [],
@@ -20131,7 +20131,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 87,
-      "hit": 3931,
+      "hit": 3932,
       "date": "20 Desember 2024",
       "money": 30789975,
       "exp": 52436,
@@ -45905,7 +45905,7 @@
       "autolevelup": false,
       "serial": "F54D",
       "glimit": 29,
-      "hit": 54,
+      "hit": 55,
       "date": "22 Desember 2024",
       "money": 1000,
       "exp": 0,
