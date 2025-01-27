@@ -962,7 +962,7 @@
     },
     {
       "cmd": "Shop",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1006,68 +1006,7 @@
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "footerMess is not defined",
-      "cmd": "button"
-    },
-    {
-      "error": "Request failed with status code 404",
-      "cmd": "smeme"
-    },
-    {
-      "error": "Request path contains unescaped characters",
-      "cmd": "smeme"
-    },
-    {
-      "error": "vreact is not defined",
-      "cmd": "qc2"
-    },
-    {
-      "error": "author is not defined",
-      "cmd": "qc2"
-    },
-    {
-      "error": "Request failed with status code 500",
-      "cmd": "qc2"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'cmd')",
-      "cmd": "qc"
-    },
-    {
-      "error": "LoadingReact is not defined",
-      "cmd": "ytmp3"
-    },
-    {
-      "error": "ytdl.getURLVideoID is not a function",
-      "cmd": "ytmp4"
-    },
-    {
-      "error": "yts is not defined",
-      "cmd": "play"
-    },
-    {
-      "error": "conn.buttoncopy is not a function",
-      "cmd": "hidetag"
-    },
-    {
-      "error": "conn.sendButtoncopy is not a function",
-      "cmd": "hidetag"
-    },
-    {
-      "error": "msg is not defined",
-      "cmd": "hidetag"
-    },
-    {
-      "error": "groupMetadata is not defined",
-      "cmd": "h"
-    },
-    {
-      "error": "text is not defined",
-      "cmd": "qc"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1088,7 +1027,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 775
+      "totalcmd": 776
     }
   ],
   "clearchat": [],
@@ -29313,7 +29252,7 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 790,
+      "hit": 791,
       "date": "22 Desember 2024",
       "money": 574324,
       "exp": 52711,
