@@ -760,7 +760,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -875,7 +875,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 216
+      "totalcmd": 217
     }
   ],
   "clearchat": [],
@@ -121329,7 +121329,7 @@
       "autolevelup": false,
       "serial": "AZOX",
       "glimit": 5,
-      "hit": 56,
+      "hit": 57,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
