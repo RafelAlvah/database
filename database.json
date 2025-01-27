@@ -746,7 +746,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 102,
+      "succes": 103,
       "failed": 0
     },
     {
@@ -1131,7 +1131,7 @@
     },
     {
       "cmd": "Toimg",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1261,7 +1261,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1583
+      "totalcmd": 1585
     }
   ],
   "clearchat": [],
@@ -80789,7 +80789,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2452,
-      "hit": 2050,
+      "hit": 2051,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -120818,7 +120818,7 @@
       "autolevelup": false,
       "serial": "MDEZ",
       "glimit": 27,
-      "hit": 169,
+      "hit": 170,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
