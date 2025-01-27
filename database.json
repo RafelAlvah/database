@@ -831,7 +831,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 135,
+      "succes": 136,
       "failed": 0
     },
     {
@@ -846,7 +846,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 54,
+      "succes": 55,
       "failed": 0
     },
     {
@@ -1411,7 +1411,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2499
+      "totalcmd": 2501
     }
   ],
   "clearchat": [],
@@ -27675,9 +27675,9 @@
       "autolevelup": false,
       "serial": "KV7S",
       "glimit": 27,
-      "hit": 159,
+      "hit": 161,
       "date": "22 Desember 2024",
-      "money": 735688,
+      "money": 874282,
       "exp": 2451,
       "limit": 29,
       "speed": 0,
@@ -27725,11 +27725,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 4013,
-      "kardus": 4428,
-      "kaleng": 3299,
-      "gelas": 2746,
-      "plastik": 1978,
+      "botol": 4100,
+      "kardus": 5167,
+      "kaleng": 3932,
+      "gelas": 2765,
+      "plastik": 2701,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -27845,9 +27845,9 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737928786615,
+      "lastkerja": 1737986620028,
       "lastmaling": 1737438265824,
-      "lastmulung": 1737928773980
+      "lastmulung": 1737986617323
     },
     "6282129304540@s.whatsapp.net": {
       "sticker": {},
