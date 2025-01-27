@@ -1024,7 +1024,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1304,7 +1304,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1689
+      "totalcmd": 1690
     }
   ],
   "clearchat": [],
@@ -20058,8 +20058,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 96,
-      "hit": 3886,
+      "glimit": 95,
+      "hit": 3887,
       "date": "20 Desember 2024",
       "money": 30222841,
       "exp": 43436,
@@ -126770,7 +126770,7 @@
       "warning": 0,
       "level": 0,
       "role": "Beginner",
-      "balance": 16583278,
+      "balance": 16584278,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
