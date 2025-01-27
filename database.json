@@ -1150,6 +1150,11 @@
       "cmd": "Spotify",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tiktok",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1182,7 +1187,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1258
+      "totalcmd": 1259
     }
   ],
   "clearchat": [],
@@ -148020,11 +148025,11 @@
       "autolevelup": false,
       "serial": "JX2T",
       "glimit": 30,
-      "hit": 4,
+      "hit": 5,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
-      "limit": 30,
+      "limit": 29,
       "speed": 0,
       "strength": 0,
       "defense": 0,
