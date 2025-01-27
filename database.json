@@ -739,7 +739,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -1084,7 +1084,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 938
+      "totalcmd": 939
     }
   ],
   "clearchat": [],
@@ -147388,7 +147388,7 @@
       "autolevelup": false,
       "serial": "GZFS",
       "glimit": 30,
-      "hit": 6,
+      "hit": 7,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
