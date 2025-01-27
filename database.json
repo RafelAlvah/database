@@ -587,7 +587,8 @@
     "Ramuan",
     "Taxy",
     "Button",
-    ""
+    "",
+    "Mathc"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1413,6 +1414,11 @@
       "cmd": "Craft",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Mathc",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1436,7 +1442,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2787
+      "totalcmd": 2788
     }
   ],
   "clearchat": [],
@@ -1448,7 +1454,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1753,
+      "hit": 1754,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
