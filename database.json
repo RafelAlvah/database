@@ -850,7 +850,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1240,7 +1240,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1534
+      "totalcmd": 1535
     }
   ],
   "clearchat": [],
@@ -30717,7 +30717,7 @@
       "autolevelup": false,
       "serial": "2EUZ",
       "glimit": 96,
-      "hit": 923,
+      "hit": 924,
       "date": "22 Desember 2024",
       "money": 19416221,
       "exp": 15827,
