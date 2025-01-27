@@ -647,7 +647,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 80,
+      "succes": 81,
       "failed": 0
     },
     {
@@ -1060,7 +1060,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 584
+      "totalcmd": 585
     }
   ],
   "clearchat": [],
@@ -76661,7 +76661,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 354,
-      "hit": 716,
+      "hit": 717,
       "date": "28 Desember 2024",
       "money": 263662,
       "exp": 17932,
@@ -76689,7 +76689,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 11313072,
+      "balance": 11263072,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
