@@ -1311,6 +1311,11 @@
       "cmd": "Createguild",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Ngelont",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1339,7 +1344,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1991
+      "totalcmd": 1992
     }
   ],
   "clearchat": [],
@@ -36391,7 +36396,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3697,
+      "hit": 3698,
       "date": "22 Desember 2024",
       "money": 6111499,
       "exp": 42100,
