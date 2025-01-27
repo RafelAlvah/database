@@ -746,7 +746,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -1421,7 +1421,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2628
+      "totalcmd": 2629
     }
   ],
   "clearchat": [],
@@ -33940,7 +33940,7 @@
       "autolevelup": false,
       "serial": "KCPT",
       "glimit": 26,
-      "hit": 471,
+      "hit": 472,
       "date": "22 Desember 2024",
       "money": 1050621,
       "exp": 23057,
@@ -33968,7 +33968,7 @@
       "warning": 0,
       "level": 3,
       "role": "Beginner",
-      "balance": 7228591,
+      "balance": 6228591,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -79197,7 +79197,7 @@
       "warning": 0,
       "level": 5,
       "role": "Beginner",
-      "balance": 2699800,
+      "balance": 3699800,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
