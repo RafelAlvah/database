@@ -586,7 +586,8 @@
     "Tweetc",
     "Kandang",
     "Ramuan",
-    "Taxy"
+    "Taxy",
+    "Button"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1352,6 +1353,11 @@
       "cmd": "",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Button",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1388,7 +1394,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2297
+      "totalcmd": 2298
     }
   ],
   "clearchat": [],
@@ -148586,7 +148592,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 115,
+      "hit": 116,
       "date": "27 Januari 2025",
       "money": 219257,
       "exp": 100,
