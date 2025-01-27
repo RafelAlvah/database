@@ -706,7 +706,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -1096,7 +1096,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 978
+      "totalcmd": 979
     }
   ],
   "clearchat": [],
@@ -80624,7 +80624,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2455,
-      "hit": 2041,
+      "hit": 2042,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
