@@ -778,7 +778,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 30,
+      "succes": 31,
       "failed": 0
     },
     {
@@ -1330,7 +1330,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1837
+      "totalcmd": 1838
     }
   ],
   "clearchat": [],
@@ -147100,11 +147100,11 @@
       "autolevelup": false,
       "serial": "ODAA",
       "glimit": 30,
-      "hit": 24,
+      "hit": 25,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
-      "limit": 20,
+      "limit": 19,
       "speed": 0,
       "strength": 0,
       "defense": 0,
