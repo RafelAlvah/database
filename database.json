@@ -1364,6 +1364,11 @@
       "cmd": "Zettai",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Mobil",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1400,7 +1405,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2321
+      "totalcmd": 2322
     }
   ],
   "clearchat": [],
@@ -148599,7 +148604,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 122,
+      "hit": 123,
       "date": "27 Januari 2025",
       "money": 318627,
       "exp": 200,
