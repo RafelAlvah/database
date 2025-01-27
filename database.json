@@ -1180,6 +1180,11 @@
       "cmd": "Menfes",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Suit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1212,7 +1217,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1467
+      "totalcmd": 1468
     }
   ],
   "clearchat": [],
@@ -97885,8 +97890,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OYAO",
-      "glimit": 8,
-      "hit": 307,
+      "glimit": 7,
+      "hit": 308,
       "date": "3 Januari 2025",
       "money": 2717849,
       "exp": 17193,
