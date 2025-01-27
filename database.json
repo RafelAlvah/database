@@ -749,7 +749,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -862,7 +862,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 143
+      "totalcmd": 144
     }
   ],
   "clearchat": [],
@@ -80397,7 +80397,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2427,
-      "hit": 2094,
+      "hit": 2095,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80425,7 +80425,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 72290955,
+      "balance": 72291955,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
