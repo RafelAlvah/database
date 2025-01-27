@@ -1038,7 +1038,7 @@
     },
     {
       "cmd": "Spdl",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1182,7 +1182,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1247
+      "totalcmd": 1248
     }
   ],
   "clearchat": [],
@@ -96762,7 +96762,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 535,
-      "hit": 7612,
+      "hit": 7613,
       "date": "3 Januari 2025",
       "money": 5205713,
       "exp": 100043,
