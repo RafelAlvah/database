@@ -998,7 +998,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 21,
+      "succes": 22,
       "failed": 4
     },
     {
@@ -1053,7 +1053,7 @@
     },
     {
       "cmd": "Stiker",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1078,7 +1078,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 934
+      "totalcmd": 936
     }
   ],
   "clearchat": [],
@@ -58825,7 +58825,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 30,
-      "hit": 66,
+      "hit": 67,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 999,
@@ -148272,11 +148272,11 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 5,
+      "hit": 6,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
-      "limit": 30,
+      "limit": 29,
       "speed": 0,
       "strength": 0,
       "defense": 0,
