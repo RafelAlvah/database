@@ -831,7 +831,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 140,
+      "succes": 141,
       "failed": 0
     },
     {
@@ -846,7 +846,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 55,
+      "succes": 56,
       "failed": 0
     },
     {
@@ -1421,7 +1421,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2632
+      "totalcmd": 2634
     }
   ],
   "clearchat": [],
@@ -20176,7 +20176,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 87,
-      "hit": 3966,
+      "hit": 3967,
       "date": "20 Desember 2024",
       "money": 47032096,
       "exp": 57436,
@@ -20226,11 +20226,11 @@
       "emerald": 2,
       "diamond": 70,
       "gold": 66,
-      "botol": 53246,
-      "kardus": 57064,
-      "kaleng": 59175,
-      "gelas": 57634,
-      "plastik": 54559,
+      "botol": 53724,
+      "kardus": 57686,
+      "kaleng": 59363,
+      "gelas": 57829,
+      "plastik": 55152,
       "iron": 6,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -20349,7 +20349,7 @@
       "lastkerja": 1737989138701,
       "lastparming": 1737985204868,
       "rokets": 68,
-      "lastmulung": 1737985192033,
+      "lastmulung": 1737989144808,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
       "sand": "undefined850",
@@ -115068,9 +115068,9 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 168,
-      "hit": 1361,
+      "hit": 1362,
       "date": "7 Januari 2025",
-      "money": 1272441,
+      "money": 1306940,
       "exp": 12685,
       "limit": 1068,
       "speed": 1,
@@ -115238,7 +115238,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737986807695,
+      "lastkerja": 1737989144824,
       "lastmaling": 1736290186303,
       "lastmulung": 1737717031430,
       "rokets": 11,
