@@ -1039,7 +1039,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1304,7 +1304,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1686
+      "totalcmd": 1687
     }
   ],
   "clearchat": [],
@@ -147786,7 +147786,7 @@
       "autolevelup": false,
       "serial": "KUK7",
       "glimit": 30,
-      "hit": 3,
+      "hit": 4,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
