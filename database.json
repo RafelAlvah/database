@@ -1093,6 +1093,11 @@
       "cmd": "Jadianime",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Group",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1125,7 +1130,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1052
+      "totalcmd": 1053
     }
   ],
   "clearchat": [],
@@ -148319,7 +148324,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 30,
-      "hit": 28,
+      "hit": 29,
       "date": "27 Januari 2025",
       "money": 149523,
       "exp": 0,
