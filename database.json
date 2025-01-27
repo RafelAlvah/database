@@ -1219,20 +1219,7 @@
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "ENOENT: no such file or directory, open './temp/image/codingan.jpg'",
-      "cmd": "codingan"
-    },
-    {
-      "error": "Request failed with status code 500",
-      "cmd": "qc"
-    },
-    {
-      "error": "p.download is not a function",
-      "cmd": "tag"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
