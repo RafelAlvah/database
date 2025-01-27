@@ -580,7 +580,8 @@
     "Tes",
     "Vn",
     "Voicechanger",
-    "Manfes"
+    "Manfes",
+    "Tqto"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1206,6 +1207,11 @@
       "cmd": "Roket",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tqto",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1242,7 +1248,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1521
+      "totalcmd": 1522
     }
   ],
   "clearchat": [],
@@ -153243,7 +153249,7 @@
       "autolevelup": false,
       "serial": "SMQI",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
