@@ -928,7 +928,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 22,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1388,7 +1388,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2224
+      "totalcmd": 2226
     }
   ],
   "clearchat": [],
@@ -29613,10 +29613,10 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 800,
+      "hit": 801,
       "date": "22 Desember 2024",
-      "money": 549324,
-      "exp": 57811,
+      "money": 449324,
+      "exp": 57911,
       "limit": 79,
       "speed": 0,
       "strength": 0,
@@ -130048,10 +130048,10 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 403,
+      "hit": 404,
       "date": "22 Januari 2025",
-      "money": 257470,
-      "exp": 12600,
+      "money": 157470,
+      "exp": 12700,
       "limit": 170,
       "speed": 0,
       "strength": 0,
