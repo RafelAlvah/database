@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 138,
+      "succes": 139,
       "failed": 0
     },
     {
@@ -1385,7 +1385,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2263
+      "totalcmd": 2264
     }
   ],
   "clearchat": [],
@@ -81282,7 +81282,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 28,
-      "hit": 230,
+      "hit": 231,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
