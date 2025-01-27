@@ -847,6 +847,11 @@
       "cmd": "Boneka",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Topsultan",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -870,7 +875,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 214
+      "totalcmd": 215
     }
   ],
   "clearchat": [],
@@ -882,7 +887,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1780,
+      "hit": 1781,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
