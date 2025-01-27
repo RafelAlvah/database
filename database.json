@@ -587,7 +587,8 @@
     "Ramuan",
     "Taxy",
     "Button",
-    "Mathc"
+    "Mathc",
+    "Wink"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1423,6 +1424,11 @@
       "cmd": "",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Wink",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1451,7 +1457,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 2793
+      "totalcmd": 2794
     }
   ],
   "clearchat": [],
@@ -157020,7 +157026,7 @@
       "autolevelup": false,
       "serial": "AUNX",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
