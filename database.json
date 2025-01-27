@@ -1021,7 +1021,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1261,7 +1261,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1589
+      "totalcmd": 1590
     }
   ],
   "clearchat": [],
@@ -97934,8 +97934,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OYAO",
-      "glimit": 7,
-      "hit": 309,
+      "glimit": 6,
+      "hit": 310,
       "date": "3 Januari 2025",
       "money": 2767849,
       "exp": 17193,
@@ -126727,7 +126727,7 @@
       "warning": 0,
       "level": 0,
       "role": "Beginner",
-      "balance": 16576278,
+      "balance": 16577278,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
