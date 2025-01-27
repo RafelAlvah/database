@@ -658,7 +658,7 @@
     },
     {
       "cmd": "Donasi",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -818,7 +818,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 104
+      "totalcmd": 105
     }
   ],
   "clearchat": [],
@@ -76424,7 +76424,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 342,
-      "hit": 743,
+      "hit": 744,
       "date": "28 Desember 2024",
       "money": 273662,
       "exp": 17932,
@@ -80381,7 +80381,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 72278155,
+      "balance": 72279155,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
