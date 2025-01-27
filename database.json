@@ -979,6 +979,11 @@
       "cmd": "Tourl",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Game",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1055,7 +1060,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 582
+      "totalcmd": 583
     }
   ],
   "clearchat": [],
@@ -135608,7 +135613,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 18,
-      "hit": 97,
+      "hit": 98,
       "date": "24 Januari 2025",
       "money": 463196,
       "exp": 5000,
