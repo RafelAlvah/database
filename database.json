@@ -814,7 +814,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -849,7 +849,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 151
+      "totalcmd": 152
     }
   ],
   "clearchat": [],
@@ -80384,7 +80384,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2424,
-      "hit": 2098,
+      "hit": 2099,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80412,7 +80412,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 72293955,
+      "balance": 72294955,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
