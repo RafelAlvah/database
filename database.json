@@ -1024,7 +1024,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -1324,7 +1324,7 @@
     {
       "id": "run",
       "expired": 1737994724080,
-      "totalcmd": 1958
+      "totalcmd": 1959
     }
   ],
   "clearchat": [],
@@ -36375,8 +36375,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "ENHU",
-      "glimit": 324,
-      "hit": 3692,
+      "glimit": 323,
+      "hit": 3693,
       "date": "22 Desember 2024",
       "money": 6111499,
       "exp": 42100,
@@ -126793,7 +126793,7 @@
       "warning": 0,
       "level": 0,
       "role": "Beginner",
-      "balance": 16593278,
+      "balance": 16594278,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
