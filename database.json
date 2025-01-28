@@ -718,7 +718,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -826,7 +826,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 136
+      "totalcmd": 137
     }
   ],
   "clearchat": [],
@@ -96419,8 +96419,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 502,
-      "hit": 7918,
+      "glimit": 501,
+      "hit": 7919,
       "date": "3 Januari 2025",
       "money": 2538249,
       "exp": 77343,
@@ -120067,7 +120067,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2435668,
+      "balance": 2436668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
