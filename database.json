@@ -702,7 +702,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -737,7 +737,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 85,
+      "succes": 86,
       "failed": 0
     },
     {
@@ -1272,7 +1272,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1716
+      "totalcmd": 1718
     }
   ],
   "clearchat": [],
@@ -58308,7 +58308,7 @@
       "autolevelup": false,
       "serial": "3AEW",
       "glimit": 30,
-      "hit": 93,
+      "hit": 94,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -158807,9 +158807,9 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 79,
-      "hit": 245,
+      "hit": 246,
       "date": "28 Januari 2025",
-      "money": 584461,
+      "money": 334461,
       "exp": 35866,
       "limit": 128,
       "speed": 0,
@@ -158871,7 +158871,7 @@
       "mythic": 3,
       "tbox": 0,
       "legendary": 1,
-      "kondom": 0,
+      "kondom": 5,
       "umpan": 0,
       "pet": 0,
       "paus": 0,
