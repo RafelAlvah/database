@@ -1075,7 +1075,7 @@
     },
     {
       "cmd": "Allmenu",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1250,7 +1250,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1632
+      "totalcmd": 1633
     }
   ],
   "clearchat": [],
@@ -151843,7 +151843,7 @@
       "autolevelup": false,
       "serial": "5YGN",
       "glimit": 29,
-      "hit": 13,
+      "hit": 14,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
