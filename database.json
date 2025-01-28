@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 24,
+      "succes": 25,
       "failed": 0
     },
     {
@@ -1123,7 +1123,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1018
+      "totalcmd": 1019
     }
   ],
   "clearchat": [],
@@ -96711,9 +96711,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7843,
+      "hit": 7844,
       "date": "3 Januari 2025",
-      "money": 186034,
+      "money": 205632,
       "exp": 60043,
       "limit": 351,
       "speed": 5,
@@ -96881,7 +96881,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738039293752,
+      "lastkerja": 1738039856480,
       "lastmaling": 1737393049271,
       "clay": "undefined1940",
       "sand": "undefined550",
