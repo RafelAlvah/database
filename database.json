@@ -750,6 +750,11 @@
       "cmd": "Tebakkata",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Me",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -786,7 +791,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 60
+      "totalcmd": 61
     }
   ],
   "clearchat": [],
@@ -19541,7 +19546,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 40,
-      "hit": 4144,
+      "hit": 4145,
       "date": "20 Desember 2024",
       "money": 48963435,
       "exp": 4536,
