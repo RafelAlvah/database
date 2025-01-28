@@ -682,7 +682,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1097,7 +1097,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 932
+      "totalcmd": 933
     }
   ],
   "clearchat": [],
@@ -126187,9 +126187,9 @@
       "autolevelup": false,
       "serial": "GNIK",
       "glimit": 24,
-      "hit": 30,
+      "hit": 31,
       "date": "13 Januari 2025",
-      "money": 66571,
+      "money": 72304,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -126357,7 +126357,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737986903125
+      "lastkerja": 1738034021617
     },
     "6282332961042@s.whatsapp.net": {
       "sticker": {},
