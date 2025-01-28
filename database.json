@@ -753,7 +753,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -823,7 +823,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -941,7 +941,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 514
+      "totalcmd": 516
     }
   ],
   "clearchat": [],
@@ -19696,7 +19696,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 99,
-      "hit": 4222,
+      "hit": 4223,
       "date": "20 Desember 2024",
       "money": 44084977,
       "exp": 11536,
@@ -19724,7 +19724,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 84974677,
+      "balance": 84975677,
       "skillexp": 0,
       "chip": 50,
       "atm": 1,
@@ -99420,8 +99420,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "RYZ8",
-      "glimit": 0,
-      "hit": 98,
+      "glimit": 10,
+      "hit": 99,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
@@ -99449,7 +99449,7 @@
       "warning": 0,
       "level": 3,
       "role": "Beginner",
-      "balance": 178500,
+      "balance": 171500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
