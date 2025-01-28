@@ -535,7 +535,6 @@
     "Ulartangga",
     "Ayatkursi",
     "Ghost",
-    "Bot",
     "Upsw",
     "Jarak",
     "Nackup",
@@ -1219,7 +1218,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1392
+      "totalcmd": 1393
     }
   ],
   "clearchat": [],
@@ -76826,7 +76825,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 306,
-      "hit": 818,
+      "hit": 819,
       "date": "28 Desember 2024",
       "money": 98662,
       "exp": 27931,
