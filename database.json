@@ -910,6 +910,11 @@
       "cmd": "Nabung",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tebakgambar",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -946,7 +951,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 568
+      "totalcmd": 569
     }
   ],
   "clearchat": [],
@@ -13988,8 +13993,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "B8RP",
-      "glimit": 214,
-      "hit": 78,
+      "glimit": 213,
+      "hit": 79,
       "date": "19 Desember 2024",
       "money": 3000,
       "exp": 1997,
