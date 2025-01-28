@@ -777,7 +777,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -855,7 +855,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 164
+      "totalcmd": 165
     }
   ],
   "clearchat": [],
@@ -80761,8 +80761,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WQHL",
-      "glimit": 18,
-      "hit": 263,
+      "glimit": 17,
+      "hit": 264,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -133669,7 +133669,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 503155,
+      "balance": 453155,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
