@@ -738,7 +738,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 160,
+      "succes": 161,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2192
+      "totalcmd": 2193
     }
   ],
   "clearchat": [],
@@ -98053,7 +98053,7 @@
       "warning": 0,
       "level": 3,
       "role": "Beginner",
-      "balance": 21697531,
+      "balance": 21698531,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -154428,7 +154428,7 @@
       "autolevelup": false,
       "serial": "TMC4",
       "glimit": 30,
-      "hit": 3,
+      "hit": 4,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
