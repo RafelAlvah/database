@@ -728,7 +728,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 115,
+      "succes": 116,
       "failed": 0
     },
     {
@@ -1278,7 +1278,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1760
+      "totalcmd": 1761
     }
   ],
   "clearchat": [],
@@ -80820,7 +80820,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2348,
-      "hit": 2224,
+      "hit": 2225,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
