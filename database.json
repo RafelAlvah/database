@@ -593,7 +593,8 @@
     "Cosplayangel",
     "2gb",
     "Afk",
-    "Daftar-lewar-video"
+    "Daftar-lewar-video",
+    "Daftar-lewat-pesan"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1074,6 +1075,11 @@
       "cmd": "Daftar-lewar-video",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Daftar-lewat-pesan",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1097,7 +1103,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 944
+      "totalcmd": 945
     }
   ],
   "clearchat": [],
@@ -1109,7 +1115,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1831,
+      "hit": 1832,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
