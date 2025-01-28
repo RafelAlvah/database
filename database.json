@@ -649,7 +649,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 57,
+      "succes": 58,
       "failed": 0
     },
     {
@@ -1309,7 +1309,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2089
+      "totalcmd": 2090
     }
   ],
   "clearchat": [],
@@ -79062,7 +79062,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 119,
-      "hit": 593,
+      "hit": 594,
       "date": "29 Desember 2024",
       "money": 7145276,
       "exp": 22006,
@@ -79090,7 +79090,7 @@
       "warning": 0,
       "level": 6,
       "role": "Beginner",
-      "balance": 10354600,
+      "balance": 10355600,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
