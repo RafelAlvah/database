@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -971,7 +971,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 590
+      "totalcmd": 592
     }
   ],
   "clearchat": [],
@@ -158512,7 +158512,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 31,
-      "hit": 316,
+      "hit": 318,
       "date": "28 Januari 2025",
       "money": 889461,
       "exp": 33863,
