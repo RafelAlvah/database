@@ -730,6 +730,11 @@
       "cmd": "Play",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Ttsanime",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -766,7 +771,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 51
+      "totalcmd": 52
     }
   ],
   "clearchat": [],
@@ -778,7 +783,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1982,
+      "hit": 1983,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
