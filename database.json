@@ -1286,6 +1286,11 @@
       "cmd": "Putus",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Setppbot",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1314,7 +1319,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2108
+      "totalcmd": 2109
     }
   ],
   "clearchat": [],
@@ -1326,7 +1331,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1941,
+      "hit": 1942,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -1354,7 +1359,7 @@
       "warning": 0,
       "level": 64,
       "role": "Beginner",
-      "balance": -99999999999906300,
+      "balance": -99999999999905310,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
