@@ -753,7 +753,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -941,7 +941,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 549
+      "totalcmd": 550
     }
   ],
   "clearchat": [],
@@ -13984,7 +13984,7 @@
       "autolevelup": false,
       "serial": "B8RP",
       "glimit": 214,
-      "hit": 73,
+      "hit": 74,
       "date": "19 Desember 2024",
       "money": 3000,
       "exp": 1997,
@@ -80876,7 +80876,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 1242223,
+      "balance": 1247223,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
