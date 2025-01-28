@@ -718,7 +718,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 53,
+      "succes": 54,
       "failed": 0
     },
     {
@@ -843,7 +843,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -921,7 +921,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 362
+      "totalcmd": 364
     }
   ],
   "clearchat": [],
@@ -19676,9 +19676,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 7,
-      "hit": 4202,
+      "hit": 4204,
       "date": "20 Desember 2024",
-      "money": 47084977,
+      "money": 44084977,
       "exp": 11536,
       "limit": 244,
       "speed": 3,
@@ -19784,7 +19784,7 @@
       "lastberkebon": 0,
       "lastdagang": 1738070541852,
       "lasthourly": 0,
-      "lastbansos": 1738088177408,
+      "lastbansos": 1738089698775,
       "lastrampok": 1736625325462,
       "lastclaim": 1738088084159,
       "lastnebang": 0,
