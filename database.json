@@ -748,7 +748,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 126,
+      "succes": 127,
       "failed": 0
     },
     {
@@ -941,7 +941,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 506
+      "totalcmd": 507
     }
   ],
   "clearchat": [],
@@ -13984,7 +13984,7 @@
       "autolevelup": false,
       "serial": "B8RP",
       "glimit": 0,
-      "hit": 58,
+      "hit": 59,
       "date": "19 Desember 2024",
       "money": 3000,
       "exp": 1997,
@@ -19724,7 +19724,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 84973677,
+      "balance": 84974677,
       "skillexp": 0,
       "chip": 50,
       "atm": 1,
