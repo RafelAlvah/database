@@ -1193,6 +1193,11 @@
       "cmd": "Tembak",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Join",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1216,7 +1221,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1495
+      "totalcmd": 1496
     }
   ],
   "clearchat": [],
@@ -1228,7 +1233,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1900,
+      "hit": 1901,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
