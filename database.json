@@ -843,7 +843,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -881,7 +881,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 222
+      "totalcmd": 223
     }
   ],
   "clearchat": [],
@@ -19636,9 +19636,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 17,
-      "hit": 4183,
+      "hit": 4184,
       "date": "20 Desember 2024",
-      "money": 49955649,
+      "money": 52955649,
       "exp": 11536,
       "limit": 244,
       "speed": 3,
@@ -19744,7 +19744,7 @@
       "lastberkebon": 0,
       "lastdagang": 1738070541852,
       "lasthourly": 0,
-      "lastbansos": 1737990403704,
+      "lastbansos": 1738088177408,
       "lastrampok": 1736625325462,
       "lastclaim": 1738088084159,
       "lastnebang": 0,
