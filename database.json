@@ -739,7 +739,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -1182,7 +1182,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1208
+      "totalcmd": 1209
     }
   ],
   "clearchat": [],
@@ -78935,7 +78935,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 177,
-      "hit": 466,
+      "hit": 467,
       "date": "29 Desember 2024",
       "money": 5746664,
       "exp": 4807,
