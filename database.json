@@ -981,7 +981,7 @@
     },
     {
       "cmd": "Tourl",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1041,7 +1041,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 747
+      "totalcmd": 748
     }
   ],
   "clearchat": [],
@@ -150204,7 +150204,7 @@
       "autolevelup": false,
       "serial": "SHSE",
       "glimit": 30,
-      "hit": 3,
+      "hit": 4,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
