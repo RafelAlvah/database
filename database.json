@@ -1279,7 +1279,7 @@
     },
     {
       "cmd": "Simi",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1319,7 +1319,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2111
+      "totalcmd": 2112
     }
   ],
   "clearchat": [],
@@ -1331,7 +1331,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1942,
+      "hit": 1943,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -59095,7 +59095,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2103900,
+      "balance": 2104900,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -177123,7 +177123,7 @@
       "rpg": false,
       "game": false,
       "autolevelup": false,
-      "simi": false,
+      "simi": true,
       "open": 0,
       "close": 0,
       "threeDaysLeft": false,
