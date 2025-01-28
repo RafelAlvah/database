@@ -718,7 +718,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 52,
+      "succes": 53,
       "failed": 0
     },
     {
@@ -823,7 +823,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -921,7 +921,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 356
+      "totalcmd": 358
     }
   ],
   "clearchat": [],
@@ -19675,8 +19675,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 8,
-      "hit": 4201,
+      "glimit": 7,
+      "hit": 4202,
       "date": "20 Desember 2024",
       "money": 47084977,
       "exp": 11536,
@@ -80827,8 +80827,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WQHL",
-      "glimit": 10,
-      "hit": 298,
+      "glimit": 20,
+      "hit": 299,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 9999,
@@ -80856,7 +80856,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 1075223,
+      "balance": 1068223,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -120162,7 +120162,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2455668,
+      "balance": 2456668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
