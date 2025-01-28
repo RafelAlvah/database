@@ -738,7 +738,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 163,
+      "succes": 164,
       "failed": 0
     },
     {
@@ -798,7 +798,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 62,
+      "succes": 63,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2195
+      "totalcmd": 2197
     }
   ],
   "clearchat": [],
@@ -20091,8 +20091,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 62,
-      "hit": 4111,
+      "glimit": 61,
+      "hit": 4112,
       "date": "20 Desember 2024",
       "money": 48724044,
       "exp": 96536,
@@ -148368,7 +148368,7 @@
       "autolevelup": false,
       "serial": "LNJI",
       "glimit": 30,
-      "hit": 53,
+      "hit": 54,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
