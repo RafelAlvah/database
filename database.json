@@ -1125,7 +1125,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 11,
+      "succes": 12,
       "failed": 1
     },
     {
@@ -1250,7 +1250,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1592
+      "totalcmd": 1593
     }
   ],
   "clearchat": [],
@@ -54177,7 +54177,7 @@
       "autolevelup": false,
       "serial": "MZDM",
       "glimit": 86,
-      "hit": 102,
+      "hit": 103,
       "date": "24 Desember 2024",
       "money": 75884,
       "exp": 2975,
