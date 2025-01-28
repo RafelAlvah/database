@@ -853,7 +853,7 @@
     },
     {
       "cmd": "Spotify",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 960
+      "totalcmd": 961
     }
   ],
   "clearchat": [],
@@ -158642,7 +158642,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 42,
-      "hit": 121,
+      "hit": 122,
       "date": "28 Januari 2025",
       "money": 77729,
       "exp": 0,
