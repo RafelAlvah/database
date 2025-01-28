@@ -960,6 +960,11 @@
       "cmd": "On",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Kick",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1000,7 +1005,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 645
+      "totalcmd": 646
     }
   ],
   "clearchat": [],
@@ -146607,7 +146612,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 124,
+      "hit": 125,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
