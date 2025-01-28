@@ -728,7 +728,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 150,
+      "succes": 151,
       "failed": 0
     },
     {
@@ -1347,7 +1347,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2333
+      "totalcmd": 2334
     }
   ],
   "clearchat": [],
@@ -97853,7 +97853,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 462,
-      "hit": 1129,
+      "hit": 1130,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97873,9 +97873,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1738066935035,
-      "afk": 1738078853599,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "galau ye",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
