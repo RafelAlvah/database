@@ -708,7 +708,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 33,
+      "succes": 34,
       "failed": 0
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1988
+      "totalcmd": 1989
     }
   ],
   "clearchat": [],
@@ -158838,11 +158838,11 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 51,
-      "hit": 287,
+      "hit": 288,
       "date": "28 Januari 2025",
       "money": 889461,
       "exp": 33863,
-      "limit": 125,
+      "limit": 124,
       "speed": 0,
       "strength": 0,
       "defense": 0,
