@@ -688,7 +688,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -891,7 +891,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 252
+      "totalcmd": 253
     }
   ],
   "clearchat": [],
@@ -99184,7 +99184,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 905,
+      "hit": 906,
       "date": "3 Januari 2025",
       "money": 566231,
       "exp": 25162,
