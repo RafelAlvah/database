@@ -752,7 +752,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -855,7 +855,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 173
+      "totalcmd": 174
     }
   ],
   "clearchat": [],
@@ -99335,10 +99335,10 @@
       "autolevelup": false,
       "serial": "RYZ8",
       "glimit": 29,
-      "hit": 47,
+      "hit": 48,
       "date": "3 Januari 2025",
-      "money": 3000,
-      "exp": 24997,
+      "money": 6000,
+      "exp": 4997,
       "limit": 30,
       "speed": 0,
       "strength": 0,
@@ -99361,7 +99361,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 2,
+      "level": 3,
       "role": "Beginner",
       "balance": 13500,
       "skillexp": 0,
