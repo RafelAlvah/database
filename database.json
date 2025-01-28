@@ -679,7 +679,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 62,
+      "succes": 63,
       "failed": 0
     },
     {
@@ -739,7 +739,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 143,
+      "succes": 144,
       "failed": 0
     },
     {
@@ -1338,7 +1338,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2166
+      "totalcmd": 2168
     }
   ],
   "clearchat": [],
@@ -96932,9 +96932,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7866,
+      "hit": 7867,
       "date": "3 Januari 2025",
-      "money": 1840243,
+      "money": 1876835,
       "exp": 69143,
       "limit": 371,
       "speed": 5,
@@ -96960,7 +96960,7 @@
       "warning": 0,
       "level": 12,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 101354111,
+      "balance": 101355111,
       "skillexp": 0,
       "chip": 650,
       "atm": 3,
@@ -97102,7 +97102,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738070707567,
+      "lastkerja": 1738076134286,
       "lastmaling": 1737393049271,
       "clay": "undefined1940",
       "sand": "undefined550",
@@ -148369,7 +148369,7 @@
       "autolevelup": false,
       "serial": "LNJI",
       "glimit": 30,
-      "hit": 37,
+      "hit": 38,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
