@@ -673,7 +673,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -836,7 +836,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 150
+      "totalcmd": 151
     }
   ],
   "clearchat": [],
@@ -133622,10 +133622,10 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 3,
-      "hit": 110,
+      "hit": 111,
       "date": "24 Januari 2025",
-      "money": 267305,
-      "exp": 10000,
+      "money": 285243,
+      "exp": 0,
       "limit": 30,
       "speed": 0,
       "strength": 0,
@@ -133648,7 +133648,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 1,
+      "level": 2,
       "role": "Beginner",
       "balance": 503155,
       "skillexp": 0,
@@ -133793,7 +133793,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastmulung": 1737873897472,
-      "lastkerja": 1737983720123
+      "lastkerja": 1738087374162
     },
     "6285710671975@s.whatsapp.net": {
       "sticker": {},
