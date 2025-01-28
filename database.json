@@ -766,7 +766,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 61,
+      "succes": 62,
       "failed": 0
     },
     {
@@ -946,7 +946,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -1076,7 +1076,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 862
+      "totalcmd": 864
     }
   ],
   "clearchat": [],
@@ -46850,8 +46850,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 11477,
-      "hit": 1613,
+      "glimit": 11627,
+      "hit": 1614,
       "date": "22 Desember 2024",
       "money": 7436137,
       "exp": 25163,
@@ -46879,7 +46879,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 150801,
+      "balance": 45801,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -76682,8 +76682,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "GCXP",
-      "glimit": 340,
-      "hit": 750,
+      "glimit": 339,
+      "hit": 751,
       "date": "28 Desember 2024",
       "money": 273662,
       "exp": 17932,
