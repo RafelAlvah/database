@@ -680,7 +680,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1255,7 +1255,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1670
+      "totalcmd": 1671
     }
   ],
   "clearchat": [],
@@ -20010,7 +20010,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 63,
-      "hit": 4086,
+      "hit": 4087,
       "date": "20 Desember 2024",
       "money": 39757403,
       "exp": 88536,
@@ -20030,9 +20030,9 @@
       "pasangan": "",
       "age": 17,
       "regTime": 1737899071519,
-      "afk": 1738060732679,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "syhspafjdv",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -20060,11 +20060,11 @@
       "emerald": 2,
       "diamond": 70,
       "gold": 66,
-      "botol": 56132,
-      "kardus": 60770,
-      "kaleng": 62418,
-      "gelas": 60347,
-      "plastik": 56402,
+      "botol": 56899,
+      "kardus": 61656,
+      "kaleng": 62728,
+      "gelas": 61335,
+      "plastik": 56513,
       "iron": 6,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -20183,7 +20183,7 @@
       "lastkerja": 1738060497589,
       "lastparming": 1738060516809,
       "rokets": 73,
-      "lastmulung": 1738060502989,
+      "lastmulung": 1738066260298,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
       "sand": "undefined850",
