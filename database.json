@@ -1078,7 +1078,7 @@
     },
     {
       "cmd": "Allmenu",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1283,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1827
+      "totalcmd": 1828
     }
   ],
   "clearchat": [],
@@ -176092,7 +176092,7 @@
       "autolevelup": false,
       "serial": "JFCL",
       "glimit": 30,
-      "hit": 3,
+      "hit": 4,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
