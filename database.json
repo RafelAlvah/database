@@ -814,6 +814,11 @@
       "cmd": "Donasi",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Surah",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -850,7 +855,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 163
+      "totalcmd": 164
     }
   ],
   "clearchat": [],
@@ -133636,7 +133641,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 2,
-      "hit": 119,
+      "hit": 120,
       "date": "24 Januari 2025",
       "money": 285243,
       "exp": 0,
