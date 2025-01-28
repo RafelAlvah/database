@@ -888,7 +888,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1118,7 +1118,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1002
+      "totalcmd": 1003
     }
   ],
   "clearchat": [],
@@ -96708,7 +96708,7 @@
       "glimit": 531,
       "hit": 7836,
       "date": "3 Januari 2025",
-      "money": 50000,
+      "money": 48071,
       "exp": 60043,
       "limit": 351,
       "speed": 5,
@@ -99405,9 +99405,9 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 892,
+      "hit": 893,
       "date": "3 Januari 2025",
-      "money": 156377,
+      "money": 154448,
       "exp": 9300,
       "limit": 98,
       "speed": 0,
@@ -99511,7 +99511,7 @@
       "lasthunt": 0,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1737960074752,
+      "lastdagang": 1738039125859,
       "lasthourly": 0,
       "lastbansos": 1737647027487,
       "lastrampok": 1738039073304,
