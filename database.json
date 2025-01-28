@@ -684,7 +684,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 33,
+      "succes": 34,
       "failed": 0
     },
     {
@@ -1151,6 +1151,11 @@
       "cmd": ",",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Muler",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1183,7 +1188,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1204
+      "totalcmd": 1206
     }
   ],
   "clearchat": [],
@@ -58931,7 +58936,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 133,
-      "hit": 237,
+      "hit": 238,
       "date": "24 Desember 2024",
       "money": 627324,
       "exp": 18783,
@@ -78933,9 +78938,9 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 190,
-      "hit": 446,
+      "hit": 447,
       "date": "29 Desember 2024",
-      "money": 4846664,
+      "money": 4985908,
       "exp": 2807,
       "limit": 70,
       "speed": 0,
@@ -79103,7 +79108,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738046117451,
+      "lastkerja": 1738051828208,
       "lastmaling": 1737974686362,
       "lastparming": 1738049792610,
       "lastmulung": 1738049789665,
