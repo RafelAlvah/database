@@ -1138,7 +1138,7 @@
     },
     {
       "cmd": "Restart",
-      "succes": 2,
+      "succes": 1,
       "failed": 1
     },
     {
@@ -1283,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1792
+      "totalcmd": 1791
     }
   ],
   "clearchat": [],
@@ -1295,7 +1295,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1926,
+      "hit": 1925,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -177485,35 +177485,7 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ],
-    "restart": {
-      "m": {
-        "key": {
-          "remoteJid": "120363361865610907@g.us",
-          "fromMe": false,
-          "id": "D1A57F6A2B346065E4B6BC6550A29A5D",
-          "participant": "6287737937323@s.whatsapp.net"
-        },
-        "message": {
-          "extendedTextMessage": {
-            "text": ".restart",
-            "previewType": "NONE",
-            "contextInfo": {
-              "expiration": 86400,
-              "disappearingMode": {
-                "initiator": "CHANGED_IN_CHAT",
-                "trigger": "UNKNOWN"
-              }
-            },
-            "inviteLinkGroupTypeV2": "DEFAULT"
-          }
-        },
-        "messageTimestamp": "1738069573",
-        "broadcast": false,
-        "pushName": "«< R >»"
-      },
-      "from": "120363361865610907@g.us"
-    }
+    ]
   },
   "respon": {}
 }
