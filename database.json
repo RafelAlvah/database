@@ -693,7 +693,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 55,
+      "succes": 56,
       "failed": 0
     },
     {
@@ -1133,7 +1133,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 9,
+      "succes": 10,
       "failed": 1
     },
     {
@@ -1298,7 +1298,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1858
+      "totalcmd": 1860
     }
   ],
   "clearchat": [],
@@ -79051,7 +79051,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 149,
-      "hit": 547,
+      "hit": 548,
       "date": "29 Desember 2024",
       "money": 6505549,
       "exp": 11007,
@@ -79085,9 +79085,9 @@
       "atm": 0,
       "fullatm": 0,
       "bank": 0,
-      "health": 20,
+      "health": 100,
       "stamina": 65,
-      "potion": 9,
+      "potion": 7,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -96892,11 +96892,11 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7863,
+      "hit": 7864,
       "date": "3 Januari 2025",
-      "money": 1335788,
+      "money": 1835788,
       "exp": 69143,
-      "limit": 351,
+      "limit": 371,
       "speed": 5,
       "strength": 6,
       "defense": 5,
@@ -97002,7 +97002,7 @@
       "lasthourly": 0,
       "lastbansos": 1738001690870,
       "lastrampok": 1738038761151,
-      "lastclaim": 1738065893074,
+      "lastclaim": 1738070764577,
       "lastnebang": 0,
       "lastweekly": 1738002453115,
       "lastmonthly": 1736423963407,
@@ -97076,7 +97076,7 @@
       "sampah": 271,
       "kayu": 413,
       "batu": 271,
-      "poin": 860000,
+      "poin": 960000,
       "healt": null
     },
     "6285711509810@s.whatsapp.net": {
