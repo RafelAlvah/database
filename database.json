@@ -726,7 +726,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 98,
+      "succes": 99,
       "failed": 0
     },
     {
@@ -1236,7 +1236,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1548
+      "totalcmd": 1549
     }
   ],
   "clearchat": [],
@@ -127223,7 +127223,7 @@
       "autolevelup": false,
       "serial": "VTGJ",
       "glimit": 30,
-      "hit": 185,
+      "hit": 186,
       "date": "20 Januari 2025",
       "money": 1000,
       "exp": 0,
