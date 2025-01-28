@@ -708,7 +708,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -748,7 +748,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 137,
+      "succes": 138,
       "failed": 0
     },
     {
@@ -941,7 +941,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 545
+      "totalcmd": 547
     }
   ],
   "clearchat": [],
@@ -96535,7 +96535,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 491,
-      "hit": 7997,
+      "hit": 7998,
       "date": "3 Januari 2025",
       "money": 6854692,
       "exp": 77343,
@@ -99420,8 +99420,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "RYZ8",
-      "glimit": 70,
-      "hit": 103,
+      "glimit": 69,
+      "hit": 104,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
