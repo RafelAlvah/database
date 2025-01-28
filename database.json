@@ -760,6 +760,11 @@
       "cmd": "Ttaudio",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Daftar",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -796,7 +801,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 89
+      "totalcmd": 90
     }
   ],
   "clearchat": [],
@@ -808,7 +813,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1989,
+      "hit": 1990,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -820,14 +825,14 @@
       "joinlimit": 1,
       "pc": 1737909374989,
       "ojekk": 0,
-      "registered": false,
-      "name": "Raffel",
+      "registered": true,
+      "name": "Rafel",
       "skill": "",
       "ultah": "07,01,2005",
       "sahabat": "",
       "pasangan": "",
       "age": 19,
-      "regTime": 1738055824786,
+      "regTime": 1738085212121,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
