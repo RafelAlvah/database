@@ -1330,6 +1330,10 @@
     {
       "error": "error:1C800064:Provider routines::bad decrypt",
       "cmd": "rvo"
+    },
+    {
+      "error": "msg is not defined",
+      "cmd": "tg"
     }
   ],
   "jadibot": {},
