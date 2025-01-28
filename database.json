@@ -929,7 +929,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -1309,7 +1309,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2046
+      "totalcmd": 2047
     }
   ],
   "clearchat": [],
@@ -59057,7 +59057,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 51,
-      "hit": 347,
+      "hit": 348,
       "date": "24 Desember 2024",
       "money": 620015,
       "exp": 18683,
@@ -158843,7 +158843,7 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "JL9G",
-      "glimit": 40,
+      "glimit": 39,
       "hit": 305,
       "date": "28 Januari 2025",
       "money": 889461,
