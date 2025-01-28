@@ -686,7 +686,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -726,7 +726,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 93,
+      "succes": 94,
       "failed": 0
     },
     {
@@ -1236,7 +1236,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1539
+      "totalcmd": 1541
     }
   ],
   "clearchat": [],
@@ -19991,7 +19991,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 63,
-      "hit": 4081,
+      "hit": 4082,
       "date": "20 Desember 2024",
       "money": 39749989,
       "exp": 88536,
@@ -171593,7 +171593,7 @@
       "autolevelup": false,
       "serial": "CZS3",
       "glimit": 30,
-      "hit": 20,
+      "hit": 21,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
