@@ -1031,7 +1031,7 @@
     },
     {
       "cmd": "Unreg",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1086,7 +1086,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 904
+      "totalcmd": 905
     }
   ],
   "clearchat": [],
@@ -1098,7 +1098,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1822,
+      "hit": 1823,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -1110,7 +1110,7 @@
       "joinlimit": 1,
       "pc": 1737909374989,
       "ojekk": 0,
-      "registered": true,
+      "registered": false,
       "name": "Rafel",
       "skill": "",
       "ultah": "07,01,2005",
