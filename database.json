@@ -1007,7 +1007,7 @@
     },
     {
       "cmd": "Unreg",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1170,7 +1170,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1199
+      "totalcmd": 1200
     }
   ],
   "clearchat": [],
@@ -1182,7 +1182,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1885,
+      "hit": 1886,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -1194,7 +1194,7 @@
       "joinlimit": 1,
       "pc": 1737909374989,
       "ojekk": 0,
-      "registered": true,
+      "registered": false,
       "name": "Leffar",
       "skill": "",
       "ultah": "07,01,2005",
