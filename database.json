@@ -813,7 +813,7 @@
     },
     {
       "cmd": "Donasi",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -901,7 +901,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 311
+      "totalcmd": 312
     }
   ],
   "clearchat": [],
@@ -99381,7 +99381,7 @@
       "autolevelup": false,
       "serial": "RYZ8",
       "glimit": 25,
-      "hit": 57,
+      "hit": 58,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
