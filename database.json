@@ -158637,9 +158637,9 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 8,
-      "hit": 75,
+      "hit": 76,
       "date": "28 Januari 2025",
-      "money": 1000,
+      "money": 50901,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -158806,7 +158806,8 @@
       "dirawat": false,
       "antarpaket": 0,
       "timeOrder": "",
-      "timeEnd": ""
+      "timeEnd": "",
+      "lastkerja": 1738035166078
     },
     "6285213894243@s.whatsapp.net": {
       "sticker": {},
