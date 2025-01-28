@@ -1005,7 +1005,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -1183,7 +1183,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1321
+      "totalcmd": 1322
     }
   ],
   "clearchat": [],
@@ -58931,7 +58931,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 77,
-      "hit": 292,
+      "hit": 293,
       "date": "24 Desember 2024",
       "money": 577324,
       "exp": 18683,
@@ -58951,9 +58951,9 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1737974019813,
-      "afk": -1,
+      "afk": 1738056079644,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "berak",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -76818,7 +76818,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 11587072,
+      "balance": 11588072,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
