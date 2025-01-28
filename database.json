@@ -1126,7 +1126,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 1,
+      "succes": 2,
       "failed": 1
     },
     {
@@ -1229,7 +1229,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1475
+      "totalcmd": 1476
     }
   ],
   "clearchat": [],
@@ -172476,7 +172476,7 @@
       "autolevelup": false,
       "serial": "DH47",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
