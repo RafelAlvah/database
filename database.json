@@ -915,6 +915,11 @@
       "cmd": "Tebakgambar",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Simi",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -951,7 +956,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 572
+      "totalcmd": 573
     }
   ],
   "clearchat": [],
@@ -13994,7 +13999,7 @@
       "autolevelup": false,
       "serial": "B8RP",
       "glimit": 213,
-      "hit": 82,
+      "hit": 83,
       "date": "19 Desember 2024",
       "money": 3000,
       "exp": 1997,
