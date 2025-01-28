@@ -1018,7 +1018,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -1278,7 +1278,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1747
+      "totalcmd": 1748
     }
   ],
   "clearchat": [],
@@ -97784,7 +97784,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 462,
-      "hit": 1121,
+      "hit": 1122,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97796,14 +97796,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "zzaakyy",
+      "registered": true,
+      "name": ".zazaaa",
       "skill": "",
       "ultah": "20,08,2011",
       "sahabat": "",
       "pasangan": "",
       "age": 15,
-      "regTime": 1738032134382,
+      "regTime": 1738066935035,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
