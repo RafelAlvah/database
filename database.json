@@ -718,7 +718,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 21,
+      "succes": 22,
       "failed": 6
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2008
+      "totalcmd": 2009
     }
   ],
   "clearchat": [],
@@ -59051,11 +59051,11 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 52,
-      "hit": 338,
+      "hit": 339,
       "date": "24 Desember 2024",
       "money": 620015,
       "exp": 18683,
-      "limit": 130,
+      "limit": 129,
       "speed": 0,
       "strength": 0,
       "defense": 0,
