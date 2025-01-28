@@ -591,7 +591,8 @@
     ",",
     "Menu",
     "Hd",
-    "Restart"
+    "Restart",
+    ""
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1227,6 +1228,11 @@
       "cmd": "Ttaudio",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1255,7 +1261,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1641
+      "totalcmd": 1642
     }
   ],
   "clearchat": [],
@@ -148464,7 +148470,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 28,
-      "hit": 161,
+      "hit": 162,
       "date": "27 Januari 2025",
       "money": 318627,
       "exp": 200,
