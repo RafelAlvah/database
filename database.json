@@ -688,7 +688,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 28,
+      "succes": 29,
       "failed": 0
     },
     {
@@ -783,7 +783,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1293,7 +1293,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1854
+      "totalcmd": 1856
     }
   ],
   "clearchat": [],
@@ -79046,7 +79046,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 149,
-      "hit": 544,
+      "hit": 546,
       "date": "29 Desember 2024",
       "money": 6482271,
       "exp": 11007,
