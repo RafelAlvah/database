@@ -661,7 +661,7 @@
     },
     {
       "cmd": "Donasi",
-      "succes": 3,
+      "succes": 4,
       "failed": 1
     },
     {
@@ -926,7 +926,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 45,
+      "succes": 46,
       "failed": 0
     },
     {
@@ -1014,7 +1014,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 629
+      "totalcmd": 631
     }
   ],
   "clearchat": [],
@@ -58761,8 +58761,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 150,
-      "hit": 211,
+      "glimit": 149,
+      "hit": 212,
       "date": "24 Desember 2024",
       "money": 577324,
       "exp": 18683,
@@ -148039,7 +148039,7 @@
       "autolevelup": false,
       "serial": "LNJI",
       "glimit": 30,
-      "hit": 19,
+      "hit": 20,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
