@@ -982,11 +982,6 @@
       "cmd": "Tourl",
       "succes": 1,
       "failed": 0
-    },
-    {
-      "cmd": "Afk",
-      "succes": 0,
-      "failed": 1
     }
   ],
   "listerror": [
@@ -1027,7 +1022,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 684
+      "totalcmd": 685
     }
   ],
   "clearchat": [],
@@ -1039,7 +1034,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1813,
+      "hit": 1814,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -1059,7 +1054,7 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1734340571144,
-      "afk": -1,
+      "afk": 1738029976775,
       "unreg": false,
       "afkReason": "",
       "banned": false,
