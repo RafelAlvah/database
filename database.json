@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -994,7 +994,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 554
+      "totalcmd": 555
     }
   ],
   "clearchat": [],
@@ -126084,7 +126084,7 @@
       "autolevelup": false,
       "serial": "GNIK",
       "glimit": 30,
-      "hit": 23,
+      "hit": 24,
       "date": "13 Januari 2025",
       "money": 66571,
       "exp": 0,
