@@ -781,7 +781,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1226,7 +1226,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1510
+      "totalcmd": 1511
     }
   ],
   "clearchat": [],
@@ -78979,9 +78979,9 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 152,
-      "hit": 520,
+      "hit": 521,
       "date": "29 Desember 2024",
-      "money": 6360894,
+      "money": 6432271,
       "exp": 10907,
       "limit": 70,
       "speed": 0,
@@ -79088,7 +79088,7 @@
       "lastdagang": 1738055468212,
       "lasthourly": 0,
       "lastbansos": 0,
-      "lastrampok": 1738049988409,
+      "lastrampok": 1738060019327,
       "lastclaim": 1738059950910,
       "lastnebang": 0,
       "lastweekly": 1737971050301,
@@ -120441,7 +120441,7 @@
       "glimit": 18,
       "hit": 274,
       "date": "10 Januari 2025",
-      "money": 178499,
+      "money": 107122,
       "exp": 200,
       "limit": 23,
       "speed": 0,
