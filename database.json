@@ -853,12 +853,12 @@
     },
     {
       "cmd": "Spotify",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
       "cmd": "Spdl",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 981
+      "totalcmd": 983
     }
   ],
   "clearchat": [],
@@ -1125,7 +1125,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1856,
+      "hit": 1858,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
