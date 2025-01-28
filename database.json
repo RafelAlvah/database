@@ -681,7 +681,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -881,7 +881,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -984,7 +984,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 497
+      "totalcmd": 500
     }
   ],
   "clearchat": [],
@@ -93524,7 +93524,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 55,
-      "hit": 546,
+      "hit": 547,
       "date": "1 Januari 2025",
       "money": 5295833,
       "exp": 8161,
@@ -96572,10 +96572,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7798,
+      "hit": 7800,
       "date": "3 Januari 2025",
-      "money": 35999,
-      "exp": 47643,
+      "money": 228029,
+      "exp": 47743,
       "limit": 351,
       "speed": 5,
       "strength": 6,
@@ -96682,7 +96682,7 @@
       "lasthourly": 0,
       "lastbansos": 1738001690870,
       "lastrampok": 1738001801990,
-      "lastclaim": 1738001646725,
+      "lastclaim": 1738025626297,
       "lastnebang": 0,
       "lastweekly": 1738002453115,
       "lastmonthly": 1736423963407,
@@ -96742,7 +96742,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738002272129,
+      "lastkerja": 1738025613132,
       "lastmaling": 1737393049271,
       "clay": "undefined1940",
       "sand": "undefined550",
