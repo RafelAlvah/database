@@ -593,7 +593,8 @@
     "Cekil",
     "Trackip",
     "Fip",
-    "Simi"
+    "Simi",
+    "Deal"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -824,6 +825,11 @@
       "cmd": "Buyglimit",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Deal",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -860,7 +866,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 187
+      "totalcmd": 188
     }
   ],
   "clearchat": [],
@@ -132756,7 +132762,7 @@
       "autolevelup": false,
       "serial": "OMUC",
       "glimit": 30,
-      "hit": 58,
+      "hit": 59,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
