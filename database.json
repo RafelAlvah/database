@@ -649,7 +649,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 114,
+      "succes": 115,
       "failed": 0
     },
     {
@@ -1014,7 +1014,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1288
+      "totalcmd": 1290
     }
   ],
   "clearchat": [],
@@ -1189,7 +1189,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1894,
+      "hit": 1895,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -1201,14 +1201,14 @@
       "joinlimit": 1,
       "pc": 1737909374989,
       "ojekk": 0,
-      "registered": false,
-      "name": "Leffar",
+      "registered": true,
+      "name": "Raffel",
       "skill": "",
       "ultah": "07,01,2005",
       "sahabat": "",
       "pasangan": "",
-      "age": 20,
-      "regTime": 1738038803015,
+      "age": 19,
+      "regTime": 1738055824786,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
@@ -58924,8 +58924,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 99,
-      "hit": 270,
+      "glimit": 98,
+      "hit": 271,
       "date": "24 Desember 2024",
       "money": 577324,
       "exp": 18683,
