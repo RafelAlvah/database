@@ -860,6 +860,11 @@
       "cmd": "Ojek",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Tembak",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -896,7 +901,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 306
+      "totalcmd": 307
     }
   ],
   "clearchat": [],
@@ -80803,7 +80808,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 5,
-      "hit": 280,
+      "hit": 281,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 9999,
