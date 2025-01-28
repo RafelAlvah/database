@@ -726,7 +726,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 90,
+      "succes": 91,
       "failed": 0
     },
     {
@@ -1229,7 +1229,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1476
+      "totalcmd": 1477
     }
   ],
   "clearchat": [],
@@ -171586,7 +171586,7 @@
       "autolevelup": false,
       "serial": "CZS3",
       "glimit": 30,
-      "hit": 17,
+      "hit": 18,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
