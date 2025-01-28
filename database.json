@@ -158677,10 +158677,10 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 42,
-      "hit": 134,
+      "hit": 136,
       "date": "28 Januari 2025",
-      "money": 122036,
-      "exp": 0,
+      "money": 145200,
+      "exp": 669,
       "limit": 130,
       "speed": 0,
       "strength": 0,
@@ -158728,7 +158728,7 @@
       "diamond": 0,
       "gold": 0,
       "botol": 0,
-      "kardus": 0,
+      "kardus": 232,
       "kaleng": 0,
       "gelas": 0,
       "plastik": 0,
@@ -158851,7 +158851,8 @@
       "lastparming": 1738035234121,
       "sampah": null,
       "kayu": null,
-      "batu": null
+      "batu": null,
+      "lastmaling": 1738045378308
     },
     "6285213894243@s.whatsapp.net": {
       "sticker": {},
