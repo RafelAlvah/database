@@ -958,6 +958,10 @@
     {
       "error": "Cannot read properties of undefined (reading 'group')",
       "cmd": "menu"
+    },
+    {
+      "error": "targetNumber is not defined",
+      "cmd": "blacklist"
     }
   ],
   "jadibot": {},
