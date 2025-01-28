@@ -643,7 +643,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -901,7 +901,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 309
+      "totalcmd": 311
     }
   ],
   "clearchat": [],
@@ -80808,7 +80808,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 5,
-      "hit": 281,
+      "hit": 282,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 9999,
@@ -153636,7 +153636,7 @@
       "autolevelup": false,
       "serial": "ZA2Z",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
