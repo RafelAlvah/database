@@ -736,7 +736,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 57,
+      "succes": 58,
       "failed": 0
     },
     {
@@ -1226,7 +1226,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1513
+      "totalcmd": 1514
     }
   ],
   "clearchat": [],
@@ -58974,7 +58974,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 77,
-      "hit": 293,
+      "hit": 294,
       "date": "24 Desember 2024",
       "money": 577324,
       "exp": 18683,
@@ -58994,9 +58994,9 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1737974019813,
-      "afk": 1738056079644,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "berak",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
