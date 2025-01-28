@@ -1297,6 +1297,10 @@
     {
       "error": "Cannot read properties of null (reading 'download')",
       "cmd": "upsw"
+    },
+    {
+      "error": "error:1C800064:Provider routines::bad decrypt",
+      "cmd": "rvo"
     }
   ],
   "jadibot": {},
