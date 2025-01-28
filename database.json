@@ -908,7 +908,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 204,
+      "succes": 205,
       "failed": 0
     },
     {
@@ -1298,7 +1298,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1910
+      "totalcmd": 1911
     }
   ],
   "clearchat": [],
@@ -158832,8 +158832,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "JL9G",
-      "glimit": 78,
-      "hit": 253,
+      "glimit": 77,
+      "hit": 254,
       "date": "28 Januari 2025",
       "money": 889461,
       "exp": 3866,
