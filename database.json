@@ -1013,7 +1013,7 @@
     },
     {
       "cmd": "Unreg",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1278,7 +1278,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1744
+      "totalcmd": 1745
     }
   ],
   "clearchat": [],
@@ -97784,7 +97784,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 462,
-      "hit": 1120,
+      "hit": 1121,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97796,7 +97796,7 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": true,
+      "registered": false,
       "name": "zzaakyy",
       "skill": "",
       "ultah": "20,08,2011",
