@@ -1319,7 +1319,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2123
+      "totalcmd": 2124
     }
   ],
   "clearchat": [],
@@ -147104,7 +147104,7 @@
       "autolevelup": false,
       "serial": "ODAA",
       "glimit": 30,
-      "hit": 28,
+      "hit": 29,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
