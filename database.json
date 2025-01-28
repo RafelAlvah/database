@@ -594,7 +594,8 @@
     "Restart",
     "Cekil",
     "Trackip",
-    "Fip"
+    "Fip",
+    "Simi"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1275,6 +1276,11 @@
       "cmd": "Tebakbom",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Simi",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1303,7 +1309,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2073
+      "totalcmd": 2074
     }
   ],
   "clearchat": [],
@@ -1315,7 +1321,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1936,
+      "hit": 1937,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -176870,7 +176876,7 @@
       "rpg": false,
       "game": false,
       "autolevelup": false,
-      "simi": true,
+      "simi": false,
       "open": 0,
       "close": 0,
       "threeDaysLeft": false,
