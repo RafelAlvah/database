@@ -592,7 +592,8 @@
     "Tg",
     "Boneka",
     "Cosplayangel",
-    "2gb"
+    "2gb",
+    "Afk"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1023,6 +1024,11 @@
       "cmd": "Button",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Afk",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1046,7 +1052,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 803
+      "totalcmd": 804
     }
   ],
   "clearchat": [],
@@ -80582,7 +80588,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2381,
-      "hit": 2168,
+      "hit": 2169,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80602,9 +80608,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": -1,
+      "afk": 1738031979495,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "turu, bngun pagi di bangunin tmn tmn laknat",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
