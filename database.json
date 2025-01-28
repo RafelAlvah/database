@@ -678,7 +678,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 52,
+      "succes": 53,
       "failed": 0
     },
     {
@@ -993,7 +993,7 @@
     },
     {
       "cmd": "Maling",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1283,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1817
+      "totalcmd": 1819
     }
   ],
   "clearchat": [],
@@ -20038,7 +20038,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 63,
-      "hit": 4094,
+      "hit": 4095,
       "date": "20 Desember 2024",
       "money": 40694273,
       "exp": 96536,
@@ -20058,9 +20058,9 @@
       "pasangan": "",
       "age": 17,
       "regTime": 1737899071519,
-      "afk": 1738068251477,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "nugas",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -59031,7 +59031,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 70,
-      "hit": 311,
+      "hit": 312,
       "date": "24 Desember 2024",
       "money": 577324,
       "exp": 18683,
