@@ -693,7 +693,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -731,7 +731,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 26
+      "totalcmd": 27
     }
   ],
   "clearchat": [],
@@ -96325,7 +96325,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7884,
+      "hit": 7885,
       "date": "3 Januari 2025",
       "money": 2293847,
       "exp": 69343,
