@@ -1028,7 +1028,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1123,7 +1123,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1020
+      "totalcmd": 1021
     }
   ],
   "clearchat": [],
@@ -96711,7 +96711,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7844,
+      "hit": 7845,
       "date": "3 Januari 2025",
       "money": 205632,
       "exp": 60043,
@@ -96731,9 +96731,9 @@
       "pasangan": "6281399940982@s.whatsapp.net",
       "age": 19,
       "regTime": 1735937139204,
-      "afk": -1,
+      "afk": 1738039925295,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "bobo",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
