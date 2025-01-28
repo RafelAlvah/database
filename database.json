@@ -1198,6 +1198,11 @@
       "cmd": "Join",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Out",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1221,7 +1226,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1498
+      "totalcmd": 1499
     }
   ],
   "clearchat": [],
@@ -1233,7 +1238,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1901,
+      "hit": 1902,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
