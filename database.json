@@ -1130,7 +1130,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 3,
+      "succes": 4,
       "failed": 1
     },
     {
@@ -1255,7 +1255,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1681
+      "totalcmd": 1682
     }
   ],
   "clearchat": [],
@@ -20010,7 +20010,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 63,
-      "hit": 4091,
+      "hit": 4092,
       "date": "20 Desember 2024",
       "money": 40551073,
       "exp": 96536,
@@ -20120,7 +20120,7 @@
       "lasthourly": 0,
       "lastbansos": 1737990403704,
       "lastrampok": 1736625325462,
-      "lastclaim": 1738055187573,
+      "lastclaim": 1738066300375,
       "lastnebang": 0,
       "lastweekly": 1738041991711,
       "lastmonthly": 1736635974029,
@@ -20192,9 +20192,9 @@
       "tiketcoin": "undefined30",
       "lastnambang": 1736486978720,
       "poin": 950000,
-      "sampah": 508,
-      "kayu": 549,
-      "batu": 535,
+      "sampah": 539,
+      "kayu": 574,
+      "batu": 556,
       "lastdate": 1737885479724
     },
     "6287717217561@s.whatsapp.net": {
@@ -158792,7 +158792,7 @@
       "glimit": 79,
       "hit": 240,
       "date": "28 Januari 2025",
-      "money": 553894,
+      "money": 584461,
       "exp": 35866,
       "limit": 128,
       "speed": 0,
@@ -158831,7 +158831,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 26,
+      "wood": 50,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -158961,7 +158961,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1738049287369,
-      "lastparming": 1738062229199,
+      "lastparming": 1738066301119,
       "sampah": null,
       "kayu": null,
       "batu": null,
