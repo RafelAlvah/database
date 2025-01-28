@@ -928,7 +928,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2000
+      "totalcmd": 2001
     }
   ],
   "clearchat": [],
@@ -80845,7 +80845,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2344,
-      "hit": 2234,
+      "hit": 2235,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
