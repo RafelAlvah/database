@@ -1008,7 +1008,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -1133,7 +1133,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 10,
+      "succes": 11,
       "failed": 1
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2277
+      "totalcmd": 2279
     }
   ],
   "clearchat": [],
@@ -97843,7 +97843,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 462,
-      "hit": 1125,
+      "hit": 1126,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97863,9 +97863,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1738066935035,
-      "afk": -1,
+      "afk": 1738078249740,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "galauu",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -127502,7 +127502,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 783,
+      "hit": 784,
       "date": "20 Januari 2025",
       "money": 1229256,
       "exp": 54100,
@@ -127612,7 +127612,7 @@
       "lasthourly": 0,
       "lastbansos": 1737990227915,
       "lastrampok": 0,
-      "lastclaim": 1738070454516,
+      "lastclaim": 1738078248818,
       "lastnebang": 0,
       "lastweekly": 1738041828148,
       "lastmonthly": 1737418805948,
@@ -127677,9 +127677,9 @@
       "poin": 2550000,
       "rokets": 46,
       "lastkerja": 1738078199288,
-      "sampah": 478,
-      "kayu": 545,
-      "batu": 647,
+      "sampah": 484,
+      "kayu": 591,
+      "batu": 683,
       "clay": "undefined1270",
       "sand": "undefined650",
       "berlian": "undefined0",
