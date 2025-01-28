@@ -976,7 +976,7 @@
     },
     {
       "cmd": "Brat2",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -995,24 +995,7 @@
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "nana is not defined",
-      "cmd": "ytmp4"
-    },
-    {
-      "error": "Cannot access 'format' before initialization",
-      "cmd": "ytmp3"
-    },
-    {
-      "error": "number is not defined",
-      "cmd": "ytmp3"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'cmd')",
-      "cmd": "afk"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1033,7 +1016,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 695
+      "totalcmd": 696
     }
   ],
   "clearchat": [],
@@ -158384,7 +158367,7 @@
       "autolevelup": false,
       "serial": "4Y1D",
       "glimit": 30,
-      "hit": 4,
+      "hit": 5,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
