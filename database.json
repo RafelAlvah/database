@@ -1009,7 +1009,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 33,
+      "succes": 34,
       "failed": 0
     },
     {
@@ -1338,7 +1338,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2151
+      "totalcmd": 2152
     }
   ],
   "clearchat": [],
@@ -148369,7 +148369,7 @@
       "autolevelup": false,
       "serial": "LNJI",
       "glimit": 30,
-      "hit": 27,
+      "hit": 28,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
@@ -148389,7 +148389,7 @@
       "pasangan": "",
       "age": -1,
       "regTime": -1,
-      "afk": -1,
+      "afk": 1738075659991,
       "unreg": false,
       "afkReason": "",
       "banned": false,
