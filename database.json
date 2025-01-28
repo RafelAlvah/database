@@ -798,7 +798,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 76,
+      "succes": 77,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2243
+      "totalcmd": 2245
     }
   ],
   "clearchat": [],
@@ -20092,7 +20092,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 48,
-      "hit": 4125,
+      "hit": 4126,
       "date": "20 Desember 2024",
       "money": 48724044,
       "exp": 96536,
@@ -47112,7 +47112,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 11688,
-      "hit": 1640,
+      "hit": 1641,
       "date": "22 Desember 2024",
       "money": 7386137,
       "exp": 25163,
