@@ -688,7 +688,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1008,7 +1008,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 36,
+      "succes": 37,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2270
+      "totalcmd": 2272
     }
   ],
   "clearchat": [],
@@ -98025,7 +98025,7 @@
       "autolevelup": false,
       "serial": "OYAO",
       "glimit": 5,
-      "hit": 320,
+      "hit": 321,
       "date": "3 Januari 2025",
       "money": 3006414,
       "exp": 22193,
@@ -98045,9 +98045,9 @@
       "pasangan": "6285817604058@s.whatsapp.net",
       "age": 15,
       "regTime": 1735978972444,
-      "afk": -1,
+      "afk": 1738078205671,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "tidur",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -127502,7 +127502,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 780,
+      "hit": 781,
       "date": "20 Januari 2025",
       "money": 396465,
       "exp": 48100,
