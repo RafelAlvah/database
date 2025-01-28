@@ -908,7 +908,7 @@
     },
     {
       "cmd": "Weekly",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1138,7 +1138,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1082
+      "totalcmd": 1083
     }
   ],
   "clearchat": [],
@@ -93678,10 +93678,10 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 48,
-      "hit": 582,
+      "hit": 583,
       "date": "1 Januari 2025",
-      "money": 5490689,
-      "exp": 8261,
+      "money": 5526688,
+      "exp": 23261,
       "limit": 45,
       "speed": 0,
       "strength": 0,
@@ -93714,7 +93714,7 @@
       "bank": 0,
       "health": 20,
       "stamina": 75,
-      "potion": 15,
+      "potion": 24,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -93790,7 +93790,7 @@
       "lastrampok": 1737860376520,
       "lastclaim": 1738025630647,
       "lastnebang": 0,
-      "lastweekly": 1737420991574,
+      "lastweekly": 1738042024369,
       "lastmonthly": 1737421012583,
       "apel": 0,
       "anggur": 0,
