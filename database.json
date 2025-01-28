@@ -639,13 +639,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6283825119839",
-      "expired": 1738091979880
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Brat",
@@ -829,7 +823,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -947,7 +941,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 496
+      "totalcmd": 497
     }
   ],
   "clearchat": [],
@@ -19701,8 +19695,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 0,
-      "hit": 4220,
+      "glimit": 100,
+      "hit": 4221,
       "date": "20 Desember 2024",
       "money": 44084977,
       "exp": 11536,
@@ -19730,7 +19724,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 85041677,
+      "balance": 84971677,
       "skillexp": 0,
       "chip": 50,
       "atm": 1,
