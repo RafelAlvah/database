@@ -1036,7 +1036,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1071,7 +1071,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 852
+      "totalcmd": 853
     }
   ],
   "clearchat": [],
@@ -158600,7 +158600,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 0,
-      "hit": 52,
+      "hit": 53,
       "date": "28 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -158612,14 +158612,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "nisalonely",
+      "registered": true,
+      "name": "nisalonly",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 10,
+      "regTime": 1738032796332,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
