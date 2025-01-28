@@ -940,6 +940,11 @@
       "cmd": "Join",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Blacklist",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -961,6 +966,10 @@
     },
     {
       "error": "targetNumber is not defined",
+      "cmd": "blacklist"
+    },
+    {
+      "error": "Cannot access 'usedPrefix' before initialization",
       "cmd": "blacklist"
     }
   ],
@@ -984,7 +993,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 606
+      "totalcmd": 607
     }
   ],
   "clearchat": [],
@@ -996,7 +1005,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2009,
+      "hit": 2010,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
