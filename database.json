@@ -868,7 +868,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1342,7 +1342,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2327
+      "totalcmd": 2329
     }
   ],
   "clearchat": [],
@@ -1354,7 +1354,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1957,
+      "hit": 1958,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -96936,7 +96936,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7875,
+      "hit": 7876,
       "date": "3 Januari 2025",
       "money": 2077940,
       "exp": 69243,
