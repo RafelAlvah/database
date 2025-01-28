@@ -1036,7 +1036,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1071,7 +1071,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 850
+      "totalcmd": 851
     }
   ],
   "clearchat": [],
@@ -46846,7 +46846,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 11478,
-      "hit": 1610,
+      "hit": 1611,
       "date": "22 Desember 2024",
       "money": 7436137,
       "exp": 25163,
@@ -46858,14 +46858,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "ekyyyzzavb",
+      "registered": true,
+      "name": "ekyzaaw",
       "skill": "",
       "ultah": "01,09,2008",
       "sahabat": "",
       "pasangan": "6283824612951@s.whatsapp.net",
       "age": 16,
-      "regTime": 1737904145210,
+      "regTime": 1738032773276,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
