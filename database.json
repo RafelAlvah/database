@@ -653,7 +653,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -941,7 +941,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 524
+      "totalcmd": 525
     }
   ],
   "clearchat": [],
@@ -99421,7 +99421,7 @@
       "autolevelup": false,
       "serial": "RYZ8",
       "glimit": 10,
-      "hit": 100,
+      "hit": 101,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
@@ -99441,7 +99441,7 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1738087840099,
-      "afk": -1,
+      "afk": 1738092263756,
       "unreg": false,
       "afkReason": "",
       "banned": false,
