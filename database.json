@@ -708,7 +708,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1983
+      "totalcmd": 1984
     }
   ],
   "clearchat": [],
@@ -79056,11 +79056,11 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 119,
-      "hit": 586,
+      "hit": 587,
       "date": "29 Desember 2024",
       "money": 7145276,
       "exp": 22006,
-      "limit": 70,
+      "limit": 69,
       "speed": 0,
       "strength": 0,
       "defense": 0,
