@@ -868,7 +868,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -941,7 +941,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 534
+      "totalcmd": 535
     }
   ],
   "clearchat": [],
@@ -13984,7 +13984,7 @@
       "autolevelup": false,
       "serial": "B8RP",
       "glimit": 215,
-      "hit": 68,
+      "hit": 69,
       "date": "19 Desember 2024",
       "money": 3000,
       "exp": 1997,
