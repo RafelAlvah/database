@@ -1250,6 +1250,11 @@
       "cmd": "Fip",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Bd",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1278,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1770
+      "totalcmd": 1771
     }
   ],
   "clearchat": [],
@@ -1290,7 +1295,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1921,
+      "hit": 1922,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
