@@ -1006,7 +1006,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 30,
+      "succes": 31,
       "failed": 0
     },
     {
@@ -1046,7 +1046,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 763
+      "totalcmd": 764
     }
   ],
   "clearchat": [],
@@ -46849,7 +46849,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 150001,
+      "balance": 300001,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -158575,7 +158575,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 5,
-      "hit": 36,
+      "hit": 37,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
