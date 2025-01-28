@@ -920,6 +920,11 @@
       "cmd": "Simi",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Tag",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -956,7 +961,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 577
+      "totalcmd": 578
     }
   ],
   "clearchat": [],
@@ -13999,7 +14004,7 @@
       "autolevelup": false,
       "serial": "B8RP",
       "glimit": 213,
-      "hit": 85,
+      "hit": 86,
       "date": "19 Desember 2024",
       "money": 3000,
       "exp": 1997,
