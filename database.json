@@ -701,7 +701,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1219,7 +1219,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1372
+      "totalcmd": 1373
     }
   ],
   "clearchat": [],
@@ -76826,7 +76826,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 306,
-      "hit": 811,
+      "hit": 812,
       "date": "28 Desember 2024",
       "money": 273662,
       "exp": 27931,
@@ -80789,7 +80789,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 72284755,
+      "balance": 72284555,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
