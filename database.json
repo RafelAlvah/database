@@ -803,7 +803,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -886,7 +886,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 224
+      "totalcmd": 225
     }
   ],
   "clearchat": [],
@@ -176946,8 +176946,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "3TZV",
-      "glimit": 30,
-      "hit": 1,
+      "glimit": 29,
+      "hit": 2,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
