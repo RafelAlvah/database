@@ -653,7 +653,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -941,7 +941,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 525
+      "totalcmd": 526
     }
   ],
   "clearchat": [],
@@ -80483,7 +80483,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2315,
-      "hit": 2302,
+      "hit": 2303,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80503,9 +80503,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1738092256523,
+      "afk": 1738092268962,
       "unreg": false,
-      "afkReason": "bobo",
+      "afkReason": "nikah ma gojo",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
