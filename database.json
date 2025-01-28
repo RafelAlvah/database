@@ -715,6 +715,11 @@
       "cmd": "Merampok",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Family100",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -751,7 +756,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 36
+      "totalcmd": 37
     }
   ],
   "clearchat": [],
@@ -96344,8 +96349,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 531,
-      "hit": 7889,
+      "glimit": 530,
+      "hit": 7890,
       "date": "3 Januari 2025",
       "money": 2538249,
       "exp": 77343,
@@ -119992,7 +119997,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2404668,
+      "balance": 2405668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
