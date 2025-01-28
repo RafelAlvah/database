@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2215
+      "totalcmd": 2216
     }
   ],
   "clearchat": [],
@@ -148368,7 +148368,7 @@
       "autolevelup": false,
       "serial": "LNJI",
       "glimit": 30,
-      "hit": 66,
+      "hit": 67,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
