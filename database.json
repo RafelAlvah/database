@@ -698,7 +698,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1283,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1825
+      "totalcmd": 1826
     }
   ],
   "clearchat": [],
@@ -20038,9 +20038,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 63,
-      "hit": 4100,
+      "hit": 4101,
       "date": "20 Desember 2024",
-      "money": 41250774,
+      "money": 41850774,
       "exp": 96536,
       "limit": 224,
       "speed": 3,
@@ -20072,8 +20072,8 @@
       "atm": 1,
       "fullatm": 500000000,
       "bank": 227517306,
-      "health": 100,
-      "stamina": 120,
+      "health": 20,
+      "stamina": 80,
       "potion": 54,
       "wine": 0,
       "beer": 0,
@@ -20135,7 +20135,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1738066296284,
+      "lastmisi": 1738070535004,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -20210,7 +20210,7 @@
       "timeEnd": "",
       "lastkerja": 1738070515445,
       "lastparming": 1738070524156,
-      "rokets": 74,
+      "rokets": 75,
       "lastmulung": 1738070516442,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
@@ -59033,7 +59033,7 @@
       "glimit": 70,
       "hit": 313,
       "date": "24 Desember 2024",
-      "money": 577324,
+      "money": 620015,
       "exp": 18683,
       "limit": 130,
       "speed": 0,
@@ -59072,7 +59072,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 2,
+      "wood": 48,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -59203,7 +59203,7 @@
       "timeEnd": "",
       "lastmulung": 1738070504681,
       "lastmaling": 1737974050388,
-      "lastparming": 1737974135244,
+      "lastparming": 1738070535966,
       "rokets": null,
       "lastkerja": 1737983387445
     },
