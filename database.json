@@ -921,7 +921,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 58,
+      "succes": 59,
       "failed": 0
     },
     {
@@ -1086,7 +1086,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 919
+      "totalcmd": 920
     }
   ],
   "clearchat": [],
@@ -126175,8 +126175,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "GNIK",
-      "glimit": 29,
-      "hit": 25,
+      "glimit": 28,
+      "hit": 26,
       "date": "13 Januari 2025",
       "money": 66571,
       "exp": 0,
