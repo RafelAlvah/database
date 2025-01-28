@@ -784,7 +784,7 @@
     {
       "cmd": "Menu",
       "succes": 14,
-      "failed": 1
+      "failed": 2
     },
     {
       "cmd": "Tebakbom",
@@ -957,7 +957,12 @@
       "failed": 0
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "countJSFiles is not defined",
+      "cmd": "menu"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -978,7 +983,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 628
+      "totalcmd": 629
     }
   ],
   "clearchat": [],
@@ -990,7 +995,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2018,
+      "hit": 2019,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
