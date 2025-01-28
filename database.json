@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -984,7 +984,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 453
+      "totalcmd": 454
     }
   ],
   "clearchat": [],
@@ -102326,7 +102326,7 @@
       "autolevelup": false,
       "serial": "LYXP",
       "glimit": 30,
-      "hit": 114,
+      "hit": 115,
       "date": "5 Januari 2025",
       "money": 1000,
       "exp": 0,
