@@ -693,7 +693,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -878,7 +878,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 986
+      "totalcmd": 988
     }
   ],
   "clearchat": [],
@@ -99400,10 +99400,10 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 882,
+      "hit": 884,
       "date": "3 Januari 2025",
-      "money": 61677,
-      "exp": 7200,
+      "money": 111677,
+      "exp": 7300,
       "limit": 98,
       "speed": 0,
       "strength": 0,
@@ -99510,7 +99510,7 @@
       "lasthourly": 0,
       "lastbansos": 1737647027487,
       "lastrampok": 1738002132301,
-      "lastclaim": 1738002045249,
+      "lastclaim": 1738039041233,
       "lastnebang": 0,
       "lastweekly": 1737393852369,
       "lastmonthly": 1736547179648,
