@@ -1318,7 +1318,7 @@
     },
     {
       "cmd": "Xvideosearch",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1352,7 +1352,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2343
+      "totalcmd": 2344
     }
   ],
   "clearchat": [],
@@ -1364,7 +1364,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1964,
+      "hit": 1965,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
