@@ -735,6 +735,11 @@
       "cmd": "Ttsanime",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Ytmp4",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -771,7 +776,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 54
+      "totalcmd": 55
     }
   ],
   "clearchat": [],
@@ -176476,11 +176481,11 @@
       "autolevelup": false,
       "serial": "94IW",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
-      "limit": 29,
+      "limit": 28,
       "speed": 0,
       "strength": 0,
       "defense": 0,
