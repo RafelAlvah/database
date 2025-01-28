@@ -1141,7 +1141,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1337
+      "totalcmd": 1338
     }
   ],
   "clearchat": [],
@@ -171373,7 +171373,7 @@
       "autolevelup": false,
       "serial": "4SD5",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
