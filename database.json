@@ -823,7 +823,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -921,7 +921,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 349
+      "totalcmd": 350
     }
   ],
   "clearchat": [],
@@ -80828,7 +80828,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 0,
-      "hit": 295,
+      "hit": 296,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 9999,
