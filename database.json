@@ -1138,7 +1138,7 @@
     },
     {
       "cmd": "Tweetc2",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     }
   ],
@@ -1168,7 +1168,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1181
+      "totalcmd": 1182
     }
   ],
   "clearchat": [],
@@ -1180,7 +1180,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1870,
+      "hit": 1871,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
