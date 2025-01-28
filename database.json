@@ -978,6 +978,11 @@
       "cmd": "Animeindo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Brat2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1014,7 +1019,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 660
+      "totalcmd": 661
     }
   ],
   "clearchat": [],
@@ -151601,7 +151606,7 @@
       "autolevelup": false,
       "serial": "5YGN",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
