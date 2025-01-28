@@ -845,6 +845,11 @@
       "cmd": "Bansos",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Tarik",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -881,7 +886,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 223
+      "totalcmd": 224
     }
   ],
   "clearchat": [],
@@ -96475,9 +96480,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 492,
-      "hit": 7939,
+      "hit": 7940,
       "date": "3 Januari 2025",
-      "money": 223641,
+      "money": 3223641,
       "exp": 77343,
       "limit": 370,
       "speed": 5,
@@ -96508,7 +96513,7 @@
       "chip": 650,
       "atm": 3,
       "fullatm": 1000000000,
-      "bank": 19472605,
+      "bank": 16472605,
       "health": 20,
       "stamina": 65,
       "potion": 46,
