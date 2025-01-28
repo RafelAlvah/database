@@ -1310,6 +1310,11 @@
       "cmd": "Get",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Xnxsearch",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1342,7 +1347,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2331
+      "totalcmd": 2332
     }
   ],
   "clearchat": [],
@@ -1354,7 +1359,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1959,
+      "hit": 1960,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
