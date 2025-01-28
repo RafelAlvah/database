@@ -678,12 +678,12 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 66,
+      "succes": 67,
       "failed": 0
     },
     {
       "cmd": "Mulung",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2268
+      "totalcmd": 2270
     }
   ],
   "clearchat": [],
@@ -127502,9 +127502,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 778,
+      "hit": 780,
       "date": "20 Januari 2025",
-      "money": 275438,
+      "money": 396465,
       "exp": 48100,
       "limit": 330,
       "speed": 0,
@@ -127552,11 +127552,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 32354,
-      "kardus": 33278,
-      "kaleng": 38193,
-      "gelas": 32527,
-      "plastik": 35058,
+      "botol": 32794,
+      "kardus": 33573,
+      "kaleng": 38359,
+      "gelas": 32840,
+      "plastik": 35792,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -127672,11 +127672,11 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastmulung": 1738070446802,
+      "lastmulung": 1738078200267,
       "lastparming": 1738070454579,
       "poin": 2550000,
       "rokets": 45,
-      "lastkerja": 1738071026114,
+      "lastkerja": 1738078199288,
       "sampah": 478,
       "kayu": 545,
       "batu": 647,
