@@ -1029,6 +1029,11 @@
       "cmd": "Afk",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Unreg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1052,7 +1057,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 804
+      "totalcmd": 805
     }
   ],
   "clearchat": [],
@@ -97552,7 +97557,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 462,
-      "hit": 1106,
+      "hit": 1107,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97564,7 +97569,7 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": true,
+      "registered": false,
       "name": "zaza imuppp",
       "skill": "",
       "ultah": "20,08,2011",
