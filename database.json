@@ -648,7 +648,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 57,
+      "succes": 56,
       "failed": 0
     },
     {
@@ -728,7 +728,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 125,
+      "succes": 124,
       "failed": 0
     },
     {
@@ -908,7 +908,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 238,
+      "succes": 231,
       "failed": 0
     },
     {
@@ -928,7 +928,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 9,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -963,7 +963,7 @@
     },
     {
       "cmd": "Tourl",
-      "succes": 9,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1043,7 +1043,7 @@
     },
     {
       "cmd": "Sticker",
-      "succes": 4,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1143,7 +1143,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 36,
+      "succes": 35,
       "failed": 0
     },
     {
@@ -1298,7 +1298,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1958
+      "totalcmd": 1945
     }
   ],
   "clearchat": [],
@@ -1310,7 +1310,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1927,
+      "hit": 1926,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -59045,8 +59045,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 45,
-      "hit": 345,
+      "glimit": 52,
+      "hit": 338,
       "date": "24 Desember 2024",
       "money": 620015,
       "exp": 18683,
@@ -59074,7 +59074,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2110900,
+      "balance": 2100900,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -75654,7 +75654,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 745,
+      "hit": 743,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
@@ -79079,7 +79079,7 @@
       "warning": 0,
       "level": 6,
       "role": "Beginner",
-      "balance": 10315600,
+      "balance": 10300600,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -122472,7 +122472,7 @@
       "autolevelup": false,
       "serial": "DY0Q",
       "glimit": 271,
-      "hit": 168,
+      "hit": 165,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -158861,7 +158861,7 @@
       "warning": 0,
       "level": 5,
       "role": "Beginner",
-      "balance": 1340100,
+      "balance": 1335100,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -177678,7 +177678,35 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ]
+    ],
+    "restart": {
+      "m": {
+        "key": {
+          "remoteJid": "120363361865610907@g.us",
+          "fromMe": false,
+          "id": "9B4400C8C8C0264C5302DC5157359538",
+          "participant": "6287737937323@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".restart",
+            "previewType": "NONE",
+            "contextInfo": {
+              "expiration": 86400,
+              "disappearingMode": {
+                "initiator": "CHANGED_IN_CHAT",
+                "trigger": "UNKNOWN"
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1738071898",
+        "broadcast": false,
+        "pushName": "«< R >»"
+      },
+      "from": "120363361865610907@g.us"
+    }
   },
   "respon": {}
 }
