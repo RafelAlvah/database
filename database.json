@@ -651,7 +651,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 139,
+      "succes": 140,
       "failed": 0
     },
     {
@@ -736,7 +736,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 41,
+      "succes": 42,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1326
+      "totalcmd": 1328
     }
   ],
   "clearchat": [],
@@ -43941,7 +43941,7 @@
       "autolevelup": false,
       "serial": "2FSC",
       "glimit": 25,
-      "hit": 203,
+      "hit": 204,
       "date": "22 Desember 2024",
       "money": 265577,
       "exp": 1309,
@@ -76800,8 +76800,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "GCXP",
-      "glimit": 309,
-      "hit": 798,
+      "glimit": 308,
+      "hit": 799,
       "date": "28 Desember 2024",
       "money": 273662,
       "exp": 27931,
