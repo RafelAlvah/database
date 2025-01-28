@@ -591,9 +591,7 @@
     ",",
     "Menu",
     "Hd",
-    "Restart",
-    "",
-    "Simi"
+    "Restart"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -707,7 +705,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 31,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -717,7 +715,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 18,
+      "succes": 17,
       "failed": 6
     },
     {
@@ -737,7 +735,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 87,
+      "succes": 82,
       "failed": 0
     },
     {
@@ -927,7 +925,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 7,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -987,7 +985,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 57,
+      "succes": 54,
       "failed": 0
     },
     {
@@ -1137,7 +1135,7 @@
     },
     {
       "cmd": "Restart",
-      "succes": 2,
+      "succes": 1,
       "failed": 1
     },
     {
@@ -1229,16 +1227,6 @@
       "cmd": "Ttaudio",
       "succes": 1,
       "failed": 0
-    },
-    {
-      "cmd": "",
-      "succes": 1,
-      "failed": 0
-    },
-    {
-      "cmd": "Simi",
-      "succes": 1,
-      "failed": 0
     }
   ],
   "listerror": [
@@ -1267,7 +1255,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1655
+      "totalcmd": 1641
     }
   ],
   "clearchat": [],
@@ -1279,7 +1267,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1912,
+      "hit": 1910,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -93813,7 +93801,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 612,
+      "hit": 610,
       "date": "1 Januari 2025",
       "money": 5613348,
       "exp": 23261,
@@ -148476,7 +148464,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 28,
-      "hit": 165,
+      "hit": 161,
       "date": "27 Januari 2025",
       "money": 318627,
       "exp": 200,
@@ -158801,12 +158789,12 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "JL9G",
-      "glimit": 87,
-      "hit": 231,
+      "glimit": 90,
+      "hit": 226,
       "date": "28 Januari 2025",
       "money": 553894,
       "exp": 35866,
-      "limit": 126,
+      "limit": 128,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -158830,7 +158818,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 292500,
+      "balance": 262500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -171090,7 +171078,7 @@
       "autolevelup": false,
       "serial": "LBCU",
       "glimit": 30,
-      "hit": 4,
+      "hit": 3,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
@@ -176523,14 +176511,14 @@
     "restart": {
       "m": {
         "key": {
-          "remoteJid": "120363361865610907@g.us",
+          "remoteJid": "120363345100714283@g.us",
           "fromMe": false,
-          "id": "549A630A28A8683BD854C66621D302E6",
+          "id": "140C4A2036DF1A852CF2D07F30718AE1",
           "participant": "6287737937323@s.whatsapp.net"
         },
         "message": {
           "extendedTextMessage": {
-            "text": ".restart bentar",
+            "text": ".restart",
             "previewType": "NONE",
             "contextInfo": {
               "expiration": 86400,
@@ -176542,11 +176530,11 @@
             "inviteLinkGroupTypeV2": "DEFAULT"
           }
         },
-        "messageTimestamp": "1738064866",
+        "messageTimestamp": "1738064610",
         "broadcast": false,
         "pushName": "«< R >»"
       },
-      "from": "120363361865610907@g.us"
+      "from": "120363345100714283@g.us"
     }
   },
   "respon": {}
