@@ -591,7 +591,8 @@
     "Qc2",
     "Tg",
     "Boneka",
-    "Cosplayangel"
+    "Cosplayangel",
+    "2gb"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -982,6 +983,11 @@
       "cmd": "Tourl",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "2gb",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1022,7 +1028,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 692
+      "totalcmd": 693
     }
   ],
   "clearchat": [],
@@ -158551,7 +158557,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 30,
-      "hit": 4,
+      "hit": 5,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
