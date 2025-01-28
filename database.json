@@ -684,7 +684,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1227
+      "totalcmd": 1228
     }
   ],
   "clearchat": [],
@@ -78958,7 +78958,7 @@
       "warning": 0,
       "level": 6,
       "role": "Beginner",
-      "balance": 8092600,
+      "balance": 8097600,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -127342,7 +127342,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 748,
+      "hit": 749,
       "date": "20 Januari 2025",
       "money": 1333251,
       "exp": 35000,
