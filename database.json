@@ -720,6 +720,11 @@
       "cmd": "Family100",
       "succes": 6,
       "failed": 0
+    },
+    {
+      "cmd": "Tt",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -756,7 +761,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 43
+      "totalcmd": 44
     }
   ],
   "clearchat": [],
@@ -768,7 +773,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1978,
+      "hit": 1979,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
