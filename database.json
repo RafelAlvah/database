@@ -532,7 +532,6 @@
     "Spdl",
     "Asmaulhusna",
     "Listtugas",
-    "Restart",
     "Ulartangga",
     "Ayatkursi",
     "Ghost",
@@ -1112,11 +1111,6 @@
       "failed": 2
     },
     {
-      "cmd": "Restart",
-      "succes": 1,
-      "failed": 0
-    },
-    {
       "cmd": "Menu",
       "succes": 0,
       "failed": 1
@@ -1133,6 +1127,11 @@
     },
     {
       "cmd": "Airdrop",
+      "succes": 0,
+      "failed": 1
+    },
+    {
+      "cmd": "Restart",
       "succes": 0,
       "failed": 1
     }
@@ -1171,7 +1170,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1198
+      "totalcmd": 1199
     }
   ],
   "clearchat": [],
@@ -1183,7 +1182,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1884,
+      "hit": 1885,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
