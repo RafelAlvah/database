@@ -736,7 +736,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 61,
+      "succes": 62,
       "failed": 0
     },
     {
@@ -781,7 +781,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1236,7 +1236,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1520
+      "totalcmd": 1522
     }
   ],
   "clearchat": [],
@@ -78989,7 +78989,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 152,
-      "hit": 522,
+      "hit": 523,
       "date": "29 Desember 2024",
       "money": 6432271,
       "exp": 10907,
@@ -93782,7 +93782,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 47,
-      "hit": 601,
+      "hit": 602,
       "date": "1 Januari 2025",
       "money": 5613348,
       "exp": 23261,
