@@ -653,7 +653,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 181,
+      "succes": 182,
       "failed": 0
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1981
+      "totalcmd": 1982
     }
   ],
   "clearchat": [],
@@ -80844,8 +80844,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 2348,
-      "hit": 2228,
+      "glimit": 2347,
+      "hit": 2229,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80865,9 +80865,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1738067587508,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "main epep bntai bermuda",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
