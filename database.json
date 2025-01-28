@@ -641,7 +641,7 @@
   "dashboard": [
     {
       "cmd": "Tf",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -1141,7 +1141,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 24,
+      "succes": 25,
       "failed": 0
     },
     {
@@ -1236,7 +1236,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1551
+      "totalcmd": 1553
     }
   ],
   "clearchat": [],
@@ -19991,7 +19991,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 63,
-      "hit": 4083,
+      "hit": 4084,
       "date": "20 Desember 2024",
       "money": 39757403,
       "exp": 88536,
@@ -20019,7 +20019,7 @@
       "warning": 0,
       "level": 10,
       "role": "Beginner",
-      "balance": 85549677,
+      "balance": 84749677,
       "skillexp": 0,
       "chip": 50,
       "atm": 1,
@@ -79017,7 +79017,7 @@
       "warning": 0,
       "level": 6,
       "role": "Beginner",
-      "balance": 9259600,
+      "balance": 10059600,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -93782,7 +93782,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 608,
+      "hit": 609,
       "date": "1 Januari 2025",
       "money": 5613348,
       "exp": 23261,
