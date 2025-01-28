@@ -860,7 +860,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1183,7 +1183,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1320
+      "totalcmd": 1321
     }
   ],
   "clearchat": [],
@@ -78936,7 +78936,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 172,
-      "hit": 479,
+      "hit": 480,
       "date": "29 Desember 2024",
       "money": 5929285,
       "exp": 4807,
