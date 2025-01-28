@@ -1036,7 +1036,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1081,7 +1081,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 897
+      "totalcmd": 898
     }
   ],
   "clearchat": [],
@@ -1093,7 +1093,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1820,
+      "hit": 1821,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -1105,14 +1105,14 @@
       "joinlimit": 1,
       "pc": 1737909374989,
       "ojekk": 0,
-      "registered": false,
-      "name": "RafelDev",
+      "registered": true,
+      "name": "Rafel",
       "skill": "",
       "ultah": "07,01,2005",
       "sahabat": "",
       "pasangan": "",
-      "age": 19,
-      "regTime": 1734340571144,
+      "age": 20,
+      "regTime": 1738033288588,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
