@@ -1006,11 +1006,16 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
       "cmd": "Maling",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Register",
       "succes": 1,
       "failed": 0
     }
@@ -1036,7 +1041,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 720
+      "totalcmd": 722
     }
   ],
   "clearchat": [],
@@ -151623,7 +151628,7 @@
       "autolevelup": false,
       "serial": "5YGN",
       "glimit": 30,
-      "hit": 7,
+      "hit": 8,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
@@ -158564,8 +158569,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "JL9G",
-      "glimit": 24,
-      "hit": 15,
+      "glimit": 23,
+      "hit": 16,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
