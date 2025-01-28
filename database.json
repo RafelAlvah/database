@@ -876,7 +876,7 @@
     },
     {
       "cmd": "Claim",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -984,7 +984,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 448
+      "totalcmd": 449
     }
   ],
   "clearchat": [],
@@ -99636,7 +99636,7 @@
       "autolevelup": false,
       "serial": "0YVF",
       "glimit": 30,
-      "hit": 88,
+      "hit": 89,
       "date": "4 Januari 2025",
       "money": 6000,
       "exp": 12002,
