@@ -718,7 +718,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 50,
+      "succes": 51,
       "failed": 0
     },
     {
@@ -763,7 +763,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -921,7 +921,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 344
+      "totalcmd": 346
     }
   ],
   "clearchat": [],
@@ -19675,8 +19675,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 10,
-      "hit": 4198,
+      "glimit": 9,
+      "hit": 4199,
       "date": "20 Desember 2024",
       "money": 47025307,
       "exp": 11536,
@@ -120162,7 +120162,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2453668,
+      "balance": 2454668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -146528,7 +146528,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 109,
+      "hit": 110,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
