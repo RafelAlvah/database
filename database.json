@@ -984,7 +984,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 51,
+      "succes": 52,
       "failed": 0
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1273
+      "totalcmd": 1274
     }
   ],
   "clearchat": [],
@@ -78929,8 +78929,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "LYBW",
-      "glimit": 173,
-      "hit": 477,
+      "glimit": 172,
+      "hit": 478,
       "date": "29 Desember 2024",
       "money": 5929285,
       "exp": 4807,
