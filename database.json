@@ -650,7 +650,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 161,
+      "succes": 162,
       "failed": 0
     },
     {
@@ -905,7 +905,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 144,
+      "succes": 145,
       "failed": 0
     },
     {
@@ -1223,7 +1223,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1434
+      "totalcmd": 1436
     }
   ],
   "clearchat": [],
@@ -80764,8 +80764,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 2362,
-      "hit": 2196,
+      "glimit": 2361,
+      "hit": 2197,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -171401,8 +171401,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "4SD5",
-      "glimit": 30,
-      "hit": 5,
+      "glimit": 29,
+      "hit": 6,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
