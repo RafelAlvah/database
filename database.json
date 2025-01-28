@@ -905,7 +905,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 139,
+      "succes": 141,
       "failed": 0
     },
     {
@@ -1223,7 +1223,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1424
+      "totalcmd": 1426
     }
   ],
   "clearchat": [],
@@ -19977,8 +19977,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 74,
-      "hit": 4066,
+      "glimit": 73,
+      "hit": 4067,
       "date": "20 Desember 2024",
       "money": 39696266,
       "exp": 88536,
@@ -80764,8 +80764,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 2366,
-      "hit": 2192,
+      "glimit": 2365,
+      "hit": 2193,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
