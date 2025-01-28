@@ -1009,7 +1009,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -1338,7 +1338,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2159
+      "totalcmd": 2160
     }
   ],
   "clearchat": [],
@@ -1350,7 +1350,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1950,
+      "hit": 1951,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -1370,7 +1370,7 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1738055824786,
-      "afk": -1,
+      "afk": 1738075762358,
       "unreg": true,
       "afkReason": "",
       "banned": false,
