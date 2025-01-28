@@ -653,7 +653,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -1138,7 +1138,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1081
+      "totalcmd": 1082
     }
   ],
   "clearchat": [],
@@ -128023,7 +128023,7 @@
       "autolevelup": false,
       "serial": "BQLQ",
       "glimit": 30,
-      "hit": 13,
+      "hit": 14,
       "date": "21 Januari 2025",
       "money": 1000,
       "exp": 0,
