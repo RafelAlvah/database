@@ -762,7 +762,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -860,7 +860,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 184
+      "totalcmd": 185
     }
   ],
   "clearchat": [],
@@ -99340,7 +99340,7 @@
       "autolevelup": false,
       "serial": "RYZ8",
       "glimit": 29,
-      "hit": 50,
+      "hit": 51,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
@@ -99352,14 +99352,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "メイイ",
+      "registered": true,
+      "name": "May",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 19,
+      "regTime": 1738087840099,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
