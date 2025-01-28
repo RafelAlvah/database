@@ -743,7 +743,7 @@
     },
     {
       "cmd": "Limit",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -843,7 +843,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -921,7 +921,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 347
+      "totalcmd": 349
     }
   ],
   "clearchat": [],
@@ -80828,7 +80828,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 0,
-      "hit": 294,
+      "hit": 295,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 9999,
@@ -96515,9 +96515,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 492,
-      "hit": 7967,
+      "hit": 7968,
       "date": "3 Januari 2025",
-      "money": 3318697,
+      "money": 6318697,
       "exp": 77343,
       "limit": 370,
       "speed": 5,
@@ -96623,7 +96623,7 @@
       "lastberkebon": 0,
       "lastdagang": 1738083527343,
       "lasthourly": 0,
-      "lastbansos": 1738088802725,
+      "lastbansos": 1738089561892,
       "lastrampok": 1738088780293,
       "lastclaim": 1738088132585,
       "lastnebang": 0,
