@@ -723,7 +723,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -765,6 +765,11 @@
       "cmd": "Daftar",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "S",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -801,7 +806,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 90
+      "totalcmd": 92
     }
   ],
   "clearchat": [],
@@ -813,7 +818,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1990,
+      "hit": 1991,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -16343,7 +16348,7 @@
       "autolevelup": false,
       "serial": "82GO",
       "glimit": 24,
-      "hit": 203,
+      "hit": 204,
       "date": "19 Desember 2024",
       "money": 1657657,
       "exp": 6979,
@@ -16363,9 +16368,9 @@
       "pasangan": "",
       "age": 25,
       "regTime": 1737644767938,
-      "afk": 1738081312911,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "bikin sunami di bumi selama 1 bulan aja",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -19584,7 +19589,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 85052677,
+      "balance": 85057677,
       "skillexp": 0,
       "chip": 50,
       "atm": 1,
