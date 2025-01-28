@@ -673,7 +673,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -1176,7 +1176,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1221
+      "totalcmd": 1222
     }
   ],
   "clearchat": [],
@@ -78929,9 +78929,9 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 177,
-      "hit": 469,
+      "hit": 470,
       "date": "29 Desember 2024",
-      "money": 5746664,
+      "money": 5885818,
       "exp": 4807,
       "limit": 70,
       "speed": 0,
@@ -79099,7 +79099,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738046117451,
+      "lastkerja": 1738055183833,
       "lastmaling": 1737974686362,
       "lastparming": 1738049792610,
       "lastmulung": 1738049789665,
