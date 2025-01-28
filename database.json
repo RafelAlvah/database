@@ -1195,20 +1195,7 @@
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "ppnyauser is not defined",
-      "cmd": "tweetc2"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'length')",
-      "cmd": "tweetc2"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'cmd')",
-      "cmd": ""
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
