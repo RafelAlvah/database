@@ -698,7 +698,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 36,
+      "succes": 37,
       "failed": 0
     },
     {
@@ -1298,7 +1298,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1862
+      "totalcmd": 1863
     }
   ],
   "clearchat": [],
@@ -79051,10 +79051,10 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 149,
-      "hit": 550,
+      "hit": 551,
       "date": "29 Desember 2024",
-      "money": 6505549,
-      "exp": 11007,
+      "money": 7005549,
+      "exp": 12007,
       "limit": 70,
       "speed": 0,
       "strength": 0,
@@ -79085,8 +79085,8 @@
       "atm": 0,
       "fullatm": 0,
       "bank": 0,
-      "health": 100,
-      "stamina": 100,
+      "health": 20,
+      "stamina": 60,
       "potion": 6,
       "wine": 0,
       "beer": 0,
@@ -79148,7 +79148,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1738059961947,
+      "lastmisi": 1738070778004,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -79225,7 +79225,7 @@
       "lastmaling": 1737974686362,
       "lastparming": 1738070752959,
       "lastmulung": 1738070758468,
-      "rokets": 6,
+      "rokets": 7,
       "poin": null,
       "sampah": null,
       "kayu": null,
