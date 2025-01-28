@@ -705,6 +705,11 @@
       "cmd": "Berdagang",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Money",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -741,7 +746,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 31
+      "totalcmd": 32
     }
   ],
   "clearchat": [],
@@ -96335,7 +96340,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7887,
+      "hit": 7888,
       "date": "3 Januari 2025",
       "money": 2492183,
       "exp": 77343,
