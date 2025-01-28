@@ -823,7 +823,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -921,7 +921,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 351
+      "totalcmd": 352
     }
   ],
   "clearchat": [],
@@ -80827,8 +80827,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WQHL",
-      "glimit": 0,
-      "hit": 296,
+      "glimit": 10,
+      "hit": 297,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 9999,
@@ -80856,7 +80856,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 1082223,
+      "balance": 1075223,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
