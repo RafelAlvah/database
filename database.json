@@ -738,7 +738,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 186,
+      "succes": 187,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2291
+      "totalcmd": 2292
     }
   ],
   "clearchat": [],
@@ -20092,10 +20092,10 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 47,
-      "hit": 4131,
+      "hit": 4132,
       "date": "20 Desember 2024",
-      "money": 48780994,
-      "exp": 104536,
+      "money": 48791994,
+      "exp": 4536,
       "limit": 224,
       "speed": 3,
       "strength": 5,
@@ -20118,7 +20118,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 10,
+      "level": 11,
       "role": "Beginner",
       "balance": 83978677,
       "skillexp": 0,
