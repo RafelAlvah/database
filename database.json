@@ -748,7 +748,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 41,
+      "succes": 42,
       "failed": 0
     },
     {
@@ -848,7 +848,7 @@
     },
     {
       "cmd": "Tarik",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -891,7 +891,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 279
+      "totalcmd": 281
     }
   ],
   "clearchat": [],
@@ -96485,9 +96485,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 492,
-      "hit": 7947,
+      "hit": 7948,
       "date": "3 Januari 2025",
-      "money": 318697,
+      "money": 3318697,
       "exp": 77343,
       "limit": 370,
       "speed": 5,
@@ -96513,12 +96513,12 @@
       "warning": 0,
       "level": 12,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 101398111,
+      "balance": 101399111,
       "skillexp": 0,
       "chip": 650,
       "atm": 3,
       "fullatm": 1000000000,
-      "bank": 13472605,
+      "bank": 10472605,
       "health": 20,
       "stamina": 65,
       "potion": 46,
@@ -99371,7 +99371,7 @@
       "autolevelup": false,
       "serial": "RYZ8",
       "glimit": 26,
-      "hit": 55,
+      "hit": 56,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
