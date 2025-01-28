@@ -688,7 +688,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -748,7 +748,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 35,
+      "succes": 37,
       "failed": 0
     },
     {
@@ -876,7 +876,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 210
+      "totalcmd": 213
     }
   ],
   "clearchat": [],
@@ -80783,7 +80783,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 11,
-      "hit": 271,
+      "hit": 272,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -99355,8 +99355,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "RYZ8",
-      "glimit": 29,
-      "hit": 51,
+      "glimit": 28,
+      "hit": 52,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
@@ -129547,11 +129547,11 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 493,
+      "hit": 494,
       "date": "22 Januari 2025",
-      "money": 612440,
+      "money": 622440,
       "exp": 40700,
-      "limit": 230,
+      "limit": 260,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -129657,7 +129657,7 @@
       "lasthourly": 0,
       "lastbansos": 1737990339350,
       "lastrampok": 0,
-      "lastclaim": 1738070608781,
+      "lastclaim": 1738088121844,
       "lastnebang": 0,
       "lastweekly": 1737552170003,
       "lastmonthly": 1737552175152,
@@ -129727,7 +129727,7 @@
       "tiketcoin": "undefined10",
       "lastnambang": 1737547165719,
       "rokets": 26,
-      "poin": 1330000,
+      "poin": 1430000,
       "sampah": 219,
       "kayu": 228,
       "batu": 222
