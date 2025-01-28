@@ -653,7 +653,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -898,7 +898,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1138,7 +1138,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1074
+      "totalcmd": 1076
     }
   ],
   "clearchat": [],
@@ -19934,7 +19934,7 @@
       "beer": 0,
       "trash": 1000,
       "coal": 0,
-      "wood": 1971,
+      "wood": 2370,
       "rock": 5,
       "string": 6,
       "petfood": 0,
@@ -93678,7 +93678,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 48,
-      "hit": 581,
+      "hit": 582,
       "date": "1 Januari 2025",
       "money": 5490689,
       "exp": 8261,
@@ -129803,7 +129803,7 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 446,
+      "hit": 447,
       "date": "22 Januari 2025",
       "money": 3140009,
       "exp": 22700,
@@ -129844,7 +129844,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 399,
+      "wood": 0,
       "rock": 1,
       "string": 1,
       "petfood": 0,
