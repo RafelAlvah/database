@@ -880,6 +880,11 @@
       "cmd": "Verify",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Buylimit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -916,7 +921,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 339
+      "totalcmd": 340
     }
   ],
   "clearchat": [],
@@ -80823,11 +80828,11 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 0,
-      "hit": 291,
+      "hit": 292,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 9999,
-      "limit": 22,
+      "limit": 32,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -80851,7 +80856,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 1097223,
+      "balance": 1087223,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
