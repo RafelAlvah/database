@@ -1158,6 +1158,11 @@
       "cmd": "Siapaaku",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Rpg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1194,7 +1199,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1357
+      "totalcmd": 1358
     }
   ],
   "clearchat": [],
@@ -76801,7 +76806,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 306,
-      "hit": 804,
+      "hit": 805,
       "date": "28 Desember 2024",
       "money": 273662,
       "exp": 27931,
