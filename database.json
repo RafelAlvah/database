@@ -970,7 +970,7 @@
     },
     {
       "cmd": "Sc",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1250,7 +1250,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1576
+      "totalcmd": 1577
     }
   ],
   "clearchat": [],
@@ -135818,7 +135818,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 13,
-      "hit": 141,
+      "hit": 142,
       "date": "24 Januari 2025",
       "money": 760567,
       "exp": 15098,
