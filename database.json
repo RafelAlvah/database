@@ -1031,7 +1031,7 @@
     },
     {
       "cmd": "Unreg",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1081,7 +1081,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 892
+      "totalcmd": 893
     }
   ],
   "clearchat": [],
@@ -1093,7 +1093,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1817,
+      "hit": 1818,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -1105,7 +1105,7 @@
       "joinlimit": 1,
       "pc": 1737909374989,
       "ojekk": 0,
-      "registered": true,
+      "registered": false,
       "name": "RafelDev",
       "skill": "",
       "ultah": "07,01,2005",
@@ -1114,7 +1114,7 @@
       "age": 19,
       "regTime": 1734340571144,
       "afk": -1,
-      "unreg": false,
+      "unreg": true,
       "afkReason": "",
       "banned": false,
       "lastBanned": 0,
