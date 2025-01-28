@@ -721,7 +721,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1229,7 +1229,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1479
+      "totalcmd": 1480
     }
   ],
   "clearchat": [],
@@ -4838,11 +4838,11 @@
       "autolevelup": false,
       "serial": "DINP",
       "glimit": 30,
-      "hit": 30,
+      "hit": 31,
       "date": "16 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 8,
+      "limit": 7,
       "speed": 0,
       "strength": 0,
       "defense": 0,
