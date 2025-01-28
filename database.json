@@ -840,6 +840,11 @@
       "cmd": "Buy",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Bansos",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -876,7 +881,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 221
+      "totalcmd": 222
     }
   ],
   "clearchat": [],
@@ -96470,9 +96475,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 492,
-      "hit": 7938,
+      "hit": 7939,
       "date": "3 Januari 2025",
-      "money": 3223641,
+      "money": 223641,
       "exp": 77343,
       "limit": 370,
       "speed": 5,
@@ -96578,7 +96583,7 @@
       "lastberkebon": 0,
       "lastdagang": 1738083527343,
       "lasthourly": 0,
-      "lastbansos": 1738001690870,
+      "lastbansos": 1738088157984,
       "lastrampok": 1738083576575,
       "lastclaim": 1738088132585,
       "lastnebang": 0,
