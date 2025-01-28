@@ -1014,7 +1014,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1284,7 +1284,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1765
+      "totalcmd": 1766
     }
   ],
   "clearchat": [],
@@ -80826,7 +80826,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2348,
-      "hit": 2226,
+      "hit": 2227,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80846,9 +80846,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": -1,
+      "afk": 1738067487372,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "main epep sambil denger lagu galau auto bantai Bermuda🥺🫰🏻",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
