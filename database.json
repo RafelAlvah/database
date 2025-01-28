@@ -775,6 +775,11 @@
       "cmd": "Ai",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Susunkata",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -811,7 +816,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 118
+      "totalcmd": 119
     }
   ],
   "clearchat": [],
@@ -76417,8 +76422,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "GCXP",
-      "glimit": 305,
-      "hit": 823,
+      "glimit": 304,
+      "hit": 824,
       "date": "28 Desember 2024",
       "money": 98662,
       "exp": 27931,
@@ -76446,7 +76451,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 11589872,
+      "balance": 11590872,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
