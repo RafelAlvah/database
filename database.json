@@ -943,7 +943,7 @@
     },
     {
       "cmd": "Blacklist",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     }
   ],
@@ -993,7 +993,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 609
+      "totalcmd": 610
     }
   ],
   "clearchat": [],
@@ -1005,7 +1005,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2010,
+      "hit": 2011,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
