@@ -883,7 +883,7 @@
     },
     {
       "cmd": "Buylimit",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -941,7 +941,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 505
+      "totalcmd": 506
     }
   ],
   "clearchat": [],
@@ -99421,11 +99421,11 @@
       "autolevelup": false,
       "serial": "RYZ8",
       "glimit": 0,
-      "hit": 94,
+      "hit": 95,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
-      "limit": 40,
+      "limit": 60,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -99449,7 +99449,7 @@
       "warning": 0,
       "level": 3,
       "role": "Beginner",
-      "balance": 208500,
+      "balance": 188500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
