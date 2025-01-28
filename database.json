@@ -933,7 +933,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -993,7 +993,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 607
+      "totalcmd": 608
     }
   ],
   "clearchat": [],
@@ -66606,11 +66606,11 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 440,
-      "hit": 757,
+      "hit": 758,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
-      "limit": 102,
+      "limit": 100,
       "speed": 0,
       "strength": 0,
       "defense": 0,
