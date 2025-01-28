@@ -639,7 +639,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6283833024905",
+      "expired": 1738067489568
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Tf",
