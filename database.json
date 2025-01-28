@@ -946,7 +946,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -1076,7 +1076,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 868
+      "totalcmd": 869
     }
   ],
   "clearchat": [],
@@ -46850,8 +46850,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 11677,
-      "hit": 1615,
+      "glimit": 11687,
+      "hit": 1616,
       "date": "22 Desember 2024",
       "money": 7436137,
       "exp": 25163,
@@ -46879,7 +46879,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 10801,
+      "balance": 3801,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
