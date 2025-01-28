@@ -1115,7 +1115,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 1,
+      "succes": 2,
       "failed": 1
     },
     {
@@ -1218,7 +1218,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1405
+      "totalcmd": 1407
     }
   ],
   "clearchat": [],
@@ -76825,7 +76825,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 305,
-      "hit": 821,
+      "hit": 822,
       "date": "28 Desember 2024",
       "money": 98662,
       "exp": 27931,
@@ -164455,7 +164455,7 @@
       "autolevelup": false,
       "serial": "NU9K",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
