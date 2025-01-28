@@ -562,7 +562,6 @@
     "Addcmdprem",
     "Delcmdprem",
     "Caripenyakit",
-    "Instagram",
     "Qc",
     "Link",
     "Vn",
@@ -1241,7 +1240,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1568
+      "totalcmd": 1569
     }
   ],
   "clearchat": [],
@@ -149342,7 +149341,7 @@
       "autolevelup": false,
       "serial": "SW3X",
       "glimit": 30,
-      "hit": 30,
+      "hit": 31,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
