@@ -949,7 +949,7 @@
     {
       "cmd": "Menu",
       "succes": 0,
-      "failed": 3
+      "failed": 4
     },
     {
       "cmd": "Restart",
@@ -968,6 +968,10 @@
     },
     {
       "error": "totalJSFiles is not defined",
+      "cmd": "menu"
+    },
+    {
+      "error": "thumbnailUrl is not defined",
       "cmd": "menu"
     }
   ],
@@ -991,7 +995,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 636
+      "totalcmd": 637
     }
   ],
   "clearchat": [],
@@ -1003,7 +1007,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2025,
+      "hit": 2026,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
