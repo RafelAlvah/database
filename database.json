@@ -678,7 +678,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 50,
+      "succes": 51,
       "failed": 0
     },
     {
@@ -1143,7 +1143,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -1278,7 +1278,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1734
+      "totalcmd": 1736
     }
   ],
   "clearchat": [],
@@ -20033,7 +20033,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 63,
-      "hit": 4092,
+      "hit": 4093,
       "date": "20 Desember 2024",
       "money": 40551073,
       "exp": 96536,
@@ -158813,10 +158813,10 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 79,
-      "hit": 248,
+      "hit": 249,
       "date": "28 Januari 2025",
-      "money": 884461,
-      "exp": 43866,
+      "money": 889461,
+      "exp": 3866,
       "limit": 128,
       "speed": 0,
       "strength": 0,
@@ -158839,7 +158839,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 4,
+      "level": 5,
       "role": "Beginner",
       "balance": 325300,
       "skillexp": 0,
