@@ -1015,7 +1015,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1250,7 +1250,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1612
+      "totalcmd": 1613
     }
   ],
   "clearchat": [],
@@ -172141,7 +172141,7 @@
       "autolevelup": false,
       "serial": "KUDR",
       "glimit": 30,
-      "hit": 4,
+      "hit": 5,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
@@ -172153,14 +172153,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "lelee",
+      "registered": true,
+      "name": "letisyah",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 14,
+      "regTime": 1738063775284,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
