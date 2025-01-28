@@ -713,7 +713,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1143,7 +1143,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1093
+      "totalcmd": 1094
     }
   ],
   "clearchat": [],
@@ -19898,9 +19898,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 87,
-      "hit": 4010,
+      "hit": 4011,
       "date": "20 Desember 2024",
-      "money": 39019257,
+      "money": 38019257,
       "exp": 86436,
       "limit": 204,
       "speed": 3,
@@ -19928,7 +19928,7 @@
       "role": "Beginner",
       "balance": 86208677,
       "skillexp": 0,
-      "chip": 49,
+      "chip": 50,
       "atm": 1,
       "fullatm": 500000000,
       "bank": 237517306,
