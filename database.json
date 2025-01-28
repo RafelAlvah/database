@@ -778,7 +778,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -836,7 +836,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 152
+      "totalcmd": 153
     }
   ],
   "clearchat": [],
@@ -80742,8 +80742,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WQHL",
-      "glimit": 20,
-      "hit": 261,
+      "glimit": 19,
+      "hit": 262,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
