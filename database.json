@@ -589,7 +589,8 @@
     "Afk",
     "Daftar-lewar-video",
     "Daftar-lewat-pesan",
-    "Me"
+    "Me",
+    "Airdrop"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1128,7 +1129,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     },
     {
@@ -1176,7 +1177,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1222
+      "totalcmd": 1223
     }
   ],
   "clearchat": [],
@@ -19931,7 +19932,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 82,
-      "hit": 4053,
+      "hit": 4054,
       "date": "20 Desember 2024",
       "money": 39668304,
       "exp": 88536,
@@ -20041,7 +20042,7 @@
       "lasthourly": 0,
       "lastbansos": 1737990403704,
       "lastrampok": 1736625325462,
-      "lastclaim": 1738049032223,
+      "lastclaim": 1738055187573,
       "lastnebang": 0,
       "lastweekly": 1738041991711,
       "lastmonthly": 1736635974029,
@@ -20113,9 +20114,9 @@
       "tiketcoin": "undefined30",
       "lastnambang": 1736486978720,
       "poin": 950000,
-      "sampah": 495,
-      "kayu": 538,
-      "batu": 509,
+      "sampah": 508,
+      "kayu": 549,
+      "batu": 535,
       "lastdate": 1737885479724
     },
     "6287717217561@s.whatsapp.net": {
