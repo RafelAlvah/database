@@ -1301,6 +1301,11 @@
       "cmd": "Addvn",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Nambang",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1333,7 +1338,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2136
+      "totalcmd": 2137
     }
   ],
   "clearchat": [],
@@ -148364,10 +148369,10 @@
       "autolevelup": false,
       "serial": "LNJI",
       "glimit": 30,
-      "hit": 22,
+      "hit": 23,
       "date": "27 Januari 2025",
       "money": 0,
-      "exp": 0,
+      "exp": "0880",
       "limit": 20,
       "speed": 0,
       "strength": 0,
@@ -148399,27 +148404,27 @@
       "fullatm": 0,
       "bank": 0,
       "health": 100,
-      "stamina": 100,
+      "stamina": 80,
       "potion": 0,
       "wine": 0,
       "beer": 0,
       "trash": 0,
-      "coal": 0,
+      "coal": "010",
       "wood": 0,
-      "rock": 0,
+      "rock": "0250",
       "string": 0,
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
-      "emerald": 0,
-      "diamond": 0,
-      "gold": 0,
+      "emerald": "020",
+      "diamond": "020",
+      "gold": "060",
       "botol": 0,
       "kardus": 0,
       "kaleng": 0,
       "gelas": 0,
       "plastik": 0,
-      "iron": 0,
+      "iron": "060",
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
@@ -148533,7 +148538,13 @@
       "dirawat": false,
       "antarpaket": 0,
       "timeOrder": "",
-      "timeEnd": ""
+      "timeEnd": "",
+      "clay": "undefined1720",
+      "sand": "undefined860",
+      "berlian": "undefined60",
+      "emas": "undefined60",
+      "tiketcoin": "undefined60",
+      "lastnambang": 1738075511875
     },
     "6288213607916@s.whatsapp.net": {
       "sticker": {},
