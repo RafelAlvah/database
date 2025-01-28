@@ -955,6 +955,11 @@
       "cmd": "Restart",
       "succes": 1,
       "failed": 1
+    },
+    {
+      "cmd": "On",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -991,7 +996,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 639
+      "totalcmd": 640
     }
   ],
   "clearchat": [],
@@ -1003,7 +1008,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2028,
+      "hit": 2029,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
