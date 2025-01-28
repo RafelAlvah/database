@@ -871,7 +871,7 @@
     },
     {
       "cmd": "Buylimit",
-      "succes": 7,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -984,7 +984,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 492
+      "totalcmd": 494
     }
   ],
   "clearchat": [],
@@ -46759,11 +46759,11 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 5692,
-      "hit": 1511,
+      "hit": 1513,
       "date": "22 Desember 2024",
       "money": 7436137,
       "exp": 25163,
-      "limit": 5250,
+      "limit": 23250,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -46787,7 +46787,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 18313911,
+      "balance": 313911,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
