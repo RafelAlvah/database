@@ -651,7 +651,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 21,
+      "succes": 22,
       "failed": 0
     },
     {
@@ -1071,7 +1071,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 856
+      "totalcmd": 857
     }
   ],
   "clearchat": [],
@@ -76706,7 +76706,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 11477072,
+      "balance": 11476872,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -146672,7 +146672,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 67,
+      "hit": 68,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
