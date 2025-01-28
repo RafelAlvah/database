@@ -1016,7 +1016,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1360
+      "totalcmd": 1361
     }
   ],
   "clearchat": [],
@@ -171388,7 +171388,7 @@
       "autolevelup": false,
       "serial": "4SD5",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
@@ -171400,14 +171400,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "hikmah",
+      "registered": true,
+      "name": "daftar hikmah",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 16,
+      "regTime": 1738056586853,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
