@@ -949,7 +949,7 @@
     {
       "cmd": "Menu",
       "succes": 2,
-      "failed": 3
+      "failed": 4
     },
     {
       "cmd": "Restart",
@@ -974,6 +974,10 @@
     {
       "error": "totalJSFiles is not defined",
       "cmd": "menu"
+    },
+    {
+      "error": "outputString is not defined",
+      "cmd": "menu"
     }
   ],
   "jadibot": {},
@@ -996,7 +1000,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 640
+      "totalcmd": 641
     }
   ],
   "clearchat": [],
@@ -1008,7 +1012,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2029,
+      "hit": 2030,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
