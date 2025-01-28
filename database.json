@@ -888,7 +888,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 997
+      "totalcmd": 998
     }
   ],
   "clearchat": [],
@@ -99400,7 +99400,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 890,
+      "hit": 891,
       "date": "3 Januari 2025",
       "money": 206377,
       "exp": 9300,
