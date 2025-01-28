@@ -1009,7 +1009,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 30,
+      "succes": 31,
       "failed": 0
     },
     {
@@ -1314,7 +1314,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2102
+      "totalcmd": 2103
     }
   ],
   "clearchat": [],
@@ -80856,7 +80856,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2331,
-      "hit": 2258,
+      "hit": 2259,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80876,15 +80876,15 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": -1,
+      "afk": 1738074605026,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "nikah ma gojo",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 71161755,
+      "balance": 71162755,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
