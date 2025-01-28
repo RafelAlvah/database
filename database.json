@@ -753,7 +753,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -883,7 +883,7 @@
     },
     {
       "cmd": "Buylimit",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -941,7 +941,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 503
+      "totalcmd": 505
     }
   ],
   "clearchat": [],
@@ -13984,11 +13984,11 @@
       "autolevelup": false,
       "serial": "B8RP",
       "glimit": 0,
-      "hit": 57,
+      "hit": 58,
       "date": "19 Desember 2024",
       "money": 3000,
       "exp": 1997,
-      "limit": 28,
+      "limit": 38,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -14012,7 +14012,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 1865188,
+      "balance": 1855188,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -80848,7 +80848,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 10,
-      "hit": 313,
+      "hit": 314,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
