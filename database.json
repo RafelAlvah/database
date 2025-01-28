@@ -933,7 +933,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 50,
+      "succes": 51,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2275
+      "totalcmd": 2276
     }
   ],
   "clearchat": [],
@@ -59085,7 +59085,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 49,
-      "hit": 359,
+      "hit": 360,
       "date": "24 Desember 2024",
       "money": 620015,
       "exp": 18683,
