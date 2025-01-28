@@ -1168,6 +1168,11 @@
       "cmd": "On",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Antilink",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1204,7 +1209,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1359
+      "totalcmd": 1360
     }
   ],
   "clearchat": [],
@@ -76811,7 +76816,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 306,
-      "hit": 806,
+      "hit": 807,
       "date": "28 Desember 2024",
       "money": 273662,
       "exp": 27931,
@@ -172937,7 +172942,7 @@
       "desc": true,
       "descUpdate": true,
       "autostiker": false,
-      "antilink": false,
+      "antilink": true,
       "antilinkgc": false,
       "antilinkch": false,
       "antidelete": false,
