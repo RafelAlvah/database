@@ -1008,7 +1008,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -1342,7 +1342,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2313
+      "totalcmd": 2314
     }
   ],
   "clearchat": [],
@@ -59090,7 +59090,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 249,
-      "hit": 361,
+      "hit": 362,
       "date": "24 Desember 2024",
       "money": 620015,
       "exp": 18683,
@@ -59110,9 +59110,9 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1737974019813,
-      "afk": -1,
+      "afk": 1738078800694,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "lgi cmbru",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
