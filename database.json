@@ -923,7 +923,7 @@
     },
     {
       "cmd": "S",
-      "succes": 4,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1283,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1778
+      "totalcmd": 1780
     }
   ],
   "clearchat": [],
@@ -175736,7 +175736,7 @@
       "autolevelup": false,
       "serial": "0PVD",
       "glimit": 30,
-      "hit": 1,
+      "hit": 3,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
