@@ -663,7 +663,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -673,7 +673,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -891,7 +891,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 268
+      "totalcmd": 270
     }
   ],
   "clearchat": [],
@@ -19646,9 +19646,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 17,
-      "hit": 4189,
+      "hit": 4190,
       "date": "20 Desember 2024",
-      "money": 46955649,
+      "money": 47025307,
       "exp": 11536,
       "limit": 244,
       "speed": 3,
@@ -19816,7 +19816,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738088016758,
+      "lastkerja": 1738088740104,
       "lastparming": 1738088033129,
       "rokets": 77,
       "lastmulung": 1738088020793,
@@ -132787,7 +132787,7 @@
       "autolevelup": false,
       "serial": "OMUC",
       "glimit": 30,
-      "hit": 60,
+      "hit": 61,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
