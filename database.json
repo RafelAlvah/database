@@ -1281,6 +1281,11 @@
       "cmd": "Simi",
       "succes": 4,
       "failed": 0
+    },
+    {
+      "cmd": "Putus",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1309,7 +1314,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2091
+      "totalcmd": 2092
     }
   ],
   "clearchat": [],
@@ -79062,7 +79067,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 119,
-      "hit": 595,
+      "hit": 596,
       "date": "29 Desember 2024",
       "money": 7145276,
       "exp": 22006,
