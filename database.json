@@ -593,7 +593,8 @@
     "Fip",
     "Simi",
     "Deal",
-    "Menu"
+    "Menu",
+    "Restart"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -952,7 +953,7 @@
     },
     {
       "cmd": "Restart",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     }
   ],
@@ -990,7 +991,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 634
+      "totalcmd": 635
     }
   ],
   "clearchat": [],
@@ -1002,7 +1003,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2023,
+      "hit": 2024,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -178626,7 +178627,24 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ]
+    ],
+    "restart": {
+      "m": {
+        "key": {
+          "remoteJid": "120363368609225438@g.us",
+          "fromMe": false,
+          "id": "624A5AD2D9019D818004CCCE6CACDC62",
+          "participant": "6287737937323@s.whatsapp.net"
+        },
+        "message": {
+          "conversation": ".restart"
+        },
+        "messageTimestamp": "1738103288",
+        "broadcast": false,
+        "pushName": "«< R >»"
+      },
+      "from": "120363368609225438@g.us"
+    }
   },
   "respon": {}
 }
