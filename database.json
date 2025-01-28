@@ -728,7 +728,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 118,
+      "succes": 119,
       "failed": 0
     },
     {
@@ -1253,7 +1253,7 @@
     },
     {
       "cmd": "Bd",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1283,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1771
+      "totalcmd": 1773
     }
   ],
   "clearchat": [],
@@ -1295,7 +1295,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1922,
+      "hit": 1923,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -81012,7 +81012,7 @@
       "autolevelup": false,
       "serial": "RETA",
       "glimit": 30,
-      "hit": 31,
+      "hit": 32,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
