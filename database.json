@@ -1118,7 +1118,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 5,
+      "succes": 6,
       "failed": 1
     },
     {
@@ -1283,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1796
+      "totalcmd": 1797
     }
   ],
   "clearchat": [],
@@ -146890,7 +146890,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 94,
+      "hit": 95,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
