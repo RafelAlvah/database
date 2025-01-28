@@ -683,12 +683,12 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 24,
+      "succes": 25,
       "failed": 0
     },
     {
       "cmd": "Nebang",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -1293,7 +1293,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1836
+      "totalcmd": 1838
     }
   ],
   "clearchat": [],
@@ -75284,7 +75284,7 @@
       "autolevelup": false,
       "serial": "CXH5",
       "glimit": 1162,
-      "hit": 885,
+      "hit": 886,
       "date": "27 Desember 2024",
       "money": 4944576,
       "exp": 36493,
@@ -75334,11 +75334,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 1770,
-      "kardus": 53,
-      "kaleng": 1536,
-      "gelas": 2121,
-      "plastik": 2009,
+      "botol": 2149,
+      "kardus": 227,
+      "kaleng": 1660,
+      "gelas": 3093,
+      "plastik": 2431,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -75456,7 +75456,7 @@
       "timeEnd": "",
       "lastkerja": 1738070560336,
       "rokets": 3,
-      "lastmulung": 1736777727604,
+      "lastmulung": 1738070607466,
       "clay": "undefined1920",
       "sand": "undefined920",
       "berlian": "undefined10",
@@ -129964,7 +129964,7 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 482,
+      "hit": 483,
       "date": "22 Januari 2025",
       "money": 2741230,
       "exp": 34700,
