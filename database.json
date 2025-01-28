@@ -675,6 +675,11 @@
       "cmd": "Kerja",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Gaji",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -711,7 +716,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 21
+      "totalcmd": 22
     }
   ],
   "clearchat": [],
@@ -96305,10 +96310,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7880,
+      "hit": 7881,
       "date": "3 Januari 2025",
-      "money": 2208207,
-      "exp": 69243,
+      "money": 2258207,
+      "exp": 69343,
       "limit": 370,
       "speed": 5,
       "strength": 6,
@@ -96415,7 +96420,7 @@
       "lasthourly": 0,
       "lastbansos": 1738001690870,
       "lastrampok": 1738038761151,
-      "lastclaim": 1738078823632,
+      "lastclaim": 1738083386038,
       "lastnebang": 0,
       "lastweekly": 1738002453115,
       "lastmonthly": 1736423963407,
