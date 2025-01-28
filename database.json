@@ -651,7 +651,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 151,
+      "succes": 152,
       "failed": 0
     },
     {
@@ -701,7 +701,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1219,7 +1219,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1374
+      "totalcmd": 1376
     }
   ],
   "clearchat": [],
@@ -76826,9 +76826,9 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 306,
-      "hit": 812,
+      "hit": 813,
       "date": "28 Desember 2024",
-      "money": 273662,
+      "money": 98662,
       "exp": 27931,
       "limit": 130,
       "speed": 0,
@@ -76887,7 +76887,7 @@
       "rawiron": 0,
       "common": 0,
       "uncommon": 0,
-      "mythic": 0,
+      "mythic": 1,
       "tbox": 0,
       "legendary": 0,
       "kondom": 0,
@@ -80760,8 +80760,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 2380,
-      "hit": 2178,
+      "glimit": 2379,
+      "hit": 2179,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
