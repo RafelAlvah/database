@@ -1013,7 +1013,7 @@
     },
     {
       "cmd": "Maling",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1118,7 +1118,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1007
+      "totalcmd": 1008
     }
   ],
   "clearchat": [],
@@ -99405,10 +99405,10 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 897,
+      "hit": 898,
       "date": "3 Januari 2025",
-      "money": 190447,
-      "exp": 24300,
+      "money": 204939,
+      "exp": 25062,
       "limit": 98,
       "speed": 0,
       "strength": 0,
@@ -99456,7 +99456,7 @@
       "diamond": 0,
       "gold": 0,
       "botol": 7638,
-      "kardus": 6663,
+      "kardus": 6706,
       "kaleng": 5407,
       "gelas": 7314,
       "plastik": 6915,
@@ -99576,7 +99576,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1738039035745,
-      "lastmaling": 1737393857258,
+      "lastmaling": 1738039165902,
       "lastparming": 1738039043542,
       "lastmulung": 1737963232396,
       "rokets": 22,
