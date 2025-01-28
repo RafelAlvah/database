@@ -798,7 +798,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 78,
+      "succes": 79,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2252
+      "totalcmd": 2253
     }
   ],
   "clearchat": [],
@@ -47111,8 +47111,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 11687,
-      "hit": 1642,
+      "glimit": 11686,
+      "hit": 1643,
       "date": "22 Desember 2024",
       "money": 7386137,
       "exp": 25163,
@@ -120578,7 +120578,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2393668,
+      "balance": 2394668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
