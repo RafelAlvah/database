@@ -673,7 +673,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -748,7 +748,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 43,
+      "succes": 44,
       "failed": 0
     },
     {
@@ -896,7 +896,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 290
+      "totalcmd": 292
     }
   ],
   "clearchat": [],
@@ -80802,8 +80802,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WQHL",
-      "glimit": 7,
-      "hit": 277,
+      "glimit": 6,
+      "hit": 278,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 9999,
@@ -96490,7 +96490,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 492,
-      "hit": 7955,
+      "hit": 7956,
       "date": "3 Januari 2025",
       "money": 3318697,
       "exp": 77343,
@@ -96518,7 +96518,7 @@
       "warning": 0,
       "level": 12,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 101406111,
+      "balance": 101407111,
       "skillexp": 0,
       "chip": 650,
       "atm": 3,
