@@ -765,7 +765,7 @@
     },
     {
       "cmd": "Yts",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1218,7 +1218,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1403
+      "totalcmd": 1404
     }
   ],
   "clearchat": [],
@@ -1230,7 +1230,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1897,
+      "hit": 1898,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
