@@ -790,6 +790,11 @@
       "cmd": "Tebakbom",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Allmenu",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -826,7 +831,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 147
+      "totalcmd": 148
     }
   ],
   "clearchat": [],
@@ -80733,7 +80738,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 20,
-      "hit": 260,
+      "hit": 261,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
