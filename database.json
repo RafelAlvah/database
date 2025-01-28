@@ -988,6 +988,11 @@
       "cmd": "2gb",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Sc",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1028,7 +1033,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 693
+      "totalcmd": 694
     }
   ],
   "clearchat": [],
@@ -158557,7 +158562,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 30,
-      "hit": 5,
+      "hit": 6,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
