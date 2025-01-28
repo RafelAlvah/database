@@ -643,7 +643,7 @@
   "dashboard": [
     {
       "cmd": "Tf",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1197
+      "totalcmd": 1198
     }
   ],
   "clearchat": [],
@@ -58953,7 +58953,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 1957900,
+      "balance": 1965500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -78927,7 +78927,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 190,
-      "hit": 443,
+      "hit": 444,
       "date": "29 Desember 2024",
       "money": 4846664,
       "exp": 2807,
@@ -78947,15 +78947,15 @@
       "pasangan": "",
       "age": 20,
       "regTime": 1737974016987,
-      "afk": 1738051679744,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "makan biar ada tai",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
       "level": 6,
       "role": "Beginner",
-      "balance": 8007600,
+      "balance": 8000000,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
