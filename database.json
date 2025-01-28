@@ -359,7 +359,6 @@
     "Tagme",
     "Reverb",
     "Brat2",
-    "Profil",
     "Kerayon.",
     "Berkebun",
     "Berdagang",
@@ -1035,11 +1034,6 @@
       "failed": 0
     },
     {
-      "cmd": "Profil",
-      "succes": 1,
-      "failed": 0
-    },
-    {
       "cmd": "Game",
       "succes": 1,
       "failed": 0
@@ -1138,6 +1132,11 @@
       "cmd": "Menu",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Profil",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1174,7 +1173,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1195
+      "totalcmd": 1196
     }
   ],
   "clearchat": [],
@@ -1186,7 +1185,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1883,
+      "hit": 1884,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
