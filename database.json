@@ -963,6 +963,11 @@
       "cmd": "Tiktoksearch",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tiktok",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -999,7 +1004,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 604
+      "totalcmd": 605
     }
   ],
   "clearchat": [],
@@ -147846,11 +147851,11 @@
       "autolevelup": false,
       "serial": "JX2T",
       "glimit": 30,
-      "hit": 9,
+      "hit": 10,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
-      "limit": 26,
+      "limit": 25,
       "speed": 0,
       "strength": 0,
       "defense": 0,
