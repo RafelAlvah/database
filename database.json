@@ -739,7 +739,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 134,
+      "succes": 135,
       "failed": 0
     },
     {
@@ -1149,7 +1149,7 @@
     },
     {
       "cmd": ",",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1338,7 +1338,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2155
+      "totalcmd": 2157
     }
   ],
   "clearchat": [],
@@ -120551,7 +120551,7 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 18,
-      "hit": 275,
+      "hit": 276,
       "date": "10 Januari 2025",
       "money": 20462,
       "exp": 200,
@@ -148369,7 +148369,7 @@
       "autolevelup": false,
       "serial": "LNJI",
       "glimit": 30,
-      "hit": 29,
+      "hit": 30,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
@@ -148389,9 +148389,9 @@
       "pasangan": "",
       "age": -1,
       "regTime": -1,
-      "afk": 1738075676263,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "tidur jam 22:00",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
