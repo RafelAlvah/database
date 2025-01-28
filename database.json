@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 985
+      "totalcmd": 986
     }
   ],
   "clearchat": [],
@@ -99400,9 +99400,9 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 881,
+      "hit": 882,
       "date": "3 Januari 2025",
-      "money": 0,
+      "money": 61677,
       "exp": 7200,
       "limit": 98,
       "speed": 0,
@@ -99570,7 +99570,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738002035037,
+      "lastkerja": 1738039035745,
       "lastmaling": 1737393857258,
       "lastparming": 1738002042015,
       "lastmulung": 1737963232396,
