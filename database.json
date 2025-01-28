@@ -670,6 +670,11 @@
       "cmd": "Emojimix",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Kerja",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -706,7 +711,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 20
+      "totalcmd": 21
     }
   ],
   "clearchat": [],
@@ -96300,9 +96305,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7879,
+      "hit": 7880,
       "date": "3 Januari 2025",
-      "money": 2142715,
+      "money": 2208207,
       "exp": 69243,
       "limit": 370,
       "speed": 5,
@@ -96470,7 +96475,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738080177703,
+      "lastkerja": 1738083383593,
       "lastmaling": 1737393049271,
       "clay": "undefined1940",
       "sand": "undefined550",
