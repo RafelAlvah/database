@@ -806,7 +806,7 @@
     },
     {
       "cmd": "Limit",
-      "succes": 3,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1046,7 +1046,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 796
+      "totalcmd": 798
     }
   ],
   "clearchat": [],
@@ -46821,7 +46821,7 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 10840,
-      "hit": 1589,
+      "hit": 1590,
       "date": "22 Desember 2024",
       "money": 7436137,
       "exp": 25163,
@@ -80582,7 +80582,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2381,
-      "hit": 2166,
+      "hit": 2167,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
