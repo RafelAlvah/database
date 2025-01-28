@@ -1178,6 +1178,11 @@
       "cmd": "Welcome",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Open",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1214,7 +1219,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1369
+      "totalcmd": 1370
     }
   ],
   "clearchat": [],
@@ -76821,7 +76826,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 306,
-      "hit": 809,
+      "hit": 810,
       "date": "28 Desember 2024",
       "money": 273662,
       "exp": 27931,
