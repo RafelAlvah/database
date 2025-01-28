@@ -1063,6 +1063,11 @@
       "cmd": "Linkgc",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Sticker",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1086,7 +1091,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 920
+      "totalcmd": 921
     }
   ],
   "clearchat": [],
@@ -76693,7 +76698,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 319,
-      "hit": 772,
+      "hit": 773,
       "date": "28 Desember 2024",
       "money": 273662,
       "exp": 17932,
