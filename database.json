@@ -1043,7 +1043,7 @@
     },
     {
       "cmd": "Sticker",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1298,7 +1298,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1943
+      "totalcmd": 1944
     }
   ],
   "clearchat": [],
@@ -75654,7 +75654,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 742,
+      "hit": 743,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
