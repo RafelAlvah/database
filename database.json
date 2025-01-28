@@ -868,7 +868,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -930,6 +930,11 @@
       "cmd": "Animeindo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Hd",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -966,7 +971,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 585
+      "totalcmd": 587
     }
   ],
   "clearchat": [],
@@ -14009,7 +14014,7 @@
       "autolevelup": false,
       "serial": "B8RP",
       "glimit": 313,
-      "hit": 93,
+      "hit": 94,
       "date": "19 Desember 2024",
       "money": 3000,
       "exp": 1997,
@@ -14037,7 +14042,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 934188,
+      "balance": 188,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -66579,7 +66584,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 440,
-      "hit": 755,
+      "hit": 756,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -66607,7 +66612,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 4841054,
+      "balance": 5775054,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
