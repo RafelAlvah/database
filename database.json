@@ -668,7 +668,7 @@
     },
     {
       "cmd": "Motor",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 996
+      "totalcmd": 997
     }
   ],
   "clearchat": [],
@@ -158642,7 +158642,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 42,
-      "hit": 129,
+      "hit": 130,
       "date": "28 Januari 2025",
       "money": 122036,
       "exp": 0,
