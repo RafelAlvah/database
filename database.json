@@ -718,7 +718,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 18,
+      "succes": 19,
       "failed": 6
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1986
+      "totalcmd": 1987
     }
   ],
   "clearchat": [],
@@ -79056,11 +79056,11 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 119,
-      "hit": 587,
+      "hit": 588,
       "date": "29 Desember 2024",
       "money": 7145276,
       "exp": 22006,
-      "limit": 69,
+      "limit": 68,
       "speed": 0,
       "strength": 0,
       "defense": 0,
