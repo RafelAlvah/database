@@ -66,7 +66,6 @@
     "Panel",
     "Panelku",
     "Allmenu",
-    "Daftar-mamad29",
     "Anonymous",
     "Gitclone",
     "Distro",
@@ -1037,7 +1036,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1072,7 +1071,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 845
+      "totalcmd": 847
     }
   ],
   "clearchat": [],
@@ -158601,7 +158600,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 0,
-      "hit": 49,
+      "hit": 51,
       "date": "28 Januari 2025",
       "money": 1000,
       "exp": 0,
