@@ -1125,7 +1125,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 8,
+      "succes": 9,
       "failed": 1
     },
     {
@@ -1250,7 +1250,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1582
+      "totalcmd": 1583
     }
   ],
   "clearchat": [],
@@ -43997,7 +43997,7 @@
       "autolevelup": false,
       "serial": "2FSC",
       "glimit": 25,
-      "hit": 206,
+      "hit": 207,
       "date": "22 Desember 2024",
       "money": 265577,
       "exp": 1309,
