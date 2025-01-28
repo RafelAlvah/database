@@ -728,7 +728,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 124,
+      "succes": 125,
       "failed": 0
     },
     {
@@ -1143,7 +1143,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1992
+      "totalcmd": 1994
     }
   ],
   "clearchat": [],
@@ -20058,7 +20058,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 63,
-      "hit": 4106,
+      "hit": 4107,
       "date": "20 Desember 2024",
       "money": 48497219,
       "exp": 96536,
@@ -80845,7 +80845,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2344,
-      "hit": 2232,
+      "hit": 2233,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
