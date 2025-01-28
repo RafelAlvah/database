@@ -928,7 +928,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2054
+      "totalcmd": 2055
     }
   ],
   "clearchat": [],
@@ -59051,7 +59051,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 51,
-      "hit": 350,
+      "hit": 351,
       "date": "24 Desember 2024",
       "money": 620015,
       "exp": 18683,
