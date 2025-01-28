@@ -637,13 +637,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6285133929328",
-      "expired": 1738027022897
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Tf",
@@ -957,7 +951,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1005,7 +999,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 574
+      "totalcmd": 575
     }
   ],
   "clearchat": [],
@@ -46779,8 +46773,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 7787,
-      "hit": 1546,
+      "glimit": 8187,
+      "hit": 1547,
       "date": "22 Desember 2024",
       "money": 7436137,
       "exp": 25163,
@@ -46808,7 +46802,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 446001,
+      "balance": 166001,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
