@@ -588,7 +588,8 @@
     "2gb",
     "Afk",
     "Daftar-lewar-video",
-    "Daftar-lewat-pesan"
+    "Daftar-lewat-pesan",
+    "Me"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1134,6 +1135,11 @@
       "cmd": "Restart",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Me",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1170,7 +1176,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1200
+      "totalcmd": 1201
     }
   ],
   "clearchat": [],
@@ -1182,7 +1188,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1886,
+      "hit": 1887,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
