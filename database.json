@@ -951,7 +951,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1076,7 +1076,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 865
+      "totalcmd": 867
     }
   ],
   "clearchat": [],
@@ -56330,7 +56330,7 @@
       "autolevelup": false,
       "serial": "FFZV",
       "glimit": 30,
-      "hit": 16,
+      "hit": 17,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -76683,7 +76683,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 339,
-      "hit": 751,
+      "hit": 752,
       "date": "28 Desember 2024",
       "money": 273662,
       "exp": 17932,
