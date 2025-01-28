@@ -925,6 +925,11 @@
       "cmd": "Tag",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Animeindo",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -961,7 +966,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 579
+      "totalcmd": 580
     }
   ],
   "clearchat": [],
@@ -14004,7 +14009,7 @@
       "autolevelup": false,
       "serial": "B8RP",
       "glimit": 213,
-      "hit": 87,
+      "hit": 88,
       "date": "19 Desember 2024",
       "money": 3000,
       "exp": 1997,
