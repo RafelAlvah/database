@@ -1034,6 +1034,11 @@
       "cmd": "Unreg",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Daftar",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1057,7 +1062,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 809
+      "totalcmd": 810
     }
   ],
   "clearchat": [],
@@ -97557,7 +97562,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 462,
-      "hit": 1107,
+      "hit": 1108,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97569,14 +97574,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "zaza imuppp",
+      "registered": true,
+      "name": "zzaakyy",
       "skill": "",
       "ultah": "20,08,2011",
       "sahabat": "",
       "pasangan": "",
-      "age": 14,
-      "regTime": 1736509904536,
+      "age": 15,
+      "regTime": 1738032134382,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
