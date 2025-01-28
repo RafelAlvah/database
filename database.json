@@ -858,7 +858,7 @@
     },
     {
       "cmd": "Claim",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2254
+      "totalcmd": 2255
     }
   ],
   "clearchat": [],
@@ -98025,10 +98025,10 @@
       "autolevelup": false,
       "serial": "OYAO",
       "glimit": 5,
-      "hit": 319,
+      "hit": 320,
       "date": "3 Januari 2025",
       "money": 3006414,
-      "exp": 17193,
+      "exp": 22193,
       "limit": 56,
       "speed": 0,
       "strength": 0,
@@ -98053,7 +98053,7 @@
       "warning": 0,
       "level": 3,
       "role": "Beginner",
-      "balance": 21705531,
+      "balance": 21711531,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -98135,7 +98135,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1736423763753,
-      "lastclaim": 1737806336488,
+      "lastclaim": 1738078114631,
       "lastnebang": 0,
       "lastweekly": 1736425843722,
       "lastmonthly": 0,
