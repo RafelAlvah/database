@@ -908,7 +908,7 @@
     },
     {
       "cmd": "Weekly",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1118,7 +1118,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1006
+      "totalcmd": 1007
     }
   ],
   "clearchat": [],
@@ -99405,10 +99405,10 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 896,
+      "hit": 897,
       "date": "3 Januari 2025",
-      "money": 154448,
-      "exp": 9300,
+      "money": 190447,
+      "exp": 24300,
       "limit": 98,
       "speed": 0,
       "strength": 0,
@@ -99441,7 +99441,7 @@
       "bank": 0,
       "health": 100,
       "stamina": 85,
-      "potion": 13,
+      "potion": 22,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -99517,7 +99517,7 @@
       "lastrampok": 1738039073304,
       "lastclaim": 1738039041233,
       "lastnebang": 0,
-      "lastweekly": 1737393852369,
+      "lastweekly": 1738039155883,
       "lastmonthly": 1736547179648,
       "apel": 0,
       "anggur": 0,
