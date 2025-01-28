@@ -952,12 +952,7 @@
       "failed": 1
     }
   ],
-  "listerror": [
-    {
-      "error": "msg is not defined",
-      "cmd": "tg"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
