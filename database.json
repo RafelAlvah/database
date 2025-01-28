@@ -795,6 +795,11 @@
       "cmd": "Allmenu",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Claim",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -831,7 +836,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 148
+      "totalcmd": 149
     }
   ],
   "clearchat": [],
@@ -133617,10 +133622,10 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 3,
-      "hit": 109,
+      "hit": 110,
       "date": "24 Januari 2025",
       "money": 267305,
-      "exp": 5000,
+      "exp": 10000,
       "limit": 30,
       "speed": 0,
       "strength": 0,
@@ -133645,7 +133650,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 498155,
+      "balance": 503155,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -133727,7 +133732,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
-      "lastclaim": 1737913157895,
+      "lastclaim": 1738087360073,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
