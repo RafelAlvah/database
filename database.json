@@ -1265,6 +1265,11 @@
       "cmd": "Menambang",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Muler",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1293,7 +1298,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1856
+      "totalcmd": 1857
     }
   ],
   "clearchat": [],
@@ -59041,7 +59046,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 70,
-      "hit": 315,
+      "hit": 316,
       "date": "24 Desember 2024",
       "money": 620015,
       "exp": 18683,
@@ -79048,7 +79053,7 @@
       "glimit": 149,
       "hit": 546,
       "date": "29 Desember 2024",
-      "money": 6482271,
+      "money": 6505549,
       "exp": 11007,
       "limit": 70,
       "speed": 0,
@@ -79087,7 +79092,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 177,
+      "wood": 205,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -79218,7 +79223,7 @@
       "timeEnd": "",
       "lastkerja": 1738059973441,
       "lastmaling": 1737974686362,
-      "lastparming": 1738059971754,
+      "lastparming": 1738070752959,
       "lastmulung": 1738059969423,
       "rokets": 6,
       "poin": null,
