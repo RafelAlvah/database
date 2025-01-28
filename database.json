@@ -728,7 +728,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 147,
+      "succes": 148,
       "failed": 0
     },
     {
@@ -1342,7 +1342,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2319
+      "totalcmd": 2320
     }
   ],
   "clearchat": [],
@@ -97868,9 +97868,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1738066935035,
-      "afk": 1738078819494,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "galau cintanya ga di folback",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -158349,7 +158349,7 @@
       "autolevelup": false,
       "serial": "UXEZ",
       "glimit": 30,
-      "hit": 16,
+      "hit": 17,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
