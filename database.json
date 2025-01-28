@@ -1190,7 +1190,7 @@
     },
     {
       "cmd": "Tembak",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1228,7 +1228,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1469
+      "totalcmd": 1470
     }
   ],
   "clearchat": [],
@@ -78981,7 +78981,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 152,
-      "hit": 511,
+      "hit": 512,
       "date": "29 Desember 2024",
       "money": 5929285,
       "exp": 4807,
@@ -78998,7 +78998,7 @@
       "skill": "",
       "ultah": "",
       "sahabat": "",
-      "pasangan": "",
+      "pasangan": "6283151449874@s.whatsapp.net",
       "age": 20,
       "regTime": 1737974016987,
       "afk": -1,
