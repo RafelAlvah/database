@@ -650,6 +650,11 @@
       "cmd": "Swm",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Afk",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -686,7 +691,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2
+      "totalcmd": 3
     }
   ],
   "clearchat": [],
@@ -16228,7 +16233,7 @@
       "autolevelup": false,
       "serial": "82GO",
       "glimit": 24,
-      "hit": 202,
+      "hit": 203,
       "date": "19 Desember 2024",
       "money": 1657657,
       "exp": 6979,
@@ -16248,9 +16253,9 @@
       "pasangan": "",
       "age": 25,
       "regTime": 1737644767938,
-      "afk": -1,
+      "afk": 1738081312911,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "bikin sunami di bumi selama 1 bulan aja",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
