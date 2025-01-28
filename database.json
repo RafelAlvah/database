@@ -733,7 +733,7 @@
     },
     {
       "cmd": "Ttsanime",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -771,7 +771,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 52
+      "totalcmd": 53
     }
   ],
   "clearchat": [],
@@ -783,7 +783,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1983,
+      "hit": 1984,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
