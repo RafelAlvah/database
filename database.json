@@ -592,7 +592,8 @@
     "Menu",
     "Hd",
     "Restart",
-    ""
+    "",
+    "Simi"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1233,6 +1234,11 @@
       "cmd": "",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Simi",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1261,7 +1267,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1642
+      "totalcmd": 1643
     }
   ],
   "clearchat": [],
@@ -1273,7 +1279,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1910,
+      "hit": 1911,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
