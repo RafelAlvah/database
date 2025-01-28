@@ -762,7 +762,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -860,7 +860,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 181
+      "totalcmd": 182
     }
   ],
   "clearchat": [],
@@ -99340,7 +99340,7 @@
       "autolevelup": false,
       "serial": "RYZ8",
       "glimit": 29,
-      "hit": 49,
+      "hit": 50,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
