@@ -1284,7 +1284,7 @@
     },
     {
       "cmd": "Putus",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1314,7 +1314,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2095
+      "totalcmd": 2096
     }
   ],
   "clearchat": [],
@@ -79067,7 +79067,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 119,
-      "hit": 597,
+      "hit": 598,
       "date": "29 Desember 2024",
       "money": 7145276,
       "exp": 22006,
