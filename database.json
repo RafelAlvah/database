@@ -738,7 +738,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 165,
+      "succes": 166,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2198
+      "totalcmd": 2199
     }
   ],
   "clearchat": [],
@@ -148368,7 +148368,7 @@
       "autolevelup": false,
       "serial": "LNJI",
       "glimit": 30,
-      "hit": 55,
+      "hit": 56,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
