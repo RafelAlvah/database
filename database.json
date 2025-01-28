@@ -637,13 +637,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287868666437",
-      "expired": 1738030576130
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Tf",
@@ -742,7 +736,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1037,7 +1031,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 707
+      "totalcmd": 708
     }
   ],
   "clearchat": [],
@@ -93577,11 +93571,11 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 48,
-      "hit": 577,
+      "hit": 578,
       "date": "1 Januari 2025",
       "money": 5490689,
       "exp": 8261,
-      "limit": 47,
+      "limit": 46,
       "speed": 0,
       "strength": 0,
       "defense": 0,
