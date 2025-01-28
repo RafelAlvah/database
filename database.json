@@ -1006,7 +1006,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     }
   ],
@@ -1031,7 +1031,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 714
+      "totalcmd": 715
     }
   ],
   "clearchat": [],
@@ -135592,8 +135592,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "YL5C",
-      "glimit": 15,
-      "hit": 137,
+      "glimit": 13,
+      "hit": 138,
       "date": "24 Januari 2025",
       "money": 760567,
       "exp": 15098,
