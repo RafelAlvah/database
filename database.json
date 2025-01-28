@@ -76784,7 +76784,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 318,
-      "hit": 774,
+      "hit": 775,
       "date": "28 Desember 2024",
       "money": 273662,
       "exp": 17932,
@@ -172563,35 +172563,7 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ],
-    "restart": {
-      "m": {
-        "key": {
-          "remoteJid": "120363345100714283@g.us",
-          "fromMe": false,
-          "id": "77F80491B7B64C41392957C2876A24E3",
-          "participant": "6287737937323@s.whatsapp.net"
-        },
-        "message": {
-          "extendedTextMessage": {
-            "text": ".restart",
-            "previewType": "NONE",
-            "contextInfo": {
-              "expiration": 86400,
-              "disappearingMode": {
-                "initiator": "CHANGED_IN_CHAT",
-                "trigger": "UNKNOWN"
-              }
-            },
-            "inviteLinkGroupTypeV2": "DEFAULT"
-          }
-        },
-        "messageTimestamp": "1738051693",
-        "broadcast": false,
-        "pushName": "«< R >»"
-      },
-      "from": "120363345100714283@g.us"
-    }
+    ]
   },
   "respon": {}
 }
