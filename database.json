@@ -988,7 +988,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 72,
+      "succes": 73,
       "failed": 0
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2057
+      "totalcmd": 2059
     }
   ],
   "clearchat": [],
@@ -1315,7 +1315,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1934,
+      "hit": 1935,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -158838,7 +158838,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 36,
-      "hit": 308,
+      "hit": 309,
       "date": "28 Januari 2025",
       "money": 889461,
       "exp": 33863,
