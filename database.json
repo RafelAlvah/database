@@ -1222,6 +1222,11 @@
       "cmd": "Ssvideo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Ttaudio",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1250,7 +1255,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1634
+      "totalcmd": 1635
     }
   ],
   "clearchat": [],
@@ -151843,7 +151848,7 @@
       "autolevelup": false,
       "serial": "5YGN",
       "glimit": 29,
-      "hit": 14,
+      "hit": 15,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
