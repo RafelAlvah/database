@@ -648,7 +648,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -763,7 +763,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -921,7 +921,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 340
+      "totalcmd": 342
     }
   ],
   "clearchat": [],
@@ -96515,7 +96515,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 492,
-      "hit": 7966,
+      "hit": 7967,
       "date": "3 Januari 2025",
       "money": 3318697,
       "exp": 77343,
@@ -146528,7 +146528,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 108,
+      "hit": 109,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
