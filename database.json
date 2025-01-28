@@ -688,12 +688,12 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
       "cmd": "Heal",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -876,7 +876,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 215
+      "totalcmd": 217
     }
   ],
   "clearchat": [],
@@ -96470,7 +96470,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 492,
-      "hit": 7935,
+      "hit": 7936,
       "date": "3 Januari 2025",
       "money": 3223641,
       "exp": 77343,
@@ -96580,7 +96580,7 @@
       "lasthourly": 0,
       "lastbansos": 1738001690870,
       "lastrampok": 1738083576575,
-      "lastclaim": 1738083386038,
+      "lastclaim": 1738088132585,
       "lastnebang": 0,
       "lastweekly": 1738002453115,
       "lastmonthly": 1736423963407,
@@ -96651,9 +96651,9 @@
       "lastparming": 1738087880128,
       "lastmulung": 1738065897644,
       "rokets": 111,
-      "sampah": 271,
-      "kayu": 413,
-      "batu": 271,
+      "sampah": 279,
+      "kayu": 451,
+      "batu": 293,
       "poin": 960000,
       "healt": null
     },
@@ -129547,7 +129547,7 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 496,
+      "hit": 497,
       "date": "22 Januari 2025",
       "money": 622440,
       "exp": 40700,
@@ -129582,8 +129582,8 @@
       "fullatm": 0,
       "bank": 0,
       "health": 20,
-      "stamina": 55,
-      "potion": 6,
+      "stamina": 90,
+      "potion": 5,
       "wine": 0,
       "beer": 0,
       "trash": 0,
