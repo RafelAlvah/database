@@ -948,6 +948,11 @@
       "cmd": "Swm",
       "succes": 4,
       "failed": 0
+    },
+    {
+      "cmd": "Buyglimit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -984,7 +989,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 513
+      "totalcmd": 514
     }
   ],
   "clearchat": [],
@@ -46758,8 +46763,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 5692,
-      "hit": 1516,
+      "glimit": 5702,
+      "hit": 1517,
       "date": "22 Desember 2024",
       "money": 7436137,
       "exp": 25163,
@@ -46787,7 +46792,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 500911,
+      "balance": 493911,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
