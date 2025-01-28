@@ -721,7 +721,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -736,7 +736,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 52,
+      "succes": 53,
       "failed": 0
     },
     {
@@ -1229,7 +1229,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1491
+      "totalcmd": 1493
     }
   ],
   "clearchat": [],
@@ -4838,11 +4838,11 @@
       "autolevelup": false,
       "serial": "DINP",
       "glimit": 30,
-      "hit": 31,
+      "hit": 32,
       "date": "16 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 7,
+      "limit": 6,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -157518,7 +157518,7 @@
       "autolevelup": false,
       "serial": "QRFF",
       "glimit": 30,
-      "hit": 4,
+      "hit": 5,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
