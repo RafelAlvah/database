@@ -651,7 +651,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -984,7 +984,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 455
+      "totalcmd": 456
     }
   ],
   "clearchat": [],
@@ -58198,7 +58198,7 @@
       "autolevelup": false,
       "serial": "RXUB",
       "glimit": 2126,
-      "hit": 144,
+      "hit": 145,
       "date": "24 Desember 2024",
       "money": 0,
       "exp": 1199,
