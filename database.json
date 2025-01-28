@@ -1120,6 +1120,11 @@
       "cmd": "Sell",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Atm",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1143,7 +1148,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1096
+      "totalcmd": 1097
     }
   ],
   "clearchat": [],
@@ -19898,7 +19903,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 87,
-      "hit": 4013,
+      "hit": 4014,
       "date": "20 Desember 2024",
       "money": 38019257,
       "exp": 86436,
