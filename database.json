@@ -788,7 +788,7 @@
     },
     {
       "cmd": "Tebakbom",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -891,7 +891,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 235
+      "totalcmd": 236
     }
   ],
   "clearchat": [],
@@ -133677,7 +133677,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 28,
-      "hit": 131,
+      "hit": 132,
       "date": "24 Januari 2025",
       "money": 285243,
       "exp": 0,
