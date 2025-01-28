@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -693,7 +693,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -871,7 +871,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 195
+      "totalcmd": 197
     }
   ],
   "clearchat": [],
@@ -19626,7 +19626,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 17,
-      "hit": 4177,
+      "hit": 4179,
       "date": "20 Desember 2024",
       "money": 49009899,
       "exp": 4536,
@@ -19660,9 +19660,9 @@
       "atm": 1,
       "fullatm": 500000000,
       "bank": 227517306,
-      "health": 20,
+      "health": 100,
       "stamina": 40,
-      "potion": 52,
+      "potion": 50,
       "wine": 0,
       "beer": 0,
       "trash": 1000,
