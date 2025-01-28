@@ -547,7 +547,6 @@
     "Bebaskan",
     "Bra",
     "Brar",
-    "Meny",
     "Hdd",
     "Hbd",
     "Listsrv",
@@ -846,7 +845,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 159
+      "totalcmd": 160
     }
   ],
   "clearchat": [],
@@ -133632,7 +133631,7 @@
       "autolevelup": false,
       "serial": "IHK1",
       "glimit": 2,
-      "hit": 116,
+      "hit": 117,
       "date": "24 Januari 2025",
       "money": 285243,
       "exp": 0,
