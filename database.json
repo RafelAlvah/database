@@ -592,7 +592,8 @@
     "Trackip",
     "Fip",
     "Simi",
-    "Deal"
+    "Deal",
+    "Menu"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -947,7 +948,7 @@
     {
       "cmd": "Menu",
       "succes": 0,
-      "failed": 1
+      "failed": 2
     },
     {
       "cmd": "Restart",
@@ -962,6 +963,10 @@
     },
     {
       "error": "Cannot read properties of undefined (reading 'cmd')",
+      "cmd": "menu"
+    },
+    {
+      "error": "totalJSFiles is not defined",
       "cmd": "menu"
     }
   ],
@@ -985,7 +990,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 633
+      "totalcmd": 634
     }
   ],
   "clearchat": [],
@@ -997,7 +1002,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2022,
+      "hit": 2023,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
