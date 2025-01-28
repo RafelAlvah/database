@@ -883,7 +883,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1278,7 +1278,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1749
+      "totalcmd": 1750
     }
   ],
   "clearchat": [],
@@ -36330,7 +36330,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 317,
-      "hit": 3840,
+      "hit": 3841,
       "date": "22 Desember 2024",
       "money": 655763,
       "exp": 50529,
@@ -36366,7 +36366,7 @@
       "bank": 20000000,
       "health": 90,
       "stamina": 90,
-      "potion": 13,
+      "potion": 11,
       "wine": 0,
       "beer": 0,
       "trash": 100,
@@ -47089,7 +47089,7 @@
       "bank": 0,
       "health": 20,
       "stamina": 60,
-      "potion": 0,
+      "potion": 2,
       "wine": 0,
       "beer": 0,
       "trash": 0,
