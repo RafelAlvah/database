@@ -1008,7 +1008,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -1283,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1773
+      "totalcmd": 1774
     }
   ],
   "clearchat": [],
@@ -20038,7 +20038,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 63,
-      "hit": 4093,
+      "hit": 4094,
       "date": "20 Desember 2024",
       "money": 40696036,
       "exp": 96536,
@@ -20058,9 +20058,9 @@
       "pasangan": "",
       "age": 17,
       "regTime": 1737899071519,
-      "afk": -1,
+      "afk": 1738068251477,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "nugas",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
