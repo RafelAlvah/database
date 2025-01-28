@@ -968,6 +968,11 @@
       "cmd": "Tiktok",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Toimg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1004,7 +1009,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 620
+      "totalcmd": 621
     }
   ],
   "clearchat": [],
@@ -36056,7 +36061,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 323,
-      "hit": 3791,
+      "hit": 3792,
       "date": "22 Desember 2024",
       "money": 2087,
       "exp": 49529,
