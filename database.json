@@ -655,6 +655,11 @@
       "cmd": "Afk",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Del",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -691,7 +696,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 4
+      "totalcmd": 5
     }
   ],
   "clearchat": [],
@@ -97197,7 +97202,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 462,
-      "hit": 1132,
+      "hit": 1133,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
