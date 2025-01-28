@@ -678,7 +678,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 65,
+      "succes": 66,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2253
+      "totalcmd": 2254
     }
   ],
   "clearchat": [],
@@ -98025,9 +98025,9 @@
       "autolevelup": false,
       "serial": "OYAO",
       "glimit": 5,
-      "hit": 318,
+      "hit": 319,
       "date": "3 Januari 2025",
-      "money": 2910174,
+      "money": 3006414,
       "exp": 17193,
       "limit": 56,
       "speed": 0,
@@ -98053,7 +98053,7 @@
       "warning": 0,
       "level": 3,
       "role": "Beginner",
-      "balance": 21704531,
+      "balance": 21705531,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -98195,7 +98195,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737946084688,
+      "lastkerja": 1738078110975,
       "lastmulung": 1737946156854,
       "lastparming": 1737806388483
     },
