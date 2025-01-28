@@ -656,7 +656,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 60,
+      "succes": 61,
       "failed": 0
     },
     {
@@ -1046,7 +1046,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 769
+      "totalcmd": 770
     }
   ],
   "clearchat": [],
@@ -80581,8 +80581,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 2393,
-      "hit": 2153,
+      "glimit": 2392,
+      "hit": 2154,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80602,9 +80602,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1738030064821,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "galau",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
