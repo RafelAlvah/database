@@ -689,7 +689,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -904,7 +904,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 97,
+      "succes": 98,
       "failed": 0
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1230
+      "totalcmd": 1232
     }
   ],
   "clearchat": [],
@@ -58924,8 +58924,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 124,
-      "hit": 242,
+      "glimit": 123,
+      "hit": 243,
       "date": "24 Desember 2024",
       "money": 577324,
       "exp": 18683,
@@ -127342,7 +127342,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 751,
+      "hit": 752,
       "date": "20 Januari 2025",
       "money": 1873414,
       "exp": 35000,
@@ -127377,8 +127377,8 @@
       "fullatm": 0,
       "bank": 0,
       "health": 20,
-      "stamina": 50,
-      "potion": 7,
+      "stamina": 85,
+      "potion": 6,
       "wine": 0,
       "beer": 0,
       "trash": 0,
