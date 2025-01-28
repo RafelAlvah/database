@@ -590,7 +590,8 @@
     "Airdrop",
     ",",
     "Menu",
-    "Hd"
+    "Hd",
+    "Restart"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -984,7 +985,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 53,
+      "succes": 54,
       "failed": 0
     },
     {
@@ -1134,7 +1135,7 @@
     },
     {
       "cmd": "Restart",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     },
     {
@@ -1254,7 +1255,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1639
+      "totalcmd": 1641
     }
   ],
   "clearchat": [],
@@ -1266,7 +1267,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1909,
+      "hit": 1910,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -158788,8 +158789,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "JL9G",
-      "glimit": 91,
-      "hit": 225,
+      "glimit": 90,
+      "hit": 226,
       "date": "28 Januari 2025",
       "money": 553894,
       "exp": 35866,
@@ -176506,7 +176507,35 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ]
+    ],
+    "restart": {
+      "m": {
+        "key": {
+          "remoteJid": "120363345100714283@g.us",
+          "fromMe": false,
+          "id": "140C4A2036DF1A852CF2D07F30718AE1",
+          "participant": "6287737937323@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".restart",
+            "previewType": "NONE",
+            "contextInfo": {
+              "expiration": 86400,
+              "disappearingMode": {
+                "initiator": "CHANGED_IN_CHAT",
+                "trigger": "UNKNOWN"
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1738064610",
+        "broadcast": false,
+        "pushName": "«< R >»"
+      },
+      "from": "120363345100714283@g.us"
+    }
   },
   "respon": {}
 }
