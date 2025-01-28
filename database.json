@@ -1043,7 +1043,7 @@
     },
     {
       "cmd": "Sticker",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1352,7 +1352,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2355
+      "totalcmd": 2356
     }
   ],
   "clearchat": [],
@@ -170827,7 +170827,7 @@
       "autolevelup": false,
       "serial": "6HY3",
       "glimit": 30,
-      "hit": 12,
+      "hit": 13,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
