@@ -690,6 +690,11 @@
       "cmd": "Airdrop",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Heal",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -726,7 +731,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 25
+      "totalcmd": 26
     }
   ],
   "clearchat": [],
@@ -96320,7 +96325,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7883,
+      "hit": 7884,
       "date": "3 Januari 2025",
       "money": 2293847,
       "exp": 69343,
@@ -96354,9 +96359,9 @@
       "atm": 3,
       "fullatm": 1000000000,
       "bank": 19472605,
-      "health": 20,
+      "health": 100,
       "stamina": 75,
-      "potion": 2,
+      "potion": 0,
       "wine": 0,
       "beer": 0,
       "trash": 0,
