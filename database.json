@@ -1200,7 +1200,7 @@
     },
     {
       "cmd": "Out",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1250,7 +1250,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1611
+      "totalcmd": 1612
     }
   ],
   "clearchat": [],
@@ -1262,7 +1262,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1907,
+      "hit": 1908,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
