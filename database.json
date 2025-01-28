@@ -883,7 +883,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1298,7 +1298,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1886
+      "totalcmd": 1887
     }
   ],
   "clearchat": [],
@@ -20094,7 +20094,7 @@
       "beer": 0,
       "trash": 1000,
       "coal": 0,
-      "wood": 2471,
+      "wood": 2582,
       "rock": 5,
       "string": 6,
       "petfood": 0,
@@ -79079,7 +79079,7 @@
       "warning": 0,
       "level": 6,
       "role": "Beginner",
-      "balance": 10134600,
+      "balance": 10139600,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -129969,7 +129969,7 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 0,
-      "hit": 491,
+      "hit": 492,
       "date": "22 Januari 2025",
       "money": 554281,
       "exp": 40700,
@@ -130010,7 +130010,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 111,
+      "wood": 0,
       "rock": 1,
       "string": 1,
       "petfood": 0,
