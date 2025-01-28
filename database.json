@@ -641,7 +641,7 @@
   "dashboard": [
     {
       "cmd": "Tf",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -681,7 +681,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1236,7 +1236,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1537
+      "totalcmd": 1539
     }
   ],
   "clearchat": [],
@@ -19991,7 +19991,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 63,
-      "hit": 4080,
+      "hit": 4081,
       "date": "20 Desember 2024",
       "money": 39749989,
       "exp": 88536,
@@ -20041,11 +20041,11 @@
       "emerald": 2,
       "diamond": 70,
       "gold": 66,
-      "botol": 55547,
-      "kardus": 60175,
-      "kaleng": 61542,
-      "gelas": 60034,
-      "plastik": 56115,
+      "botol": 56132,
+      "kardus": 60770,
+      "kaleng": 62418,
+      "gelas": 60347,
+      "plastik": 56402,
       "iron": 6,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -20164,7 +20164,7 @@
       "lastkerja": 1738060497589,
       "lastparming": 1738055165846,
       "rokets": 73,
-      "lastmulung": 1738055156807,
+      "lastmulung": 1738060502989,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
       "sand": "undefined850",
@@ -79017,7 +79017,7 @@
       "warning": 0,
       "level": 6,
       "role": "Beginner",
-      "balance": 8259600,
+      "balance": 9259600,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -80778,7 +80778,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2348,
-      "hit": 2213,
+      "hit": 2214,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80806,7 +80806,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 72358355,
+      "balance": 71358355,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
