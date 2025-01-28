@@ -928,7 +928,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2218
+      "totalcmd": 2219
     }
   ],
   "clearchat": [],
@@ -36389,7 +36389,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 317,
-      "hit": 3844,
+      "hit": 3845,
       "date": "22 Desember 2024",
       "money": 655763,
       "exp": 50529,
@@ -36417,7 +36417,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 7777777,
+      "balance": 7778777,
       "skillexp": 0,
       "chip": 53,
       "atm": 5,
