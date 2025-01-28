@@ -1128,7 +1128,7 @@
     },
     {
       "cmd": "Cekjodoh",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1153,7 +1153,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1123
+      "totalcmd": 1124
     }
   ],
   "clearchat": [],
@@ -78903,7 +78903,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 18,
-      "hit": 409,
+      "hit": 410,
       "date": "29 Desember 2024",
       "money": 4846664,
       "exp": 2807,
