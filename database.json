@@ -873,7 +873,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -1283,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1813
+      "totalcmd": 1814
     }
   ],
   "clearchat": [],
@@ -20040,7 +20040,7 @@
       "glimit": 63,
       "hit": 4094,
       "date": "20 Desember 2024",
-      "money": 40696036,
+      "money": 40694273,
       "exp": 96536,
       "limit": 204,
       "speed": 3,
@@ -127448,9 +127448,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 773,
+      "hit": 774,
       "date": "20 Januari 2025",
-      "money": 3700203,
+      "money": 3698440,
       "exp": 48100,
       "limit": 330,
       "speed": 0,
@@ -127554,7 +127554,7 @@
       "lasthunt": 0,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1738041453557,
+      "lastdagang": 1738070485792,
       "lasthourly": 0,
       "lastbansos": 1737990227915,
       "lastrampok": 0,
