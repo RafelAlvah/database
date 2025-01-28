@@ -351,7 +351,6 @@
     "Mobil",
     "Limbo",
     "Brat",
-    "Hd",
     "Tf",
     "Blacklist",
     "Group",
@@ -939,11 +938,6 @@
       "failed": 0
     },
     {
-      "cmd": "Hd",
-      "succes": 18,
-      "failed": 0
-    },
-    {
       "cmd": "Tiktoksearch",
       "succes": 1,
       "failed": 0
@@ -1137,6 +1131,11 @@
       "cmd": "Profil",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Hd",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1173,7 +1172,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1196
+      "totalcmd": 1197
     }
   ],
   "clearchat": [],
@@ -172061,7 +172060,7 @@
       "autolevelup": false,
       "serial": "KUDR",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
