@@ -1153,6 +1153,11 @@
       "cmd": "Siapakahaku",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Siapaaku",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1189,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1325
+      "totalcmd": 1326
     }
   ],
   "clearchat": [],
@@ -78941,8 +78946,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "LYBW",
-      "glimit": 171,
-      "hit": 482,
+      "glimit": 170,
+      "hit": 483,
       "date": "29 Desember 2024",
       "money": 5929285,
       "exp": 4807,
