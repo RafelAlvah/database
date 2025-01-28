@@ -343,7 +343,6 @@
     "Topsultan",
     "Ttp",
     "Createguild",
-    "Airdrop",
     "Tomp4",
     "Addowner",
     "Buypremium",
@@ -685,11 +684,6 @@
     {
       "cmd": "Nebang",
       "succes": 12,
-      "failed": 0
-    },
-    {
-      "cmd": "Airdrop",
-      "succes": 15,
       "failed": 0
     },
     {
@@ -1136,6 +1130,11 @@
       "cmd": "Hd",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Airdrop",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1172,7 +1171,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1197
+      "totalcmd": 1198
     }
   ],
   "clearchat": [],
@@ -30649,7 +30648,7 @@
       "autolevelup": false,
       "serial": "2EUZ",
       "glimit": 96,
-      "hit": 935,
+      "hit": 936,
       "date": "22 Desember 2024",
       "money": 19519762,
       "exp": 23827,
