@@ -700,6 +700,11 @@
       "cmd": "Openbo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Berdagang",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -736,7 +741,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 30
+      "totalcmd": 31
     }
   ],
   "clearchat": [],
@@ -96330,9 +96335,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7886,
+      "hit": 7887,
       "date": "3 Januari 2025",
-      "money": 2493847,
+      "money": 2492183,
       "exp": 77343,
       "limit": 370,
       "speed": 5,
@@ -96436,7 +96441,7 @@
       "lasthunt": 1736578038707,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1738038727913,
+      "lastdagang": 1738083527343,
       "lasthourly": 0,
       "lastbansos": 1738001690870,
       "lastrampok": 1738038761151,
@@ -97426,7 +97431,7 @@
       "glimit": 5,
       "hit": 321,
       "date": "3 Januari 2025",
-      "money": 3006414,
+      "money": 3004750,
       "exp": 22193,
       "limit": 56,
       "speed": 0,
