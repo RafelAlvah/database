@@ -354,7 +354,6 @@
     "Hd",
     "Tf",
     "Blacklist",
-    "Menu",
     "Group",
     "Reset",
     "Tagme",
@@ -657,7 +656,7 @@
     },
     {
       "cmd": "Donasi",
-      "succes": 7,
+      "succes": 8,
       "failed": 1
     },
     {
@@ -713,11 +712,6 @@
     {
       "cmd": "Play",
       "succes": 29,
-      "failed": 0
-    },
-    {
-      "cmd": "Menu",
-      "succes": 8,
       "failed": 0
     },
     {
@@ -1139,6 +1133,11 @@
       "cmd": "Restart",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1175,7 +1174,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1192
+      "totalcmd": 1194
     }
   ],
   "clearchat": [],
@@ -1187,7 +1186,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1881,
+      "hit": 1883,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
