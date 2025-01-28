@@ -350,7 +350,6 @@
     "Tupai",
     "Mobil",
     "Limbo",
-    "Me",
     "Brat",
     "Hd",
     "Tf",
@@ -644,11 +643,6 @@
     {
       "cmd": "Tf",
       "succes": 19,
-      "failed": 0
-    },
-    {
-      "cmd": "Me",
-      "succes": 75,
       "failed": 0
     },
     {
@@ -1145,6 +1139,11 @@
       "cmd": "Restart",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Me",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1181,7 +1180,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1190
+      "totalcmd": 1191
     }
   ],
   "clearchat": [],
@@ -154975,7 +154974,7 @@
       "autolevelup": false,
       "serial": "6A8T",
       "glimit": 30,
-      "hit": 4,
+      "hit": 5,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
