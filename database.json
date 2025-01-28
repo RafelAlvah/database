@@ -876,7 +876,7 @@
     },
     {
       "cmd": "Claim",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -984,7 +984,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 503
+      "totalcmd": 504
     }
   ],
   "clearchat": [],
@@ -93524,7 +93524,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 55,
-      "hit": 548,
+      "hit": 549,
       "date": "1 Januari 2025",
       "money": 5345833,
       "exp": 8261,
@@ -96574,7 +96574,7 @@
       "glimit": 531,
       "hit": 7802,
       "date": "3 Januari 2025",
-      "money": 228029,
+      "money": 265558,
       "exp": 47743,
       "limit": 351,
       "speed": 5,
@@ -96613,7 +96613,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 2491,
+      "wood": 2524,
       "rock": 4,
       "string": 5,
       "petfood": 0,
@@ -96750,7 +96750,7 @@
       "emas": "undefined60",
       "tiketcoin": "undefined60",
       "lastnambang": 1736243261278,
-      "lastparming": 1738001649670,
+      "lastparming": 1738025638787,
       "lastmulung": 1737990034060,
       "rokets": 104,
       "sampah": 271,
