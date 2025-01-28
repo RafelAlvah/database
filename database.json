@@ -929,7 +929,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -1209,7 +1209,7 @@
     },
     {
       "cmd": "Upsw",
-      "succes": 2,
+      "succes": 3,
       "failed": 1
     },
     {
@@ -1338,7 +1338,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2145
+      "totalcmd": 2147
     }
   ],
   "clearchat": [],
@@ -1350,7 +1350,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1948,
+      "hit": 1949,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -59086,7 +59086,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 49,
-      "hit": 357,
+      "hit": 358,
       "date": "24 Desember 2024",
       "money": 620015,
       "exp": 18683,
