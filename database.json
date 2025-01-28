@@ -653,7 +653,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -946,7 +946,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 565
+      "totalcmd": 566
     }
   ],
   "clearchat": [],
@@ -80488,7 +80488,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2315,
-      "hit": 2304,
+      "hit": 2305,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80508,9 +80508,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": -1,
+      "afk": 1738092778316,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "bobo, pagi siang sore ga main hp karna hp ga di cas",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
