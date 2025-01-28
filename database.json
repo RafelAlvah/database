@@ -641,7 +641,7 @@
   "dashboard": [
     {
       "cmd": "Tf",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -984,7 +984,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 509
+      "totalcmd": 510
     }
   ],
   "clearchat": [],
@@ -46787,7 +46787,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 911,
+      "balance": 50911,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -58198,7 +58198,7 @@
       "autolevelup": false,
       "serial": "RXUB",
       "glimit": 2126,
-      "hit": 148,
+      "hit": 149,
       "date": "24 Desember 2024",
       "money": 0,
       "exp": 1199,
@@ -58226,7 +58226,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 500000,
+      "balance": 450000,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
