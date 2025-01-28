@@ -637,13 +637,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287868666437",
-      "expired": 1738030821997
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Tf",
@@ -1012,7 +1006,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -1047,7 +1041,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 722
+      "totalcmd": 723
     }
   ],
   "clearchat": [],
@@ -158575,8 +158569,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "JL9G",
-      "glimit": 23,
-      "hit": 16,
+      "glimit": 22,
+      "hit": 17,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
