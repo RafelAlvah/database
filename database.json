@@ -643,7 +643,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -865,6 +865,11 @@
       "cmd": "Tembak",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tf",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -901,7 +906,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 312
+      "totalcmd": 314
     }
   ],
   "clearchat": [],
@@ -80808,7 +80813,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 5,
-      "hit": 282,
+      "hit": 283,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 9999,
@@ -153636,7 +153641,7 @@
       "autolevelup": false,
       "serial": "ZA2Z",
       "glimit": 30,
-      "hit": 3,
+      "hit": 4,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
