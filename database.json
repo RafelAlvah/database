@@ -738,7 +738,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 187,
+      "succes": 188,
       "failed": 0
     },
     {
@@ -933,7 +933,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 55,
+      "succes": 56,
       "failed": 0
     },
     {
@@ -1337,7 +1337,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2294
+      "totalcmd": 2296
     }
   ],
   "clearchat": [],
@@ -47111,8 +47111,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 12111,
-      "hit": 1655,
+      "glimit": 12114,
+      "hit": 1656,
       "date": "22 Desember 2024",
       "money": 7386137,
       "exp": 25163,
@@ -47140,7 +47140,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 2201,
+      "balance": 101,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -81244,7 +81244,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 28,
-      "hit": 244,
+      "hit": 245,
       "date": "30 Desember 2024",
       "money": 1000,
       "exp": 0,
