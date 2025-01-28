@@ -678,7 +678,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 58,
+      "succes": 59,
       "failed": 0
     },
     {
@@ -1298,7 +1298,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1864
+      "totalcmd": 1865
     }
   ],
   "clearchat": [],
@@ -79051,9 +79051,9 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 149,
-      "hit": 551,
+      "hit": 552,
       "date": "29 Desember 2024",
-      "money": 7005549,
+      "money": 7145276,
       "exp": 12007,
       "limit": 70,
       "speed": 0,
@@ -79221,7 +79221,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738059973441,
+      "lastkerja": 1738070791336,
       "lastmaling": 1737974686362,
       "lastparming": 1738070752959,
       "lastmulung": 1738070758468,
@@ -96894,7 +96894,7 @@
       "glimit": 531,
       "hit": 7865,
       "date": "3 Januari 2025",
-      "money": 1835788,
+      "money": 1840243,
       "exp": 69143,
       "limit": 371,
       "speed": 5,
@@ -96933,7 +96933,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 2637,
+      "wood": 2676,
       "rock": 4,
       "string": 5,
       "petfood": 0,
@@ -97070,7 +97070,7 @@
       "emas": "undefined60",
       "tiketcoin": "undefined60",
       "lastnambang": 1736243261278,
-      "lastparming": 1738065891635,
+      "lastparming": 1738070788981,
       "lastmulung": 1738065897644,
       "rokets": 108,
       "sampah": 271,
