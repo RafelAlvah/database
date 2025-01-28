@@ -951,7 +951,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1041,7 +1041,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 745
+      "totalcmd": 746
     }
   ],
   "clearchat": [],
@@ -46816,11 +46816,11 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 9843,
-      "hit": 1572,
+      "hit": 1573,
       "date": "22 Desember 2024",
       "money": 7436137,
       "exp": 25163,
-      "limit": 23686,
+      "limit": 23685,
       "speed": 0,
       "strength": 0,
       "defense": 0,
