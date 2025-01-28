@@ -928,7 +928,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1298,7 +1298,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1952
+      "totalcmd": 1953
     }
   ],
   "clearchat": [],
@@ -75654,7 +75654,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 744,
+      "hit": 745,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
