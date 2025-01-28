@@ -780,6 +780,11 @@
       "cmd": "Susunkata",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -816,7 +821,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 120
+      "totalcmd": 121
     }
   ],
   "clearchat": [],
@@ -146423,7 +146428,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 100,
+      "hit": 101,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
