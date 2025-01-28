@@ -643,7 +643,7 @@
   "dashboard": [
     {
       "cmd": "Tf",
-      "succes": 24,
+      "succes": 25,
       "failed": 0
     },
     {
@@ -693,7 +693,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 42,
+      "succes": 43,
       "failed": 0
     },
     {
@@ -1278,7 +1278,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1728
+      "totalcmd": 1730
     }
   ],
   "clearchat": [],
@@ -30755,7 +30755,7 @@
       "autolevelup": false,
       "serial": "2EUZ",
       "glimit": 96,
-      "hit": 949,
+      "hit": 950,
       "date": "22 Desember 2024",
       "money": 21625215,
       "exp": 38827,
@@ -30783,7 +30783,7 @@
       "warning": 0,
       "level": 6,
       "role": "Beginner",
-      "balance": 30814510,
+      "balance": 30714510,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -93852,7 +93852,7 @@
       "warning": 0,
       "level": 5,
       "role": "Beginner",
-      "balance": 10032110,
+      "balance": 10132110,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -127443,7 +127443,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 759,
+      "hit": 760,
       "date": "20 Januari 2025",
       "money": 2452019,
       "exp": 35000,
@@ -127478,8 +127478,8 @@
       "fullatm": 0,
       "bank": 0,
       "health": 100,
-      "stamina": 45,
-      "potion": 2,
+      "stamina": 115,
+      "potion": 0,
       "wine": 0,
       "beer": 0,
       "trash": 0,
