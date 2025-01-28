@@ -963,7 +963,7 @@
     },
     {
       "cmd": "Tourl",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1298,7 +1298,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1945
+      "totalcmd": 1946
     }
   ],
   "clearchat": [],
@@ -1310,7 +1310,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1926,
+      "hit": 1927,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
