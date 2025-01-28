@@ -1187,6 +1187,11 @@
       "cmd": "Restoran",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tembak",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1223,7 +1228,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1468
+      "totalcmd": 1469
     }
   ],
   "clearchat": [],
@@ -78976,7 +78981,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 152,
-      "hit": 510,
+      "hit": 511,
       "date": "29 Desember 2024",
       "money": 5929285,
       "exp": 4807,
