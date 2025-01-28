@@ -947,32 +947,7 @@
       "failed": 1
     }
   ],
-  "listerror": [
-    {
-      "error": "Cannot read properties of null (reading 'download')",
-      "cmd": "upsw"
-    },
-    {
-      "error": "error:1C800064:Provider routines::bad decrypt",
-      "cmd": "rvo"
-    },
-    {
-      "error": "msg is not defined",
-      "cmd": "tg"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'group')",
-      "cmd": "menu"
-    },
-    {
-      "error": "targetNumber is not defined",
-      "cmd": "blacklist"
-    },
-    {
-      "error": "Cannot access 'usedPrefix' before initialization",
-      "cmd": "blacklist"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
