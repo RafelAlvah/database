@@ -858,7 +858,7 @@
     },
     {
       "cmd": "Spdl",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 965
+      "totalcmd": 966
     }
   ],
   "clearchat": [],
@@ -158642,7 +158642,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 42,
-      "hit": 126,
+      "hit": 127,
       "date": "28 Januari 2025",
       "money": 77729,
       "exp": 0,
