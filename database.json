@@ -684,7 +684,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -904,7 +904,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 96,
+      "succes": 97,
       "failed": 0
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1225
+      "totalcmd": 1227
     }
   ],
   "clearchat": [],
@@ -58924,8 +58924,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 125,
-      "hit": 241,
+      "glimit": 124,
+      "hit": 242,
       "date": "24 Desember 2024",
       "money": 577324,
       "exp": 18683,
@@ -127342,7 +127342,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 747,
+      "hit": 748,
       "date": "20 Januari 2025",
       "money": 1294890,
       "exp": 35000,
