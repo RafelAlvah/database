@@ -594,7 +594,8 @@
     "2gb",
     "Afk",
     "Daftar-lewar-video",
-    "Daftar-lewat-pesan"
+    "Daftar-lewat-pesan",
+    ","
   ],
   "anonymous": [],
   "blockcmd": [
@@ -648,7 +649,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 76,
+      "succes": 77,
       "failed": 0
     },
     {
@@ -1028,7 +1029,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1145,6 +1146,11 @@
       "cmd": "Restart",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": ",",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1177,7 +1183,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1198
+      "totalcmd": 1201
     }
   ],
   "clearchat": [],
@@ -58925,7 +58931,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 133,
-      "hit": 235,
+      "hit": 236,
       "date": "24 Desember 2024",
       "money": 627324,
       "exp": 18783,
@@ -78927,7 +78933,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 190,
-      "hit": 444,
+      "hit": 445,
       "date": "29 Desember 2024",
       "money": 4846664,
       "exp": 2807,
@@ -78947,9 +78953,9 @@
       "pasangan": "",
       "age": 20,
       "regTime": 1737974016987,
-      "afk": -1,
+      "afk": 1738051793883,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "makan biar ada tai",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -120384,7 +120390,7 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 18,
-      "hit": 271,
+      "hit": 272,
       "date": "10 Januari 2025",
       "money": 178499,
       "exp": 200,
