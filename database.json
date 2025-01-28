@@ -1218,7 +1218,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1404
+      "totalcmd": 1405
     }
   ],
   "clearchat": [],
@@ -76825,7 +76825,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 305,
-      "hit": 820,
+      "hit": 821,
       "date": "28 Desember 2024",
       "money": 98662,
       "exp": 27931,
