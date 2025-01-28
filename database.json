@@ -928,7 +928,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2018
+      "totalcmd": 2019
     }
   ],
   "clearchat": [],
@@ -79056,7 +79056,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 119,
-      "hit": 589,
+      "hit": 590,
       "date": "29 Desember 2024",
       "money": 7145276,
       "exp": 22006,
