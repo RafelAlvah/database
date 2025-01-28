@@ -588,7 +588,6 @@
     "Airdrop",
     ",",
     "Hd",
-    "Restart",
     "Cekil",
     "Trackip",
     "Fip",
@@ -946,12 +945,12 @@
       "failed": 1
     },
     {
-      "cmd": "Restart",
-      "succes": 2,
-      "failed": 0
+      "cmd": "Menu",
+      "succes": 0,
+      "failed": 1
     },
     {
-      "cmd": "Menu",
+      "cmd": "Restart",
       "succes": 0,
       "failed": 1
     }
@@ -986,7 +985,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 632
+      "totalcmd": 633
     }
   ],
   "clearchat": [],
@@ -998,7 +997,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2021,
+      "hit": 2022,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
