@@ -661,7 +661,7 @@
     },
     {
       "cmd": "Donasi",
-      "succes": 5,
+      "succes": 6,
       "failed": 1
     },
     {
@@ -1081,7 +1081,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 883
+      "totalcmd": 884
     }
   ],
   "clearchat": [],
@@ -135643,7 +135643,7 @@
       "autolevelup": false,
       "serial": "YL5C",
       "glimit": 13,
-      "hit": 140,
+      "hit": 141,
       "date": "24 Januari 2025",
       "money": 760567,
       "exp": 15098,
