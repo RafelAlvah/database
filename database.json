@@ -1028,7 +1028,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 984
+      "totalcmd": 985
     }
   ],
   "clearchat": [],
@@ -1125,7 +1125,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1858,
+      "hit": 1859,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -1145,9 +1145,9 @@
       "pasangan": "",
       "age": 20,
       "regTime": 1738038803015,
-      "afk": -1,
+      "afk": 1738039016714,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "makan laper",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
