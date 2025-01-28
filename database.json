@@ -684,7 +684,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 34,
+      "succes": 35,
       "failed": 0
     },
     {
@@ -1188,7 +1188,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1206
+      "totalcmd": 1207
     }
   ],
   "clearchat": [],
@@ -58936,9 +58936,9 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 133,
-      "hit": 238,
+      "hit": 239,
       "date": "24 Desember 2024",
-      "money": 627324,
+      "money": 656459,
       "exp": 18783,
       "limit": 130,
       "speed": 0,
@@ -59110,7 +59110,7 @@
       "lastmaling": 1737974050388,
       "lastparming": 1737974135244,
       "rokets": null,
-      "lastkerja": 1737983387445
+      "lastkerja": 1738051844543
     },
     "6282230174716@s.whatsapp.net": {
       "sticker": {},
