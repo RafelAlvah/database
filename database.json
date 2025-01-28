@@ -748,7 +748,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 110,
+      "succes": 111,
       "failed": 0
     },
     {
@@ -941,7 +941,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 462
+      "totalcmd": 463
     }
   ],
   "clearchat": [],
@@ -99420,8 +99420,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "RYZ8",
-      "glimit": 3,
-      "hit": 86,
+      "glimit": 2,
+      "hit": 87,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
