@@ -763,7 +763,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -946,7 +946,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 559
+      "totalcmd": 560
     }
   ],
   "clearchat": [],
@@ -13989,7 +13989,7 @@
       "autolevelup": false,
       "serial": "B8RP",
       "glimit": 214,
-      "hit": 76,
+      "hit": 77,
       "date": "19 Desember 2024",
       "money": 3000,
       "exp": 1997,
@@ -14001,14 +14001,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "om al",
+      "registered": true,
+      "name": "al",
       "skill": "",
       "ultah": "",
       "sahabat": "",
       "pasangan": "",
-      "age": -1,
-      "regTime": -1,
+      "age": 18,
+      "regTime": 1738092647119,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
