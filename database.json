@@ -680,6 +680,11 @@
       "cmd": "Gaji",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Nebang",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -716,7 +721,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 22
+      "totalcmd": 23
     }
   ],
   "clearchat": [],
@@ -96310,9 +96315,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7881,
+      "hit": 7882,
       "date": "3 Januari 2025",
-      "money": 2258207,
+      "money": 2293847,
       "exp": 69343,
       "limit": 370,
       "speed": 5,
@@ -96351,7 +96356,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 2717,
+      "wood": 2728,
       "rock": 4,
       "string": 5,
       "petfood": 0,
@@ -96488,7 +96493,7 @@
       "emas": "undefined60",
       "tiketcoin": "undefined60",
       "lastnambang": 1736243261278,
-      "lastparming": 1738076145273,
+      "lastparming": 1738083396544,
       "lastmulung": 1738065897644,
       "rokets": 109,
       "sampah": 271,
