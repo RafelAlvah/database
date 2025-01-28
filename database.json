@@ -698,7 +698,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -1342,7 +1342,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 2318
+      "totalcmd": 2319
     }
   ],
   "clearchat": [],
@@ -59110,9 +59110,9 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1737974019813,
-      "afk": 1738078800694,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "lgi cmbru",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -96936,7 +96936,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 531,
-      "hit": 7870,
+      "hit": 7871,
       "date": "3 Januari 2025",
       "money": 2077940,
       "exp": 69243,
