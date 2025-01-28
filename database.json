@@ -1006,7 +1006,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1041,7 +1041,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 728
+      "totalcmd": 729
     }
   ],
   "clearchat": [],
@@ -158569,8 +158569,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "JL9G",
-      "glimit": 22,
-      "hit": 17,
+      "glimit": 21,
+      "hit": 18,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
