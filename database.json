@@ -651,7 +651,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 140,
+      "succes": 141,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1334
+      "totalcmd": 1335
     }
   ],
   "clearchat": [],
@@ -76800,8 +76800,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "GCXP",
-      "glimit": 308,
-      "hit": 799,
+      "glimit": 307,
+      "hit": 800,
       "date": "28 Desember 2024",
       "money": 273662,
       "exp": 27931,
