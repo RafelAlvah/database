@@ -1135,9 +1135,19 @@
       "cmd": "Tweetc",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Tweetc2",
+      "succes": 0,
+      "failed": 1
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "ppnyauser is not defined",
+      "cmd": "tweetc2"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1158,7 +1168,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1172
+      "totalcmd": 1173
     }
   ],
   "clearchat": [],
@@ -1170,7 +1180,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1869,
+      "hit": 1870,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
