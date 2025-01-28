@@ -1161,7 +1161,7 @@
     },
     {
       "cmd": "Rpg",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1219,7 +1219,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1382
+      "totalcmd": 1383
     }
   ],
   "clearchat": [],
@@ -76826,7 +76826,7 @@
       "autolevelup": false,
       "serial": "GCXP",
       "glimit": 306,
-      "hit": 816,
+      "hit": 817,
       "date": "28 Desember 2024",
       "money": 98662,
       "exp": 27931,
@@ -172983,7 +172983,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "creator": "",
-      "rpg": false,
+      "rpg": true,
       "game": true,
       "autolevelup": false,
       "simi": true,
