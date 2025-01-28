@@ -890,6 +890,11 @@
       "cmd": "Spotify",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Spdl",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -926,7 +931,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 394
+      "totalcmd": 395
     }
   ],
   "clearchat": [],
@@ -96520,7 +96525,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 492,
-      "hit": 7969,
+      "hit": 7970,
       "date": "3 Januari 2025",
       "money": 6318697,
       "exp": 77343,
