@@ -765,7 +765,7 @@
     },
     {
       "cmd": "Yts",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1223,7 +1223,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1412
+      "totalcmd": 1413
     }
   ],
   "clearchat": [],
@@ -1235,7 +1235,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 1898,
+      "hit": 1899,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 349595,
@@ -20006,7 +20006,7 @@
       "warning": 0,
       "level": 10,
       "role": "Beginner",
-      "balance": 86419677,
+      "balance": 86424677,
       "skillexp": 0,
       "chip": 50,
       "atm": 1,
