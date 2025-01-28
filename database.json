@@ -645,6 +645,11 @@
       "cmd": "Brat",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Swm",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -681,7 +686,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1
+      "totalcmd": 2
     }
   ],
   "clearchat": [],
@@ -80223,7 +80228,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2315,
-      "hit": 2282,
+      "hit": 2283,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
