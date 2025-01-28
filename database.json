@@ -803,7 +803,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -886,7 +886,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 225
+      "totalcmd": 226
     }
   ],
   "clearchat": [],
@@ -99365,8 +99365,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "RYZ8",
-      "glimit": 28,
-      "hit": 52,
+      "glimit": 27,
+      "hit": 53,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
