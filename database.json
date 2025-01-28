@@ -853,7 +853,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     }
   ],
@@ -891,7 +891,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 266
+      "totalcmd": 267
     }
   ],
   "clearchat": [],
@@ -96526,7 +96526,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 2741,
+      "wood": 2796,
       "rock": 4,
       "string": 5,
       "petfood": 0,
@@ -99184,7 +99184,7 @@
       "autolevelup": false,
       "serial": "T85C",
       "glimit": 65,
-      "hit": 912,
+      "hit": 913,
       "date": "3 Januari 2025",
       "money": 622214,
       "exp": 25162,
@@ -99225,7 +99225,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 55,
+      "wood": 0,
       "rock": 0,
       "string": 0,
       "petfood": 0,
