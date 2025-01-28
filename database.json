@@ -647,7 +647,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 48,
+      "succes": 49,
       "failed": 0
     },
     {
@@ -1062,7 +1062,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 818
+      "totalcmd": 819
     }
   ],
   "clearchat": [],
@@ -53630,7 +53630,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14536,
-      "hit": 2308,
+      "hit": 2309,
       "date": "24 Desember 2024",
       "money": 4418804,
       "exp": 16120,
@@ -96652,7 +96652,7 @@
       "glimit": 531,
       "hit": 7809,
       "date": "3 Januari 2025",
-      "money": 384996,
+      "money": 417111,
       "exp": 49843,
       "limit": 351,
       "speed": 5,
@@ -96691,7 +96691,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 2524,
+      "wood": 2541,
       "rock": 4,
       "string": 5,
       "petfood": 0,
@@ -96828,7 +96828,7 @@
       "emas": "undefined60",
       "tiketcoin": "undefined60",
       "lastnambang": 1736243261278,
-      "lastparming": 1738025638787,
+      "lastparming": 1738032355862,
       "lastmulung": 1738032353746,
       "rokets": 105,
       "sampah": 271,
