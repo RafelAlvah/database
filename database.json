@@ -731,7 +731,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 14,
+      "succes": 15,
       "failed": 6
     },
     {
@@ -984,7 +984,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 452
+      "totalcmd": 453
     }
   ],
   "clearchat": [],
@@ -97484,11 +97484,11 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 465,
-      "hit": 1097,
+      "hit": 1098,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
-      "limit": 1502,
+      "limit": 1501,
       "speed": 0,
       "strength": 0,
       "defense": 0,
