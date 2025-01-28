@@ -905,6 +905,11 @@
       "cmd": "Ytmp3",
       "succes": 4,
       "failed": 0
+    },
+    {
+      "cmd": "Nabung",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -941,7 +946,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 554
+      "totalcmd": 555
     }
   ],
   "clearchat": [],
@@ -96535,9 +96540,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 491,
-      "hit": 7999,
+      "hit": 8000,
       "date": "3 Januari 2025",
-      "money": 6854692,
+      "money": 854692,
       "exp": 77343,
       "limit": 362,
       "speed": 5,
@@ -96568,7 +96573,7 @@
       "chip": 650,
       "atm": 3,
       "fullatm": 1000000000,
-      "bank": 10472605,
+      "bank": 16472605,
       "health": 20,
       "stamina": 60,
       "potion": 43,
