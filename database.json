@@ -685,7 +685,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 21,
+      "succes": 22,
       "failed": 0
     },
     {
@@ -695,7 +695,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -735,7 +735,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 84,
+      "succes": 85,
       "failed": 0
     },
     {
@@ -1255,7 +1255,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1678
+      "totalcmd": 1681
     }
   ],
   "clearchat": [],
@@ -20010,10 +20010,10 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 63,
-      "hit": 4090,
+      "hit": 4091,
       "date": "20 Desember 2024",
-      "money": 39851073,
-      "exp": 88536,
+      "money": 40551073,
+      "exp": 96536,
       "limit": 204,
       "speed": 3,
       "strength": 5,
@@ -20044,8 +20044,8 @@
       "atm": 1,
       "fullatm": 500000000,
       "bank": 227517306,
-      "health": 100,
-      "stamina": 125,
+      "health": 20,
+      "stamina": 85,
       "potion": 57,
       "wine": 0,
       "beer": 0,
@@ -20107,7 +20107,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1738055182054,
+      "lastmisi": 1738066296284,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -20182,7 +20182,7 @@
       "timeEnd": "",
       "lastkerja": 1738066269111,
       "lastparming": 1738060516809,
-      "rokets": 73,
+      "rokets": 74,
       "lastmulung": 1738066260298,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
@@ -149000,7 +149000,7 @@
       "autolevelup": false,
       "serial": "55S7",
       "glimit": 30,
-      "hit": 6,
+      "hit": 7,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -158790,7 +158790,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 79,
-      "hit": 239,
+      "hit": 240,
       "date": "28 Januari 2025",
       "money": 553894,
       "exp": 35866,
