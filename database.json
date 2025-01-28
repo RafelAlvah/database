@@ -673,7 +673,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 34,
+      "succes": 35,
       "failed": 0
     },
     {
@@ -688,7 +688,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1176,7 +1176,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1217
+      "totalcmd": 1219
     }
   ],
   "clearchat": [],
@@ -19931,7 +19931,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 82,
-      "hit": 4050,
+      "hit": 4051,
       "date": "20 Desember 2024",
       "money": 38868304,
       "exp": 88536,
@@ -19965,9 +19965,9 @@
       "atm": 1,
       "fullatm": 500000000,
       "bank": 227517306,
-      "health": 20,
+      "health": 100,
       "stamina": 95,
-      "potion": 63,
+      "potion": 61,
       "wine": 0,
       "beer": 0,
       "trash": 1000,
@@ -78929,7 +78929,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 177,
-      "hit": 468,
+      "hit": 469,
       "date": "29 Desember 2024",
       "money": 5746664,
       "exp": 4807,
