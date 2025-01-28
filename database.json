@@ -1081,7 +1081,7 @@
     },
     {
       "cmd": "Remini",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1236,7 +1236,7 @@
     {
       "id": "run",
       "expired": 1738081168768,
-      "totalcmd": 1560
+      "totalcmd": 1561
     }
   ],
   "clearchat": [],
@@ -149515,7 +149515,7 @@
       "autolevelup": false,
       "serial": "FO12",
       "glimit": 30,
-      "hit": 24,
+      "hit": 25,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
