@@ -698,7 +698,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -855,6 +855,11 @@
       "cmd": "Transfer",
       "succes": 4,
       "failed": 0
+    },
+    {
+      "cmd": "Ojek",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -891,7 +896,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 284
+      "totalcmd": 286
     }
   ],
   "clearchat": [],
@@ -96485,7 +96490,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 492,
-      "hit": 7951,
+      "hit": 7953,
       "date": "3 Januari 2025",
       "money": 3318697,
       "exp": 77343,
@@ -96513,7 +96518,7 @@
       "warning": 0,
       "level": 12,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 101402111,
+      "balance": 101404111,
       "skillexp": 0,
       "chip": 650,
       "atm": 3,
