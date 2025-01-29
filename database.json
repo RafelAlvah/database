@@ -650,7 +650,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 98,
+      "succes": 99,
       "failed": 1
     },
     {
@@ -725,7 +725,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 189,
+      "succes": 190,
       "failed": 1
     },
     {
@@ -1335,7 +1335,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2405
+      "totalcmd": 2407
     }
   ],
   "clearchat": [],
@@ -79088,7 +79088,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 108,
-      "hit": 665,
+      "hit": 666,
       "date": "29 Desember 2024",
       "money": 8146300,
       "exp": 22206,
@@ -80876,7 +80876,7 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 3163,
+      "glimit": 3162,
       "hit": 2356,
       "date": "30 Desember 2024",
       "money": 1480025,
@@ -96929,7 +96929,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 474,
-      "hit": 8144,
+      "hit": 8145,
       "date": "3 Januari 2025",
       "money": 1993643,
       "exp": 96843,
@@ -96957,7 +96957,7 @@
       "warning": 0,
       "level": 12,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 112015712,
+      "balance": 112016712,
       "skillexp": 0,
       "chip": 650,
       "atm": 3,
