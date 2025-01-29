@@ -824,7 +824,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 38,
+      "succes": 39,
       "failed": 0
     },
     {
@@ -1347,7 +1347,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2269
+      "totalcmd": 2270
     }
   ],
   "clearchat": [],
@@ -80888,8 +80888,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 2363,
-      "hit": 2351,
+      "glimit": 2863,
+      "hit": 2352,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80917,7 +80917,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 72148755,
+      "balance": 71798755,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
