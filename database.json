@@ -934,7 +934,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 31,
+      "succes": 32,
       "failed": 1
     },
     {
@@ -1348,7 +1348,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2585
+      "totalcmd": 2586
     }
   ],
   "clearchat": [],
@@ -181859,7 +181859,7 @@
       "autolevelup": false,
       "serial": "B2HA",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "29 Januari 2025",
       "money": 0,
       "exp": 0,
