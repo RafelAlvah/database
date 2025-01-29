@@ -654,7 +654,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 35,
+      "succes": 36,
       "failed": 1
     },
     {
@@ -694,7 +694,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 40,
+      "succes": 41,
       "failed": 0
     },
     {
@@ -1348,7 +1348,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2636
+      "totalcmd": 2638
     }
   ],
   "clearchat": [],
@@ -36400,7 +36400,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 331,
-      "hit": 3994,
+      "hit": 3995,
       "date": "22 Desember 2024",
       "money": 1258806,
       "exp": 3333,
@@ -96942,11 +96942,11 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 464,
-      "hit": 8180,
+      "hit": 8181,
       "date": "3 Januari 2025",
-      "money": 4013636,
+      "money": 4113636,
       "exp": 102843,
-      "limit": 341,
+      "limit": 371,
       "speed": 5,
       "strength": 6,
       "defense": 5,
@@ -96970,7 +96970,7 @@
       "warning": 0,
       "level": 12,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 112084712,
+      "balance": 112085712,
       "skillexp": 0,
       "chip": 650,
       "atm": 3,
@@ -97052,7 +97052,7 @@
       "lasthourly": 0,
       "lastbansos": 1738089561892,
       "lastrampok": 1738159902051,
-      "lastclaim": 1738157522758,
+      "lastclaim": 1738162810779,
       "lastnebang": 0,
       "lastweekly": 1738002453115,
       "lastmonthly": 1736423963407,
@@ -97126,7 +97126,7 @@
       "sampah": 364,
       "kayu": 526,
       "batu": 326,
-      "poin": 960000,
+      "poin": 1060000,
       "healt": null
     },
     "6285711509810@s.whatsapp.net": {
