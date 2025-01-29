@@ -24,6 +24,7 @@
     "Craft",
     "Inv",
     "Buy",
+    "Kerja",
     "Mulung",
     "Merampok",
     "Casino",
@@ -580,6 +581,7 @@
     "Afk",
     "Daftar-lewar-video",
     "Daftar-lewat-pesan",
+    "Me",
     "Airdrop",
     ",",
     "Hd",
@@ -588,6 +590,7 @@
     "Fip",
     "Simi",
     "Deal",
+    "Restart",
     "Search",
     "Menu",
     "Creator",
@@ -675,6 +678,11 @@
       "failed": 0
     },
     {
+      "cmd": "Kerja",
+      "succes": 92,
+      "failed": 0
+    },
+    {
       "cmd": "Gaji",
       "succes": 21,
       "failed": 0
@@ -748,6 +756,11 @@
       "cmd": "Tebakkata",
       "succes": 220,
       "failed": 0
+    },
+    {
+      "cmd": "Me",
+      "succes": 117,
+      "failed": 1
     },
     {
       "cmd": "Ttaudio",
@@ -937,6 +950,11 @@
     {
       "cmd": "Tg",
       "succes": 4,
+      "failed": 1
+    },
+    {
+      "cmd": "Restart",
+      "succes": 3,
       "failed": 1
     },
     {
@@ -1308,26 +1326,6 @@
       "cmd": "Hidetag",
       "succes": 1,
       "failed": 0
-    },
-    {
-      "cmd": "Topbalance",
-      "succes": 1,
-      "failed": 0
-    },
-    {
-      "cmd": "Me",
-      "succes": 0,
-      "failed": 1
-    },
-    {
-      "cmd": "Kerja",
-      "succes": 0,
-      "failed": 1
-    },
-    {
-      "cmd": "Restart",
-      "succes": 0,
-      "failed": 1
     }
   ],
   "listerror": [
@@ -1342,10 +1340,6 @@
     {
       "error": "((user.lastmonthly + cooldown) - (intermediate value)).toTimeString is not a function",
       "cmd": "monthly"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'cmd')",
-      "cmd": "me"
     }
   ],
   "jadibot": {},
@@ -1368,7 +1362,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2731
+      "totalcmd": 2725
     }
   ],
   "clearchat": [],
@@ -1380,7 +1374,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2169,
+      "hit": 2168,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -36420,7 +36414,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 331,
-      "hit": 4007,
+      "hit": 4005,
       "date": "22 Desember 2024",
       "money": 1258806,
       "exp": 3333,
@@ -81275,7 +81269,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 17,
-      "hit": 327,
+      "hit": 326,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
@@ -96962,7 +96956,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 457,
-      "hit": 8202,
+      "hit": 8200,
       "date": "3 Januari 2025",
       "money": 4307762,
       "exp": 102843,
