@@ -697,7 +697,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -1103,7 +1103,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1108
+      "totalcmd": 1109
     }
   ],
   "clearchat": [],
@@ -96697,7 +96697,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 491,
-      "hit": 8028,
+      "hit": 8029,
       "date": "3 Januari 2025",
       "money": 2175213,
       "exp": 81443,
