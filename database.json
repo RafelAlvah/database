@@ -601,7 +601,8 @@
     "Delstik",
     "Tweets",
     "Me",
-    "Tinyurl"
+    "Tinyurl",
+    "Ttc"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1347,6 +1348,11 @@
       "cmd": "Tinyurl",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Ttc",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1387,7 +1393,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2874
+      "totalcmd": 2875
     }
   ],
   "clearchat": [],
@@ -1398,8 +1404,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "BDCE",
-      "glimit": -10,
-      "hit": 2184,
+      "glimit": -11,
+      "hit": 2185,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
