@@ -689,7 +689,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -986,6 +986,11 @@
       "cmd": "Search",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Button",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1026,7 +1031,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 698
+      "totalcmd": 700
     }
   ],
   "clearchat": [],
@@ -146633,7 +146638,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 128,
+      "hit": 129,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -158567,7 +158572,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 26,
-      "hit": 332,
+      "hit": 333,
       "date": "28 Januari 2025",
       "money": 1058302,
       "exp": 33863,
@@ -158677,7 +158682,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
-      "lastclaim": 1738062196057,
+      "lastclaim": 1738110932529,
       "lastnebang": 0,
       "lastweekly": 1738049694778,
       "lastmonthly": 1738049704889,
@@ -158739,9 +158744,9 @@
       "timeEnd": "",
       "lastkerja": 1738110909091,
       "lastparming": 1738110898965,
-      "sampah": null,
-      "kayu": null,
-      "batu": null,
+      "sampah": 42,
+      "kayu": 38,
+      "batu": 16,
       "lastmaling": 1738045378308,
       "lastmulung": 1738110889195,
       "rokets": null
