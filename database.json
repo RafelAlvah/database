@@ -1027,7 +1027,7 @@
     },
     {
       "cmd": "Sell",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1103,7 +1103,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1117
+      "totalcmd": 1118
     }
   ],
   "clearchat": [],
@@ -96697,9 +96697,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 491,
-      "hit": 8035,
+      "hit": 8036,
       "date": "3 Januari 2025",
-      "money": 2175213,
+      "money": 302175213,
       "exp": 81443,
       "limit": 357,
       "speed": 5,
@@ -96727,7 +96727,7 @@
       "role": "Beginner Grade 3 ⚊³",
       "balance": 101414111,
       "skillexp": 0,
-      "chip": 650,
+      "chip": 350,
       "atm": 3,
       "fullatm": 1000000000,
       "bank": 16472605,
