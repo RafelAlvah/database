@@ -697,7 +697,7 @@
     },
     {
       "cmd": "Bratvid",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     }
   ],
@@ -743,7 +743,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 41
+      "totalcmd": 42
     }
   ],
   "clearchat": [],
@@ -13964,7 +13964,7 @@
       "autolevelup": false,
       "serial": "NGIE",
       "glimit": 25,
-      "hit": 79,
+      "hit": 80,
       "date": "19 Desember 2024",
       "money": 1001000,
       "exp": 5000,
