@@ -603,7 +603,8 @@
     "Me",
     "Tinyurl",
     "Ttc",
-    "Bratvid"
+    "Bratvid",
+    "Menu-ai"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -729,6 +730,11 @@
       "cmd": "Tourl",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu-ai",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -789,7 +795,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 61
+      "totalcmd": 62
     }
   ],
   "clearchat": [],
@@ -801,7 +807,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2203,
+      "hit": 2204,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
