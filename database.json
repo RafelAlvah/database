@@ -688,7 +688,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 33,
+      "succes": 34,
       "failed": 0
     },
     {
@@ -888,7 +888,7 @@
     },
     {
       "cmd": "Spotify",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1262,7 +1262,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1680
+      "totalcmd": 1682
     }
   ],
   "clearchat": [],
@@ -1274,7 +1274,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2123,
+      "hit": 2124,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -127427,9 +127427,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 843,
+      "hit": 844,
       "date": "20 Januari 2025",
-      "money": 3624558,
+      "money": 3671642,
       "exp": 200,
       "limit": 360,
       "speed": 0,
@@ -127468,7 +127468,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 155,
+      "wood": 192,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -127598,7 +127598,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastmulung": 1738135509461,
-      "lastparming": 1738131167153,
+      "lastparming": 1738135538249,
       "poin": 3060000,
       "rokets": 50,
       "lastkerja": 1738135506497,
