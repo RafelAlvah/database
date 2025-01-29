@@ -606,7 +606,8 @@
     "Bratvid",
     "Menu-ai",
     "Menu-anime",
-    "Info-menu"
+    "Info-menu",
+    "Menu-converter"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -777,6 +778,11 @@
       "cmd": "Play",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu-converter",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -849,7 +855,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 92
+      "totalcmd": 93
     }
   ],
   "clearchat": [],
@@ -861,7 +867,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2234,
+      "hit": 2235,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
