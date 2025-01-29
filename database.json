@@ -1259,7 +1259,7 @@
     },
     {
       "cmd": "Addultah",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     }
   ],
@@ -1317,7 +1317,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2051
+      "totalcmd": 2052
     }
   ],
   "clearchat": [],
@@ -36369,7 +36369,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 337,
-      "hit": 3972,
+      "hit": 3973,
       "date": "22 Desember 2024",
       "money": 1258806,
       "exp": 3333,
@@ -36384,7 +36384,7 @@
       "registered": true,
       "name": "cwogwn 9B",
       "skill": "",
-      "ultah": "07,03,2009",
+      "ultah": "17,08,1945",
       "sahabat": "",
       "pasangan": "",
       "age": 10,
