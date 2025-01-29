@@ -759,7 +759,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 80,
+      "succes": 81,
       "failed": 0
     },
     {
@@ -844,7 +844,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1302,7 +1302,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1914
+      "totalcmd": 1916
     }
   ],
   "clearchat": [],
@@ -36354,7 +36354,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 313,
-      "hit": 3939,
+      "hit": 3940,
       "date": "22 Desember 2024",
       "money": 4529265,
       "exp": 62541,
@@ -127467,9 +127467,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 857,
+      "hit": 858,
       "date": "20 Januari 2025",
-      "money": 4929938,
+      "money": 1929938,
       "exp": 13200,
       "limit": 360,
       "speed": 0,
@@ -127575,7 +127575,7 @@
       "lastberkebon": 0,
       "lastdagang": 1738144072335,
       "lasthourly": 0,
-      "lastbansos": 1738088431716,
+      "lastbansos": 1738144248728,
       "lastrampok": 1738110855174,
       "lastclaim": 1738144055402,
       "lastnebang": 0,
