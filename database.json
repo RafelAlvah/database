@@ -1064,7 +1064,7 @@
     },
     {
       "cmd": "Cekpacar",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1317,7 +1317,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2066
+      "totalcmd": 2067
     }
   ],
   "clearchat": [],
@@ -53885,7 +53885,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14519,
-      "hit": 2358,
+      "hit": 2359,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
