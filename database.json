@@ -1259,7 +1259,7 @@
     },
     {
       "cmd": "Addultah",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1322,7 +1322,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2076
+      "totalcmd": 2077
     }
   ],
   "clearchat": [],
@@ -20077,7 +20077,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 58,
-      "hit": 4416,
+      "hit": 4417,
       "date": "20 Desember 2024",
       "money": 6378560,
       "exp": 39736,
@@ -20092,7 +20092,7 @@
       "registered": true,
       "name": "yuu.!!",
       "skill": "",
-      "ultah": "05,11,1945",
+      "ultah": "05,11,2010",
       "sahabat": "",
       "pasangan": "",
       "age": 17,
