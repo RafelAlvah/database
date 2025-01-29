@@ -1043,7 +1043,7 @@
     {
       "cmd": "Weekly",
       "succes": 1,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Monthly",
@@ -1067,6 +1067,10 @@
     {
       "error": "outputString is not defined",
       "cmd": "menu"
+    },
+    {
+      "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
+      "cmd": "weekly"
     }
   ],
   "jadibot": {},
@@ -1089,7 +1093,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 995
+      "totalcmd": 996
     }
   ],
   "clearchat": [],
@@ -19844,7 +19848,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 99,
-      "hit": 4260,
+      "hit": 4261,
       "date": "20 Desember 2024",
       "money": 37501240,
       "exp": 13536,
