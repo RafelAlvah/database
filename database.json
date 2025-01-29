@@ -727,7 +727,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1074,7 +1074,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 966
+      "totalcmd": 967
     }
   ],
   "clearchat": [],
@@ -19829,11 +19829,11 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 99,
-      "hit": 4253,
+      "hit": 4254,
       "date": "20 Desember 2024",
       "money": 39321223,
       "exp": 13536,
-      "limit": 344,
+      "limit": 343,
       "speed": 3,
       "strength": 5,
       "defense": 2,
