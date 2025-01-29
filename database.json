@@ -659,7 +659,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 62,
+      "succes": 63,
       "failed": 0
     },
     {
@@ -1362,7 +1362,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2698
+      "totalcmd": 2699
     }
   ],
   "clearchat": [],
@@ -80904,7 +80904,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3156,
-      "hit": 2368,
+      "hit": 2369,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80924,9 +80924,9 @@
       "pasangan": "6283142402056@s.whatsapp.net",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": -1,
+      "afk": 1738163798787,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "nikah ma gojo",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
