@@ -1034,7 +1034,7 @@
     },
     {
       "cmd": "Sell",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1948
+      "totalcmd": 1949
     }
   ],
   "clearchat": [],
@@ -36364,10 +36364,10 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 313,
-      "hit": 3956,
+      "hit": 3957,
       "date": "22 Desember 2024",
-      "money": 4529265,
-      "exp": 62541,
+      "money": 4591806,
+      "exp": 0,
       "limit": 11947,
       "speed": 1,
       "strength": 29,
