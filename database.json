@@ -702,7 +702,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 46,
+      "succes": 47,
       "failed": 0
     },
     {
@@ -832,7 +832,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -1217,7 +1217,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1490
+      "totalcmd": 1492
     }
   ],
   "clearchat": [],
@@ -19972,7 +19972,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 92,
-      "hit": 4320,
+      "hit": 4321,
       "date": "20 Desember 2024",
       "money": 4655658,
       "exp": 18636,
@@ -20022,11 +20022,11 @@
       "emerald": 2,
       "diamond": 101,
       "gold": 66,
-      "botol": 58699,
-      "kardus": 64443,
-      "kaleng": 66282,
-      "gelas": 64535,
-      "plastik": 59442,
+      "botol": 59333,
+      "kardus": 64925,
+      "kaleng": 66345,
+      "gelas": 65461,
+      "plastik": 60191,
       "iron": 6,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -20145,7 +20145,7 @@
       "lastkerja": 1738127319551,
       "lastparming": 1738126016047,
       "rokets": 81,
-      "lastmulung": 1738126009736,
+      "lastmulung": 1738130977346,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
       "sand": "undefined850",
@@ -96811,7 +96811,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 489,
-      "hit": 8057,
+      "hit": 8058,
       "date": "3 Januari 2025",
       "money": 1218593,
       "exp": 86643,
