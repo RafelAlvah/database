@@ -745,6 +745,11 @@
       "cmd": "Delsampah",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Delsesi",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -805,7 +810,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 65
+      "totalcmd": 66
     }
   ],
   "clearchat": [],
@@ -817,7 +822,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2207,
+      "hit": 2208,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
