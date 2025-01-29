@@ -979,7 +979,7 @@
     },
     {
       "cmd": "Ttsearch",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1283,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1774
+      "totalcmd": 1775
     }
   ],
   "clearchat": [],
@@ -1295,7 +1295,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2141,
+      "hit": 2142,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -1323,7 +1323,7 @@
       "warning": 0,
       "level": 64,
       "role": "Beginner",
-      "balance": -99999999999900320,
+      "balance": -99999999999899330,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
