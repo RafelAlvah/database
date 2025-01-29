@@ -599,7 +599,8 @@
     "Qc2",
     "Addimage",
     "Pesan-owner",
-    "Tagsw"
+    "Tagsw",
+    "Delstik"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1220,6 +1221,11 @@
       "cmd": "Linkgc",
       "succes": 10,
       "failed": 0
+    },
+    {
+      "cmd": "Delstik",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1272,7 +1278,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1758
+      "totalcmd": 1759
     }
   ],
   "clearchat": [],
@@ -1284,7 +1290,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2139,
+      "hit": 2140,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
