@@ -1274,7 +1274,7 @@
     },
     {
       "cmd": "Jodohku",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     }
   ],
@@ -1332,7 +1332,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2106
+      "totalcmd": 2107
     }
   ],
   "clearchat": [],
@@ -53900,7 +53900,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14519,
-      "hit": 2370,
+      "hit": 2371,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
