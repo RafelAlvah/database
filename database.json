@@ -693,7 +693,7 @@
     {
       "cmd": "Menu-info",
       "succes": 0,
-      "failed": 3
+      "failed": 4
     },
     {
       "cmd": "Bratvid",
@@ -744,6 +744,10 @@
     {
       "error": "buffer is not defined",
       "cmd": "menu-info"
+    },
+    {
+      "error": "Cannot read properties of undefined (reading 'cover')",
+      "cmd": "menu-info"
     }
   ],
   "jadibot": {},
@@ -766,7 +770,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 48
+      "totalcmd": 49
     }
   ],
   "clearchat": [],
@@ -778,7 +782,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2197,
+      "hit": 2198,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
