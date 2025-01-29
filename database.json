@@ -1331,6 +1331,11 @@
       "cmd": "Ssvideo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Givelimit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1371,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2801
+      "totalcmd": 2802
     }
   ],
   "clearchat": [],
@@ -148586,7 +148591,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 28,
-      "hit": 180,
+      "hit": 181,
       "date": "27 Januari 2025",
       "money": 420432,
       "exp": 200,
