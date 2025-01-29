@@ -684,7 +684,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -769,7 +769,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2036
+      "totalcmd": 2038
     }
   ],
   "clearchat": [],
@@ -66925,7 +66925,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 775,
+      "hit": 776,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -66937,14 +66937,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "ayuu",
+      "registered": true,
+      "name": "daftar nopia",
       "skill": "",
       "ultah": "11,11,2011",
       "sahabat": "",
       "pasangan": "6288216660625@s.whatsapp.net",
-      "age": 17,
-      "regTime": 1738145812242,
+      "age": 14,
+      "regTime": 1738145880333,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
@@ -93858,10 +93858,10 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 679,
+      "hit": 680,
       "date": "1 Januari 2025",
-      "money": 8224858,
-      "exp": 36461,
+      "money": 8274858,
+      "exp": 36561,
       "limit": 212,
       "speed": 0,
       "strength": 0,
@@ -93968,7 +93968,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1738113240785,
-      "lastclaim": 1738122588539,
+      "lastclaim": 1738145879832,
       "lastnebang": 0,
       "lastweekly": 1738042024369,
       "lastmonthly": 1737421012583,
