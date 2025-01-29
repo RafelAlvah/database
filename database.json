@@ -734,7 +734,7 @@
     {
       "cmd": "Menu-ai",
       "succes": 2,
-      "failed": 1
+      "failed": 2
     },
     {
       "cmd": "Playstore",
@@ -792,6 +792,10 @@
     {
       "error": "totalJSFiles is not defined",
       "cmd": "menu-ai"
+    },
+    {
+      "error": "block is not defined",
+      "cmd": "menu-ai"
     }
   ],
   "jadibot": {},
@@ -814,7 +818,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 71
+      "totalcmd": 72
     }
   ],
   "clearchat": [],
@@ -826,7 +830,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2213,
+      "hit": 2214,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
