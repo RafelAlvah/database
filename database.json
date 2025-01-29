@@ -1069,6 +1069,11 @@
       "cmd": "Tourl",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Truth",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1113,7 +1118,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1171
+      "totalcmd": 1172
     }
   ],
   "clearchat": [],
@@ -80655,7 +80660,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2315,
-      "hit": 2313,
+      "hit": 2314,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
