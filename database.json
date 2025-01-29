@@ -645,7 +645,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6285817604058",
+      "expired": 1738165681794
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Brat",
@@ -719,7 +725,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -1366,7 +1372,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2746
+      "totalcmd": 2747
     }
   ],
   "clearchat": [],
@@ -96960,7 +96966,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 457,
-      "hit": 8204,
+      "hit": 8205,
       "date": "3 Januari 2025",
       "money": 4330577,
       "exp": 102843,
