@@ -774,8 +774,8 @@
     },
     {
       "cmd": "S",
-      "succes": 4,
-      "failed": 0
+      "succes": 3,
+      "failed": 1
     },
     {
       "cmd": "Ai",
