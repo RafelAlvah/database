@@ -672,7 +672,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -777,7 +777,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1098,7 +1098,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1042
+      "totalcmd": 1044
     }
   ],
   "clearchat": [],
@@ -19853,9 +19853,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 99,
-      "hit": 4270,
+      "hit": 4271,
       "date": "20 Desember 2024",
-      "money": 37543618,
+      "money": 37580123,
       "exp": 13536,
       "limit": 343,
       "speed": 3,
@@ -19873,9 +19873,9 @@
       "pasangan": "",
       "age": 17,
       "regTime": 1737899071519,
-      "afk": 1738114810695,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "mam",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -20023,7 +20023,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738114653261,
+      "lastkerja": 1738116023376,
       "lastparming": 1738113349427,
       "rokets": 78,
       "lastmulung": 1738113340629,
@@ -46872,8 +46872,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 13317,
-      "hit": 1690,
+      "glimit": 13316,
+      "hit": 1691,
       "date": "22 Desember 2024",
       "money": 7386137,
       "exp": 25163,
