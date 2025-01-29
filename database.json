@@ -1022,7 +1022,7 @@
     },
     {
       "cmd": "Leaderboard",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -1064,7 +1064,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 934
+      "totalcmd": 935
     }
   ],
   "clearchat": [],
@@ -19819,7 +19819,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 99,
-      "hit": 4242,
+      "hit": 4243,
       "date": "20 Desember 2024",
       "money": 44321223,
       "exp": 13536,
