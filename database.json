@@ -652,7 +652,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 21,
+      "succes": 22,
       "failed": 0
     },
     {
@@ -752,7 +752,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 36,
+      "succes": 37,
       "failed": 0
     },
     {
@@ -1093,7 +1093,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 999
+      "totalcmd": 1001
     }
   ],
   "clearchat": [],
@@ -19850,7 +19850,7 @@
       "glimit": 99,
       "hit": 4264,
       "date": "20 Desember 2024",
-      "money": 37501240,
+      "money": 37551240,
       "exp": 13536,
       "limit": 343,
       "speed": 3,
@@ -58841,7 +58841,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 237,
-      "hit": 404,
+      "hit": 405,
       "date": "24 Desember 2024",
       "money": 1713013,
       "exp": 33683,
@@ -58861,9 +58861,9 @@
       "pasangan": "",
       "age": 14,
       "regTime": 1737974019813,
-      "afk": -1,
+      "afk": 1738114418172,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "mamm",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -80635,7 +80635,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2315,
-      "hit": 2305,
+      "hit": 2306,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -127260,7 +127260,7 @@
       "glimit": 21,
       "hit": 809,
       "date": "20 Januari 2025",
-      "money": 2142749,
+      "money": 2192749,
       "exp": 66100,
       "limit": 340,
       "speed": 0,
