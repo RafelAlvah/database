@@ -995,6 +995,11 @@
       "cmd": "Suit",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Terima",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1035,7 +1040,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 770
+      "totalcmd": 771
     }
   ],
   "clearchat": [],
@@ -158576,7 +158581,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 26,
-      "hit": 367,
+      "hit": 368,
       "date": "28 Januari 2025",
       "money": 1058302,
       "exp": 33863,
