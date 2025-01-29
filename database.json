@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2019
+      "totalcmd": 2020
     }
   ],
   "clearchat": [],
@@ -58348,7 +58348,7 @@
       "autolevelup": false,
       "serial": "3AEW",
       "glimit": 30,
-      "hit": 101,
+      "hit": 102,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 0,
