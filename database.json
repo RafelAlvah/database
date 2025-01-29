@@ -645,13 +645,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6283824612951",
-      "expired": 1738146196909
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Brat",
@@ -870,7 +864,7 @@
     },
     {
       "cmd": "Tembak",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -940,7 +934,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1323,7 +1317,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2069
+      "totalcmd": 2071
     }
   ],
   "clearchat": [],
@@ -2617,7 +2611,7 @@
       "autolevelup": false,
       "serial": "6EVV",
       "glimit": 30,
-      "hit": 252,
+      "hit": 253,
       "date": "16 Desember 2024",
       "money": 3000,
       "exp": 5000,
@@ -66936,7 +66930,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 780,
+      "hit": 781,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -66953,7 +66947,7 @@
       "skill": "",
       "ultah": "11,11,2011",
       "sahabat": "",
-      "pasangan": "",
+      "pasangan": "6283824612951@s.whatsapp.net",
       "age": 14,
       "regTime": 1738145880333,
       "afk": -1,
