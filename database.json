@@ -752,7 +752,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 45,
+      "succes": 46,
       "failed": 0
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1167
+      "totalcmd": 1168
     }
   ],
   "clearchat": [],
@@ -80655,7 +80655,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2315,
-      "hit": 2310,
+      "hit": 2311,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80675,9 +80675,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1738119680755,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "main epep",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
