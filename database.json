@@ -649,7 +649,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 71,
+      "succes": 72,
       "failed": 0
     },
     {
@@ -1144,7 +1144,7 @@
     },
     {
       "cmd": "Menu-info",
-      "succes": 18,
+      "succes": 19,
       "failed": 1
     },
     {
@@ -1297,7 +1297,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1840
+      "totalcmd": 1842
     }
   ],
   "clearchat": [],
@@ -1309,7 +1309,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2145,
+      "hit": 2146,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -2591,7 +2591,7 @@
       "autolevelup": false,
       "serial": "6EVV",
       "glimit": 30,
-      "hit": 240,
+      "hit": 241,
       "date": "16 Desember 2024",
       "money": 3000,
       "exp": 5000,
