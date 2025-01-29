@@ -679,7 +679,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 73,
+      "succes": 74,
       "failed": 0
     },
     {
@@ -799,7 +799,7 @@
     },
     {
       "cmd": "Claim",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2038
+      "totalcmd": 2040
     }
   ],
   "clearchat": [],
@@ -93858,7 +93858,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 680,
+      "hit": 682,
       "date": "1 Januari 2025",
       "money": 8274858,
       "exp": 36561,
