@@ -1199,7 +1199,7 @@
     {
       "cmd": "Tagsw",
       "succes": 2,
-      "failed": 10
+      "failed": 11
     },
     {
       "cmd": "Ocr",
@@ -1272,7 +1272,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1755
+      "totalcmd": 1756
     }
   ],
   "clearchat": [],
@@ -1284,7 +1284,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2138,
+      "hit": 2139,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
