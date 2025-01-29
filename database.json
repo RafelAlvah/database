@@ -1090,30 +1090,14 @@
       "cmd": "Listerror",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Clearallerror",
+      "succes": 1,
+      "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "countJSFiles is not defined",
-      "cmd": "menu"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'cmd')",
-      "cmd": "menu"
-    },
-    {
-      "error": "totalJSFiles is not defined",
-      "cmd": "menu"
-    },
-    {
-      "error": "outputString is not defined",
-      "cmd": "menu"
-    },
-    {
-      "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
-      "cmd": "weekly"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1134,7 +1118,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1222
+      "totalcmd": 1223
     }
   ],
   "clearchat": [],
@@ -1146,7 +1130,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2040,
+      "hit": 2041,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
