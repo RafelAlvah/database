@@ -1214,7 +1214,7 @@
     },
     {
       "cmd": "Pin",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2023
+      "totalcmd": 2024
     }
   ],
   "clearchat": [],
@@ -2606,7 +2606,7 @@
       "autolevelup": false,
       "serial": "6EVV",
       "glimit": 30,
-      "hit": 248,
+      "hit": 249,
       "date": "16 Desember 2024",
       "money": 3000,
       "exp": 5000,
