@@ -682,7 +682,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -777,7 +777,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1098,7 +1098,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1045
+      "totalcmd": 1047
     }
   ],
   "clearchat": [],
@@ -19853,7 +19853,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 99,
-      "hit": 4272,
+      "hit": 4273,
       "date": "20 Desember 2024",
       "money": 37580123,
       "exp": 13536,
@@ -46872,8 +46872,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 13316,
-      "hit": 1691,
+      "glimit": 13315,
+      "hit": 1692,
       "date": "22 Desember 2024",
       "money": 7386137,
       "exp": 25163,
