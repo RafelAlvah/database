@@ -660,7 +660,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 52,
+      "succes": 53,
       "failed": 0
     },
     {
@@ -1335,7 +1335,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2428
+      "totalcmd": 2429
     }
   ],
   "clearchat": [],
@@ -79088,7 +79088,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 99,
-      "hit": 675,
+      "hit": 676,
       "date": "29 Desember 2024",
       "money": 8146300,
       "exp": 22206,
@@ -79108,7 +79108,7 @@
       "pasangan": "6283151449874@s.whatsapp.net",
       "age": 20,
       "regTime": 1737974016987,
-      "afk": -1,
+      "afk": 1738157503876,
       "unreg": true,
       "afkReason": "",
       "banned": false,
