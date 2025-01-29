@@ -1174,7 +1174,7 @@
     },
     {
       "cmd": "Pesan-owner",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1342,7 +1342,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2231
+      "totalcmd": 2232
     }
   ],
   "clearchat": [],
@@ -1354,7 +1354,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2151,
+      "hit": 2152,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
