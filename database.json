@@ -931,7 +931,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 8,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1196,7 +1196,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1440
+      "totalcmd": 1442
     }
   ],
   "clearchat": [],
@@ -26570,7 +26570,7 @@
       "autolevelup": false,
       "serial": "FRCP",
       "glimit": 25,
-      "hit": 208,
+      "hit": 210,
       "date": "21 Desember 2024",
       "money": 1000,
       "exp": 0,
