@@ -999,7 +999,7 @@
     },
     {
       "cmd": "Terima",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1269,7 +1269,7 @@
     },
     {
       "cmd": "Jadian",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1332,7 +1332,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2102
+      "totalcmd": 2104
     }
   ],
   "clearchat": [],
@@ -53900,7 +53900,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14519,
-      "hit": 2369,
+      "hit": 2370,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
@@ -58368,7 +58368,7 @@
       "autolevelup": false,
       "serial": "3AEW",
       "glimit": 30,
-      "hit": 104,
+      "hit": 105,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -58385,7 +58385,7 @@
       "skill": "",
       "ultah": "",
       "sahabat": "",
-      "pasangan": "",
+      "pasangan": "6282253037989@s.whatsapp.net",
       "age": -1,
       "regTime": -1,
       "afk": -1,
