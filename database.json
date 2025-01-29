@@ -600,7 +600,8 @@
     "Tagsw",
     "Delstik",
     "Tweets",
-    "Me"
+    "Me",
+    "Tinyurl"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1341,6 +1342,11 @@
       "cmd": "Setreply",
       "succes": 4,
       "failed": 0
+    },
+    {
+      "cmd": "Tinyurl",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1381,7 +1387,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2825
+      "totalcmd": 2826
     }
   ],
   "clearchat": [],
@@ -1393,7 +1399,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2179,
+      "hit": 2180,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
