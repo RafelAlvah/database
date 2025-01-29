@@ -771,7 +771,7 @@
     {
       "cmd": "Info-menu",
       "succes": 1,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Play",
@@ -823,6 +823,10 @@
     {
       "error": "block is not defined",
       "cmd": "menu-ai"
+    },
+    {
+      "error": "ENOENT: no such file or directory, open 'https://raw.githubusercontent.com/Muler-Official/upload-db-media/main/uploader/1738181146081.jpg'",
+      "cmd": "info-menu"
     }
   ],
   "jadibot": {},
@@ -845,7 +849,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 90
+      "totalcmd": 91
     }
   ],
   "clearchat": [],
@@ -857,7 +861,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2232,
+      "hit": 2233,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
