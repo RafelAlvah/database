@@ -649,7 +649,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 79,
+      "succes": 80,
       "failed": 0
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2021
+      "totalcmd": 2022
     }
   ],
   "clearchat": [],
@@ -58348,7 +58348,7 @@
       "autolevelup": false,
       "serial": "3AEW",
       "glimit": 30,
-      "hit": 102,
+      "hit": 103,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -158881,7 +158881,7 @@
       "warning": 0,
       "level": 5,
       "role": "Beginner",
-      "balance": 6564100,
+      "balance": 6574100,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
