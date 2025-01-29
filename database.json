@@ -1316,11 +1316,6 @@
       "failed": 0
     },
     {
-      "cmd": "Me",
-      "succes": 0,
-      "failed": 1
-    },
-    {
       "cmd": "Kerja",
       "succes": 0,
       "failed": 1
@@ -1329,6 +1324,11 @@
       "cmd": "Topbalance",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Me",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1369,7 +1369,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2728
+      "totalcmd": 2729
     }
   ],
   "clearchat": [],
@@ -81276,7 +81276,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 17,
-      "hit": 326,
+      "hit": 327,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
