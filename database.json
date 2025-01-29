@@ -599,7 +599,8 @@
     "Pesan-owner",
     "Tagsw",
     "Delstik",
-    "Tweets"
+    "Tweets",
+    "Me"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1323,7 +1324,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     }
   ],
@@ -1365,7 +1366,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2741
+      "totalcmd": 2742
     }
   ],
   "clearchat": [],
@@ -81272,7 +81273,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 17,
-      "hit": 326,
+      "hit": 327,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
