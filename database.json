@@ -659,7 +659,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -1297,7 +1297,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1848
+      "totalcmd": 1849
     }
   ],
   "clearchat": [],
@@ -146904,7 +146904,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 132,
+      "hit": 133,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -146924,9 +146924,9 @@
       "pasangan": "",
       "age": 20,
       "regTime": 1738109368092,
-      "afk": -1,
+      "afk": 1738143343043,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "tai anjg",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
