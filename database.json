@@ -653,7 +653,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1005,7 +1005,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 646
+      "totalcmd": 647
     }
   ],
   "clearchat": [],
@@ -148220,7 +148220,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 28,
-      "hit": 170,
+      "hit": 171,
       "date": "27 Januari 2025",
       "money": 318627,
       "exp": 200,
@@ -148240,9 +148240,9 @@
       "pasangan": "",
       "age": 16,
       "regTime": 1737954282302,
-      "afk": -1,
+      "afk": 1738109201804,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "makan",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
