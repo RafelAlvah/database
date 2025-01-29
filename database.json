@@ -722,7 +722,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -1079,7 +1079,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 988
+      "totalcmd": 989
     }
   ],
   "clearchat": [],
@@ -93625,11 +93625,11 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 646,
+      "hit": 647,
       "date": "1 Januari 2025",
       "money": 6845043,
       "exp": 23361,
-      "limit": 220,
+      "limit": 219,
       "speed": 0,
       "strength": 0,
       "defense": 0,
