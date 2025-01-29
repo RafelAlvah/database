@@ -1184,6 +1184,11 @@
       "cmd": "Unreg",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Open",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1212,7 +1217,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1479
+      "totalcmd": 1480
     }
   ],
   "clearchat": [],
@@ -36264,7 +36269,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 317,
-      "hit": 3907,
+      "hit": 3908,
       "date": "22 Desember 2024",
       "money": 4077307,
       "exp": 56646,
@@ -36300,7 +36305,7 @@
       "bank": 30000000,
       "health": 10,
       "stamina": 90,
-      "potion": 9,
+      "potion": 16,
       "wine": 0,
       "beer": 0,
       "trash": 170,
@@ -36323,7 +36328,7 @@
       "rawdiamond": 0,
       "rawgold": 0,
       "rawiron": 0,
-      "common": 17,
+      "common": 3,
       "uncommon": 36,
       "mythic": 0,
       "tbox": 0,
