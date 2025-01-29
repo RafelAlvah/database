@@ -1112,7 +1112,7 @@
     },
     {
       "cmd": "Misi",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1217,7 +1217,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1517
+      "totalcmd": 1518
     }
   ],
   "clearchat": [],
@@ -36269,7 +36269,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 313,
-      "hit": 3920,
+      "hit": 3921,
       "date": "22 Desember 2024",
       "money": 4077307,
       "exp": 56646,
