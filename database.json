@@ -799,6 +799,11 @@
       "cmd": "Hd",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Brat",
+      "succes": 2,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -822,7 +827,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 102
+      "totalcmd": 104
     }
   ],
   "clearchat": [],
@@ -158552,7 +158557,7 @@
       "autolevelup": false,
       "serial": "WRID",
       "glimit": 30,
-      "hit": 24,
+      "hit": 26,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
