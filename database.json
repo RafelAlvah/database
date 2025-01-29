@@ -687,7 +687,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -827,7 +827,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1098,7 +1098,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1058
+      "totalcmd": 1060
     }
   ],
   "clearchat": [],
@@ -129769,7 +129769,7 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 86,
-      "hit": 574,
+      "hit": 576,
       "date": "22 Januari 2025",
       "money": 7625678,
       "exp": 48700,
@@ -129819,11 +129819,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 17789,
-      "kardus": 18967,
-      "kaleng": 16880,
-      "gelas": 18203,
-      "plastik": 21570,
+      "botol": 18425,
+      "kardus": 19374,
+      "kaleng": 17115,
+      "gelas": 18848,
+      "plastik": 22002,
       "iron": 1,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -129879,7 +129879,7 @@
       "lasthourly": 0,
       "lastbansos": 1738088377031,
       "lastrampok": 0,
-      "lastclaim": 1738110740802,
+      "lastclaim": 1738116128174,
       "lastnebang": 0,
       "lastweekly": 1737552170003,
       "lastmonthly": 1737552175152,
@@ -129940,7 +129940,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1738116124728,
-      "lastmulung": 1738110728228,
+      "lastmulung": 1738116127353,
       "lastparming": 1738110735263,
       "clay": "undefined1840",
       "sand": "undefined190",
@@ -129950,9 +129950,9 @@
       "lastnambang": 1737547165719,
       "rokets": 28,
       "poin": 1430000,
-      "sampah": 268,
-      "kayu": 249,
-      "batu": 232
+      "sampah": 303,
+      "kayu": 284,
+      "batu": 262
     },
     "6283848426359@s.whatsapp.net": {
       "sticker": {},
