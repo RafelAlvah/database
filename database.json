@@ -767,7 +767,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -867,7 +867,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 24,
+      "succes": 25,
       "failed": 0
     },
     {
@@ -1212,7 +1212,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1469
+      "totalcmd": 1471
     }
   ],
   "clearchat": [],
@@ -36264,7 +36264,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 317,
-      "hit": 3899,
+      "hit": 3900,
       "date": "22 Desember 2024",
       "money": 4077307,
       "exp": 56646,
@@ -36276,14 +36276,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 3,
-      "registered": false,
-      "name": "𝐑𝐢𝐩𝐳𝐙𝐳𝟑𝐫𝐝",
+      "registered": true,
+      "name": "cwogwn 9B",
       "skill": "",
       "ultah": "07,03,2009",
       "sahabat": "",
       "pasangan": "",
       "age": 10,
-      "regTime": 1736653617488,
+      "regTime": 1738130685700,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
@@ -36292,7 +36292,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 0,
+      "balance": 40000,
       "skillexp": 0,
       "chip": 50,
       "atm": 5,
@@ -93758,7 +93758,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 671,
+      "hit": 672,
       "date": "1 Januari 2025",
       "money": 7324858,
       "exp": 27461,
@@ -93786,7 +93786,7 @@
       "warning": 0,
       "level": 5,
       "role": "Beginner",
-      "balance": 10139110,
+      "balance": 10099110,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
