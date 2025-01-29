@@ -693,7 +693,7 @@
     {
       "cmd": "Menu-info",
       "succes": 0,
-      "failed": 1
+      "failed": 2
     },
     {
       "cmd": "Bratvid",
@@ -736,6 +736,10 @@
     {
       "error": "Cannot read properties of undefined (reading 'timestamp')",
       "cmd": "menu-info"
+    },
+    {
+      "error": "imageMessage is not defined",
+      "cmd": "menu-info"
     }
   ],
   "jadibot": {},
@@ -758,7 +762,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 46
+      "totalcmd": 47
     }
   ],
   "clearchat": [],
@@ -770,7 +774,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2195,
+      "hit": 2196,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
