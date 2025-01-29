@@ -679,7 +679,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 97,
+      "succes": 98,
       "failed": 0
     },
     {
@@ -689,7 +689,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 46,
+      "succes": 47,
       "failed": 0
     },
     {
@@ -1371,7 +1371,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2790
+      "totalcmd": 2792
     }
   ],
   "clearchat": [],
@@ -96965,7 +96965,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 457,
-      "hit": 8217,
+      "hit": 8218,
       "date": "3 Januari 2025",
       "money": 32449718,
       "exp": 103119,
@@ -148586,7 +148586,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 28,
-      "hit": 175,
+      "hit": 176,
       "date": "27 Januari 2025",
       "money": 395474,
       "exp": 200,
