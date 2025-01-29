@@ -649,7 +649,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 65,
+      "succes": 66,
       "failed": 0
     },
     {
@@ -1283,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1799
+      "totalcmd": 1800
     }
   ],
   "clearchat": [],
@@ -23629,7 +23629,7 @@
       "autolevelup": false,
       "serial": "ZYGG",
       "glimit": 28,
-      "hit": 63,
+      "hit": 64,
       "date": "21 Desember 2024",
       "money": 1000,
       "exp": 0,
