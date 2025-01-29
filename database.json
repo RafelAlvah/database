@@ -1013,7 +1013,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 11,
+      "succes": 12,
       "failed": 1
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "cmd": "Sell",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1123,7 +1123,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1286
+      "totalcmd": 1288
     }
   ],
   "clearchat": [],
@@ -1135,7 +1135,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2050,
+      "hit": 2051,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -36175,10 +36175,10 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 317,
-      "hit": 3882,
+      "hit": 3883,
       "date": "22 Desember 2024",
-      "money": 3374691,
-      "exp": 50529,
+      "money": 3375220,
+      "exp": 50000,
       "limit": 11956,
       "speed": 1,
       "strength": 29,
