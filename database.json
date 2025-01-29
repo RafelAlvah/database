@@ -688,6 +688,11 @@
       "cmd": "Qc2",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu-info",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -706,6 +711,10 @@
     {
       "error": "Cannot read properties of undefined (reading 'cmd')",
       "cmd": "me"
+    },
+    {
+      "error": "Cannot read properties of undefined (reading 'timestamp')",
+      "cmd": "menu-info"
     }
   ],
   "jadibot": {},
@@ -728,7 +737,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 22
+      "totalcmd": 23
     }
   ],
   "clearchat": [],
@@ -740,7 +749,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2193,
+      "hit": 2194,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -121930,7 +121939,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 4399054,
+      "balance": 4398854,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
