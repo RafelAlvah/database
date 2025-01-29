@@ -755,7 +755,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 260,
+      "succes": 261,
       "failed": 0
     },
     {
@@ -1387,7 +1387,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2867
+      "totalcmd": 2868
     }
   ],
   "clearchat": [],
@@ -14458,7 +14458,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 15188,
+      "balance": 20188,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -96980,8 +96980,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 440,
-      "hit": 8243,
+      "glimit": 439,
+      "hit": 8244,
       "date": "3 Januari 2025",
       "money": 3401146,
       "exp": 107119,
