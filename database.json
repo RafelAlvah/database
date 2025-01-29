@@ -603,7 +603,8 @@
     "Me",
     "Tinyurl",
     "Ttc",
-    "Bratvid"
+    "Bratvid",
+    "Menu-ai"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -757,7 +758,7 @@
     },
     {
       "cmd": "Menu-ai",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     }
   ],
@@ -827,7 +828,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 81
+      "totalcmd": 82
     }
   ],
   "clearchat": [],
@@ -839,7 +840,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2223,
+      "hit": 2224,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
