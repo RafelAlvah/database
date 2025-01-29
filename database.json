@@ -690,7 +690,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 44,
+      "succes": 45,
       "failed": 0
     },
     {
@@ -835,7 +835,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 42,
+      "succes": 43,
       "failed": 0
     },
     {
@@ -1335,7 +1335,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2430
+      "totalcmd": 2432
     }
   ],
   "clearchat": [],
@@ -96929,7 +96929,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 472,
-      "hit": 8148,
+      "hit": 8150,
       "date": "3 Januari 2025",
       "money": 2096880,
       "exp": 96843,
@@ -96979,11 +96979,11 @@
       "emerald": 0,
       "diamond": 55,
       "gold": 57,
-      "botol": 44800,
-      "kardus": 50535,
-      "kaleng": 46240,
-      "gelas": 47689,
-      "plastik": 49218,
+      "botol": 45057,
+      "kardus": 51073,
+      "kaleng": 46564,
+      "gelas": 47884,
+      "plastik": 49980,
       "iron": 2,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -97108,7 +97108,7 @@
       "tiketcoin": "undefined60",
       "lastnambang": 1736243261278,
       "lastparming": 1738139718574,
-      "lastmulung": 1738133948999,
+      "lastmulung": 1738157517844,
       "rokets": 117,
       "sampah": 318,
       "kayu": 480,
