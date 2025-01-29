@@ -668,6 +668,11 @@
       "cmd": "Berdagang",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Ttc",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -708,7 +713,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 5
+      "totalcmd": 6
     }
   ],
   "clearchat": [],
@@ -719,8 +724,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "BDCE",
-      "glimit": -11,
-      "hit": 2186,
+      "glimit": -12,
+      "hit": 2187,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
