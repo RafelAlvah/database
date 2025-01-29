@@ -673,7 +673,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 46,
+      "succes": 47,
       "failed": 0
     },
     {
@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 24,
+      "succes": 25,
       "failed": 0
     },
     {
@@ -1118,7 +1118,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1229
+      "totalcmd": 1231
     }
   ],
   "clearchat": [],
@@ -93664,9 +93664,9 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 655,
+      "hit": 656,
       "date": "1 Januari 2025",
-      "money": 6845043,
+      "money": 6974858,
       "exp": 23361,
       "limit": 214,
       "speed": 0,
@@ -93834,7 +93834,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738066485907,
+      "lastkerja": 1738122585457,
       "rokets": 4,
       "poin": null,
       "sampah": 45,
@@ -96712,7 +96712,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 491,
-      "hit": 8039,
+      "hit": 8040,
       "date": "3 Januari 2025",
       "money": 2203487,
       "exp": 81443,
