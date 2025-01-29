@@ -1019,6 +1019,11 @@
       "cmd": "Panel",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Leaderboard",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1059,7 +1064,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 922
+      "totalcmd": 923
     }
   ],
   "clearchat": [],
@@ -19814,7 +19819,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 99,
-      "hit": 4240,
+      "hit": 4241,
       "date": "20 Desember 2024",
       "money": 44321223,
       "exp": 13536,
