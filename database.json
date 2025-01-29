@@ -697,7 +697,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 58,
+      "succes": 59,
       "failed": 0
     },
     {
@@ -837,7 +837,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1189,6 +1189,11 @@
       "cmd": "Open",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Taxy",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1217,7 +1222,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1518
+      "totalcmd": 1521
     }
   ],
   "clearchat": [],
@@ -36269,10 +36274,10 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 313,
-      "hit": 3921,
+      "hit": 3922,
       "date": "22 Desember 2024",
-      "money": 4077307,
-      "exp": 56646,
+      "money": 4529265,
+      "exp": 62541,
       "limit": 11952,
       "speed": 1,
       "strength": 29,
@@ -36280,7 +36285,7 @@
       "skata": 0,
       "joinlimit": 1,
       "pc": 0,
-      "ojekk": 3,
+      "ojekk": 4,
       "registered": true,
       "name": "cwogwn 9B",
       "skill": "",
@@ -36366,7 +36371,7 @@
       "pizza": 0,
       "lastadventure": 1738124199301,
       "lastkill": 0,
-      "lastmisi": 1738124224714,
+      "lastmisi": 1738131214490,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -127382,9 +127387,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 836,
+      "hit": 838,
       "date": "20 Januari 2025",
-      "money": 3508730,
+      "money": 3496230,
       "exp": 200,
       "limit": 360,
       "speed": 0,
@@ -127418,7 +127423,7 @@
       "bank": 0,
       "health": 100,
       "stamina": 45,
-      "potion": 0,
+      "potion": 10,
       "wine": 0,
       "beer": 0,
       "trash": 0,
