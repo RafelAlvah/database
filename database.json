@@ -734,7 +734,7 @@
     {
       "cmd": "Menu-ai",
       "succes": 2,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Playstore",
@@ -788,6 +788,10 @@
     {
       "error": "The argument 'path' must be a string or Uint8Array without null bytes. Received <Buffer ff d8 ff e0 00 10 4a 46 49 46 00 01 01 00 00 01 00 01 00 00 ff db 00 43 00 08 06 06 07 06 05 08 07 07 07 09 09 08 0a 0c ...",
       "cmd": "menu-info"
+    },
+    {
+      "error": "totalJSFiles is not defined",
+      "cmd": "menu-ai"
     }
   ],
   "jadibot": {},
@@ -810,7 +814,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 70
+      "totalcmd": 71
     }
   ],
   "clearchat": [],
@@ -822,7 +826,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2212,
+      "hit": 2213,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
