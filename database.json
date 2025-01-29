@@ -999,7 +999,7 @@
     },
     {
       "cmd": "Terima",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1332,7 +1332,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2154
+      "totalcmd": 2155
     }
   ],
   "clearchat": [],
@@ -80874,7 +80874,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2313,
-      "hit": 2347,
+      "hit": 2348,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80891,7 +80891,7 @@
       "skill": "",
       "ultah": "08,03,2009",
       "sahabat": "",
-      "pasangan": "",
+      "pasangan": "6283142402056@s.whatsapp.net",
       "age": 15,
       "regTime": 1735795628095,
       "afk": -1,
