@@ -645,13 +645,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "62881012971116",
-      "expired": 1738159744304
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Brat",
