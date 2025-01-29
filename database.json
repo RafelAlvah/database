@@ -1049,7 +1049,7 @@
     {
       "cmd": "Weekly",
       "succes": 1,
-      "failed": 1
+      "failed": 2
     },
     {
       "cmd": "Monthly",
@@ -1227,6 +1227,10 @@
     {
       "error": "sendStatusMentions is not defined",
       "cmd": "tagsw"
+    },
+    {
+      "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
+      "cmd": "weekly"
     }
   ],
   "jadibot": {},
@@ -1249,7 +1253,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1622
+      "totalcmd": 1623
     }
   ],
   "clearchat": [],
@@ -96843,7 +96847,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 489,
-      "hit": 8083,
+      "hit": 8084,
       "date": "3 Januari 2025",
       "money": 20787032,
       "exp": 89743,
