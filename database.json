@@ -682,7 +682,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1009,6 +1009,11 @@
       "cmd": "Maling",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Putus",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1049,7 +1054,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 894
+      "totalcmd": 896
     }
   ],
   "clearchat": [],
@@ -19804,7 +19809,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 99,
-      "hit": 4235,
+      "hit": 4236,
       "date": "20 Desember 2024",
       "money": 44299141,
       "exp": 13536,
@@ -78802,7 +78807,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 110,
-      "hit": 610,
+      "hit": 611,
       "date": "29 Desember 2024",
       "money": 7145276,
       "exp": 22006,
