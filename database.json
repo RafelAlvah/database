@@ -659,7 +659,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 45,
+      "succes": 46,
       "failed": 0
     },
     {
@@ -1342,7 +1342,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2232
+      "totalcmd": 2233
     }
   ],
   "clearchat": [],
@@ -48015,7 +48015,7 @@
       "autolevelup": false,
       "serial": "FNC5",
       "glimit": 30,
-      "hit": 46,
+      "hit": 47,
       "date": "22 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -48035,7 +48035,7 @@
       "pasangan": "",
       "age": -1,
       "regTime": -1,
-      "afk": -1,
+      "afk": 1738149718660,
       "unreg": false,
       "afkReason": "",
       "banned": false,
