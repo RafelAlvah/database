@@ -670,7 +670,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 99,
+      "succes": 100,
       "failed": 1
     },
     {
@@ -1387,7 +1387,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2831
+      "totalcmd": 2832
     }
   ],
   "clearchat": [],
@@ -159117,7 +159117,7 @@
       "autolevelup": false,
       "serial": "WRID",
       "glimit": 30,
-      "hit": 15,
+      "hit": 16,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
