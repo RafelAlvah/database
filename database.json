@@ -645,7 +645,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 43,
+      "succes": 44,
       "failed": 0
     },
     {
@@ -665,7 +665,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1380
+      "totalcmd": 1382
     }
   ],
   "clearchat": [],
@@ -110369,7 +110369,7 @@
       "autolevelup": false,
       "serial": "FFZ0",
       "glimit": 323,
-      "hit": 288,
+      "hit": 289,
       "date": "5 Januari 2025",
       "money": 36000,
       "exp": 3905,
@@ -110397,7 +110397,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 467300,
+      "balance": 468300,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -111081,7 +111081,7 @@
       "autolevelup": false,
       "serial": "UBFM",
       "glimit": 30,
-      "hit": 26,
+      "hit": 27,
       "date": "6 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -111109,7 +111109,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 15500,
+      "balance": 16500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
