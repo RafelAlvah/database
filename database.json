@@ -650,7 +650,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 123,
+      "succes": 124,
       "failed": 1
     },
     {
@@ -1335,7 +1335,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2462
+      "totalcmd": 2463
     }
   ],
   "clearchat": [],
@@ -181846,7 +181846,7 @@
       "autolevelup": false,
       "serial": "B2HA",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "29 Januari 2025",
       "money": 0,
       "exp": 0,
