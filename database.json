@@ -604,7 +604,8 @@
     "Tinyurl",
     "Ttc",
     "Bratvid",
-    "Menu-ai"
+    "Menu-ai",
+    "Menu-anime"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -760,6 +761,11 @@
       "cmd": "Menu-ai",
       "succes": 1,
       "failed": 1
+    },
+    {
+      "cmd": "Menu-anime",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -828,7 +834,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 82
+      "totalcmd": 83
     }
   ],
   "clearchat": [],
@@ -840,7 +846,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2224,
+      "hit": 2225,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
