@@ -934,7 +934,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 32,
+      "succes": 33,
       "failed": 1
     },
     {
@@ -1362,7 +1362,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2692
+      "totalcmd": 2693
     }
   ],
   "clearchat": [],
@@ -181695,9 +181695,9 @@
       "autolevelup": false,
       "serial": "N49W",
       "glimit": 30,
-      "hit": 13,
+      "hit": 14,
       "date": "29 Januari 2025",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -181721,7 +181721,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
