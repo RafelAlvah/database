@@ -593,7 +593,8 @@
     "Simi",
     "Deal",
     "Restart",
-    "Search"
+    "Search",
+    "Menu"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1012,7 +1013,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     },
     {
@@ -1123,7 +1124,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1173
+      "totalcmd": 1174
     }
   ],
   "clearchat": [],
@@ -1135,7 +1136,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2031,
+      "hit": 2032,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
