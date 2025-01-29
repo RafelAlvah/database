@@ -660,7 +660,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 51,
+      "succes": 52,
       "failed": 0
     },
     {
@@ -1335,7 +1335,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2414
+      "totalcmd": 2415
     }
   ],
   "clearchat": [],
@@ -98023,7 +98023,7 @@
       "autolevelup": false,
       "serial": "OYAO",
       "glimit": 4,
-      "hit": 324,
+      "hit": 325,
       "date": "3 Januari 2025",
       "money": 3004617,
       "exp": 22193,
@@ -98043,15 +98043,15 @@
       "pasangan": "6285817604058@s.whatsapp.net",
       "age": 15,
       "regTime": 1735978972444,
-      "afk": -1,
+      "afk": 1738157292391,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "ngegambar tugas eskul basket",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
       "level": 3,
       "role": "Beginner",
-      "balance": 21722531,
+      "balance": 21723531,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
