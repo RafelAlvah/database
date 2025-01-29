@@ -928,7 +928,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1123,7 +1123,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1266
+      "totalcmd": 1267
     }
   ],
   "clearchat": [],
@@ -46898,11 +46898,11 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 14893,
-      "hit": 1710,
+      "hit": 1711,
       "date": "22 Desember 2024",
       "money": 7986137,
       "exp": 29163,
-      "limit": 23672,
+      "limit": 23670,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -46918,9 +46918,9 @@
       "pasangan": "6283824612951@s.whatsapp.net",
       "age": 16,
       "regTime": 1738066124815,
-      "afk": 1738121970502,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "epep",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
