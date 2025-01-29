@@ -1209,7 +1209,7 @@
     },
     {
       "cmd": "Upsw",
-      "succes": 1,
+      "succes": 2,
       "failed": 1
     },
     {
@@ -1249,7 +1249,7 @@
     },
     {
       "cmd": "Math",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -1307,7 +1307,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1929
+      "totalcmd": 1931
     }
   ],
   "clearchat": [],
@@ -1319,7 +1319,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2148,
+      "hit": 2149,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -36359,7 +36359,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 313,
-      "hit": 3944,
+      "hit": 3945,
       "date": "22 Desember 2024",
       "money": 4529265,
       "exp": 62541,
