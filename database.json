@@ -693,7 +693,7 @@
     {
       "cmd": "Menu-info",
       "succes": 0,
-      "failed": 2
+      "failed": 3
     },
     {
       "cmd": "Bratvid",
@@ -740,6 +740,10 @@
     {
       "error": "imageMessage is not defined",
       "cmd": "menu-info"
+    },
+    {
+      "error": "buffer is not defined",
+      "cmd": "menu-info"
     }
   ],
   "jadibot": {},
@@ -762,7 +766,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 47
+      "totalcmd": 48
     }
   ],
   "clearchat": [],
@@ -774,7 +778,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2196,
+      "hit": 2197,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
