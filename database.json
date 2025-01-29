@@ -679,7 +679,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 67,
+      "succes": 68,
       "failed": 0
     },
     {
@@ -759,7 +759,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 92,
+      "succes": 93,
       "failed": 0
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1991
+      "totalcmd": 1993
     }
   ],
   "clearchat": [],
@@ -66925,7 +66925,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 766,
+      "hit": 767,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -158853,9 +158853,9 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 20,
-      "hit": 507,
+      "hit": 508,
       "date": "28 Januari 2025",
-      "money": 1224117,
+      "money": 1240290,
       "exp": 42863,
       "limit": 122,
       "speed": 0,
@@ -159023,7 +159023,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738126014656,
+      "lastkerja": 1738145476138,
       "lastparming": 1738145351336,
       "sampah": 42,
       "kayu": 38,
