@@ -664,7 +664,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1154,7 +1154,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1319
+      "totalcmd": 1320
     }
   ],
   "clearchat": [],
@@ -110348,7 +110348,7 @@
       "autolevelup": false,
       "serial": "FFZ0",
       "glimit": 323,
-      "hit": 284,
+      "hit": 285,
       "date": "5 Januari 2025",
       "money": 36000,
       "exp": 3905,
@@ -110376,7 +110376,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 459300,
+      "balance": 460300,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
