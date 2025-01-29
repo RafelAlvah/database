@@ -914,7 +914,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 48,
+      "succes": 49,
       "failed": 0
     },
     {
@@ -1055,7 +1055,7 @@
     {
       "cmd": "Monthly",
       "succes": 1,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Cekjodoh",
@@ -1336,6 +1336,10 @@
     {
       "error": "Cannot read properties of undefined (reading 'length')",
       "cmd": "cekpacar"
+    },
+    {
+      "error": "((user.lastmonthly + cooldown) - (intermediate value)).toTimeString is not a function",
+      "cmd": "monthly"
     }
   ],
   "jadibot": {},
@@ -1358,7 +1362,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2684
+      "totalcmd": 2686
     }
   ],
   "clearchat": [],
@@ -36410,7 +36414,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 331,
-      "hit": 4000,
+      "hit": 4001,
       "date": "22 Desember 2024",
       "money": 1258806,
       "exp": 3333,
@@ -158898,8 +158902,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "JL9G",
-      "glimit": 1,
-      "hit": 629,
+      "glimit": 0,
+      "hit": 630,
       "date": "28 Januari 2025",
       "money": 2133146,
       "exp": 46863,
