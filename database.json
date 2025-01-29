@@ -1304,7 +1304,7 @@
     },
     {
       "cmd": "Rpg",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1362,7 +1362,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2699
+      "totalcmd": 2700
     }
   ],
   "clearchat": [],
@@ -146969,7 +146969,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 29,
-      "hit": 138,
+      "hit": 139,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -183874,7 +183874,7 @@
       "timeOrder": "27/01/2025 21:39",
       "timeEnd": "26/02/2025 21:39",
       "creator": "wa.me/6285932010577",
-      "rpg": false,
+      "rpg": true,
       "game": false,
       "autolevelup": false,
       "simi": false,
