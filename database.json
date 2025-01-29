@@ -664,7 +664,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 97,
+      "succes": 98,
       "failed": 1
     },
     {
@@ -1314,7 +1314,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2348
+      "totalcmd": 2349
     }
   ],
   "clearchat": [],
@@ -79067,7 +79067,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 108,
-      "hit": 652,
+      "hit": 653,
       "date": "29 Desember 2024",
       "money": 8146300,
       "exp": 22206,
