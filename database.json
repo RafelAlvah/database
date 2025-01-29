@@ -183732,7 +183732,7 @@
       "rpg": true,
       "game": true,
       "autolevelup": true,
-      "simi": true,
+      "simi": false,
       "open": 0,
       "close": 0,
       "threeDaysLeft": false,
