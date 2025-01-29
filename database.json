@@ -1271,6 +1271,10 @@
     {
       "error": "Cannot read properties of null (reading 'download')",
       "cmd": "upsw"
+    },
+    {
+      "error": "ENOENT: no such file or directory, open '../stik/thumb.jpeg'",
+      "cmd": "menu-info"
     }
   ],
   "jadibot": {},
