@@ -727,7 +727,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -747,7 +747,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 172,
+      "succes": 173,
       "failed": 0
     },
     {
@@ -1069,7 +1069,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 952
+      "totalcmd": 954
     }
   ],
   "clearchat": [],
@@ -2172,7 +2172,7 @@
       "autolevelup": false,
       "serial": "GIEU",
       "glimit": -550,
-      "hit": 2356,
+      "hit": 2357,
       "date": "16 Desember 2024",
       "money": 1556142,
       "exp": 2107,
@@ -58816,8 +58816,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 244,
-      "hit": 384,
+      "glimit": 243,
+      "hit": 385,
       "date": "24 Desember 2024",
       "money": 620015,
       "exp": 18683,
