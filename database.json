@@ -755,6 +755,11 @@
       "cmd": "Getpp",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Ytmp4",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -823,7 +828,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 76
+      "totalcmd": 77
     }
   ],
   "clearchat": [],
@@ -835,7 +840,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2218,
+      "hit": 2219,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
