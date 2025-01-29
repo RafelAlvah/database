@@ -663,6 +663,11 @@
       "cmd": "Afk",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Berdagang",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -703,7 +708,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 3
+      "totalcmd": 4
     }
   ],
   "clearchat": [],
@@ -96297,7 +96302,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8253,
+      "hit": 8254,
       "date": "3 Januari 2025",
       "money": 3497111,
       "exp": 107119,
@@ -121905,7 +121910,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 4396054,
+      "balance": 4397054,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
