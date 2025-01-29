@@ -697,7 +697,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 60,
+      "succes": 61,
       "failed": 0
     },
     {
@@ -867,7 +867,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1222,7 +1222,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1526
+      "totalcmd": 1528
     }
   ],
   "clearchat": [],
@@ -19977,7 +19977,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 92,
-      "hit": 4327,
+      "hit": 4328,
       "date": "20 Desember 2024",
       "money": 5123265,
       "exp": 26736,
@@ -20005,7 +20005,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 83578454,
+      "balance": 83078454,
       "skillexp": 0,
       "chip": 101,
       "atm": 1,
@@ -36274,7 +36274,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 313,
-      "hit": 3923,
+      "hit": 3924,
       "date": "22 Desember 2024",
       "money": 4529265,
       "exp": 62541,
@@ -36308,9 +36308,9 @@
       "atm": 5,
       "fullatm": 2000000000,
       "bank": 30000000,
-      "health": 90,
+      "health": 130,
       "stamina": 125,
-      "potion": 13,
+      "potion": 12,
       "wine": 0,
       "beer": 0,
       "trash": 170,
@@ -93796,7 +93796,7 @@
       "warning": 0,
       "level": 5,
       "role": "Beginner",
-      "balance": 10099110,
+      "balance": 10599110,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
