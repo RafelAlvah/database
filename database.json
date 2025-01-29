@@ -689,7 +689,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1026,7 +1026,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 665
+      "totalcmd": 666
     }
   ],
   "clearchat": [],
@@ -19781,7 +19781,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 99,
-      "hit": 4228,
+      "hit": 4229,
       "date": "20 Desember 2024",
       "money": 44154809,
       "exp": 11536,
@@ -19891,7 +19891,7 @@
       "lasthourly": 0,
       "lastbansos": 1738089698775,
       "lastrampok": 1736625325462,
-      "lastclaim": 1738088084159,
+      "lastclaim": 1738110687550,
       "lastnebang": 0,
       "lastweekly": 1738041991711,
       "lastmonthly": 1736635974029,
@@ -19963,9 +19963,9 @@
       "tiketcoin": "undefined30",
       "lastnambang": 1736486978720,
       "poin": 1950000,
-      "sampah": 539,
-      "kayu": 574,
-      "batu": 556,
+      "sampah": 576,
+      "kayu": 607,
+      "batu": 582,
       "lastdate": 1737885479724
     },
     "6287717217561@s.whatsapp.net": {
