@@ -697,7 +697,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 51,
+      "succes": 52,
       "failed": 0
     },
     {
@@ -1217,7 +1217,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1494
+      "totalcmd": 1495
     }
   ],
   "clearchat": [],
@@ -19974,7 +19974,7 @@
       "glimit": 92,
       "hit": 4323,
       "date": "20 Desember 2024",
-      "money": 4665667,
+      "money": 4673265,
       "exp": 18636,
       "limit": 383,
       "speed": 3,
@@ -20013,7 +20013,7 @@
       "beer": 0,
       "trash": 1000,
       "coal": 0,
-      "wood": 2761,
+      "wood": 2810,
       "rock": 5,
       "string": 6,
       "petfood": 0,
@@ -20143,7 +20143,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1738130984607,
-      "lastparming": 1738126016047,
+      "lastparming": 1738130986431,
       "rokets": 81,
       "lastmulung": 1738130977346,
       "lastmaling": 1736422655610,
@@ -96811,7 +96811,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 489,
-      "hit": 8058,
+      "hit": 8059,
       "date": "3 Januari 2025",
       "money": 1218593,
       "exp": 86643,
@@ -96845,9 +96845,9 @@
       "atm": 3,
       "fullatm": 1000000000,
       "bank": 7972605,
-      "health": 20,
+      "health": 100,
       "stamina": 50,
-      "potion": 37,
+      "potion": 35,
       "wine": 0,
       "beer": 0,
       "trash": 0,
