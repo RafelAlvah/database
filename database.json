@@ -709,7 +709,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -1334,7 +1334,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2525
+      "totalcmd": 2526
     }
   ],
   "clearchat": [],
@@ -34761,7 +34761,7 @@
       "glimit": 852,
       "hit": 2425,
       "date": "22 Desember 2024",
-      "money": 26501220,
+      "money": 26498366,
       "exp": 45366,
       "limit": 320,
       "speed": 0,
@@ -79087,9 +79087,9 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 99,
-      "hit": 678,
+      "hit": 679,
       "date": "29 Desember 2024",
-      "money": 8146300,
+      "money": 8143446,
       "exp": 22206,
       "limit": 68,
       "speed": 0,
@@ -79115,7 +79115,7 @@
       "warning": 0,
       "level": 6,
       "role": "Beginner",
-      "balance": 10474400,
+      "balance": 10475400,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -79193,7 +79193,7 @@
       "lasthunt": 0,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1738055468212,
+      "lastdagang": 1738159284237,
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1738153340605,
