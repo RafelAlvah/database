@@ -1174,6 +1174,11 @@
       "cmd": "Pesan-owner",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Owner",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1202,7 +1207,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1456
+      "totalcmd": 1457
     }
   ],
   "clearchat": [],
@@ -1214,7 +1219,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2093,
+      "hit": 2094,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
