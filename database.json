@@ -769,7 +769,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2028
+      "totalcmd": 2029
     }
   ],
   "clearchat": [],
@@ -66925,7 +66925,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 769,
+      "hit": 770,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -66937,14 +66937,14 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": false,
-      "name": "૮₍｡´ᴖ ˔ ᴖ`｡₎ა",
+      "registered": true,
+      "name": "ayuu",
       "skill": "",
       "ultah": "11,11,2011",
       "sahabat": "",
       "pasangan": "6288216660625@s.whatsapp.net",
-      "age": -1,
-      "regTime": -1,
+      "age": 17,
+      "regTime": 1738145812242,
       "afk": -1,
       "unreg": false,
       "afkReason": "",
