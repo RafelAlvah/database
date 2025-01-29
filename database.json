@@ -1184,7 +1184,7 @@
     },
     {
       "cmd": "Unreg",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1963
+      "totalcmd": 1964
     }
   ],
   "clearchat": [],
@@ -53880,7 +53880,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14519,
-      "hit": 2352,
+      "hit": 2353,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
@@ -53892,7 +53892,7 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": true,
+      "registered": false,
       "name": "lid",
       "skill": "",
       "ultah": "17,08,1945",
@@ -53901,7 +53901,7 @@
       "age": 14,
       "regTime": 1735100047320,
       "afk": -1,
-      "unreg": false,
+      "unreg": true,
       "afkReason": "",
       "banned": false,
       "lastBanned": 0,
