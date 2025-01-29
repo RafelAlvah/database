@@ -1293,44 +1293,7 @@
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "The argument 'path' must be a string or Uint8Array without null bytes. Received <Buffer ff d8 ff e0 00 10 4a 46 49 46 00 01 01 00 00 01 00 01 00 00 ff db 00 43 00 08 06 06 07 06 05 08 07 07 07 09 09 08 0a 0c ...",
-      "cmd": "menu-info"
-    },
-    {
-      "error": "sendstatusMentions is not defined",
-      "cmd": "tagsw"
-    },
-    {
-      "error": "generateWAMessage is not defined",
-      "cmd": "tagsw"
-    },
-    {
-      "error": "jid.endsWith is not a function",
-      "cmd": "tagsw"
-    },
-    {
-      "error": "sendStatusMentions is not defined",
-      "cmd": "tagsw"
-    },
-    {
-      "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
-      "cmd": "weekly"
-    },
-    {
-      "error": "Cannot read properties of null (reading 'download')",
-      "cmd": "upsw"
-    },
-    {
-      "error": "ENOENT: no such file or directory, open '../stik/thumb.jpeg'",
-      "cmd": "menu-info"
-    },
-    {
-      "error": "participants is not defined",
-      "cmd": "brat"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
