@@ -1184,7 +1184,7 @@
     },
     {
       "cmd": "Unreg",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2034
+      "totalcmd": 2035
     }
   ],
   "clearchat": [],
@@ -66925,7 +66925,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 773,
+      "hit": 774,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -66937,7 +66937,7 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 0,
-      "registered": true,
+      "registered": false,
       "name": "ayuu",
       "skill": "",
       "ultah": "11,11,2011",
@@ -66946,7 +66946,7 @@
       "age": 17,
       "regTime": 1738145812242,
       "afk": -1,
-      "unreg": false,
+      "unreg": true,
       "afkReason": "",
       "banned": false,
       "lastBanned": 0,
