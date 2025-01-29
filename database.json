@@ -824,7 +824,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 43,
+      "succes": 44,
       "failed": 0
     },
     {
@@ -1362,7 +1362,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2733
+      "totalcmd": 2734
     }
   ],
   "clearchat": [],
@@ -36413,8 +36413,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "ENHU",
-      "glimit": 331,
-      "hit": 4006,
+      "glimit": 333,
+      "hit": 4007,
       "date": "22 Desember 2024",
       "money": 1258806,
       "exp": 3333,
@@ -36442,7 +36442,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 550000,
+      "balance": 548600,
       "skillexp": 0,
       "chip": 50,
       "atm": 5,
