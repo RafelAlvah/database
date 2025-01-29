@@ -973,7 +973,7 @@
     },
     {
       "cmd": "Ulartangga",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1015,7 +1015,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 651
+      "totalcmd": 652
     }
   ],
   "clearchat": [],
@@ -146622,7 +146622,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 127,
+      "hit": 128,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
