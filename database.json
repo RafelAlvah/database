@@ -904,7 +904,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -1288,7 +1288,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1812
+      "totalcmd": 1813
     }
   ],
   "clearchat": [],
@@ -23634,11 +23634,11 @@
       "autolevelup": false,
       "serial": "ZYGG",
       "glimit": 28,
-      "hit": 66,
+      "hit": 67,
       "date": "21 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 28,
+      "limit": 27,
       "speed": 0,
       "strength": 0,
       "defense": 0,
