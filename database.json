@@ -766,7 +766,7 @@
     },
     {
       "cmd": "Menu-anime",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -855,7 +855,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 93
+      "totalcmd": 94
     }
   ],
   "clearchat": [],
@@ -867,7 +867,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2235,
+      "hit": 2236,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
