@@ -833,7 +833,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1013,7 +1013,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 7,
+      "succes": 8,
       "failed": 1
     },
     {
@@ -1118,7 +1118,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1226
+      "totalcmd": 1228
     }
   ],
   "clearchat": [],
@@ -1130,7 +1130,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2041,
+      "hit": 2042,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -96712,9 +96712,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 491,
-      "hit": 8037,
+      "hit": 8038,
       "date": "3 Januari 2025",
-      "money": 302175213,
+      "money": 2175213,
       "exp": 81443,
       "limit": 357,
       "speed": 5,
@@ -96742,7 +96742,7 @@
       "role": "Beginner Grade 3 ⚊³",
       "balance": 101414111,
       "skillexp": 0,
-      "chip": 350,
+      "chip": 650,
       "atm": 3,
       "fullatm": 1000000000,
       "bank": 16472605,
