@@ -707,7 +707,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -780,7 +780,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 54
+      "totalcmd": 55
     }
   ],
   "clearchat": [],
@@ -176844,9 +176844,9 @@
       "autolevelup": false,
       "serial": "3TZV",
       "glimit": 28,
-      "hit": 3,
+      "hit": 4,
       "date": "28 Januari 2025",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -176870,7 +176870,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 151500,
       "skillexp": 0,
