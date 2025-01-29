@@ -784,7 +784,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 51,
+      "succes": 52,
       "failed": 0
     },
     {
@@ -1029,7 +1029,7 @@
     },
     {
       "cmd": "Leaderboard",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1362,7 +1362,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2709
+      "totalcmd": 2711
     }
   ],
   "clearchat": [],
@@ -96956,7 +96956,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 457,
-      "hit": 8191,
+      "hit": 8192,
       "date": "3 Januari 2025",
       "money": 4163636,
       "exp": 102843,
@@ -96976,9 +96976,9 @@
       "pasangan": "6281399940982@s.whatsapp.net",
       "age": 19,
       "regTime": 1735937139204,
-      "afk": 1738163377669,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "mandi ujan",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -122535,8 +122535,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "DY0Q",
-      "glimit": 259,
-      "hit": 214,
+      "glimit": 258,
+      "hit": 215,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
