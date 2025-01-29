@@ -581,7 +581,6 @@
     "Afk",
     "Daftar-lewar-video",
     "Daftar-lewat-pesan",
-    "Me",
     "Airdrop",
     ",",
     "Hd",
@@ -756,11 +755,6 @@
       "cmd": "Tebakkata",
       "succes": 220,
       "failed": 0
-    },
-    {
-      "cmd": "Me",
-      "succes": 122,
-      "failed": 1
     },
     {
       "cmd": "Ttaudio",
@@ -1326,6 +1320,11 @@
       "cmd": "Hidetag",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Me",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1340,6 +1339,10 @@
     {
       "error": "((user.lastmonthly + cooldown) - (intermediate value)).toTimeString is not a function",
       "cmd": "monthly"
+    },
+    {
+      "error": "Cannot read properties of undefined (reading 'cmd')",
+      "cmd": "me"
     }
   ],
   "jadibot": {},
@@ -1362,7 +1365,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2737
+      "totalcmd": 2738
     }
   ],
   "clearchat": [],
@@ -96956,7 +96959,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 457,
-      "hit": 8201,
+      "hit": 8202,
       "date": "3 Januari 2025",
       "money": 4307762,
       "exp": 102843,
