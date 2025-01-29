@@ -649,7 +649,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 151,
+      "succes": 152,
       "failed": 1
     },
     {
@@ -1353,7 +1353,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2663
+      "totalcmd": 2664
     }
   ],
   "clearchat": [],
@@ -58389,7 +58389,7 @@
       "autolevelup": false,
       "serial": "3AEW",
       "glimit": 29,
-      "hit": 107,
+      "hit": 108,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 0,
