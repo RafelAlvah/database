@@ -1126,6 +1126,11 @@
       "cmd": "Buyprem",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Brat2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1149,7 +1154,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1316
+      "totalcmd": 1317
     }
   ],
   "clearchat": [],
@@ -110343,7 +110348,7 @@
       "autolevelup": false,
       "serial": "FFZ0",
       "glimit": 323,
-      "hit": 283,
+      "hit": 284,
       "date": "5 Januari 2025",
       "money": 36000,
       "exp": 3905,
