@@ -683,6 +683,11 @@
       "cmd": "Qc",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Qc2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -723,7 +728,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 20
+      "totalcmd": 21
     }
   ],
   "clearchat": [],
@@ -735,7 +740,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2192,
+      "hit": 2193,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
