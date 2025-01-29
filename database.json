@@ -650,7 +650,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 130,
+      "succes": 131,
       "failed": 1
     },
     {
@@ -1335,7 +1335,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2484
+      "totalcmd": 2485
     }
   ],
   "clearchat": [],
@@ -150688,7 +150688,7 @@
       "autolevelup": false,
       "serial": "URGM",
       "glimit": 30,
-      "hit": 21,
+      "hit": 22,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
