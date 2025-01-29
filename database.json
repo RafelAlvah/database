@@ -724,7 +724,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 167,
+      "succes": 168,
       "failed": 0
     },
     {
@@ -1342,7 +1342,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2199
+      "totalcmd": 2200
     }
   ],
   "clearchat": [],
@@ -158882,8 +158882,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "JL9G",
-      "glimit": 56,
-      "hit": 546,
+      "glimit": 55,
+      "hit": 547,
       "date": "28 Januari 2025",
       "money": 1240290,
       "exp": 42863,
