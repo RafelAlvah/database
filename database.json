@@ -658,7 +658,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 33,
+      "succes": 34,
       "failed": 0
     },
     {
@@ -698,7 +698,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 61,
+      "succes": 63,
       "failed": 0
     },
     {
@@ -1232,7 +1232,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1566
+      "totalcmd": 1569
     }
   ],
   "clearchat": [],
@@ -96826,7 +96826,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 489,
-      "hit": 8063,
+      "hit": 8064,
       "date": "3 Januari 2025",
       "money": 20651738,
       "exp": 89643,
@@ -96846,9 +96846,9 @@
       "pasangan": "6281399940982@s.whatsapp.net",
       "age": 19,
       "regTime": 1735937139204,
-      "afk": -1,
+      "afk": 1738131890190,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "galau seminggu",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -129903,7 +129903,7 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 86,
-      "hit": 602,
+      "hit": 604,
       "date": "22 Januari 2025",
       "money": 9624919,
       "exp": 55700,
@@ -129937,9 +129937,9 @@
       "atm": 0,
       "fullatm": 0,
       "bank": 0,
-      "health": 20,
-      "stamina": 20,
-      "potion": 6,
+      "health": 100,
+      "stamina": 90,
+      "potion": 2,
       "wine": 0,
       "beer": 0,
       "trash": 0,
