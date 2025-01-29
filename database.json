@@ -1259,7 +1259,7 @@
     },
     {
       "cmd": "Addultah",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -1317,7 +1317,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2047
+      "totalcmd": 2048
     }
   ],
   "clearchat": [],
@@ -66930,7 +66930,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 776,
+      "hit": 777,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
