@@ -832,7 +832,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 106
+      "totalcmd": 107
     }
   ],
   "clearchat": [],
@@ -114487,7 +114487,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1502,
+      "hit": 1503,
       "date": "7 Januari 2025",
       "money": 5232182,
       "exp": 18085,
