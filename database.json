@@ -758,7 +758,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 70,
+      "succes": 71,
       "failed": 0
     },
     {
@@ -1253,7 +1253,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1630
+      "totalcmd": 1631
     }
   ],
   "clearchat": [],
@@ -80795,7 +80795,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 2314,
-      "hit": 2344,
+      "hit": 2345,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80815,9 +80815,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1738133692219,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "mau bobo",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
