@@ -1085,6 +1085,11 @@
       "cmd": "Jadianime",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Listerror",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1129,7 +1134,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1221
+      "totalcmd": 1222
     }
   ],
   "clearchat": [],
@@ -1141,7 +1146,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2039,
+      "hit": 2040,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
