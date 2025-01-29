@@ -723,7 +723,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 117,
+      "succes": 118,
       "failed": 0
     },
     {
@@ -1218,7 +1218,7 @@
     },
     {
       "cmd": "Linkgc",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     }
   ],
@@ -1272,7 +1272,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1719
+      "totalcmd": 1721
     }
   ],
   "clearchat": [],
@@ -1284,7 +1284,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2132,
+      "hit": 2133,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -20026,8 +20026,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 90,
-      "hit": 4342,
+      "glimit": 89,
+      "hit": 4343,
       "date": "20 Desember 2024",
       "money": 5659315,
       "exp": 32736,
@@ -120513,7 +120513,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2511668,
+      "balance": 2512668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
