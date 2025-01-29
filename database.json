@@ -1306,6 +1306,11 @@
       "cmd": "Rpg",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tiktok",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1334,7 +1339,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2531
+      "totalcmd": 2532
     }
   ],
   "clearchat": [],
@@ -148187,11 +148192,11 @@
       "autolevelup": false,
       "serial": "JX2T",
       "glimit": 30,
-      "hit": 31,
+      "hit": 32,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
-      "limit": 22,
+      "limit": 21,
       "speed": 0,
       "strength": 0,
       "defense": 0,
