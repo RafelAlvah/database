@@ -588,7 +588,6 @@
     "Fip",
     "Simi",
     "Deal",
-    "Restart",
     "Search",
     "Menu",
     "Creator",
@@ -938,11 +937,6 @@
     {
       "cmd": "Tg",
       "succes": 4,
-      "failed": 1
-    },
-    {
-      "cmd": "Restart",
-      "succes": 3,
       "failed": 1
     },
     {
@@ -1329,6 +1323,11 @@
       "cmd": "Kerja",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Restart",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1369,7 +1368,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2730
+      "totalcmd": 2731
     }
   ],
   "clearchat": [],
@@ -1381,7 +1380,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2168,
+      "hit": 2169,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
