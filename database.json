@@ -645,7 +645,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6287822381511",
+      "expired": 1738144440108
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Brat",
@@ -1249,7 +1255,7 @@
     },
     {
       "cmd": "Math",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     }
   ],
@@ -1307,7 +1313,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1931
+      "totalcmd": 1932
     }
   ],
   "clearchat": [],
@@ -36359,7 +36365,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 313,
-      "hit": 3945,
+      "hit": 3946,
       "date": "22 Desember 2024",
       "money": 4529265,
       "exp": 62541,
