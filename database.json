@@ -654,8 +654,8 @@
     },
     {
       "cmd": "Swm",
-      "succes": 32,
-      "failed": 0
+      "succes": 31,
+      "failed": 1
     },
     {
       "cmd": "Afk",
