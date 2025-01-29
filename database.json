@@ -809,7 +809,7 @@
     },
     {
       "cmd": "Aigemini",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1281,6 +1281,11 @@
       "cmd": "War",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Remini",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1337,7 +1342,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2187
+      "totalcmd": 2189
     }
   ],
   "clearchat": [],
@@ -53905,7 +53910,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14503,
-      "hit": 2396,
+      "hit": 2397,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
@@ -134837,7 +134842,7 @@
       "autolevelup": false,
       "serial": "SXRI",
       "glimit": 30,
-      "hit": 3,
+      "hit": 4,
       "date": "24 Januari 2025",
       "money": 1000,
       "exp": 0,
