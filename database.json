@@ -1199,7 +1199,7 @@
     {
       "cmd": "Tagsw",
       "succes": 2,
-      "failed": 1
+      "failed": 2
     }
   ],
   "listerror": [
@@ -1209,6 +1209,10 @@
     },
     {
       "error": "sendstatusMentions is not defined",
+      "cmd": "tagsw"
+    },
+    {
+      "error": "generateWAMessage is not defined",
       "cmd": "tagsw"
     }
   ],
@@ -1232,7 +1236,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1576
+      "totalcmd": 1577
     }
   ],
   "clearchat": [],
@@ -1244,7 +1248,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2102,
+      "hit": 2103,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
