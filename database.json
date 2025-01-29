@@ -649,7 +649,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 137,
+      "succes": 138,
       "failed": 1
     },
     {
@@ -1334,7 +1334,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2504
+      "totalcmd": 2505
     }
   ],
   "clearchat": [],
@@ -170097,7 +170097,7 @@
       "autolevelup": false,
       "serial": "KSQQ",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
