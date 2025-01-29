@@ -699,7 +699,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 83,
+      "succes": 84,
       "failed": 0
     },
     {
@@ -709,7 +709,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -1302,7 +1302,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1899
+      "totalcmd": 1901
     }
   ],
   "clearchat": [],
@@ -20059,7 +20059,7 @@
       "glimit": 60,
       "hit": 4388,
       "date": "20 Desember 2024",
-      "money": 6340688,
+      "money": 6338476,
       "exp": 39736,
       "limit": 381,
       "speed": 3,
@@ -129973,9 +129973,9 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 86,
-      "hit": 626,
+      "hit": 628,
       "date": "22 Januari 2025",
-      "money": 10741013,
+      "money": 10738801,
       "exp": 3700,
       "limit": 310,
       "speed": 0,
@@ -130008,8 +130008,8 @@
       "fullatm": 0,
       "bank": 0,
       "health": 20,
-      "stamina": 45,
-      "potion": 9,
+      "stamina": 115,
+      "potion": 7,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -130079,7 +130079,7 @@
       "lasthunt": 0,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1738110746932,
+      "lastdagang": 1738144145182,
       "lasthourly": 0,
       "lastbansos": 1738088377031,
       "lastrampok": 1738131950325,
