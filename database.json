@@ -1044,7 +1044,7 @@
     },
     {
       "cmd": "Lirik",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1288,7 +1288,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1805
+      "totalcmd": 1806
     }
   ],
   "clearchat": [],
@@ -68147,7 +68147,7 @@
       "autolevelup": false,
       "serial": "38UR",
       "glimit": 30,
-      "hit": 76,
+      "hit": 77,
       "date": "25 Desember 2024",
       "money": 1000,
       "exp": 0,
