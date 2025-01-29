@@ -1321,6 +1321,11 @@
       "cmd": "Tebaklagu",
       "succes": 4,
       "failed": 0
+    },
+    {
+      "cmd": "Hidetag",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1353,7 +1358,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2680
+      "totalcmd": 2681
     }
   ],
   "clearchat": [],
@@ -146960,7 +146965,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 29,
-      "hit": 136,
+      "hit": 137,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
