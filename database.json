@@ -934,7 +934,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 20,
+      "succes": 21,
       "failed": 1
     },
     {
@@ -1314,7 +1314,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2351
+      "totalcmd": 2353
     }
   ],
   "clearchat": [],
@@ -1326,7 +1326,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2162,
+      "hit": 2163,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -79067,7 +79067,7 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 108,
-      "hit": 654,
+      "hit": 655,
       "date": "29 Desember 2024",
       "money": 8146300,
       "exp": 22206,
