@@ -1326,6 +1326,11 @@
       "cmd": "Me",
       "succes": 5,
       "failed": 1
+    },
+    {
+      "cmd": "Ssvideo",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1366,7 +1371,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2771
+      "totalcmd": 2772
     }
   ],
   "clearchat": [],
@@ -158195,7 +158200,7 @@
       "autolevelup": false,
       "serial": "Q7DY",
       "glimit": 30,
-      "hit": 5,
+      "hit": 6,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
