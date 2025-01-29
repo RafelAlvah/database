@@ -699,7 +699,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 75,
+      "succes": 76,
       "failed": 0
     },
     {
@@ -1244,7 +1244,7 @@
     },
     {
       "cmd": "Tweetc2",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1302,7 +1302,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1853
+      "totalcmd": 1855
     }
   ],
   "clearchat": [],
@@ -1314,7 +1314,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2147,
+      "hit": 2148,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -29527,10 +29527,10 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 808,
+      "hit": 809,
       "date": "22 Desember 2024",
-      "money": 2799324,
-      "exp": 66911,
+      "money": 2806324,
+      "exp": 6911,
       "limit": 79,
       "speed": 0,
       "strength": 0,
@@ -29553,7 +29553,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 6,
+      "level": 7,
       "role": "Beginner",
       "balance": 1922500,
       "skillexp": 0,
@@ -29562,8 +29562,8 @@
       "fullatm": 500000000,
       "bank": 6000000,
       "health": 20,
-      "stamina": 45,
-      "potion": 97,
+      "stamina": 115,
+      "potion": 95,
       "wine": 0,
       "beer": 0,
       "trash": 0,
