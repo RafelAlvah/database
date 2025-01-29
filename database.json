@@ -659,7 +659,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 58,
+      "succes": 59,
       "failed": 0
     },
     {
@@ -1348,7 +1348,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2625
+      "totalcmd": 2626
     }
   ],
   "clearchat": [],
@@ -153727,7 +153727,7 @@
       "autolevelup": false,
       "serial": "T3IU",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
@@ -153747,9 +153747,9 @@
       "pasangan": "",
       "age": -1,
       "regTime": -1,
-      "afk": -1,
+      "afk": 1738162712254,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "kemana mana hatiku senang",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
