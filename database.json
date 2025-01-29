@@ -697,12 +697,12 @@
     },
     {
       "cmd": "Heal",
-      "succes": 57,
+      "succes": 58,
       "failed": 0
     },
     {
       "cmd": "Openbo",
-      "succes": 49,
+      "succes": 50,
       "failed": 0
     },
     {
@@ -1217,7 +1217,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1515
+      "totalcmd": 1517
     }
   ],
   "clearchat": [],
@@ -36269,7 +36269,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 313,
-      "hit": 3919,
+      "hit": 3920,
       "date": "22 Desember 2024",
       "money": 4077307,
       "exp": 56646,
@@ -36303,9 +36303,9 @@
       "atm": 5,
       "fullatm": 2000000000,
       "bank": 30000000,
-      "health": 10,
+      "health": 90,
       "stamina": 90,
-      "potion": 16,
+      "potion": 14,
       "wine": 0,
       "beer": 0,
       "trash": 170,
@@ -127382,7 +127382,7 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 835,
+      "hit": 836,
       "date": "20 Januari 2025",
       "money": 3508730,
       "exp": 200,
