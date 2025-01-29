@@ -844,7 +844,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -1307,7 +1307,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1927
+      "totalcmd": 1928
     }
   ],
   "clearchat": [],
@@ -20062,7 +20062,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 60,
-      "hit": 4389,
+      "hit": 4390,
       "date": "20 Desember 2024",
       "money": 3338476,
       "exp": 39736,
