@@ -929,7 +929,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 34,
+      "succes": 35,
       "failed": 1
     },
     {
@@ -1376,7 +1376,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2805
+      "totalcmd": 2806
     }
   ],
   "clearchat": [],
@@ -98779,7 +98779,7 @@
       "autolevelup": false,
       "serial": "G3WH",
       "glimit": 30,
-      "hit": 45,
+      "hit": 46,
       "date": "3 Januari 2025",
       "money": 1000,
       "exp": 0,
