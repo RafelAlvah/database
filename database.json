@@ -698,7 +698,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -753,7 +753,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 51,
+      "succes": 52,
       "failed": 0
     },
     {
@@ -1124,7 +1124,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1202
+      "totalcmd": 1204
     }
   ],
   "clearchat": [],
@@ -36176,7 +36176,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 317,
-      "hit": 3862,
+      "hit": 3863,
       "date": "22 Desember 2024",
       "money": 573047,
       "exp": 50529,
@@ -46899,10 +46899,10 @@
       "autolevelup": false,
       "serial": "TYEE",
       "glimit": 14893,
-      "hit": 1707,
+      "hit": 1708,
       "date": "22 Desember 2024",
-      "money": 7386137,
-      "exp": 25163,
+      "money": 7986137,
+      "exp": 29163,
       "limit": 23672,
       "speed": 0,
       "strength": 0,
@@ -46933,8 +46933,8 @@
       "atm": 0,
       "fullatm": 0,
       "bank": 0,
-      "health": 100,
-      "stamina": 60,
+      "health": 20,
+      "stamina": 20,
       "potion": 0,
       "wine": 0,
       "beer": 0,
@@ -46996,7 +46996,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1737696576286,
+      "lastmisi": 1738121787863,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -47070,7 +47070,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1737829155377,
-      "rokets": null,
+      "rokets": 1,
       "sampah": 73,
       "kayu": 33,
       "batu": 94,
