@@ -1044,7 +1044,7 @@
     },
     {
       "cmd": "Lirik",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1231,6 +1231,11 @@
       "cmd": "Liststik",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Lyrics",
+      "succes": 2,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1283,7 +1288,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1802
+      "totalcmd": 1805
     }
   ],
   "clearchat": [],
@@ -68142,7 +68147,7 @@
       "autolevelup": false,
       "serial": "38UR",
       "glimit": 30,
-      "hit": 73,
+      "hit": 76,
       "date": "25 Desember 2024",
       "money": 1000,
       "exp": 0,
