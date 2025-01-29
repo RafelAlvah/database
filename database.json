@@ -789,58 +789,14 @@
       "cmd": "Menu-downloader",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Clearallerror",
+      "succes": 1,
+      "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "Cannot read properties of undefined (reading 'danil_join')",
-      "cmd": "tersambung"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'length')",
-      "cmd": "cekpacar"
-    },
-    {
-      "error": "((user.lastmonthly + cooldown) - (intermediate value)).toTimeString is not a function",
-      "cmd": "monthly"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'cmd')",
-      "cmd": "me"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'timestamp')",
-      "cmd": "menu-info"
-    },
-    {
-      "error": "imageMessage is not defined",
-      "cmd": "menu-info"
-    },
-    {
-      "error": "buffer is not defined",
-      "cmd": "menu-info"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'cover')",
-      "cmd": "menu-info"
-    },
-    {
-      "error": "The argument 'path' must be a string or Uint8Array without null bytes. Received <Buffer ff d8 ff e0 00 10 4a 46 49 46 00 01 01 00 00 01 00 01 00 00 ff db 00 43 00 08 06 06 07 06 05 08 07 07 07 09 09 08 0a 0c ...",
-      "cmd": "menu-info"
-    },
-    {
-      "error": "totalJSFiles is not defined",
-      "cmd": "menu-ai"
-    },
-    {
-      "error": "block is not defined",
-      "cmd": "menu-ai"
-    },
-    {
-      "error": "ENOENT: no such file or directory, open 'https://raw.githubusercontent.com/Muler-Official/upload-db-media/main/uploader/1738181146081.jpg'",
-      "cmd": "info-menu"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -861,7 +817,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 99
+      "totalcmd": 100
     }
   ],
   "clearchat": [],
@@ -873,7 +829,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2241,
+      "hit": 2242,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
