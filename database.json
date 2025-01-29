@@ -1014,7 +1014,7 @@
     },
     {
       "cmd": "Putus",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1259,7 +1259,7 @@
     },
     {
       "cmd": "Addultah",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     }
   ],
@@ -1317,7 +1317,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2062
+      "totalcmd": 2064
     }
   ],
   "clearchat": [],
@@ -20072,7 +20072,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 58,
-      "hit": 4414,
+      "hit": 4415,
       "date": "20 Desember 2024",
       "money": 6378560,
       "exp": 39736,
@@ -58370,7 +58370,7 @@
       "skill": "",
       "ultah": "",
       "sahabat": "",
-      "pasangan": "6282253037989@s.whatsapp.net",
+      "pasangan": "",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -66930,7 +66930,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 779,
+      "hit": 780,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -66947,7 +66947,7 @@
       "skill": "",
       "ultah": "11,11,2011",
       "sahabat": "",
-      "pasangan": "6288216660625@s.whatsapp.net",
+      "pasangan": "",
       "age": 14,
       "regTime": 1738145880333,
       "afk": -1,
