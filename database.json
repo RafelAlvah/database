@@ -734,7 +734,7 @@
     },
     {
       "cmd": "Ttsanime",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -744,7 +744,7 @@
     },
     {
       "cmd": "Limit",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1144,7 +1144,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1298
+      "totalcmd": 1300
     }
   ],
   "clearchat": [],
@@ -146751,7 +146751,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 30,
-      "hit": 130,
+      "hit": 131,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -158685,7 +158685,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 45,
-      "hit": 452,
+      "hit": 453,
       "date": "28 Januari 2025",
       "money": 1050490,
       "exp": 41863,
