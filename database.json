@@ -902,7 +902,7 @@
     },
     {
       "cmd": "Nabung",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1069,7 +1069,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 949
+      "totalcmd": 950
     }
   ],
   "clearchat": [],
@@ -158610,7 +158610,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 45,
-      "hit": 431,
+      "hit": 432,
       "date": "28 Januari 2025",
       "money": 1640079,
       "exp": 36863,
