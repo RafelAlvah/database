@@ -683,7 +683,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -1249,7 +1249,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1613
+      "totalcmd": 1614
     }
   ],
   "clearchat": [],
@@ -96843,10 +96843,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 489,
-      "hit": 8076,
+      "hit": 8077,
       "date": "3 Januari 2025",
-      "money": 20737032,
-      "exp": 89643,
+      "money": 20787032,
+      "exp": 89743,
       "limit": 349,
       "speed": 5,
       "strength": 6,
@@ -96953,7 +96953,7 @@
       "lasthourly": 0,
       "lastbansos": 1738089561892,
       "lastrampok": 1738115485902,
-      "lastclaim": 1738130966485,
+      "lastclaim": 1738133951895,
       "lastnebang": 0,
       "lastweekly": 1738002453115,
       "lastmonthly": 1736423963407,
