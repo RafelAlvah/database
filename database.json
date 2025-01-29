@@ -645,17 +645,11 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6283824612951",
-      "expired": 1738142013186
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 70,
+      "succes": 71,
       "failed": 0
     },
     {
@@ -1294,7 +1288,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1826
+      "totalcmd": 1827
     }
   ],
   "clearchat": [],
@@ -58330,7 +58324,7 @@
       "autolevelup": false,
       "serial": "3AEW",
       "glimit": 30,
-      "hit": 99,
+      "hit": 100,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 0,
