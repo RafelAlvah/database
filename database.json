@@ -724,7 +724,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 227,
+      "succes": 228,
       "failed": 1
     },
     {
@@ -1339,7 +1339,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2549
+      "totalcmd": 2550
     }
   ],
   "clearchat": [],
@@ -120580,7 +120580,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2609668,
+      "balance": 2610668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -158879,8 +158879,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "JL9G",
-      "glimit": 38,
-      "hit": 570,
+      "glimit": 37,
+      "hit": 571,
       "date": "28 Januari 2025",
       "money": 1356765,
       "exp": 42863,
