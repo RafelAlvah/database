@@ -1256,6 +1256,11 @@
       "cmd": "Inventory",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Addultah",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1312,7 +1317,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2045
+      "totalcmd": 2046
     }
   ],
   "clearchat": [],
@@ -53880,7 +53885,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14519,
-      "hit": 2357,
+      "hit": 2358,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
@@ -53895,7 +53900,7 @@
       "registered": true,
       "name": "lidraketul",
       "skill": "",
-      "ultah": "17,08,1945",
+      "ultah": "01,01,2001",
       "sahabat": "",
       "pasangan": "",
       "age": 25,
