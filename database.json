@@ -650,7 +650,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1424
+      "totalcmd": 1425
     }
   ],
   "clearchat": [],
@@ -93721,7 +93721,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 666,
+      "hit": 667,
       "date": "1 Januari 2025",
       "money": 7324858,
       "exp": 27461,
