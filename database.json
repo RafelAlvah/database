@@ -784,7 +784,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -1332,7 +1332,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2125
+      "totalcmd": 2126
     }
   ],
   "clearchat": [],
@@ -53899,8 +53899,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "FNTJ",
-      "glimit": 14515,
-      "hit": 2380,
+      "glimit": 14514,
+      "hit": 2381,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
