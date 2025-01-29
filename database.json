@@ -773,7 +773,7 @@
     },
     {
       "cmd": "Ai",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1025,7 +1025,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 659
+      "totalcmd": 660
     }
   ],
   "clearchat": [],
@@ -6948,11 +6948,11 @@
       "autolevelup": false,
       "serial": "DBZS",
       "glimit": 27,
-      "hit": 66,
+      "hit": 67,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 7996,
-      "limit": 22,
+      "limit": 21,
       "speed": 0,
       "strength": 0,
       "defense": 0,
