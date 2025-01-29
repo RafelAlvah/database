@@ -1302,6 +1302,11 @@
       "cmd": "Out",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Rpg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1330,7 +1335,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2356
+      "totalcmd": 2357
     }
   ],
   "clearchat": [],
@@ -59078,7 +59083,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 237,
-      "hit": 409,
+      "hit": 410,
       "date": "24 Desember 2024",
       "money": 1713013,
       "exp": 33683,
