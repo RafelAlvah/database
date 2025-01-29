@@ -869,7 +869,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 36,
+      "succes": 37,
       "failed": 0
     },
     {
@@ -1288,7 +1288,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1817
+      "totalcmd": 1818
     }
   ],
   "clearchat": [],
@@ -99768,7 +99768,7 @@
       "autolevelup": false,
       "serial": "RYZ8",
       "glimit": 66,
-      "hit": 111,
+      "hit": 112,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
