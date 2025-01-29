@@ -643,7 +643,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6283824612951",
+      "expired": 1738131163091
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Brat",
@@ -677,7 +683,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 54,
+      "succes": 55,
       "failed": 0
     },
     {
@@ -1217,7 +1223,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1507
+      "totalcmd": 1508
     }
   ],
   "clearchat": [],
@@ -127382,10 +127388,10 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 829,
+      "hit": 830,
       "date": "20 Januari 2025",
-      "money": 3430870,
-      "exp": 70200,
+      "money": 3494436,
+      "exp": 200,
       "limit": 360,
       "speed": 0,
       "strength": 0,
@@ -127408,7 +127414,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 7,
+      "level": 8,
       "role": "Beginner",
       "balance": 189422,
       "skillexp": 0,
@@ -127556,7 +127562,7 @@
       "lastparming": 1738119894085,
       "poin": 3060000,
       "rokets": 50,
-      "lastkerja": 1738119883130,
+      "lastkerja": 1738131153374,
       "sampah": 492,
       "kayu": 632,
       "batu": 727,
