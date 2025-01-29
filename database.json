@@ -857,7 +857,7 @@
     },
     {
       "cmd": "Tembak",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1098,7 +1098,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1103
+      "totalcmd": 1104
     }
   ],
   "clearchat": [],
@@ -81005,7 +81005,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 17,
-      "hit": 321,
+      "hit": 322,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
@@ -81022,7 +81022,7 @@
       "skill": "",
       "ultah": "",
       "sahabat": "",
-      "pasangan": "",
+      "pasangan": "6283833024905@s.whatsapp.net",
       "age": 19,
       "regTime": 1737877024556,
       "afk": -1,
