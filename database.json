@@ -647,13 +647,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6285817604058",
-      "expired": 1738167178062
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Brat",
@@ -687,7 +681,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 101,
+      "succes": 102,
       "failed": 0
     },
     {
@@ -1399,7 +1393,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2877
+      "totalcmd": 2878
     }
   ],
   "clearchat": [],
@@ -96993,9 +96987,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8249,
+      "hit": 8250,
       "date": "3 Januari 2025",
-      "money": 3401146,
+      "money": 3497111,
       "exp": 107119,
       "limit": 371,
       "speed": 5,
@@ -97163,7 +97157,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738166289439,
+      "lastkerja": 1738167218319,
       "lastmaling": 1738165909196,
       "clay": "undefined1940",
       "sand": "undefined550",
