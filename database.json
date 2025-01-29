@@ -835,7 +835,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 43,
+      "succes": 44,
       "failed": 0
     },
     {
@@ -1335,7 +1335,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2432
+      "totalcmd": 2433
     }
   ],
   "clearchat": [],
@@ -96931,7 +96931,7 @@
       "glimit": 472,
       "hit": 8150,
       "date": "3 Januari 2025",
-      "money": 2096880,
+      "money": 2125987,
       "exp": 96843,
       "limit": 342,
       "speed": 5,
@@ -96970,7 +96970,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 2935,
+      "wood": 2936,
       "rock": 4,
       "string": 5,
       "petfood": 0,
@@ -97107,7 +97107,7 @@
       "emas": "undefined60",
       "tiketcoin": "undefined60",
       "lastnambang": 1736243261278,
-      "lastparming": 1738139718574,
+      "lastparming": 1738157520318,
       "lastmulung": 1738157517844,
       "rokets": 117,
       "sampah": 318,
@@ -158876,7 +158876,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 55,
-      "hit": 547,
+      "hit": 548,
       "date": "28 Januari 2025",
       "money": 1240290,
       "exp": 42863,
@@ -158926,11 +158926,11 @@
       "emerald": 0,
       "diamond": 3,
       "gold": 0,
-      "botol": 2693,
-      "kardus": 1959,
-      "kaleng": 1824,
-      "gelas": 2377,
-      "plastik": 2362,
+      "botol": 3090,
+      "kardus": 2129,
+      "kaleng": 1893,
+      "gelas": 2687,
+      "plastik": 3245,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -159052,7 +159052,7 @@
       "kayu": 38,
       "batu": 16,
       "lastmaling": 1738045378308,
-      "lastmulung": 1738145339686,
+      "lastmulung": 1738157520224,
       "rokets": 3
     },
     "6285213894243@s.whatsapp.net": {
