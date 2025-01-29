@@ -679,7 +679,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 96,
+      "succes": 97,
       "failed": 0
     },
     {
@@ -1371,7 +1371,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2786
+      "totalcmd": 2787
     }
   ],
   "clearchat": [],
@@ -148586,9 +148586,9 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 28,
-      "hit": 173,
+      "hit": 174,
       "date": "27 Januari 2025",
-      "money": 318627,
+      "money": 395474,
       "exp": 200,
       "limit": 23,
       "speed": 0,
@@ -148756,7 +148756,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737983394625,
+      "lastkerja": 1738166053441,
       "lastparming": 1737983380999
     },
     "6281265521425@s.whatsapp.net": {
