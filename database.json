@@ -893,7 +893,7 @@
     },
     {
       "cmd": "Spdl",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1272,7 +1272,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1716
+      "totalcmd": 1717
     }
   ],
   "clearchat": [],
@@ -96866,7 +96866,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 489,
-      "hit": 8115,
+      "hit": 8116,
       "date": "3 Januari 2025",
       "money": 1269875,
       "exp": 91743,
@@ -96894,7 +96894,7 @@
       "warning": 0,
       "level": 12,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 111990712,
+      "balance": 111991712,
       "skillexp": 0,
       "chip": 650,
       "atm": 3,
