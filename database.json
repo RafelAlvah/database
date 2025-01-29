@@ -864,7 +864,7 @@
     },
     {
       "cmd": "Tembak",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1322,7 +1322,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2079
+      "totalcmd": 2080
     }
   ],
   "clearchat": [],
@@ -53890,7 +53890,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14519,
-      "hit": 2359,
+      "hit": 2360,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
