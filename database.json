@@ -852,7 +852,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1222,7 +1222,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1554
+      "totalcmd": 1555
     }
   ],
   "clearchat": [],
@@ -43775,9 +43775,9 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 162,
-      "hit": 3113,
+      "hit": 3114,
       "date": "22 Desember 2024",
-      "money": 19133144,
+      "money": 0,
       "exp": 27100,
       "limit": 2185,
       "speed": 3,
@@ -96818,7 +96818,7 @@
       "glimit": 489,
       "hit": 8061,
       "date": "3 Januari 2025",
-      "money": 1518594,
+      "money": 20651738,
       "exp": 89643,
       "limit": 357,
       "speed": 5,
