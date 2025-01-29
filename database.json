@@ -645,13 +645,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "62881012971116",
-      "expired": 1738159328835
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Brat",
@@ -120581,7 +120575,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2599668,
+      "balance": 2600668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
