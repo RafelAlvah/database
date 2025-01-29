@@ -1316,17 +1316,17 @@
       "failed": 0
     },
     {
-      "cmd": "Kerja",
-      "succes": 0,
-      "failed": 1
-    },
-    {
       "cmd": "Topbalance",
       "succes": 1,
       "failed": 0
     },
     {
       "cmd": "Me",
+      "succes": 0,
+      "failed": 1
+    },
+    {
+      "cmd": "Kerja",
       "succes": 0,
       "failed": 1
     }
@@ -1369,7 +1369,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2729
+      "totalcmd": 2730
     }
   ],
   "clearchat": [],
@@ -96963,7 +96963,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 457,
-      "hit": 8201,
+      "hit": 8202,
       "date": "3 Januari 2025",
       "money": 4307762,
       "exp": 102843,
