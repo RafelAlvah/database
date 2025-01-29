@@ -1214,7 +1214,7 @@
     },
     {
       "cmd": "Pin",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1317,7 +1317,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2074
+      "totalcmd": 2075
     }
   ],
   "clearchat": [],
@@ -2611,7 +2611,7 @@
       "autolevelup": false,
       "serial": "6EVV",
       "glimit": 30,
-      "hit": 253,
+      "hit": 254,
       "date": "16 Desember 2024",
       "money": 3000,
       "exp": 5000,
@@ -2639,7 +2639,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 10500,
+      "balance": 11500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -120558,7 +120558,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2536668,
+      "balance": 2537668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
