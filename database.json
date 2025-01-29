@@ -643,13 +643,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6283824612951",
-      "expired": 1738131163091
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Brat",
@@ -693,7 +687,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -1223,7 +1217,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1509
+      "totalcmd": 1510
     }
   ],
   "clearchat": [],
@@ -127388,9 +127382,9 @@
       "autolevelup": false,
       "serial": "A9RX",
       "glimit": 21,
-      "hit": 831,
+      "hit": 832,
       "date": "20 Januari 2025",
-      "money": 3494436,
+      "money": 3508730,
       "exp": 200,
       "limit": 360,
       "speed": 0,
@@ -127429,7 +127423,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 143,
+      "wood": 155,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -127559,7 +127553,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastmulung": 1738131159761,
-      "lastparming": 1738119894085,
+      "lastparming": 1738131167153,
       "poin": 3060000,
       "rokets": 50,
       "lastkerja": 1738131153374,
