@@ -754,7 +754,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 198,
+      "succes": 199,
       "failed": 0
     },
     {
@@ -1347,7 +1347,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2302
+      "totalcmd": 2303
     }
   ],
   "clearchat": [],
@@ -20101,8 +20101,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 40,
-      "hit": 4459,
+      "glimit": 39,
+      "hit": 4460,
       "date": "20 Desember 2024",
       "money": 4984733,
       "exp": 42836,
