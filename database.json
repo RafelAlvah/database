@@ -671,7 +671,7 @@
     },
     {
       "cmd": "Ttc",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -713,7 +713,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 6
+      "totalcmd": 7
     }
   ],
   "clearchat": [],
@@ -13933,8 +13933,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "NGIE",
-      "glimit": 29,
-      "hit": 66,
+      "glimit": 28,
+      "hit": 67,
       "date": "19 Desember 2024",
       "money": 1001000,
       "exp": 5000,
