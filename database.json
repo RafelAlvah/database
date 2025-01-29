@@ -1039,6 +1039,11 @@
       "cmd": "Lirik",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Weekly",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1079,7 +1084,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 992
+      "totalcmd": 993
     }
   ],
   "clearchat": [],
@@ -58827,10 +58832,10 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 237,
-      "hit": 401,
+      "hit": 402,
       "date": "24 Desember 2024",
-      "money": 1620015,
-      "exp": 18683,
+      "money": 1656014,
+      "exp": 33683,
       "limit": 122,
       "speed": 0,
       "strength": 0,
@@ -58863,7 +58868,7 @@
       "bank": 0,
       "health": 20,
       "stamina": 60,
-      "potion": 0,
+      "potion": 9,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -58939,7 +58944,7 @@
       "lastrampok": 0,
       "lastclaim": 0,
       "lastnebang": 0,
-      "lastweekly": 0,
+      "lastweekly": 1738114324419,
       "lastmonthly": 0,
       "apel": 0,
       "anggur": 0,
