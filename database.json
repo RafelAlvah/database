@@ -669,8 +669,8 @@
     },
     {
       "cmd": "Qc",
-      "succes": 78,
-      "failed": 0
+      "succes": 77,
+      "failed": 1
     },
     {
       "cmd": "Emojimix",
