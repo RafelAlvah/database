@@ -712,7 +712,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -797,7 +797,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -1098,7 +1098,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1047
+      "totalcmd": 1049
     }
   ],
   "clearchat": [],
@@ -19853,9 +19853,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 99,
-      "hit": 4273,
+      "hit": 4274,
       "date": "20 Desember 2024",
-      "money": 37602605,
+      "money": 37685321,
       "exp": 13536,
       "limit": 343,
       "speed": 3,
@@ -19962,7 +19962,7 @@
       "lastdagang": 1738110710931,
       "lasthourly": 0,
       "lastbansos": 1738089698775,
-      "lastrampok": 1736625325462,
+      "lastrampok": 1738116047106,
       "lastclaim": 1738110687550,
       "lastnebang": 0,
       "lastweekly": 1738041991711,
@@ -36152,7 +36152,7 @@
       "glimit": 317,
       "hit": 3854,
       "date": "22 Desember 2024",
-      "money": 655763,
+      "money": 573047,
       "exp": 50529,
       "limit": 11960,
       "speed": 1,
@@ -46872,8 +46872,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "TYEE",
-      "glimit": 13315,
-      "hit": 1692,
+      "glimit": 13314,
+      "hit": 1693,
       "date": "22 Desember 2024",
       "money": 7386137,
       "exp": 25163,
