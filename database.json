@@ -649,7 +649,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 152,
+      "succes": 153,
       "failed": 1
     },
     {
@@ -914,7 +914,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 47,
+      "succes": 48,
       "failed": 0
     },
     {
@@ -1353,7 +1353,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2666
+      "totalcmd": 2668
     }
   ],
   "clearchat": [],
@@ -58389,7 +58389,7 @@
       "autolevelup": false,
       "serial": "3AEW",
       "glimit": 29,
-      "hit": 108,
+      "hit": 109,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -96946,8 +96946,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 458,
-      "hit": 8189,
+      "glimit": 457,
+      "hit": 8190,
       "date": "3 Januari 2025",
       "money": 4163636,
       "exp": 102843,
