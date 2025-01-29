@@ -603,8 +603,7 @@
     "Me",
     "Tinyurl",
     "Ttc",
-    "Bratvid",
-    "Menu-ai"
+    "Bratvid"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -732,11 +731,6 @@
       "failed": 0
     },
     {
-      "cmd": "Menu-ai",
-      "succes": 3,
-      "failed": 2
-    },
-    {
       "cmd": "Playstore",
       "succes": 2,
       "failed": 0
@@ -760,6 +754,11 @@
       "cmd": "Ytmp4",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu-ai",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -828,7 +827,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 78
+      "totalcmd": 79
     }
   ],
   "clearchat": [],
@@ -840,7 +839,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2220,
+      "hit": 2221,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
