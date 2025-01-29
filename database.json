@@ -724,7 +724,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 171,
+      "succes": 172,
       "failed": 0
     },
     {
@@ -1019,7 +1019,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 13,
+      "succes": 14,
       "failed": 1
     },
     {
@@ -1347,7 +1347,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2316
+      "totalcmd": 2318
     }
   ],
   "clearchat": [],
@@ -20101,8 +20101,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 36,
-      "hit": 4463,
+      "glimit": 35,
+      "hit": 4464,
       "date": "20 Desember 2024",
       "money": 4984733,
       "exp": 42836,
@@ -120588,7 +120588,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2561668,
+      "balance": 2562668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -180434,9 +180434,9 @@
       "autolevelup": false,
       "serial": "Q7DJ",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "29 Januari 2025",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -180460,7 +180460,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 1500,
       "skillexp": 0,
