@@ -1013,7 +1013,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 4,
+      "succes": 5,
       "failed": 1
     },
     {
@@ -1080,6 +1080,11 @@
       "cmd": "Dare",
       "succes": 11,
       "failed": 0
+    },
+    {
+      "cmd": "Jadianime",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1124,7 +1129,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1215
+      "totalcmd": 1217
     }
   ],
   "clearchat": [],
@@ -1136,7 +1141,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2036,
+      "hit": 2037,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -101749,7 +101754,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 50,
-      "hit": 625,
+      "hit": 626,
       "date": "4 Januari 2025",
       "money": 6780767,
       "exp": 6745,
