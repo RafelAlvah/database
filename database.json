@@ -1264,7 +1264,7 @@
     },
     {
       "cmd": "Tolak",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1322,7 +1322,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2082
+      "totalcmd": 2083
     }
   ],
   "clearchat": [],
@@ -53890,7 +53890,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14519,
-      "hit": 2360,
+      "hit": 2361,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
