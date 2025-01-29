@@ -978,7 +978,7 @@
     },
     {
       "cmd": "Ttsearch",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1245,7 +1245,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1592
+      "totalcmd": 1593
     }
   ],
   "clearchat": [],
@@ -1261,7 +1261,7 @@
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
-      "limit": 22,
+      "limit": 21,
       "speed": 0,
       "strength": 1,
       "defense": 0,
@@ -96839,7 +96839,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 489,
-      "hit": 8067,
+      "hit": 8068,
       "date": "3 Januari 2025",
       "money": 20651738,
       "exp": 89643,
