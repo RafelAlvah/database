@@ -1205,6 +1205,11 @@
       "cmd": "Ocr",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Upsw",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1231,6 +1236,10 @@
     {
       "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
       "cmd": "weekly"
+    },
+    {
+      "error": "Cannot read properties of null (reading 'download')",
+      "cmd": "upsw"
     }
   ],
   "jadibot": {},
@@ -1253,7 +1262,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1674
+      "totalcmd": 1675
     }
   ],
   "clearchat": [],
@@ -1265,7 +1274,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2121,
+      "hit": 2122,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
