@@ -664,7 +664,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 114,
+      "succes": 115,
       "failed": 1
     },
     {
@@ -1366,7 +1366,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2766
+      "totalcmd": 2767
     }
   ],
   "clearchat": [],
@@ -36418,7 +36418,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 4014,
+      "hit": 4015,
       "date": "22 Desember 2024",
       "money": 1258806,
       "exp": 3333,
