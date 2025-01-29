@@ -1004,7 +1004,7 @@
     },
     {
       "cmd": "Maling",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1366,7 +1366,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2769
+      "totalcmd": 2770
     }
   ],
   "clearchat": [],
@@ -96960,10 +96960,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 457,
-      "hit": 8212,
+      "hit": 8213,
       "date": "3 Januari 2025",
-      "money": 32321144,
-      "exp": 102843,
+      "money": 32323803,
+      "exp": 103119,
       "limit": 371,
       "speed": 5,
       "strength": 6,
@@ -97011,7 +97011,7 @@
       "diamond": 55,
       "gold": 57,
       "botol": 45057,
-      "kardus": 51073,
+      "kardus": 51176,
       "kaleng": 46564,
       "gelas": 47884,
       "plastik": 49980,
@@ -97131,7 +97131,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1738165659449,
-      "lastmaling": 1737393049271,
+      "lastmaling": 1738165909196,
       "clay": "undefined1940",
       "sand": "undefined550",
       "berlian": "undefined60",
