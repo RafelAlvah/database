@@ -654,7 +654,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 28,
+      "succes": 29,
       "failed": 0
     },
     {
@@ -1302,7 +1302,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1906
+      "totalcmd": 1907
     }
   ],
   "clearchat": [],
@@ -53870,7 +53870,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14524,
-      "hit": 2343,
+      "hit": 2344,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
