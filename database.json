@@ -708,7 +708,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1249,7 +1249,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1618
+      "totalcmd": 1619
     }
   ],
   "clearchat": [],
@@ -96843,7 +96843,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 489,
-      "hit": 8081,
+      "hit": 8082,
       "date": "3 Januari 2025",
       "money": 20787032,
       "exp": 89743,
