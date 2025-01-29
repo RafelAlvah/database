@@ -728,7 +728,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 21
+      "totalcmd": 22
     }
   ],
   "clearchat": [],
@@ -13949,7 +13949,7 @@
       "autolevelup": false,
       "serial": "NGIE",
       "glimit": 25,
-      "hit": 71,
+      "hit": 72,
       "date": "19 Desember 2024",
       "money": 1001000,
       "exp": 5000,
