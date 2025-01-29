@@ -722,7 +722,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -747,7 +747,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 157,
+      "succes": 158,
       "failed": 0
     },
     {
@@ -1044,7 +1044,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 863
+      "totalcmd": 865
     }
   ],
   "clearchat": [],
@@ -78796,8 +78796,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "LYBW",
-      "glimit": 119,
-      "hit": 600,
+      "glimit": 118,
+      "hit": 601,
       "date": "29 Desember 2024",
       "money": 7145276,
       "exp": 22006,
@@ -93590,11 +93590,11 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 629,
+      "hit": 630,
       "date": "1 Januari 2025",
       "money": 5746529,
       "exp": 23361,
-      "limit": 229,
+      "limit": 228,
       "speed": 0,
       "strength": 0,
       "defense": 0,
