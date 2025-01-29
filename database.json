@@ -1154,8 +1154,8 @@
     },
     {
       "cmd": "Qc2",
-      "succes": 3,
-      "failed": 0
+      "succes": 2,
+      "failed": 1
     },
     {
       "cmd": "Addstik",
