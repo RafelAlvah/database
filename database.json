@@ -652,7 +652,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -1103,7 +1103,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1105
+      "totalcmd": 1106
     }
   ],
   "clearchat": [],
@@ -101728,7 +101728,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 45,
-      "hit": 619,
+      "hit": 620,
       "date": "4 Januari 2025",
       "money": 6780767,
       "exp": 6745,
@@ -101748,9 +101748,9 @@
       "pasangan": "6283831373430@s.whatsapp.net",
       "age": 11,
       "regTime": 1736049306523,
-      "afk": -1,
+      "afk": 1738117577598,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "nge ml",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
