@@ -1335,7 +1335,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2451
+      "totalcmd": 2452
     }
   ],
   "clearchat": [],
@@ -181668,7 +181668,7 @@
       "autolevelup": false,
       "serial": "N49W",
       "glimit": 30,
-      "hit": 8,
+      "hit": 9,
       "date": "29 Januari 2025",
       "money": 0,
       "exp": 0,
