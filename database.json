@@ -1214,7 +1214,7 @@
     },
     {
       "cmd": "Pin",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2040
+      "totalcmd": 2041
     }
   ],
   "clearchat": [],
@@ -2606,7 +2606,7 @@
       "autolevelup": false,
       "serial": "6EVV",
       "glimit": 30,
-      "hit": 250,
+      "hit": 251,
       "date": "16 Desember 2024",
       "money": 3000,
       "exp": 5000,
@@ -93860,7 +93860,7 @@
       "glimit": 45,
       "hit": 682,
       "date": "1 Januari 2025",
-      "money": 8274858,
+      "money": 8306732,
       "exp": 36561,
       "limit": 212,
       "speed": 0,
@@ -94028,7 +94028,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738122585457,
+      "lastkerja": 1738145887936,
       "rokets": 6,
       "poin": null,
       "sampah": 45,
