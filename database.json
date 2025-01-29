@@ -864,7 +864,7 @@
     },
     {
       "cmd": "Tembak",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1327,7 +1327,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2088
+      "totalcmd": 2089
     }
   ],
   "clearchat": [],
@@ -66940,7 +66940,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 782,
+      "hit": 783,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -66957,7 +66957,7 @@
       "skill": "",
       "ultah": "11,11,2011",
       "sahabat": "",
-      "pasangan": "",
+      "pasangan": "6288216660625@s.whatsapp.net",
       "age": 14,
       "regTime": 1738145880333,
       "afk": -1,
