@@ -653,7 +653,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -965,6 +965,11 @@
       "cmd": "Kick",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": ",",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1005,7 +1010,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 647
+      "totalcmd": 649
     }
   ],
   "clearchat": [],
@@ -120218,7 +120223,7 @@
       "autolevelup": false,
       "serial": "LVMM",
       "glimit": 18,
-      "hit": 276,
+      "hit": 277,
       "date": "10 Januari 2025",
       "money": 20462,
       "exp": 200,
@@ -148220,7 +148225,7 @@
       "autolevelup": false,
       "serial": "PCRD",
       "glimit": 28,
-      "hit": 171,
+      "hit": 172,
       "date": "27 Januari 2025",
       "money": 318627,
       "exp": 200,
@@ -148240,9 +148245,9 @@
       "pasangan": "",
       "age": 16,
       "regTime": 1737954282302,
-      "afk": -1,
+      "afk": 1738109271109,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "makan lagi",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
