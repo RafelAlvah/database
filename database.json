@@ -1226,6 +1226,11 @@
       "cmd": "Delstik",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Liststik",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1278,7 +1283,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1759
+      "totalcmd": 1760
     }
   ],
   "clearchat": [],
@@ -1290,7 +1295,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2140,
+      "hit": 2141,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
