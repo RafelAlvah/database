@@ -759,7 +759,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 103,
+      "succes": 104,
       "failed": 0
     },
     {
@@ -934,7 +934,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1332,7 +1332,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2149
+      "totalcmd": 2151
     }
   ],
   "clearchat": [],
@@ -36384,7 +36384,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 337,
-      "hit": 3982,
+      "hit": 3983,
       "date": "22 Desember 2024",
       "money": 1258806,
       "exp": 3333,
@@ -66945,7 +66945,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 789,
+      "hit": 790,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
