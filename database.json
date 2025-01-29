@@ -649,7 +649,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 77,
+      "succes": 78,
       "failed": 0
     },
     {
@@ -699,7 +699,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 79,
+      "succes": 80,
       "failed": 0
     },
     {
@@ -1302,7 +1302,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1880
+      "totalcmd": 1882
     }
   ],
   "clearchat": [],
@@ -20057,7 +20057,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 60,
-      "hit": 4384,
+      "hit": 4385,
       "date": "20 Desember 2024",
       "money": 5746138,
       "exp": 32736,
@@ -20092,8 +20092,8 @@
       "fullatm": 500000000,
       "bank": 207517306,
       "health": 20,
-      "stamina": 75,
-      "potion": 29,
+      "stamina": 110,
+      "potion": 28,
       "wine": 0,
       "beer": 0,
       "trash": 1000,
@@ -53870,7 +53870,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14524,
-      "hit": 2341,
+      "hit": 2342,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
