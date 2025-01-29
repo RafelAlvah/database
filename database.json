@@ -1351,7 +1351,7 @@
     },
     {
       "cmd": "Ttc",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1393,7 +1393,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2875
+      "totalcmd": 2876
     }
   ],
   "clearchat": [],
@@ -96987,7 +96987,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 438,
-      "hit": 8247,
+      "hit": 8248,
       "date": "3 Januari 2025",
       "money": 3401146,
       "exp": 107119,
