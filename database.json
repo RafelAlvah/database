@@ -1293,7 +1293,12 @@
       "failed": 0
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "Cannot read properties of undefined (reading 'danil_join')",
+      "cmd": "tersambung"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
