@@ -737,7 +737,7 @@
     },
     {
       "cmd": "Ttsanime",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1217,7 +1217,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1510
+      "totalcmd": 1511
     }
   ],
   "clearchat": [],
@@ -36269,11 +36269,11 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 313,
-      "hit": 3917,
+      "hit": 3918,
       "date": "22 Desember 2024",
       "money": 4077307,
       "exp": 56646,
-      "limit": 11954,
+      "limit": 11953,
       "speed": 1,
       "strength": 29,
       "defense": 2,
