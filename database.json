@@ -679,7 +679,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 70,
+      "succes": 71,
       "failed": 0
     },
     {
@@ -1019,7 +1019,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 12,
+      "succes": 13,
       "failed": 1
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1996
+      "totalcmd": 1998
     }
   ],
   "clearchat": [],
@@ -66925,7 +66925,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 767,
+      "hit": 768,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -158853,7 +158853,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 20,
-      "hit": 509,
+      "hit": 510,
       "date": "28 Januari 2025",
       "money": 1240290,
       "exp": 42863,
