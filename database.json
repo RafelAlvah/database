@@ -699,7 +699,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 85,
+      "succes": 87,
       "failed": 0
     },
     {
@@ -1009,7 +1009,7 @@
     },
     {
       "cmd": "Maling",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1979
+      "totalcmd": 1982
     }
   ],
   "clearchat": [],
@@ -158853,7 +158853,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 20,
-      "hit": 500,
+      "hit": 503,
       "date": "28 Januari 2025",
       "money": 1124117,
       "exp": 41863,
@@ -158888,8 +158888,8 @@
       "fullatm": 0,
       "bank": 0,
       "health": 100,
-      "stamina": 50,
-      "potion": 11,
+      "stamina": 85,
+      "potion": 10,
       "wine": 0,
       "beer": 0,
       "trash": 0,
