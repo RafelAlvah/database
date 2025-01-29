@@ -1154,7 +1154,7 @@
     },
     {
       "cmd": "Qc2",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1351,7 +1351,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2323
+      "totalcmd": 2324
     }
   ],
   "clearchat": [],
@@ -20106,7 +20106,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 35,
-      "hit": 4466,
+      "hit": 4467,
       "date": "20 Desember 2024",
       "money": 4984733,
       "exp": 42836,
@@ -20134,7 +20134,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 80041000,
+      "balance": 80042000,
       "skillexp": 0,
       "chip": 101,
       "atm": 1,
