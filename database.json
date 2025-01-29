@@ -677,7 +677,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -707,7 +707,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1059,7 +1059,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 910
+      "totalcmd": 912
     }
   ],
   "clearchat": [],
@@ -19814,7 +19814,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 99,
-      "hit": 4238,
+      "hit": 4239,
       "date": "20 Desember 2024",
       "money": 44321223,
       "exp": 13536,
@@ -78812,10 +78812,10 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 110,
-      "hit": 614,
+      "hit": 615,
       "date": "29 Desember 2024",
-      "money": 7275194,
-      "exp": 22006,
+      "money": 7325194,
+      "exp": 22106,
       "limit": 68,
       "speed": 0,
       "strength": 0,
@@ -78922,7 +78922,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1738060019327,
-      "lastclaim": 1738070744973,
+      "lastclaim": 1738113432561,
       "lastnebang": 0,
       "lastweekly": 1737971050301,
       "lastmonthly": 1736504822852,
