@@ -670,7 +670,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 101,
+      "succes": 102,
       "failed": 1
     },
     {
@@ -1015,7 +1015,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 14,
+      "succes": 15,
       "failed": 1
     },
     {
@@ -1387,7 +1387,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2838
+      "totalcmd": 2840
     }
   ],
   "clearchat": [],
@@ -1399,7 +1399,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2183,
+      "hit": 2184,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -97009,7 +97009,7 @@
       "warning": 0,
       "level": 12,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 112139712,
+      "balance": 112144712,
       "skillexp": 0,
       "chip": 650,
       "atm": 3,
@@ -159117,7 +159117,7 @@
       "autolevelup": false,
       "serial": "WRID",
       "glimit": 30,
-      "hit": 16,
+      "hit": 17,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
