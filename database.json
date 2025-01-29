@@ -1179,6 +1179,11 @@
       "cmd": "Owner",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Unreg",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1207,7 +1212,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1467
+      "totalcmd": 1468
     }
   ],
   "clearchat": [],
@@ -36259,7 +36264,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 317,
-      "hit": 3897,
+      "hit": 3898,
       "date": "22 Desember 2024",
       "money": 4077307,
       "exp": 56646,
@@ -36271,7 +36276,7 @@
       "joinlimit": 1,
       "pc": 0,
       "ojekk": 3,
-      "registered": true,
+      "registered": false,
       "name": "𝐑𝐢𝐩𝐳𝐙𝐳𝟑𝐫𝐝",
       "skill": "",
       "ultah": "07,03,2009",
