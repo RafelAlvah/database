@@ -712,7 +712,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -847,7 +847,7 @@
     },
     {
       "cmd": "Tarik",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1222,7 +1222,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1540
+      "totalcmd": 1542
     }
   ],
   "clearchat": [],
@@ -43775,9 +43775,9 @@
       "autolevelup": false,
       "serial": "STEB",
       "glimit": 162,
-      "hit": 3104,
+      "hit": 3106,
       "date": "22 Desember 2024",
-      "money": 0,
+      "money": 19133145,
       "exp": 27100,
       "limit": 2185,
       "speed": 3,
@@ -43808,7 +43808,7 @@
       "chip": 2,
       "atm": 2,
       "fullatm": 500000000,
-      "bank": 19133145,
+      "bank": 0,
       "health": 20,
       "stamina": 20,
       "potion": 25,
