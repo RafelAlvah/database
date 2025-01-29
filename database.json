@@ -1110,6 +1110,11 @@
       "cmd": "Misi",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Hitman",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1133,7 +1138,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1293
+      "totalcmd": 1294
     }
   ],
   "clearchat": [],
@@ -36185,10 +36190,10 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 317,
-      "hit": 3888,
+      "hit": 3889,
       "date": "22 Desember 2024",
-      "money": 3377307,
-      "exp": 50646,
+      "money": 4077307,
+      "exp": 56646,
       "limit": 11956,
       "speed": 1,
       "strength": 29,
@@ -36196,7 +36201,7 @@
       "skata": 0,
       "joinlimit": 1,
       "pc": 0,
-      "ojekk": 2,
+      "ojekk": 3,
       "registered": true,
       "name": "𝐑𝐢𝐩𝐳𝐙𝐳𝟑𝐫𝐝",
       "skill": "",
@@ -36282,7 +36287,7 @@
       "pizza": 0,
       "lastadventure": 1738124199301,
       "lastkill": 0,
-      "lastmisi": 1738049501910,
+      "lastmisi": 1738124224714,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -36371,7 +36376,7 @@
       "kayu": 175,
       "batu": 249,
       "poin": 100000,
-      "warn": null
+      "warn": 1
     },
     "60169652623@s.whatsapp.net": {
       "sticker": {},
