@@ -1065,7 +1065,7 @@
     {
       "cmd": "Cekpacar",
       "succes": 4,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Shop",
@@ -1317,6 +1317,10 @@
     {
       "error": "Cannot read properties of undefined (reading 'danil_join')",
       "cmd": "tersambung"
+    },
+    {
+      "error": "Cannot read properties of undefined (reading 'length')",
+      "cmd": "cekpacar"
     }
   ],
   "jadibot": {},
@@ -1339,7 +1343,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2555
+      "totalcmd": 2556
     }
   ],
   "clearchat": [],
@@ -80881,7 +80885,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3156,
-      "hit": 2367,
+      "hit": 2368,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80909,7 +80913,7 @@
       "warning": 0,
       "level": 8,
       "role": "Beginner",
-      "balance": 71097755,
+      "balance": 71098755,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
