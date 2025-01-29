@@ -664,7 +664,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 102,
+      "succes": 103,
       "failed": 1
     },
     {
@@ -1348,7 +1348,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2560
+      "totalcmd": 2561
     }
   ],
   "clearchat": [],
@@ -101973,7 +101973,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 50,
-      "hit": 630,
+      "hit": 631,
       "date": "4 Januari 2025",
       "money": 6747043,
       "exp": 11745,
@@ -102001,7 +102001,7 @@
       "warning": 0,
       "level": 5,
       "role": "Beginner",
-      "balance": 13527000,
+      "balance": 13528000,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
