@@ -727,7 +727,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -1079,7 +1079,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 980
+      "totalcmd": 981
     }
   ],
   "clearchat": [],
@@ -58827,11 +58827,11 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 237,
-      "hit": 394,
+      "hit": 395,
       "date": "24 Desember 2024",
       "money": 620015,
       "exp": 18683,
-      "limit": 126,
+      "limit": 125,
       "speed": 0,
       "strength": 0,
       "defense": 0,
