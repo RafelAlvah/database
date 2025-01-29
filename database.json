@@ -724,7 +724,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 142,
+      "succes": 143,
       "failed": 0
     },
     {
@@ -864,7 +864,7 @@
     },
     {
       "cmd": "Tembak",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1317,7 +1317,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2072
+      "totalcmd": 2074
     }
   ],
   "clearchat": [],
@@ -66930,7 +66930,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 781,
+      "hit": 782,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -66947,7 +66947,7 @@
       "skill": "",
       "ultah": "11,11,2011",
       "sahabat": "",
-      "pasangan": "6283824612951@s.whatsapp.net",
+      "pasangan": "6288216660625@s.whatsapp.net",
       "age": 14,
       "regTime": 1738145880333,
       "afk": -1,
@@ -158857,8 +158857,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "JL9G",
-      "glimit": 6,
-      "hit": 527,
+      "glimit": 5,
+      "hit": 528,
       "date": "28 Januari 2025",
       "money": 1240290,
       "exp": 42863,
