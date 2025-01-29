@@ -998,7 +998,7 @@
     },
     {
       "cmd": "Terima",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1040,7 +1040,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 773
+      "totalcmd": 774
     }
   ],
   "clearchat": [],
@@ -129711,7 +129711,7 @@
       "autolevelup": false,
       "serial": "0GPT",
       "glimit": 4,
-      "hit": 544,
+      "hit": 545,
       "date": "22 Januari 2025",
       "money": 7474822,
       "exp": 48700,
