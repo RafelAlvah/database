@@ -818,7 +818,7 @@
     },
     {
       "cmd": "Buyglimit",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -1035,7 +1035,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 768
+      "totalcmd": 769
     }
   ],
   "clearchat": [],
@@ -129705,8 +129705,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "0GPT",
-      "glimit": 0,
-      "hit": 542,
+      "glimit": 5,
+      "hit": 543,
       "date": "22 Januari 2025",
       "money": 7474822,
       "exp": 48700,
@@ -129734,7 +129734,7 @@
       "warning": 0,
       "level": 6,
       "role": "Beginner",
-      "balance": 7000,
+      "balance": 3500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
