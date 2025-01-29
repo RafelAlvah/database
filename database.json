@@ -598,7 +598,8 @@
     "Menu-info",
     "Qc2",
     "Addimage",
-    "Pesan-owner"
+    "Pesan-owner",
+    "Tagsw"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1194,6 +1195,11 @@
       "cmd": "Taxy",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tagsw",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1222,7 +1228,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1557
+      "totalcmd": 1558
     }
   ],
   "clearchat": [],
@@ -1234,7 +1240,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2099,
+      "hit": 2100,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
