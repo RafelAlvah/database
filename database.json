@@ -689,7 +689,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -804,7 +804,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 24,
+      "succes": 25,
       "failed": 0
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1977
+      "totalcmd": 1979
     }
   ],
   "clearchat": [],
@@ -36363,8 +36363,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "ENHU",
-      "glimit": 343,
-      "hit": 3966,
+      "glimit": 342,
+      "hit": 3967,
       "date": "22 Desember 2024",
       "money": 1258806,
       "exp": 3333,
@@ -158853,7 +158853,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 20,
-      "hit": 499,
+      "hit": 500,
       "date": "28 Januari 2025",
       "money": 1076574,
       "exp": 41863,
