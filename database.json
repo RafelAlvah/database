@@ -602,7 +602,8 @@
     "Tweets",
     "Me",
     "Tinyurl",
-    "Ttc"
+    "Ttc",
+    "Bratvid"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -693,6 +694,11 @@
       "cmd": "Menu-info",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Bratvid",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -737,7 +743,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 29
+      "totalcmd": 30
     }
   ],
   "clearchat": [],
@@ -13958,7 +13964,7 @@
       "autolevelup": false,
       "serial": "NGIE",
       "glimit": 25,
-      "hit": 72,
+      "hit": 73,
       "date": "19 Desember 2024",
       "money": 1001000,
       "exp": 5000,
@@ -121939,7 +121945,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 4403854,
+      "balance": 4404854,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
