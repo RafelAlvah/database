@@ -724,7 +724,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 249,
+      "succes": 250,
       "failed": 1
     },
     {
@@ -1134,7 +1134,7 @@
     },
     {
       "cmd": "Brat2",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1348,7 +1348,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2603
+      "totalcmd": 2605
     }
   ],
   "clearchat": [],
@@ -120589,7 +120589,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2631668,
+      "balance": 2632668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -158888,8 +158888,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "JL9G",
-      "glimit": 16,
-      "hit": 599,
+      "glimit": 15,
+      "hit": 600,
       "date": "28 Januari 2025",
       "money": 1356765,
       "exp": 42863,
@@ -182215,7 +182215,7 @@
       "autolevelup": false,
       "serial": "JHVD",
       "glimit": 30,
-      "hit": 12,
+      "hit": 13,
       "date": "29 Januari 2025",
       "money": 0,
       "exp": 0,
