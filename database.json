@@ -848,7 +848,7 @@
     },
     {
       "cmd": "Transfer",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1118,7 +1118,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1225
+      "totalcmd": 1226
     }
   ],
   "clearchat": [],
@@ -36170,9 +36170,9 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 317,
-      "hit": 3868,
+      "hit": 3869,
       "date": "22 Desember 2024",
-      "money": 573047,
+      "money": 373047,
       "exp": 50529,
       "limit": 11956,
       "speed": 1,
@@ -158661,7 +158661,7 @@
       "glimit": 45,
       "hit": 440,
       "date": "28 Januari 2025",
-      "money": 740079,
+      "money": 940079,
       "exp": 36863,
       "limit": 122,
       "speed": 0,
