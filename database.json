@@ -596,7 +596,8 @@
     "Menu",
     "Creator",
     "Menu-info",
-    "Qc2"
+    "Qc2",
+    "Addimage"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1162,6 +1163,11 @@
       "cmd": "Toimg",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Addimage",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1190,7 +1196,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1439
+      "totalcmd": 1440
     }
   ],
   "clearchat": [],
@@ -1202,7 +1208,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2085,
+      "hit": 2086,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
