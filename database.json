@@ -659,7 +659,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 63,
+      "succes": 64,
       "failed": 0
     },
     {
@@ -1362,7 +1362,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2726
+      "totalcmd": 2727
     }
   ],
   "clearchat": [],
@@ -66975,7 +66975,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 797,
+      "hit": 798,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -66995,9 +66995,9 @@
       "pasangan": "6288216660625@s.whatsapp.net",
       "age": 14,
       "regTime": 1738145880333,
-      "afk": -1,
+      "afk": 1738164558259,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "mau bucin",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
