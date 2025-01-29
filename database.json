@@ -665,7 +665,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 26,
+      "succes": 27,
       "failed": 0
     },
     {
@@ -720,7 +720,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 111,
+      "succes": 112,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1393
+      "totalcmd": 1395
     }
   ],
   "clearchat": [],
@@ -19929,8 +19929,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 98,
-      "hit": 4306,
+      "glimit": 97,
+      "hit": 4307,
       "date": "20 Desember 2024",
       "money": 4566529,
       "exp": 18636,
@@ -110369,7 +110369,7 @@
       "autolevelup": false,
       "serial": "FFZ0",
       "glimit": 323,
-      "hit": 289,
+      "hit": 290,
       "date": "5 Januari 2025",
       "money": 36000,
       "exp": 3905,
@@ -120416,7 +120416,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2506668,
+      "balance": 2507668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
