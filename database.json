@@ -735,7 +735,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 36,
+      "succes": 37,
       "failed": 0
     },
     {
@@ -1335,7 +1335,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2389
+      "totalcmd": 2390
     }
   ],
   "clearchat": [],
@@ -2438,7 +2438,7 @@
       "autolevelup": false,
       "serial": "GIEU",
       "glimit": -550,
-      "hit": 2364,
+      "hit": 2365,
       "date": "16 Desember 2024",
       "money": 1556142,
       "exp": 2107,
