@@ -649,7 +649,7 @@
   "dashboard": [
     {
       "cmd": "Brat",
-      "succes": 154,
+      "succes": 155,
       "failed": 1
     },
     {
@@ -1353,7 +1353,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2677
+      "totalcmd": 2678
     }
   ],
   "clearchat": [],
@@ -36409,7 +36409,7 @@
       "date": "22 Desember 2024",
       "money": 1258806,
       "exp": 3333,
-      "limit": 11946,
+      "limit": 11945,
       "speed": 1,
       "strength": 29,
       "defense": 2,
@@ -106275,7 +106275,7 @@
       "autolevelup": false,
       "serial": "1CAI",
       "glimit": 9,
-      "hit": 167,
+      "hit": 168,
       "date": "5 Januari 2025",
       "money": 1000,
       "exp": 0,
