@@ -24,7 +24,6 @@
     "Craft",
     "Inv",
     "Buy",
-    "Kerja",
     "Mulung",
     "Merampok",
     "Casino",
@@ -677,11 +676,6 @@
       "failed": 0
     },
     {
-      "cmd": "Kerja",
-      "succes": 92,
-      "failed": 0
-    },
-    {
       "cmd": "Gaji",
       "succes": 21,
       "failed": 0
@@ -1325,6 +1319,11 @@
       "cmd": "Me",
       "succes": 0,
       "failed": 1
+    },
+    {
+      "cmd": "Kerja",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1365,7 +1364,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2726
+      "totalcmd": 2727
     }
   ],
   "clearchat": [],
@@ -96959,7 +96958,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 457,
-      "hit": 8200,
+      "hit": 8201,
       "date": "3 Januari 2025",
       "money": 4307762,
       "exp": 102843,
