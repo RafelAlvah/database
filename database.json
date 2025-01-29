@@ -1269,7 +1269,7 @@
     },
     {
       "cmd": "Jadian",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1327,7 +1327,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2086
+      "totalcmd": 2087
     }
   ],
   "clearchat": [],
@@ -53895,7 +53895,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14519,
-      "hit": 2363,
+      "hit": 2364,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
