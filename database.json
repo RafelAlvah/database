@@ -1199,7 +1199,7 @@
     {
       "cmd": "Tagsw",
       "succes": 2,
-      "failed": 3
+      "failed": 4
     },
     {
       "cmd": "Ocr",
@@ -1218,6 +1218,10 @@
     },
     {
       "error": "generateWAMessage is not defined",
+      "cmd": "tagsw"
+    },
+    {
+      "error": "jid.endsWith is not a function",
       "cmd": "tagsw"
     }
   ],
@@ -1241,7 +1245,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 1586
+      "totalcmd": 1587
     }
   ],
   "clearchat": [],
@@ -1253,7 +1257,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -10,
-      "hit": 2105,
+      "hit": 2106,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
