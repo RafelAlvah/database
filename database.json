@@ -699,12 +699,12 @@
     },
     {
       "cmd": "Heal",
-      "succes": 96,
+      "succes": 97,
       "failed": 0
     },
     {
       "cmd": "Openbo",
-      "succes": 77,
+      "succes": 78,
       "failed": 0
     },
     {
@@ -1348,7 +1348,7 @@
     {
       "id": "run",
       "expired": 1738167573663,
-      "totalcmd": 2627
+      "totalcmd": 2629
     }
   ],
   "clearchat": [],
@@ -96942,7 +96942,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 464,
-      "hit": 8176,
+      "hit": 8177,
       "date": "3 Januari 2025",
       "money": 3313636,
       "exp": 102843,
@@ -158889,7 +158889,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 11,
-      "hit": 610,
+      "hit": 611,
       "date": "28 Januari 2025",
       "money": 1433146,
       "exp": 42863,
@@ -158923,9 +158923,9 @@
       "atm": 0,
       "fullatm": 0,
       "bank": 0,
-      "health": 20,
+      "health": 100,
       "stamina": 45,
-      "potion": 10,
+      "potion": 8,
       "wine": 0,
       "beer": 0,
       "trash": 0,
