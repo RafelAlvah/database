@@ -670,7 +670,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 20,
+      "succes": 21,
       "failed": 0
     },
     {
@@ -690,7 +690,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -1068,7 +1068,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 454
+      "totalcmd": 456
     }
   ],
   "clearchat": [],
@@ -36120,7 +36120,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 4020,
+      "hit": 4021,
       "date": "22 Desember 2024",
       "money": 1258806,
       "exp": 3333,
@@ -36140,9 +36140,9 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1738130685700,
-      "afk": -1,
+      "afk": 1738222044583,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "menghilank",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -53636,7 +53636,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14503,
-      "hit": 2427,
+      "hit": 2428,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
