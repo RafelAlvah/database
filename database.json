@@ -672,7 +672,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 36,
+      "succes": 37,
       "failed": 0
     },
     {
@@ -1132,7 +1132,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 877
+      "totalcmd": 878
     }
   ],
   "clearchat": [],
@@ -36184,7 +36184,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 4035,
+      "hit": 4036,
       "date": "22 Desember 2024",
       "money": 1289546,
       "exp": 3333,
@@ -36204,9 +36204,9 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1738130685700,
-      "afk": 1738242669898,
+      "afk": 1738243566344,
       "unreg": true,
-      "afkReason": "nugas",
+      "afkReason": "menghilanks",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
