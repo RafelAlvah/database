@@ -829,7 +829,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -973,7 +973,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 252
+      "totalcmd": 253
     }
   ],
   "clearchat": [],
@@ -96567,9 +96567,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8280,
+      "hit": 8281,
       "date": "3 Januari 2025",
-      "money": 4596929,
+      "money": 4695203,
       "exp": 113219,
       "limit": 371,
       "speed": 5,
@@ -96587,9 +96587,9 @@
       "pasangan": "6281399940982@s.whatsapp.net",
       "age": 19,
       "regTime": 1735937139204,
-      "afk": 1738207989514,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "gawe",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -96737,7 +96737,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738203745378,
+      "lastkerja": 1738214154592,
       "lastmaling": 1738165909196,
       "clay": "undefined1940",
       "sand": "undefined550",
