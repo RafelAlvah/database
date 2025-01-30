@@ -1129,6 +1129,11 @@
       "cmd": "Animeindo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Randomanime",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1152,7 +1157,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 996
+      "totalcmd": 997
     }
   ],
   "clearchat": [],
@@ -114807,7 +114812,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1534,
+      "hit": 1535,
       "date": "7 Januari 2025",
       "money": 5440898,
       "exp": 33185,
