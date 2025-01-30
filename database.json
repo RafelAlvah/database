@@ -684,7 +684,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 17,
+      "succes": 18,
       "failed": 0
     },
     {
@@ -1013,7 +1013,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 308
+      "totalcmd": 309
     }
   ],
   "clearchat": [],
@@ -58760,8 +58760,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 230,
-      "hit": 434,
+      "glimit": 229,
+      "hit": 435,
       "date": "24 Desember 2024",
       "money": 1720736,
       "exp": 33683,
@@ -96635,7 +96635,7 @@
       "warning": 0,
       "level": 12,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 112300712,
+      "balance": 112305712,
       "skillexp": 0,
       "chip": 650,
       "atm": 3,
