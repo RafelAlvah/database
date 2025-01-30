@@ -798,6 +798,11 @@
       "cmd": "Kerja",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Smeme",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -826,7 +831,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 62
+      "totalcmd": 63
     }
   ],
   "clearchat": [],
@@ -114481,7 +114486,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1544,
+      "hit": 1545,
       "date": "7 Januari 2025",
       "money": 5561451,
       "exp": 33185,
