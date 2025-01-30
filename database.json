@@ -825,7 +825,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 646
+      "totalcmd": 647
     }
   ],
   "clearchat": [],
@@ -19830,9 +19830,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 6,
-      "hit": 4538,
+      "hit": 4539,
       "date": "20 Desember 2024",
-      "money": 5865723,
+      "money": 5902233,
       "exp": 48836,
       "limit": 400,
       "speed": 3,
@@ -20000,7 +20000,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738227610622,
+      "lastkerja": 1738236526929,
       "lastparming": 1738227620322,
       "rokets": 88,
       "lastmulung": 1738227613606,
