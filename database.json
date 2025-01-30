@@ -701,7 +701,7 @@
     },
     {
       "cmd": "Setclose",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -736,7 +736,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 22
+      "totalcmd": 23
     }
   ],
   "clearchat": [],
@@ -748,7 +748,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2327,
+      "hit": 2328,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -192410,6 +192410,12 @@
         "timeOpen": "04:05",
         "reasonOpen": "Group Kembali di buka, Jangan lupa patuhi peraturan group",
         "timeClose": "00:05"
+      },
+      "120363361865610907@g.us": {
+        "groupName": "® ̶Ꮇ̶̶uler-вσтz | 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝙂𝙧𝙤𝙪𝙥",
+        "timeClose": "00:10",
+        "reasonClose": "Sudah Malam, Muler Tutup Group Supaya Kalian Bisa Tidur, Jaga Kesehatan Masing-Masing",
+        "timeOpen": null
       }
     },
     "setTimeAlarm": [
