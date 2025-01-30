@@ -850,6 +850,11 @@
       "cmd": "Openbo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Heal",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -873,7 +878,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 129
+      "totalcmd": 130
     }
   ],
   "clearchat": [],
@@ -96467,7 +96472,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8261,
+      "hit": 8262,
       "date": "3 Januari 2025",
       "money": 3536643,
       "exp": 107219,
@@ -96502,8 +96507,8 @@
       "fullatm": 1000000000,
       "bank": 30000000,
       "health": 20,
-      "stamina": 60,
-      "potion": 17,
+      "stamina": 95,
+      "potion": 16,
       "wine": 0,
       "beer": 0,
       "trash": 0,
