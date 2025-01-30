@@ -775,7 +775,7 @@
     },
     {
       "cmd": "Info-menu",
-      "succes": 4,
+      "succes": 5,
       "failed": 1
     },
     {
@@ -1034,7 +1034,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 329
+      "totalcmd": 330
     }
   ],
   "clearchat": [],
@@ -1046,7 +1046,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2252,
+      "hit": 2253,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
