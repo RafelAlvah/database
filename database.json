@@ -758,6 +758,11 @@
       "cmd": "Heal",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Buy",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -786,7 +791,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 48
+      "totalcmd": 49
     }
   ],
   "clearchat": [],
@@ -29011,9 +29016,9 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 818,
+      "hit": 819,
       "date": "22 Desember 2024",
-      "money": 3406324,
+      "money": 3356324,
       "exp": 8911,
       "limit": 79,
       "speed": 0,
@@ -29075,7 +29080,7 @@
       "mythic": 3,
       "tbox": 0,
       "legendary": 1,
-      "kondom": 16,
+      "kondom": 17,
       "umpan": 0,
       "pet": 1,
       "paus": 0,
