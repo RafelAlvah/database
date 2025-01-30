@@ -966,6 +966,11 @@
       "cmd": "Mining",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Leaderboard",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -998,7 +1003,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 279
+      "totalcmd": 280
     }
   ],
   "clearchat": [],
@@ -96592,7 +96597,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8295,
+      "hit": 8296,
       "date": "3 Januari 2025",
       "money": 4690573,
       "exp": 113219,
