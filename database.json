@@ -828,6 +828,11 @@
       "cmd": "Susunkata",
       "succes": 11,
       "failed": 0
+    },
+    {
+      "cmd": "Swm",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -856,7 +861,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 88
+      "totalcmd": 89
     }
   ],
   "clearchat": [],
@@ -80398,7 +80403,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3142,
-      "hit": 2412,
+      "hit": 2413,
       "date": "30 Desember 2024",
       "money": 1449285,
       "exp": 0,
@@ -80418,9 +80423,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1738279338924,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "mndi",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
