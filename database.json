@@ -676,7 +676,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 52,
+      "succes": 53,
       "failed": 0
     },
     {
@@ -1191,7 +1191,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 1082
+      "totalcmd": 1083
     }
   ],
   "clearchat": [],
@@ -177255,7 +177255,7 @@
       "autolevelup": false,
       "serial": "3TZV",
       "glimit": 22,
-      "hit": 17,
+      "hit": 18,
       "date": "28 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -177275,7 +177275,7 @@
       "pasangan": "",
       "age": 27,
       "regTime": 1738252460425,
-      "afk": -1,
+      "afk": 1738252747519,
       "unreg": false,
       "afkReason": "",
       "banned": false,
