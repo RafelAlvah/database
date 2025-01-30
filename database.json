@@ -1107,7 +1107,7 @@
     },
     {
       "cmd": "Husbu",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     }
   ],
@@ -1132,7 +1132,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 865
+      "totalcmd": 866
     }
   ],
   "clearchat": [],
@@ -96726,7 +96726,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8381,
+      "hit": 8382,
       "date": "3 Januari 2025",
       "money": 2871439,
       "exp": 7319,
