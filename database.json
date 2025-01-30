@@ -793,6 +793,11 @@
       "cmd": "Ytmp3",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Kerja",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -821,7 +826,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 60
+      "totalcmd": 61
     }
   ],
   "clearchat": [],
@@ -114476,9 +114481,9 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1543,
+      "hit": 1544,
       "date": "7 Januari 2025",
-      "money": 5440898,
+      "money": 5561451,
       "exp": 33185,
       "limit": 1065,
       "speed": 1,
@@ -114646,7 +114651,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738219178993,
+      "lastkerja": 1738279304074,
       "lastmaling": 1736290186303,
       "lastmulung": 1737989327299,
       "rokets": 12,
