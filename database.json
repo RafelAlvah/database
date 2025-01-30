@@ -800,7 +800,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 35,
+      "succes": 36,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 625
+      "totalcmd": 626
     }
   ],
   "clearchat": [],
@@ -97581,7 +97581,7 @@
       "autolevelup": false,
       "serial": "ES9P",
       "glimit": 462,
-      "hit": 1143,
+      "hit": 1144,
       "date": "3 Januari 2025",
       "money": 601341,
       "exp": 20961,
@@ -97609,7 +97609,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 1982678,
+      "balance": 1983678,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
