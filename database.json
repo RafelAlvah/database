@@ -1037,7 +1037,7 @@
     },
     {
       "cmd": "Menu-info",
-      "succes": 9,
+      "succes": 10,
       "failed": 1
     },
     {
@@ -1112,7 +1112,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 846
+      "totalcmd": 847
     }
   ],
   "clearchat": [],
@@ -190348,7 +190348,7 @@
       "autolevelup": false,
       "serial": "SH1D",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "30 Januari 2025",
       "money": 0,
       "exp": 0,
