@@ -684,7 +684,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -904,7 +904,7 @@
     },
     {
       "cmd": "Bratvideo",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -929,7 +929,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 220
+      "totalcmd": 222
     }
   ],
   "clearchat": [],
@@ -99408,8 +99408,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "RYZ8",
-      "glimit": 65,
-      "hit": 113,
+      "glimit": 64,
+      "hit": 114,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
@@ -149395,7 +149395,7 @@
       "autolevelup": false,
       "serial": "DJQV",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
