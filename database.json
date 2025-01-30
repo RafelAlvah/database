@@ -654,13 +654,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287822381511",
-      "expired": 1738204488888
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -834,7 +828,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -924,7 +918,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 202
+      "totalcmd": 203
     }
   ],
   "clearchat": [],
@@ -101549,9 +101543,9 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 550,
-      "hit": 639,
+      "hit": 640,
       "date": "4 Januari 2025",
-      "money": 6819882,
+      "money": 6920103,
       "exp": 11745,
       "limit": 54,
       "speed": 0,
@@ -101719,7 +101713,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1737995280089,
+      "lastkerja": 1738204501763,
       "clay": "undefined130",
       "sand": "undefined430",
       "berlian": "undefined40",
