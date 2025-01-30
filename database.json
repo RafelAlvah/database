@@ -670,7 +670,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1058,7 +1058,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 410
+      "totalcmd": 411
     }
   ],
   "clearchat": [],
@@ -80965,7 +80965,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 42,
-      "hit": 375,
+      "hit": 376,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
@@ -80985,7 +80985,7 @@
       "pasangan": "6283833024905@s.whatsapp.net",
       "age": 19,
       "regTime": 1737877024556,
-      "afk": -1,
+      "afk": 1738220141256,
       "unreg": false,
       "afkReason": "",
       "banned": false,
@@ -80993,7 +80993,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 1514023,
+      "balance": 1515023,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
