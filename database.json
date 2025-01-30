@@ -763,6 +763,11 @@
       "cmd": "Buy",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Openbo",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -791,7 +796,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 49
+      "totalcmd": 50
     }
   ],
   "clearchat": [],
@@ -29016,10 +29021,10 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 819,
+      "hit": 820,
       "date": "22 Desember 2024",
-      "money": 3356324,
-      "exp": 8911,
+      "money": 3756324,
+      "exp": 17911,
       "limit": 79,
       "speed": 0,
       "strength": 0,
@@ -29050,8 +29055,8 @@
       "atm": 1,
       "fullatm": 500000000,
       "bank": 6000000,
-      "health": 100,
-      "stamina": 90,
+      "health": 20,
+      "stamina": 50,
       "potion": 87,
       "wine": 0,
       "beer": 0,
@@ -29113,7 +29118,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1738218842424,
+      "lastmisi": 1738279024250,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -29188,7 +29193,7 @@
       "timeEnd": "",
       "lastkerja": 1737777951904,
       "lastmaling": 1737521365497,
-      "rokets": 18,
+      "rokets": 19,
       "lastparming": 1737777966719,
       "lastmulung": 1737777957672,
       "poin": 500000
