@@ -690,7 +690,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1068,7 +1068,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 445
+      "totalcmd": 446
     }
   ],
   "clearchat": [],
@@ -53636,7 +53636,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14503,
-      "hit": 2418,
+      "hit": 2419,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
