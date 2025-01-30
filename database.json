@@ -822,7 +822,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1137,7 +1137,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 951
+      "totalcmd": 952
     }
   ],
   "clearchat": [],
@@ -101762,7 +101762,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 554,
-      "hit": 661,
+      "hit": 662,
       "date": "4 Januari 2025",
       "money": 6691458,
       "exp": 11945,
@@ -101790,7 +101790,7 @@
       "warning": 0,
       "level": 5,
       "role": "Beginner",
-      "balance": 13176500,
+      "balance": 13177500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
