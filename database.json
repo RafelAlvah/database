@@ -671,12 +671,12 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 60,
+      "succes": 61,
       "failed": 0
     },
     {
       "cmd": "Afk",
-      "succes": 48,
+      "succes": 49,
       "failed": 0
     },
     {
@@ -1181,7 +1181,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 1055
+      "totalcmd": 1057
     }
   ],
   "clearchat": [],
@@ -36233,7 +36233,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 4062,
+      "hit": 4063,
       "date": "22 Desember 2024",
       "money": 1289546,
       "exp": 3333,
@@ -36253,9 +36253,9 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1738130685700,
-      "afk": -1,
+      "afk": 1738251582204,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "molor 🐦‍⬛",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -122354,8 +122354,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "DY0Q",
-      "glimit": 251,
-      "hit": 269,
+      "glimit": 250,
+      "hit": 270,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
