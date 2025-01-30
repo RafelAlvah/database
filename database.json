@@ -1119,6 +1119,11 @@
       "cmd": "Topbalance",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Simi",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1142,7 +1147,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 976
+      "totalcmd": 977
     }
   ],
   "clearchat": [],
@@ -1154,7 +1159,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2313,
+      "hit": 2314,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
