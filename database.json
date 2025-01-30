@@ -860,6 +860,11 @@
       "cmd": "Mulung",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Money",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -883,7 +888,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 144
+      "totalcmd": 145
     }
   ],
   "clearchat": [],
@@ -96477,7 +96482,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8264,
+      "hit": 8265,
       "date": "3 Januari 2025",
       "money": 4336643,
       "exp": 107219,
