@@ -920,7 +920,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 46,
+      "succes": 47,
       "failed": 0
     },
     {
@@ -1070,7 +1070,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 483
+      "totalcmd": 484
     }
   ],
   "clearchat": [],
@@ -80976,8 +80976,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WQHL",
-      "glimit": 38,
-      "hit": 383,
+      "glimit": 37,
+      "hit": 384,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
@@ -120311,7 +120311,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2680668,
+      "balance": 2681668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
