@@ -748,6 +748,11 @@
       "cmd": "Tt",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Family100",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -776,7 +781,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 45
+      "totalcmd": 46
     }
   ],
   "clearchat": [],
@@ -80682,8 +80687,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WQHL",
-      "glimit": 33,
-      "hit": 396,
+      "glimit": 32,
+      "hit": 397,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
