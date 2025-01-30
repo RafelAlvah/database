@@ -701,7 +701,7 @@
     },
     {
       "cmd": "Setclose",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     }
   ],
@@ -731,7 +731,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 19
+      "totalcmd": 20
     }
   ],
   "clearchat": [],
@@ -743,7 +743,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2324,
+      "hit": 2325,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -192398,6 +192398,12 @@
         "groupName": "OSIS (ORGANISASI SATWA INDONESIA SUNDA)",
         "timeClose": "01:43",
         "reasonClose": "lieur",
+        "timeOpen": null
+      },
+      "120363368609225438@g.us": {
+        "groupName": "tesyong",
+        "timeClose": "00:05",
+        "reasonClose": "Sudah Malam, Muler Tutup Group Supaya Kalian Bisa Tidur, Jaga Kesehatan Masing-Masing",
         "timeOpen": null
       }
     },
