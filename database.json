@@ -1087,7 +1087,7 @@
     },
     {
       "cmd": "Ojek",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1112,7 +1112,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 841
+      "totalcmd": 842
     }
   ],
   "clearchat": [],
@@ -93658,7 +93658,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 687,
+      "hit": 688,
       "date": "1 Januari 2025",
       "money": 8306732,
       "exp": 36561,
