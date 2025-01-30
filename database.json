@@ -610,7 +610,8 @@
     "Menu-converter",
     "Menu-downloader",
     "Morningg",
-    "Bratvideo"
+    "Bratvideo",
+    "Bh"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -799,7 +800,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -981,6 +982,11 @@
       "cmd": "Maling",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Bh",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1013,7 +1019,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 309
+      "totalcmd": 311
     }
   ],
   "clearchat": [],
@@ -127000,7 +127006,7 @@
       "autolevelup": false,
       "serial": "VTGJ",
       "glimit": 30,
-      "hit": 197,
+      "hit": 199,
       "date": "20 Januari 2025",
       "money": 1000,
       "exp": 0,
