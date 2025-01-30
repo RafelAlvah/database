@@ -820,7 +820,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 769
+      "totalcmd": 770
     }
   ],
   "clearchat": [],
@@ -101700,7 +101700,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 549,
-      "hit": 653,
+      "hit": 654,
       "date": "4 Januari 2025",
       "money": 6786600,
       "exp": 11945,
