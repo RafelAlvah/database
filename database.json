@@ -655,13 +655,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287822381511",
-      "expired": 1738214804212
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -880,7 +874,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1009,7 +1003,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 281
+      "totalcmd": 282
     }
   ],
   "clearchat": [],
@@ -96603,9 +96597,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8297,
+      "hit": 8298,
       "date": "3 Januari 2025",
-      "money": 34690573,
+      "money": 21190573,
       "exp": 113219,
       "limit": 371,
       "speed": 5,
@@ -96651,7 +96645,7 @@
       "hubungan": 0,
       "lokasi": 0,
       "emerald": 0,
-      "diamond": 55,
+      "diamond": 100,
       "gold": 57,
       "botol": 46201,
       "kardus": 51355,
