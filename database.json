@@ -655,13 +655,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287822381511",
-      "expired": 1738214910739
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -880,7 +874,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1009,7 +1003,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 286
+      "totalcmd": 287
     }
   ],
   "clearchat": [],
@@ -96603,9 +96597,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8301,
+      "hit": 8302,
       "date": "3 Januari 2025",
-      "money": 19990573,
+      "money": 7490573,
       "exp": 113219,
       "limit": 371,
       "speed": 5,
@@ -96650,7 +96644,7 @@
       "petfood": 0,
       "hubungan": 0,
       "lokasi": 0,
-      "emerald": 0,
+      "emerald": 50,
       "diamond": 100,
       "gold": 65,
       "botol": 46201,
