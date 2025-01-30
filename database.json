@@ -1054,16 +1054,7 @@
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "groupMetadata is not defined",
-      "cmd": "linkgc"
-    },
-    {
-      "error": "item-not-found",
-      "cmd": "infogc"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
