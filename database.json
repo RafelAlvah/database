@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 19,
+      "succes": 20,
       "failed": 1
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 717
+      "totalcmd": 718
     }
   ],
   "clearchat": [],
@@ -7354,7 +7354,7 @@
       "autolevelup": false,
       "serial": "ROUP",
       "glimit": 29,
-      "hit": 38,
+      "hit": 39,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 0,
