@@ -941,6 +941,11 @@
       "cmd": "Lirik",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Putus",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -973,7 +978,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 263
+      "totalcmd": 264
     }
   ],
   "clearchat": [],
@@ -80515,7 +80520,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3156,
-      "hit": 2372,
+      "hit": 2373,
       "date": "30 Desember 2024",
       "money": 1480025,
       "exp": 0,
@@ -80532,7 +80537,7 @@
       "skill": "",
       "ultah": "08,03,2009",
       "sahabat": "",
-      "pasangan": "6283142402056@s.whatsapp.net",
+      "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
       "afk": -1,
@@ -122164,7 +122169,7 @@
       "skill": "",
       "ultah": "24,05,2011",
       "sahabat": "",
-      "pasangan": "6283169385006@s.whatsapp.net",
+      "pasangan": "",
       "age": 13,
       "regTime": 1737774560129,
       "afk": 1738170041960,
