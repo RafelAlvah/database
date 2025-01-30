@@ -1002,6 +1002,11 @@
       "cmd": "Donasi",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Del",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1034,7 +1039,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 344
+      "totalcmd": 345
     }
   ],
   "clearchat": [],
@@ -58782,7 +58787,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 224,
-      "hit": 444,
+      "hit": 445,
       "date": "24 Desember 2024",
       "money": 1720736,
       "exp": 33683,
