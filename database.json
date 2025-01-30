@@ -775,7 +775,7 @@
     },
     {
       "cmd": "Play",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 709
+      "totalcmd": 710
     }
   ],
   "clearchat": [],
@@ -1107,9 +1107,9 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1738085212121,
-      "afk": -1,
+      "afk": 1738238500982,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "Makan",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -67934,7 +67934,7 @@
       "autolevelup": false,
       "serial": "38UR",
       "glimit": 30,
-      "hit": 108,
+      "hit": 109,
       "date": "25 Desember 2024",
       "money": 1000,
       "exp": 0,
