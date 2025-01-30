@@ -1006,7 +1006,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1186,7 +1186,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 1075
+      "totalcmd": 1076
     }
   ],
   "clearchat": [],
@@ -177250,7 +177250,7 @@
       "autolevelup": false,
       "serial": "3TZV",
       "glimit": 23,
-      "hit": 12,
+      "hit": 13,
       "date": "28 Januari 2025",
       "money": 1000,
       "exp": 0,
