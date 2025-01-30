@@ -865,6 +865,11 @@
       "cmd": "Money",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tf",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -888,7 +893,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 148
+      "totalcmd": 149
     }
   ],
   "clearchat": [],
@@ -19643,7 +19648,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 34,
-      "hit": 4485,
+      "hit": 4486,
       "date": "20 Desember 2024",
       "money": 5309100,
       "exp": 42836,
@@ -19671,7 +19676,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 80049000,
+      "balance": 80000000,
       "skillexp": 0,
       "chip": 101,
       "atm": 1,
@@ -96510,7 +96515,7 @@
       "warning": 0,
       "level": 12,
       "role": "Beginner Grade 3 ⚊³",
-      "balance": 112219712,
+      "balance": 112268712,
       "skillexp": 0,
       "chip": 650,
       "atm": 3,
