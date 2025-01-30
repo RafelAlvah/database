@@ -760,7 +760,7 @@
     },
     {
       "cmd": "Menu-ai",
-      "succes": 3,
+      "succes": 4,
       "failed": 1
     },
     {
@@ -805,7 +805,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 23,
+      "succes": 24,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 702
+      "totalcmd": 704
     }
   ],
   "clearchat": [],
@@ -1087,7 +1087,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2297,
+      "hit": 2298,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -19830,7 +19830,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 5,
-      "hit": 4547,
+      "hit": 4548,
       "date": "20 Desember 2024",
       "money": 6422500,
       "exp": 50836,
@@ -19858,7 +19858,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 79115000,
+      "balance": 79116000,
       "skillexp": 0,
       "chip": 101,
       "atm": 1,
