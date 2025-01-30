@@ -732,7 +732,7 @@
     },
     {
       "cmd": "Tourl",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1132,7 +1132,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 901
+      "totalcmd": 902
     }
   ],
   "clearchat": [],
@@ -190724,11 +190724,11 @@
       "autolevelup": false,
       "serial": "FA4E",
       "glimit": 30,
-      "hit": 2,
+      "hit": 3,
       "date": "30 Januari 2025",
       "money": 0,
       "exp": 0,
-      "limit": 30,
+      "limit": 29,
       "speed": 0,
       "strength": 0,
       "defense": 0,
