@@ -1102,7 +1102,7 @@
     },
     {
       "cmd": "Waifu",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1132,7 +1132,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 870
+      "totalcmd": 872
     }
   ],
   "clearchat": [],
@@ -114787,7 +114787,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1514,
+      "hit": 1515,
       "date": "7 Januari 2025",
       "money": 5441231,
       "exp": 33185,
@@ -190368,7 +190368,7 @@
       "autolevelup": false,
       "serial": "SH1D",
       "glimit": 30,
-      "hit": 9,
+      "hit": 10,
       "date": "30 Januari 2025",
       "money": 0,
       "exp": 0,
