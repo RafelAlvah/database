@@ -920,7 +920,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 53,
+      "succes": 54,
       "failed": 0
     },
     {
@@ -1070,7 +1070,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 504
+      "totalcmd": 505
     }
   ],
   "clearchat": [],
@@ -19824,8 +19824,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OTVR",
-      "glimit": 31,
-      "hit": 4501,
+      "glimit": 30,
+      "hit": 4502,
       "date": "20 Desember 2024",
       "money": 5518187,
       "exp": 43836,
