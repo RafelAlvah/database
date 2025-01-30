@@ -698,6 +698,11 @@
       "cmd": "Afk",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Setclose",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -726,7 +731,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 15
+      "totalcmd": 16
     }
   ],
   "clearchat": [],
@@ -738,7 +743,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2320,
+      "hit": 2321,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -758,9 +763,9 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1738085212121,
-      "afk": 1738254647638,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "tidue",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
