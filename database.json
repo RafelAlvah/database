@@ -906,6 +906,11 @@
       "cmd": "Bratvideo",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Limit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -929,7 +934,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 223
+      "totalcmd": 224
     }
   ],
   "clearchat": [],
@@ -80836,7 +80841,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 0,
-      "hit": 361,
+      "hit": 362,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
