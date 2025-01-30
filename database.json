@@ -655,7 +655,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6287822381511",
+      "expired": 1738215214515
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -58758,7 +58764,7 @@
       "glimit": 237,
       "hit": 426,
       "date": "24 Desember 2024",
-      "money": 1713013,
+      "money": 1720736,
       "exp": 33683,
       "limit": 122,
       "speed": 0,
@@ -58797,7 +58803,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 48,
+      "wood": 77,
       "rock": 0,
       "string": 0,
       "petfood": 0,
@@ -58928,7 +58934,7 @@
       "timeEnd": "",
       "lastmulung": 1738114211168,
       "lastmaling": 1737974050388,
-      "lastparming": 1738070535966,
+      "lastparming": 1738215214381,
       "rokets": null,
       "lastkerja": 1737983387445
     },
