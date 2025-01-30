@@ -816,7 +816,7 @@
     },
     {
       "cmd": "Togif",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -851,7 +851,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 72
+      "totalcmd": 73
     }
   ],
   "clearchat": [],
@@ -114506,7 +114506,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1553,
+      "hit": 1554,
       "date": "7 Januari 2025",
       "money": 5561451,
       "exp": 33185,
