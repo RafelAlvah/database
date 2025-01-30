@@ -186355,33 +186355,7 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ],
-    "restart": {
-      "m": {
-        "key": {
-          "remoteJid": "120363361865610907@g.us",
-          "fromMe": false,
-          "id": "2DE2AC2DD1DFDC850812017ED7A3493C",
-          "participant": "6287737937323@s.whatsapp.net"
-        },
-        "message": {
-          "extendedTextMessage": {
-            "text": ".restart",
-            "previewType": "NONE",
-            "contextInfo": {
-              "mentionedJid": [
-                "false,false,false,false,6283805951279@s.whatsapp.net,false,false,false,false,false,false@s.whatsapp.net"
-              ]
-            },
-            "inviteLinkGroupTypeV2": "DEFAULT"
-          }
-        },
-        "messageTimestamp": "1738220583",
-        "broadcast": false,
-        "pushName": "«< R >»"
-      },
-      "from": "120363361865610907@g.us"
-    }
+    ]
   },
   "respon": {}
 }
