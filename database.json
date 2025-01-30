@@ -672,7 +672,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 37,
+      "succes": 38,
       "failed": 0
     },
     {
@@ -1132,7 +1132,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 907
+      "totalcmd": 908
     }
   ],
   "clearchat": [],
@@ -36184,7 +36184,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 4038,
+      "hit": 4039,
       "date": "22 Desember 2024",
       "money": 1289546,
       "exp": 3333,
@@ -36204,15 +36204,15 @@
       "pasangan": "",
       "age": 10,
       "regTime": 1738130685700,
-      "afk": -1,
+      "afk": 1738244465741,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "nyelot",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 123456789,
+      "balance": 123457789,
       "skillexp": 0,
       "chip": 50,
       "atm": 5,
