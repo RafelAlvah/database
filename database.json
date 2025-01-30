@@ -663,7 +663,13 @@
   ],
   "sewa": [],
   "antispam": [],
-  "dashboard": [],
+  "dashboard": [
+    {
+      "cmd": "Me",
+      "succes": 1,
+      "failed": 0
+    }
+  ],
   "listerror": [],
   "jadibot": {},
   "sticker": {
@@ -681,7 +687,13 @@
     }
   },
   "audio": {},
-  "hittoday": [],
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1738340558069,
+      "totalcmd": 1
+    }
+  ],
   "clearchat": [],
   "users": {
     "6287737937323@s.whatsapp.net": {
@@ -74670,7 +74682,7 @@
       "autolevelup": false,
       "serial": "CXH5",
       "glimit": 1154,
-      "hit": 896,
+      "hit": 897,
       "date": "27 Desember 2024",
       "money": 4944576,
       "exp": 36493,
