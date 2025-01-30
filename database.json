@@ -840,7 +840,7 @@
     },
     {
       "cmd": "Airdrop",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -855,7 +855,7 @@
     },
     {
       "cmd": "Mulung",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 641
+      "totalcmd": 643
     }
   ],
   "clearchat": [],
@@ -58823,7 +58823,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 217,
-      "hit": 457,
+      "hit": 458,
       "date": "24 Desember 2024",
       "money": 1720736,
       "exp": 33683,
@@ -58873,11 +58873,11 @@
       "emerald": 0,
       "diamond": 0,
       "gold": 0,
-      "botol": 2145,
-      "kardus": 2138,
-      "kaleng": 1880,
-      "gelas": 2805,
-      "plastik": 3301,
+      "botol": 3053,
+      "kardus": 2641,
+      "kaleng": 2037,
+      "gelas": 2843,
+      "plastik": 3311,
       "iron": 0,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -58993,7 +58993,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastmulung": 1738114211168,
+      "lastmulung": 1738236306478,
       "lastmaling": 1737974050388,
       "lastparming": 1738215214381,
       "rokets": null,
@@ -96669,7 +96669,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 419,
-      "hit": 8354,
+      "hit": 8355,
       "date": "3 Januari 2025",
       "money": 1872608,
       "exp": 2319,
