@@ -659,7 +659,7 @@
     {
       "name": "NotCase",
       "id": "6287822381511",
-      "expired": 1738214991789
+      "expired": 1738215060694
     }
   ],
   "dashboard": [
@@ -870,7 +870,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1009,7 +1009,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 291
+      "totalcmd": 292
     }
   ],
   "clearchat": [],
@@ -96603,7 +96603,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8306,
+      "hit": 8307,
       "date": "3 Januari 2025",
       "money": 6290573,
       "exp": 113219,
