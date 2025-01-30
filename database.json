@@ -672,7 +672,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 45,
+      "succes": 46,
       "failed": 0
     },
     {
@@ -1152,7 +1152,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 990
+      "totalcmd": 991
     }
   ],
   "clearchat": [],
@@ -97840,7 +97840,7 @@
       "autolevelup": false,
       "serial": "OYAO",
       "glimit": 2,
-      "hit": 329,
+      "hit": 330,
       "date": "3 Januari 2025",
       "money": 3144300,
       "exp": 22193,
@@ -97860,9 +97860,9 @@
       "pasangan": "6285817604058@s.whatsapp.net",
       "age": 15,
       "regTime": 1735978972444,
-      "afk": -1,
+      "afk": 1738250262986,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "tidur",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
