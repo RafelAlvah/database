@@ -608,7 +608,8 @@
     "Menu-anime",
     "Info-menu",
     "Menu-converter",
-    "Menu-downloader"
+    "Menu-downloader",
+    "Morningg"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -802,7 +803,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -812,6 +813,11 @@
     },
     {
       "cmd": "Swm",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Morningg",
       "succes": 1,
       "failed": 0
     }
@@ -837,7 +843,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 114
+      "totalcmd": 116
     }
   ],
   "clearchat": [],
@@ -58585,7 +58591,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 237,
-      "hit": 422,
+      "hit": 424,
       "date": "24 Desember 2024",
       "money": 1713013,
       "exp": 33683,
