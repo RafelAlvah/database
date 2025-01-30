@@ -655,7 +655,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6287822381511",
+      "expired": 1738215324992
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -684,7 +690,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1013,7 +1019,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 307
+      "totalcmd": 308
     }
   ],
   "clearchat": [],
@@ -58760,8 +58766,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "A1OV",
-      "glimit": 231,
-      "hit": 433,
+      "glimit": 230,
+      "hit": 434,
       "date": "24 Desember 2024",
       "money": 1720736,
       "exp": 33683,
