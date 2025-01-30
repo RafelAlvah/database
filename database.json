@@ -852,7 +852,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 27,
+      "succes": 28,
       "failed": 0
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 837
+      "totalcmd": 838
     }
   ],
   "clearchat": [],
@@ -96701,7 +96701,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8376,
+      "hit": 8377,
       "date": "3 Januari 2025",
       "money": 1971439,
       "exp": 2319,
@@ -96721,9 +96721,9 @@
       "pasangan": "6281399940982@s.whatsapp.net",
       "age": 19,
       "regTime": 1735937139204,
-      "afk": 1738242500279,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "mandi wajib",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
