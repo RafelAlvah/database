@@ -616,7 +616,8 @@
     "Glitchtext",
     "Gremory",
     "Menu-fun",
-    "Shizuka"
+    "Shizuka",
+    "Hijab"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1152,6 +1153,11 @@
       "cmd": "Shizuka",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Hijab",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1175,7 +1181,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 1044
+      "totalcmd": 1045
     }
   ],
   "clearchat": [],
@@ -36227,7 +36233,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 4061,
+      "hit": 4062,
       "date": "22 Desember 2024",
       "money": 1289546,
       "exp": 3333,
