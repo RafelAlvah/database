@@ -680,7 +680,7 @@
     },
     {
       "cmd": "Ttc",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -1034,7 +1034,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 334
+      "totalcmd": 335
     }
   ],
   "clearchat": [],
@@ -96628,7 +96628,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 430,
-      "hit": 8322,
+      "hit": 8323,
       "date": "3 Januari 2025",
       "money": 1038886,
       "exp": 113219,
@@ -96648,9 +96648,9 @@
       "pasangan": "6281399940982@s.whatsapp.net",
       "age": 19,
       "regTime": 1735937139204,
-      "afk": 1738216566971,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "lanjut gawe lagi 🗿",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
