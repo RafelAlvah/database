@@ -715,7 +715,7 @@
     {
       "cmd": "Menu",
       "succes": 7,
-      "failed": 1
+      "failed": 2
     },
     {
       "cmd": "Linkgc",
@@ -964,7 +964,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 242
+      "totalcmd": 243
     }
   ],
   "clearchat": [],
@@ -976,7 +976,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2245,
+      "hit": 2246,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
