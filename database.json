@@ -797,7 +797,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -1132,7 +1132,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 866
+      "totalcmd": 867
     }
   ],
   "clearchat": [],
@@ -160642,7 +160642,7 @@
       "autolevelup": false,
       "serial": "BDUJ",
       "glimit": 30,
-      "hit": 6,
+      "hit": 7,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
