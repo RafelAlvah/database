@@ -961,6 +961,11 @@
       "cmd": "Craft",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Mining",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -993,7 +998,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 276
+      "totalcmd": 277
     }
   ],
   "clearchat": [],
@@ -101618,7 +101623,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 549,
-      "hit": 647,
+      "hit": 648,
       "date": "4 Januari 2025",
       "money": 6995922,
       "exp": 11845,
