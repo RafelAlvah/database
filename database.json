@@ -667,7 +667,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 39,
+      "succes": 40,
       "failed": 0
     },
     {
@@ -847,7 +847,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 834
+      "totalcmd": 836
     }
   ],
   "clearchat": [],
@@ -19862,10 +19862,10 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 5,
-      "hit": 4557,
+      "hit": 4558,
       "date": "20 Desember 2024",
-      "money": 6463333,
-      "exp": 50836,
+      "money": 6763333,
+      "exp": 52836,
       "limit": 400,
       "speed": 3,
       "strength": 5,
@@ -19896,8 +19896,8 @@
       "atm": 1,
       "fullatm": 500000000,
       "bank": 207517306,
-      "health": 100,
-      "stamina": 115,
+      "health": 20,
+      "stamina": 75,
       "potion": 7,
       "wine": 0,
       "beer": 0,
@@ -19959,7 +19959,7 @@
       "pizza": 0,
       "lastadventure": 0,
       "lastkill": 0,
-      "lastmisi": 1738236561978,
+      "lastmisi": 1738242840623,
       "lastdungeon": 0,
       "lastwar": 0,
       "lastsdate": 0,
@@ -20034,7 +20034,7 @@
       "timeEnd": "",
       "lastkerja": 1738236526929,
       "lastparming": 1738242823068,
-      "rokets": 89,
+      "rokets": 90,
       "lastmulung": 1738242807864,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
@@ -66719,8 +66719,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "D1Q8",
-      "glimit": 438,
-      "hit": 802,
+      "glimit": 437,
+      "hit": 803,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
