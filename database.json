@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 22,
+      "succes": 23,
       "failed": 1
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 739
+      "totalcmd": 740
     }
   ],
   "clearchat": [],
@@ -66688,7 +66688,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 439,
-      "hit": 800,
+      "hit": 801,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -66716,7 +66716,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 5726054,
+      "balance": 5727054,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
