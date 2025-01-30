@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 14,
+      "succes": 15,
       "failed": 1
     },
     {
@@ -1065,7 +1065,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 547
+      "totalcmd": 548
     }
   ],
   "clearchat": [],
@@ -4140,7 +4140,7 @@
       "autolevelup": false,
       "serial": "DZ3A",
       "glimit": 22,
-      "hit": 77,
+      "hit": 78,
       "date": "16 Desember 2024",
       "money": 3000,
       "exp": 19994,
@@ -153467,9 +153467,9 @@
       "pasangan": "",
       "age": -1,
       "regTime": -1,
-      "afk": 1738162712254,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "kemana mana hatiku senang",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
