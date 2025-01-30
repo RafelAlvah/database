@@ -1191,7 +1191,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 1085
+      "totalcmd": 1086
     }
   ],
   "clearchat": [],
@@ -1223,9 +1223,9 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1738085212121,
-      "afk": 1738251550639,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "turu",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -96785,7 +96785,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8397,
+      "hit": 8398,
       "date": "3 Januari 2025",
       "money": 0,
       "exp": 7319,
