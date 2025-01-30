@@ -655,13 +655,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287822381511",
-      "expired": 1738214635881
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -870,7 +864,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -994,7 +988,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 274
+      "totalcmd": 275
     }
   ],
   "clearchat": [],
@@ -96588,7 +96582,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8294,
+      "hit": 8295,
       "date": "3 Januari 2025",
       "money": 4690573,
       "exp": 113219,
