@@ -1101,7 +1101,7 @@
     },
     {
       "cmd": "Pin",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -1191,7 +1191,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 1087
+      "totalcmd": 1088
     }
   ],
   "clearchat": [],
@@ -14234,7 +14234,7 @@
       "autolevelup": false,
       "serial": "B8RP",
       "glimit": 304,
-      "hit": 109,
+      "hit": 110,
       "date": "19 Desember 2024",
       "money": 3000,
       "exp": 1997,
