@@ -614,7 +614,8 @@
     "Menu-info",
     "Menu-ephoto",
     "Glitchtext",
-    "Gremory"
+    "Gremory",
+    "Menu-fun"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -713,7 +714,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 28,
+      "succes": 29,
       "failed": 1
     },
     {
@@ -1140,6 +1141,11 @@
       "cmd": "Gremory",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu-fun",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1163,7 +1169,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 1001
+      "totalcmd": 1003
     }
   ],
   "clearchat": [],
@@ -1175,7 +1181,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2315,
+      "hit": 2316,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -122337,7 +122343,7 @@
       "autolevelup": false,
       "serial": "DY0Q",
       "glimit": 233,
-      "hit": 255,
+      "hit": 256,
       "date": "11 Januari 2025",
       "money": 1000,
       "exp": 0,
