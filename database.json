@@ -1109,6 +1109,11 @@
       "cmd": "Husbu",
       "succes": 7,
       "failed": 0
+    },
+    {
+      "cmd": "Kick",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1132,7 +1137,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 944
+      "totalcmd": 945
     }
   ],
   "clearchat": [],
@@ -1144,7 +1149,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2311,
+      "hit": 2312,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
