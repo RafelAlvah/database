@@ -610,7 +610,8 @@
     "Menu-downloader",
     "Morningg",
     "Bratvideo",
-    "Bh"
+    "Bh",
+    "Menu-info"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1034,7 +1035,7 @@
     },
     {
       "cmd": "Menu-info",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     }
   ],
@@ -1064,7 +1065,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 478
+      "totalcmd": 479
     }
   ],
   "clearchat": [],
@@ -1076,7 +1077,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -19,
-      "hit": 2276,
+      "hit": 2277,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
