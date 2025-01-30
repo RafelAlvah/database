@@ -788,6 +788,11 @@
       "cmd": "Weekly",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Ytmp3",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -816,7 +821,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 56
+      "totalcmd": 57
     }
   ],
   "clearchat": [],
@@ -53384,11 +53389,11 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14503,
-      "hit": 2431,
+      "hit": 2432,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
-      "limit": 10265,
+      "limit": 10264,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -53412,7 +53417,7 @@
       "warning": 0,
       "level": 9,
       "role": "Beginner",
-      "balance": 14065185,
+      "balance": 14066185,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
