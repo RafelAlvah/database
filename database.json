@@ -655,7 +655,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6287822381511",
+      "expired": 1738214426997
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -924,7 +930,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -978,7 +984,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 269
+      "totalcmd": 270
     }
   ],
   "clearchat": [],
@@ -101602,8 +101608,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "Y0X4",
-      "glimit": 550,
-      "hit": 645,
+      "glimit": 549,
+      "hit": 646,
       "date": "4 Januari 2025",
       "money": 6995922,
       "exp": 11845,
