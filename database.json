@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 737
+      "totalcmd": 738
     }
   ],
   "clearchat": [],
@@ -103491,7 +103491,7 @@
       "autolevelup": false,
       "serial": "D8EG",
       "glimit": 30,
-      "hit": 94,
+      "hit": 95,
       "date": "5 Januari 2025",
       "money": 1000,
       "exp": 0,
@@ -103519,7 +103519,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 8500,
+      "balance": 9500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
