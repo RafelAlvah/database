@@ -865,7 +865,7 @@
     },
     {
       "cmd": "Money",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 1012
+      "totalcmd": 1013
     }
   ],
   "clearchat": [],
@@ -96769,7 +96769,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8392,
+      "hit": 8393,
       "date": "3 Januari 2025",
       "money": 0,
       "exp": 7319,
