@@ -609,7 +609,8 @@
     "Info-menu",
     "Menu-converter",
     "Menu-downloader",
-    "Morningg"
+    "Morningg",
+    "Bratvideo"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -900,6 +901,11 @@
       "cmd": "Claim",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Bratvideo",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -923,7 +929,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 219
+      "totalcmd": 220
     }
   ],
   "clearchat": [],
@@ -149389,7 +149395,7 @@
       "autolevelup": false,
       "serial": "DJQV",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
