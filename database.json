@@ -830,7 +830,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 14,
+      "succes": 15,
       "failed": 0
     },
     {
@@ -1058,7 +1058,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 382
+      "totalcmd": 383
     }
   ],
   "clearchat": [],
@@ -80993,7 +80993,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 1498023,
+      "balance": 1499023,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -158602,9 +158602,9 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 60,
-      "hit": 638,
+      "hit": 639,
       "date": "28 Januari 2025",
-      "money": 2133146,
+      "money": 2239689,
       "exp": 46863,
       "limit": 122,
       "speed": 0,
@@ -158772,7 +158772,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738162689602,
+      "lastkerja": 1738219302938,
       "lastparming": 1738145351336,
       "sampah": 50,
       "kayu": 85,
