@@ -924,7 +924,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -954,7 +954,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 239
+      "totalcmd": 240
     }
   ],
   "clearchat": [],
@@ -80860,8 +80860,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WQHL",
-      "glimit": 46,
-      "hit": 370,
+      "glimit": 45,
+      "hit": 371,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
