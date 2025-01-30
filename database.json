@@ -713,6 +713,11 @@
       "cmd": "Pin",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Bratvideo",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -741,7 +746,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 28
+      "totalcmd": 29
     }
   ],
   "clearchat": [],
@@ -146348,7 +146353,7 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 29,
-      "hit": 157,
+      "hit": 158,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
