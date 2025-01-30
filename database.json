@@ -1047,6 +1047,11 @@
       "cmd": "Tiktok",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Jadianime",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1070,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 554
+      "totalcmd": 555
     }
   ],
   "clearchat": [],
@@ -57748,7 +57753,7 @@
       "autolevelup": false,
       "serial": "I2O9",
       "glimit": -12,
-      "hit": 411,
+      "hit": 412,
       "date": "24 Desember 2024",
       "money": 32341042,
       "exp": 103,
