@@ -725,7 +725,7 @@
     },
     {
       "cmd": "Tebakbendera",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 595
+      "totalcmd": 596
     }
   ],
   "clearchat": [],
@@ -75066,7 +75066,7 @@
       "autolevelup": false,
       "serial": "CXH5",
       "glimit": 1155,
-      "hit": 895,
+      "hit": 896,
       "date": "27 Desember 2024",
       "money": 4944576,
       "exp": 36493,
@@ -96671,7 +96671,7 @@
       "glimit": 427,
       "hit": 8329,
       "date": "3 Januari 2025",
-      "money": 1237314,
+      "money": 1240812,
       "exp": 113319,
       "limit": 371,
       "speed": 5,
@@ -96710,7 +96710,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 2999,
+      "wood": 3026,
       "rock": 4,
       "string": 5,
       "petfood": 0,
@@ -96847,7 +96847,7 @@
       "emas": "undefined60",
       "tiketcoin": "undefined60",
       "lastnambang": 1736243261278,
-      "lastparming": 1738214170649,
+      "lastparming": 1738234548177,
       "lastmulung": 1738214174855,
       "rokets": 123,
       "sampah": 451,
