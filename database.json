@@ -804,7 +804,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -946,6 +946,11 @@
       "cmd": "Putus",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tarik",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -978,7 +983,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 270
+      "totalcmd": 272
     }
   ],
   "clearchat": [],
@@ -75334,7 +75339,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 747,
+      "hit": 748,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
@@ -96572,9 +96577,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8291,
+      "hit": 8292,
       "date": "3 Januari 2025",
-      "money": 4690573,
+      "money": 34690573,
       "exp": 113219,
       "limit": 371,
       "speed": 5,
@@ -96605,7 +96610,7 @@
       "chip": 650,
       "atm": 3,
       "fullatm": 1000000000,
-      "bank": 30000000,
+      "bank": 0,
       "health": 20,
       "stamina": 45,
       "potion": 8,
