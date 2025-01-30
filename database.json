@@ -655,7 +655,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6287822381511",
+      "expired": 1738215137801
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -96604,7 +96610,7 @@
       "glimit": 436,
       "hit": 8312,
       "date": "3 Januari 2025",
-      "money": 990573,
+      "money": 1038886,
       "exp": 113219,
       "limit": 371,
       "speed": 5,
@@ -96772,7 +96778,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738214154592,
+      "lastkerja": 1738215134385,
       "lastmaling": 1738165909196,
       "clay": "undefined1940",
       "sand": "undefined550",
