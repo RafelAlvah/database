@@ -1058,6 +1058,10 @@
     {
       "error": "groupMetadata is not defined",
       "cmd": "linkgc"
+    },
+    {
+      "error": "item-not-found",
+      "cmd": "infogc"
     }
   ],
   "jadibot": {},
