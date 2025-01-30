@@ -795,7 +795,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1035,7 +1035,7 @@
     },
     {
       "cmd": "Menu-info",
-      "succes": 7,
+      "succes": 8,
       "failed": 1
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 755
+      "totalcmd": 757
     }
   ],
   "clearchat": [],
@@ -157373,7 +157373,7 @@
       "autolevelup": false,
       "serial": "QRFF",
       "glimit": 30,
-      "hit": 17,
+      "hit": 18,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
@@ -181945,7 +181945,7 @@
       "autolevelup": false,
       "serial": "JHVD",
       "glimit": 30,
-      "hit": 15,
+      "hit": 16,
       "date": "29 Januari 2025",
       "money": 0,
       "exp": 0,
