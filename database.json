@@ -1114,6 +1114,11 @@
       "cmd": "Kick",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Topbalance",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1137,7 +1142,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 954
+      "totalcmd": 955
     }
   ],
   "clearchat": [],
@@ -22048,7 +22053,7 @@
       "autolevelup": false,
       "serial": "JSXV",
       "glimit": 2025,
-      "hit": 845,
+      "hit": 846,
       "date": "21 Desember 2024",
       "money": 1536635,
       "exp": 43506,
