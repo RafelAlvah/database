@@ -1045,7 +1045,7 @@
     },
     {
       "cmd": "Tiktok",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 690
+      "totalcmd": 691
     }
   ],
   "clearchat": [],
@@ -58823,11 +58823,11 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 204,
-      "hit": 472,
+      "hit": 473,
       "date": "24 Desember 2024",
       "money": 1720736,
       "exp": 33683,
-      "limit": 122,
+      "limit": 121,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -58851,7 +58851,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 2072900,
+      "balance": 2073900,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
