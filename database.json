@@ -612,7 +612,8 @@
     "Bratvideo",
     "Bh",
     "Menu-info",
-    "Menu-ephoto"
+    "Menu-ephoto",
+    "Glitchtext"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1078,6 +1079,11 @@
       "cmd": "Logomaker",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Glitchtext",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1101,7 +1107,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 820
+      "totalcmd": 821
     }
   ],
   "clearchat": [],
@@ -1113,7 +1119,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2307,
+      "hit": 2308,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
