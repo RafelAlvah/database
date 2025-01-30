@@ -1107,7 +1107,7 @@
     },
     {
       "cmd": "Husbu",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -1147,7 +1147,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 979
+      "totalcmd": 980
     }
   ],
   "clearchat": [],
@@ -114802,7 +114802,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1525,
+      "hit": 1526,
       "date": "7 Januari 2025",
       "money": 5440898,
       "exp": 33185,
