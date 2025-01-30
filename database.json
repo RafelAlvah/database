@@ -936,6 +936,11 @@
       "cmd": "Restart",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Lirik",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -968,7 +973,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 248
+      "totalcmd": 249
     }
   ],
   "clearchat": [],
@@ -67827,7 +67832,7 @@
       "autolevelup": false,
       "serial": "38UR",
       "glimit": 30,
-      "hit": 79,
+      "hit": 80,
       "date": "25 Desember 2024",
       "money": 1000,
       "exp": 0,
