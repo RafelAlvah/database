@@ -670,7 +670,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1058,7 +1058,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 399
+      "totalcmd": 400
     }
   ],
   "clearchat": [],
@@ -1070,7 +1070,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -19,
-      "hit": 2257,
+      "hit": 2258,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -1090,9 +1090,9 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1738085212121,
-      "afk": 1738219771460,
+      "afk": 1738219836383,
       "unreg": true,
-      "afkReason": "tes",
+      "afkReason": "pe",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -120299,7 +120299,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2656668,
+      "balance": 2657668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
