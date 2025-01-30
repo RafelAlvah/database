@@ -845,7 +845,7 @@
     },
     {
       "cmd": "Openbo",
-      "succes": 15,
+      "succes": 16,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 596
+      "totalcmd": 597
     }
   ],
   "clearchat": [],
@@ -75065,7 +75065,7 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "CXH5",
-      "glimit": 1155,
+      "glimit": 1154,
       "hit": 896,
       "date": "27 Desember 2024",
       "money": 4944576,
@@ -96669,7 +96669,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 427,
-      "hit": 8329,
+      "hit": 8330,
       "date": "3 Januari 2025",
       "money": 1240812,
       "exp": 113319,
