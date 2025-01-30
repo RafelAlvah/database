@@ -662,7 +662,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6285774393019",
+      "expired": 1738253448566
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Tt",
