@@ -666,7 +666,7 @@
   "dashboard": [
     {
       "cmd": "Me",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -776,7 +776,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 44
+      "totalcmd": 45
     }
   ],
   "clearchat": [],
@@ -80683,7 +80683,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 33,
-      "hit": 395,
+      "hit": 396,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
