@@ -715,7 +715,7 @@
     {
       "cmd": "Menu",
       "succes": 7,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Linkgc",
@@ -938,7 +938,12 @@
       "failed": 0
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "Cannot find module '../../lib/premium'\nRequire stack:\n- /home/container/plugins/menu.js\n- /home/container/main.js",
+      "cmd": "menu"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -959,7 +964,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 241
+      "totalcmd": 242
     }
   ],
   "clearchat": [],
@@ -971,7 +976,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2244,
+      "hit": 2245,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
