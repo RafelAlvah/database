@@ -755,7 +755,7 @@
     },
     {
       "cmd": "Ytmp4",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 710
+      "totalcmd": 711
     }
   ],
   "clearchat": [],
@@ -67934,7 +67934,7 @@
       "autolevelup": false,
       "serial": "38UR",
       "glimit": 30,
-      "hit": 109,
+      "hit": 110,
       "date": "25 Desember 2024",
       "money": 1000,
       "exp": 0,
