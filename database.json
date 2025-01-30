@@ -822,7 +822,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -1137,7 +1137,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 948
+      "totalcmd": 949
     }
   ],
   "clearchat": [],
@@ -96733,7 +96733,7 @@
       "glimit": 408,
       "hit": 8385,
       "date": "3 Januari 2025",
-      "money": 2921439,
+      "money": 2917732,
       "exp": 7319,
       "limit": 371,
       "speed": 5,
@@ -101762,9 +101762,9 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 554,
-      "hit": 660,
+      "hit": 661,
       "date": "4 Januari 2025",
-      "money": 6786600,
+      "money": 6790307,
       "exp": 11945,
       "limit": 58,
       "speed": 0,
@@ -101871,7 +101871,7 @@
       "lastdagang": 1738159411999,
       "lasthourly": 0,
       "lastbansos": 1737524186438,
-      "lastrampok": 1738240618622,
+      "lastrampok": 1738248379754,
       "lastclaim": 1738240597703,
       "lastnebang": 0,
       "lastweekly": 1737782916436,
