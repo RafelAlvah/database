@@ -746,7 +746,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -776,7 +776,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 41
+      "totalcmd": 42
     }
   ],
   "clearchat": [],
@@ -14716,7 +14716,7 @@
       "autolevelup": false,
       "serial": "EWQK",
       "glimit": 30,
-      "hit": 22,
+      "hit": 23,
       "date": "19 Desember 2024",
       "money": 1000,
       "exp": 0,
