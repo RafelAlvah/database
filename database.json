@@ -800,7 +800,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 41,
+      "succes": 42,
       "failed": 0
     },
     {
@@ -1005,7 +1005,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 733
+      "totalcmd": 735
     }
   ],
   "clearchat": [],
@@ -159694,8 +159694,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "XHN2",
-      "glimit": 27,
-      "hit": 4,
+      "glimit": 26,
+      "hit": 6,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
