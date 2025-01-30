@@ -795,7 +795,7 @@
     },
     {
       "cmd": "Clearallerror",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1039,20 +1039,7 @@
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "Cannot find module '../../lib/premium'\nRequire stack:\n- /home/container/plugins/menu.js\n- /home/container/main.js",
-      "cmd": "menu"
-    },
-    {
-      "error": "Cannot read properties of undefined (reading 'cmd')",
-      "cmd": "menu-info"
-    },
-    {
-      "error": "chalk.purple is not a function",
-      "cmd": "ii"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1073,7 +1060,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 461
+      "totalcmd": 462
     }
   ],
   "clearchat": [],
@@ -1085,7 +1072,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -19,
-      "hit": 2266,
+      "hit": 2267,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
