@@ -715,7 +715,7 @@
     {
       "cmd": "Menu",
       "succes": 7,
-      "failed": 1
+      "failed": 0
     },
     {
       "cmd": "Linkgc",
@@ -934,16 +934,11 @@
     },
     {
       "cmd": "Restart",
-      "succes": 2,
+      "succes": 1,
       "failed": 0
     }
   ],
-  "listerror": [
-    {
-      "error": "Cannot find module '../../lib/premium'\nRequire stack:\n- /home/container/plugins/menu.js\n- /home/container/main.js",
-      "cmd": "menu"
-    }
-  ],
+  "listerror": [],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -964,7 +959,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 243
+      "totalcmd": 241
     }
   ],
   "clearchat": [],
@@ -976,7 +971,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2246,
+      "hit": 2244,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -185909,30 +185904,28 @@
     "restart": {
       "m": {
         "key": {
-          "remoteJid": "120363345100714283@g.us",
+          "remoteJid": "120363183231965676@g.us",
           "fromMe": false,
-          "id": "E80BDBF88A88C63E9A96D74E13C8C813",
+          "id": "A818B6BB9592552BEBA5EB318213649C",
           "participant": "6287737937323@s.whatsapp.net"
         },
         "message": {
           "extendedTextMessage": {
-            "text": ".restart",
+            "text": ".restart bebtar yaah",
             "previewType": "NONE",
             "contextInfo": {
-              "expiration": 86400,
-              "disappearingMode": {
-                "initiator": "CHANGED_IN_CHAT",
-                "trigger": "UNKNOWN"
-              }
+              "mentionedJid": [
+                "false,false@s.whatsapp.net"
+              ]
             },
             "inviteLinkGroupTypeV2": "DEFAULT"
           }
         },
-        "messageTimestamp": "1738210713",
+        "messageTimestamp": "1738210577",
         "broadcast": false,
         "pushName": "«< R >»"
       },
-      "from": "120363345100714283@g.us"
+      "from": "120363183231965676@g.us"
     }
   },
   "respon": {}
