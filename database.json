@@ -655,13 +655,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287822381511",
-      "expired": 1738214954488
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -880,7 +874,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1009,7 +1003,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 289
+      "totalcmd": 290
     }
   ],
   "clearchat": [],
@@ -96603,9 +96597,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8304,
+      "hit": 8305,
       "date": "3 Januari 2025",
-      "money": 7490573,
+      "money": 6290573,
       "exp": 113219,
       "limit": 371,
       "speed": 5,
@@ -96669,7 +96663,7 @@
       "legendary": 0,
       "kondom": 7,
       "umpan": 0,
-      "pet": 0,
+      "pet": 10,
       "paus": 0,
       "kepiting": 0,
       "gurita": 0,
