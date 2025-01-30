@@ -935,7 +935,7 @@
     },
     {
       "cmd": "Lirik",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 696
+      "totalcmd": 697
     }
   ],
   "clearchat": [],
@@ -67934,7 +67934,7 @@
       "autolevelup": false,
       "serial": "38UR",
       "glimit": 30,
-      "hit": 106,
+      "hit": 107,
       "date": "25 Desember 2024",
       "money": 1000,
       "exp": 0,
@@ -120316,7 +120316,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2733668,
+      "balance": 2734668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
