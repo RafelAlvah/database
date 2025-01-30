@@ -670,7 +670,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -805,7 +805,7 @@
     },
     {
       "cmd": "Me",
-      "succes": 29,
+      "succes": 30,
       "failed": 0
     },
     {
@@ -1085,7 +1085,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 811
+      "totalcmd": 813
     }
   ],
   "clearchat": [],
@@ -19840,7 +19840,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 5,
-      "hit": 4551,
+      "hit": 4552,
       "date": "20 Desember 2024",
       "money": 6422500,
       "exp": 50836,
@@ -19860,9 +19860,9 @@
       "pasangan": "",
       "age": 17,
       "regTime": 1737899071519,
-      "afk": -1,
+      "afk": 1738242577454,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "ngerjain sunnah rasul",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -36137,7 +36137,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 4032,
+      "hit": 4033,
       "date": "22 Desember 2024",
       "money": 1289546,
       "exp": 3333,
