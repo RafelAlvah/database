@@ -743,6 +743,11 @@
       "cmd": "Tweetc",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tt",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -771,7 +776,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 40
+      "totalcmd": 41
     }
   ],
   "clearchat": [],
@@ -14711,11 +14716,11 @@
       "autolevelup": false,
       "serial": "EWQK",
       "glimit": 30,
-      "hit": 21,
+      "hit": 22,
       "date": "19 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 18,
+      "limit": 17,
       "speed": 0,
       "strength": 0,
       "defense": 0,
