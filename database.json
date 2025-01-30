@@ -712,7 +712,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 25,
+      "succes": 26,
       "failed": 1
     },
     {
@@ -1037,7 +1037,7 @@
     },
     {
       "cmd": "Menu-info",
-      "succes": 8,
+      "succes": 9,
       "failed": 1
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 825
+      "totalcmd": 827
     }
   ],
   "clearchat": [],
@@ -1119,7 +1119,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2308,
+      "hit": 2309,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -176815,7 +176815,7 @@
       "autolevelup": false,
       "serial": "94IW",
       "glimit": 30,
-      "hit": 7,
+      "hit": 8,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
