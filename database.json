@@ -593,7 +593,6 @@
     "Search",
     "Menu",
     "Creator",
-    "Menu-info",
     "Qc2",
     "Addimage",
     "Pesan-owner",
@@ -697,11 +696,6 @@
       "cmd": "Qc2",
       "succes": 1,
       "failed": 0
-    },
-    {
-      "cmd": "Menu-info",
-      "succes": 7,
-      "failed": 6
     },
     {
       "cmd": "Bratvid",
@@ -1037,9 +1031,19 @@
       "cmd": "Listerror",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu-info",
+      "succes": 0,
+      "failed": 1
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "Cannot read properties of undefined (reading 'cmd')",
+      "cmd": "menu-info"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1060,7 +1064,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 470
+      "totalcmd": 471
     }
   ],
   "clearchat": [],
@@ -1072,7 +1076,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -19,
-      "hit": 2271,
+      "hit": 2272,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
