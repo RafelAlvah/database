@@ -921,6 +921,11 @@
       "cmd": "Buyglimit",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Family100",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -944,7 +949,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 231
+      "totalcmd": 232
     }
   ],
   "clearchat": [],
@@ -80850,8 +80855,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WQHL",
-      "glimit": 50,
-      "hit": 365,
+      "glimit": 49,
+      "hit": 366,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
