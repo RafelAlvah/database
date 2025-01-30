@@ -875,6 +875,11 @@
       "cmd": "Buy",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Givesaldo",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -898,7 +903,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 167
+      "totalcmd": 168
     }
   ],
   "clearchat": [],
@@ -184082,7 +184087,7 @@
       "autolevelup": false,
       "serial": "IQF6",
       "glimit": 30,
-      "hit": 6,
+      "hit": 7,
       "date": "29 Januari 2025",
       "money": 0,
       "exp": 0,
