@@ -810,7 +810,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 637
+      "totalcmd": 638
     }
   ],
   "clearchat": [],
@@ -58823,7 +58823,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 217,
-      "hit": 456,
+      "hit": 457,
       "date": "24 Desember 2024",
       "money": 1720736,
       "exp": 33683,
@@ -96704,7 +96704,7 @@
       "fullatm": 1000000000,
       "bank": 5000000,
       "health": 100,
-      "stamina": 110,
+      "stamina": 100,
       "potion": 1,
       "wine": 0,
       "beer": 0,
