@@ -820,6 +820,11 @@
       "cmd": "Morningg",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Merampok",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -843,7 +848,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 120
+      "totalcmd": 121
     }
   ],
   "clearchat": [],
@@ -96439,7 +96444,7 @@
       "glimit": 436,
       "hit": 8255,
       "date": "3 Januari 2025",
-      "money": 3497111,
+      "money": 3451701,
       "exp": 107119,
       "limit": 371,
       "speed": 5,
@@ -101468,9 +101473,9 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 550,
-      "hit": 637,
+      "hit": 638,
       "date": "4 Januari 2025",
-      "money": 6779081,
+      "money": 6824491,
       "exp": 11745,
       "limit": 54,
       "speed": 0,
@@ -101488,9 +101493,9 @@
       "pasangan": "6283831373430@s.whatsapp.net",
       "age": 11,
       "regTime": 1736049306523,
-      "afk": 1738161181915,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "scroll",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -101577,7 +101582,7 @@
       "lastdagang": 1738159411999,
       "lasthourly": 0,
       "lastbansos": 1737524186438,
-      "lastrampok": 1737613949084,
+      "lastrampok": 1738199088737,
       "lastclaim": 1738153264997,
       "lastnebang": 0,
       "lastweekly": 1737782916436,
