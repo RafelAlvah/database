@@ -718,6 +718,11 @@
       "cmd": "Bratvideo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Brat2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -746,7 +751,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 29
+      "totalcmd": 30
     }
   ],
   "clearchat": [],
@@ -96340,7 +96345,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8399,
+      "hit": 8400,
       "date": "3 Januari 2025",
       "money": 0,
       "exp": 7319,
