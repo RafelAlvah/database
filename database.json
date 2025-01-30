@@ -672,7 +672,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 42,
+      "succes": 43,
       "failed": 0
     },
     {
@@ -1142,7 +1142,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 956
+      "totalcmd": 957
     }
   ],
   "clearchat": [],
@@ -101767,7 +101767,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 554,
-      "hit": 662,
+      "hit": 663,
       "date": "4 Januari 2025",
       "money": 6691458,
       "exp": 11945,
@@ -101787,9 +101787,9 @@
       "pasangan": "6283831373430@s.whatsapp.net",
       "age": 11,
       "regTime": 1736049306523,
-      "afk": -1,
+      "afk": 1738248784869,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "molor",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
