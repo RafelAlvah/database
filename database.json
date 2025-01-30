@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 23,
+      "succes": 24,
       "failed": 1
     },
     {
@@ -1085,7 +1085,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 780
+      "totalcmd": 782
     }
   ],
   "clearchat": [],
@@ -36137,7 +36137,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 4028,
+      "hit": 4029,
       "date": "22 Desember 2024",
       "money": 1289546,
       "exp": 3333,
@@ -101710,7 +101710,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 549,
-      "hit": 655,
+      "hit": 656,
       "date": "4 Januari 2025",
       "money": 6786600,
       "exp": 11945,
