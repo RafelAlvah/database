@@ -798,7 +798,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -913,7 +913,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 188
+      "totalcmd": 189
     }
   ],
   "clearchat": [],
@@ -181249,7 +181249,7 @@
       "autolevelup": false,
       "serial": "N49W",
       "glimit": 30,
-      "hit": 16,
+      "hit": 17,
       "date": "29 Januari 2025",
       "money": 1000,
       "exp": 0,
