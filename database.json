@@ -1107,7 +1107,7 @@
     },
     {
       "cmd": "Husbu",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1132,7 +1132,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 864
+      "totalcmd": 865
     }
   ],
   "clearchat": [],
@@ -19887,7 +19887,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 5,
-      "hit": 4561,
+      "hit": 4562,
       "date": "20 Desember 2024",
       "money": 6763333,
       "exp": 52836,
