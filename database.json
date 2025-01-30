@@ -669,7 +669,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -949,7 +949,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 234
+      "totalcmd": 235
     }
   ],
   "clearchat": [],
@@ -99429,7 +99429,7 @@
       "autolevelup": false,
       "serial": "RYZ8",
       "glimit": 64,
-      "hit": 118,
+      "hit": 119,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
@@ -99449,15 +99449,15 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1738087840099,
-      "afk": -1,
+      "afk": 1738209977972,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "ee bot e",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
       "level": 3,
       "role": "Beginner",
-      "balance": 152100,
+      "balance": 153100,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
