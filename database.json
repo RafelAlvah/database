@@ -691,7 +691,7 @@
     },
     {
       "cmd": "Ttsanime",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -721,7 +721,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 10
+      "totalcmd": 11
     }
   ],
   "clearchat": [],
@@ -146328,11 +146328,11 @@
       "autolevelup": false,
       "serial": "PQEN",
       "glimit": 29,
-      "hit": 156,
+      "hit": 157,
       "date": "27 Januari 2025",
       "money": 1000,
       "exp": 0,
-      "limit": 24,
+      "limit": 23,
       "speed": 0,
       "strength": 0,
       "defense": 0,
