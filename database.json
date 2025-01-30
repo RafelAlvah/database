@@ -812,7 +812,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1132,7 +1132,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 861
+      "totalcmd": 862
     }
   ],
   "clearchat": [],
@@ -19887,7 +19887,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 5,
-      "hit": 4560,
+      "hit": 4561,
       "date": "20 Desember 2024",
       "money": 6763333,
       "exp": 52836,
