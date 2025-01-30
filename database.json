@@ -909,7 +909,7 @@
     },
     {
       "cmd": "Limit",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -939,7 +939,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 226
+      "totalcmd": 227
     }
   ],
   "clearchat": [],
@@ -99419,7 +99419,7 @@
       "autolevelup": false,
       "serial": "RYZ8",
       "glimit": 64,
-      "hit": 115,
+      "hit": 116,
       "date": "3 Januari 2025",
       "money": 6000,
       "exp": 4997,
