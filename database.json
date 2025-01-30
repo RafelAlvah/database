@@ -808,6 +808,11 @@
       "cmd": "Ss",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "S",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -836,7 +841,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 67
+      "totalcmd": 68
     }
   ],
   "clearchat": [],
@@ -114491,7 +114496,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1548,
+      "hit": 1549,
       "date": "7 Januari 2025",
       "money": 5561451,
       "exp": 33185,
