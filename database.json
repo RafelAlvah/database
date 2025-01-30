@@ -926,6 +926,11 @@
       "cmd": "Family100",
       "succes": 4,
       "failed": 0
+    },
+    {
+      "cmd": "S",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -949,7 +954,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 237
+      "totalcmd": 238
     }
   ],
   "clearchat": [],
@@ -157959,7 +157964,7 @@
       "autolevelup": false,
       "serial": "UXEZ",
       "glimit": 30,
-      "hit": 19,
+      "hit": 20,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
