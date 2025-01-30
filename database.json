@@ -655,7 +655,13 @@
     }
   ],
   "sewa": [],
-  "antispam": [],
+  "antispam": [
+    {
+      "name": "NotCase",
+      "id": "6287737937323",
+      "expired": 1738212648816
+    }
+  ],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -1000,9 +1006,9 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1738085212121,
-      "afk": -1,
+      "afk": 1738212648324,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "makan laper 3 hari lom makan",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
