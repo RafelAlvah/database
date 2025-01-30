@@ -825,6 +825,11 @@
       "cmd": "Merampok",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Kerja",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -848,7 +853,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 121
+      "totalcmd": 122
     }
   ],
   "clearchat": [],
@@ -19603,9 +19608,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 34,
-      "hit": 4475,
+      "hit": 4476,
       "date": "20 Desember 2024",
-      "money": 4984733,
+      "money": 4988591,
       "exp": 42836,
       "limit": 400,
       "speed": 3,
@@ -19623,9 +19628,9 @@
       "pasangan": "",
       "age": 17,
       "regTime": 1737899071519,
-      "afk": 1738154499798,
+      "afk": -1,
       "unreg": true,
-      "afkReason": "bobo",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -19773,7 +19778,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738153351329,
+      "lastkerja": 1738199116515,
       "lastparming": 1738153362274,
       "rokets": 85,
       "lastmulung": 1738152324423,
