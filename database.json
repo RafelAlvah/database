@@ -1107,7 +1107,7 @@
     },
     {
       "cmd": "Husbu",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     }
   ],
@@ -1132,7 +1132,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 867
+      "totalcmd": 868
     }
   ],
   "clearchat": [],
@@ -80674,7 +80674,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3143,
-      "hit": 2403,
+      "hit": 2404,
       "date": "30 Desember 2024",
       "money": 1449285,
       "exp": 0,
