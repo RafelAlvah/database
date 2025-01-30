@@ -813,6 +813,11 @@
       "cmd": "S",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Togif",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -841,7 +846,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 69
+      "totalcmd": 70
     }
   ],
   "clearchat": [],
@@ -114496,7 +114501,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1550,
+      "hit": 1551,
       "date": "7 Januari 2025",
       "money": 5561451,
       "exp": 33185,
