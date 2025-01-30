@@ -1040,7 +1040,7 @@
     },
     {
       "cmd": "Setreply",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1070,7 +1070,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 481
+      "totalcmd": 482
     }
   ],
   "clearchat": [],
@@ -1082,7 +1082,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -19,
-      "hit": 2278,
+      "hit": 2279,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
