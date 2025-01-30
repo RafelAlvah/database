@@ -720,7 +720,7 @@
     },
     {
       "cmd": "Ytmp3",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 746
+      "totalcmd": 747
     }
   ],
   "clearchat": [],
@@ -7354,11 +7354,11 @@
       "autolevelup": false,
       "serial": "ROUP",
       "glimit": 29,
-      "hit": 41,
+      "hit": 42,
       "date": "17 Desember 2024",
       "money": 1000,
       "exp": 0,
-      "limit": 1,
+      "limit": 0,
       "speed": 0,
       "strength": 0,
       "defense": 0,
@@ -7382,7 +7382,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 2500,
+      "balance": 3500,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
