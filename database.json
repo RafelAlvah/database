@@ -865,7 +865,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 689
+      "totalcmd": 690
     }
   ],
   "clearchat": [],
@@ -19830,7 +19830,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 5,
-      "hit": 4545,
+      "hit": 4546,
       "date": "20 Desember 2024",
       "money": 6422500,
       "exp": 50836,
@@ -19858,7 +19858,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 80110000,
+      "balance": 79111000,
       "skillexp": 0,
       "chip": 101,
       "atm": 1,
@@ -36155,7 +36155,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 123456789,
+      "balance": 124456789,
       "skillexp": 0,
       "chip": 50,
       "atm": 5,
@@ -120316,7 +120316,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2732668,
+      "balance": 2733668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
