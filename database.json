@@ -671,7 +671,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -692,6 +692,11 @@
     {
       "cmd": "Ttsanime",
       "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "Afk",
+      "succes": 1,
       "failed": 0
     }
   ],
@@ -721,7 +726,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 11
+      "totalcmd": 13
     }
   ],
   "clearchat": [],
@@ -733,7 +738,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2319,
+      "hit": 2320,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -753,9 +758,9 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1738085212121,
-      "afk": -1,
+      "afk": 1738254647638,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "tidue",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -74712,7 +74717,7 @@
       "autolevelup": false,
       "serial": "CXH5",
       "glimit": 1149,
-      "hit": 904,
+      "hit": 905,
       "date": "27 Desember 2024",
       "money": 4944576,
       "exp": 36493,
