@@ -838,7 +838,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -883,7 +883,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 133
+      "totalcmd": 134
     }
   ],
   "clearchat": [],
@@ -19638,7 +19638,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 34,
-      "hit": 4478,
+      "hit": 4479,
       "date": "20 Desember 2024",
       "money": 4988591,
       "exp": 42836,
