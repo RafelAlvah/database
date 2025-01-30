@@ -1017,6 +1017,11 @@
       "cmd": "Cekkhodam",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Weekly",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1053,7 +1058,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 380
+      "totalcmd": 381
     }
   ],
   "clearchat": [],
@@ -114708,10 +114713,10 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1508,
+      "hit": 1509,
       "date": "7 Januari 2025",
-      "money": 5405232,
-      "exp": 18185,
+      "money": 5441231,
+      "exp": 33185,
       "limit": 1066,
       "speed": 1,
       "strength": 4,
@@ -114744,7 +114749,7 @@
       "bank": 200002,
       "health": 20,
       "stamina": 55,
-      "potion": 44,
+      "potion": 53,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -114820,7 +114825,7 @@
       "lastrampok": 1738050009169,
       "lastclaim": 1738219183324,
       "lastnebang": 0,
-      "lastweekly": 1737416517557,
+      "lastweekly": 1738219209549,
       "lastmonthly": 1736430148902,
       "apel": 0,
       "anggur": 0,
