@@ -1077,7 +1077,7 @@
     },
     {
       "cmd": "Logomaker",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1142,7 +1142,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 970
+      "totalcmd": 971
     }
   ],
   "clearchat": [],
@@ -96736,11 +96736,11 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8390,
+      "hit": 8391,
       "date": "3 Januari 2025",
       "money": 0,
       "exp": 7319,
-      "limit": 371,
+      "limit": 370,
       "speed": 5,
       "strength": 6,
       "defense": 5,
