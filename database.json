@@ -1037,6 +1037,11 @@
       "cmd": "Menu-info",
       "succes": 1,
       "failed": 1
+    },
+    {
+      "cmd": "Setreply",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1065,7 +1070,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 480
+      "totalcmd": 481
     }
   ],
   "clearchat": [],
@@ -1077,7 +1082,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -19,
-      "hit": 2277,
+      "hit": 2278,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
