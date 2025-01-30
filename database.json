@@ -655,13 +655,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287822381511",
-      "expired": 1738214324730
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -830,7 +824,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -984,7 +978,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 264
+      "totalcmd": 265
     }
   ],
   "clearchat": [],
@@ -96580,7 +96574,7 @@
       "glimit": 436,
       "hit": 8290,
       "date": "3 Januari 2025",
-      "money": 4763010,
+      "money": 4690573,
       "exp": 113219,
       "limit": 371,
       "speed": 5,
@@ -101609,9 +101603,9 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 550,
-      "hit": 642,
+      "hit": 643,
       "date": "4 Januari 2025",
-      "money": 6923485,
+      "money": 6995922,
       "exp": 11845,
       "limit": 54,
       "speed": 0,
@@ -101718,7 +101712,7 @@
       "lastdagang": 1738159411999,
       "lasthourly": 0,
       "lastbansos": 1737524186438,
-      "lastrampok": 1738204481709,
+      "lastrampok": 1738214327980,
       "lastclaim": 1738204522181,
       "lastnebang": 0,
       "lastweekly": 1737782916436,
