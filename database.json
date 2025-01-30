@@ -942,6 +942,10 @@
     {
       "error": "Cannot find module '../../lib/premium'\nRequire stack:\n- /home/container/plugins/menu.js\n- /home/container/main.js",
       "cmd": "menu"
+    },
+    {
+      "error": "Cannot read properties of undefined (reading 'cmd')",
+      "cmd": "menu-info"
     }
   ],
   "jadibot": {},
@@ -976,7 +980,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -16,
-      "hit": 2246,
+      "hit": 2247,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
