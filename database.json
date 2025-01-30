@@ -800,7 +800,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 33,
+      "succes": 34,
       "failed": 0
     },
     {
@@ -1080,7 +1080,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 558
+      "totalcmd": 559
     }
   ],
   "clearchat": [],
@@ -160590,7 +160590,7 @@
       "autolevelup": false,
       "serial": "BDUJ",
       "glimit": 30,
-      "hit": 4,
+      "hit": 5,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
