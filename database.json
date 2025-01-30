@@ -683,9 +683,19 @@
       "cmd": "Aigemini",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Upsw",
+      "succes": 0,
+      "failed": 1
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "Cannot read properties of null (reading 'download')",
+      "cmd": "upsw"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -706,7 +716,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 7
+      "totalcmd": 8
     }
   ],
   "clearchat": [],
@@ -718,7 +728,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2318,
+      "hit": 2319,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
