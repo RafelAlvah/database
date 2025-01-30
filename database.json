@@ -753,6 +753,11 @@
       "cmd": "Family100",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Heal",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -781,7 +786,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 46
+      "totalcmd": 47
     }
   ],
   "clearchat": [],
@@ -29006,7 +29011,7 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 816,
+      "hit": 817,
       "date": "22 Desember 2024",
       "money": 3406324,
       "exp": 8911,
@@ -29041,8 +29046,8 @@
       "fullatm": 500000000,
       "bank": 6000000,
       "health": 20,
-      "stamina": 55,
-      "potion": 90,
+      "stamina": 90,
+      "potion": 89,
       "wine": 0,
       "beer": 0,
       "trash": 0,
