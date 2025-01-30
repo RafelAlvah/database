@@ -613,7 +613,8 @@
     "Bh",
     "Menu-info",
     "Menu-ephoto",
-    "Glitchtext"
+    "Glitchtext",
+    "Gremory"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1134,6 +1135,11 @@
       "cmd": "Randomanime",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Gremory",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1157,7 +1163,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 997
+      "totalcmd": 998
     }
   ],
   "clearchat": [],
@@ -114812,7 +114818,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1535,
+      "hit": 1536,
       "date": "7 Januari 2025",
       "money": 5440898,
       "exp": 33185,
