@@ -1005,7 +1005,7 @@
     },
     {
       "cmd": "Del",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1068,7 +1068,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 456
+      "totalcmd": 457
     }
   ],
   "clearchat": [],
@@ -53636,7 +53636,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14503,
-      "hit": 2428,
+      "hit": 2429,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
