@@ -660,12 +660,7 @@
     {
       "name": "NotCase",
       "id": "6287822381511",
-      "expired": 1738215487519
-    },
-    {
-      "name": "NotCase",
-      "id": "6287737937323",
-      "expired": 1738215490073
+      "expired": 1738215492324
     }
   ],
   "dashboard": [
@@ -120276,7 +120271,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 2642668,
+      "balance": 2643668,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
