@@ -1042,6 +1042,11 @@
       "cmd": "Setreply",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Tiktok",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1065,7 +1070,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 548
+      "totalcmd": 549
     }
   ],
   "clearchat": [],
@@ -4140,11 +4145,11 @@
       "autolevelup": false,
       "serial": "DZ3A",
       "glimit": 22,
-      "hit": 78,
+      "hit": 79,
       "date": "16 Desember 2024",
       "money": 3000,
       "exp": 19994,
-      "limit": 22,
+      "limit": 21,
       "speed": 0,
       "strength": 0,
       "defense": 0,
