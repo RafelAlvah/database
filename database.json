@@ -922,7 +922,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 125,
+      "succes": 126,
       "failed": 0
     },
     {
@@ -1137,7 +1137,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 949
+      "totalcmd": 950
     }
   ],
   "clearchat": [],
@@ -97824,8 +97824,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "OYAO",
-      "glimit": 3,
-      "hit": 327,
+      "glimit": 2,
+      "hit": 328,
       "date": "3 Januari 2025",
       "money": 3144300,
       "exp": 22193,
