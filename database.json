@@ -710,7 +710,7 @@
     },
     {
       "cmd": "Menu",
-      "succes": 21,
+      "succes": 22,
       "failed": 1
     },
     {
@@ -800,7 +800,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 40,
+      "succes": 41,
       "failed": 0
     },
     {
@@ -1005,7 +1005,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 16,
+      "succes": 17,
       "failed": 0
     },
     {
@@ -1075,7 +1075,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 724
+      "totalcmd": 727
     }
   ],
   "clearchat": [],
@@ -1087,7 +1087,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2298,
+      "hit": 2299,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -75431,7 +75431,7 @@
       "autolevelup": false,
       "serial": "MSCK",
       "glimit": 469,
-      "hit": 749,
+      "hit": 750,
       "date": "27 Desember 2024",
       "money": 634775,
       "exp": 12286,
@@ -159695,7 +159695,7 @@
       "autolevelup": false,
       "serial": "XHN2",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "28 Januari 2025",
       "money": 0,
       "exp": 0,
