@@ -615,7 +615,8 @@
     "Menu-ephoto",
     "Glitchtext",
     "Gremory",
-    "Menu-fun"
+    "Menu-fun",
+    "Shizuka"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -814,7 +815,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -1146,6 +1147,11 @@
       "cmd": "Menu-fun",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Shizuka",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1169,7 +1175,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 1004
+      "totalcmd": 1006
     }
   ],
   "clearchat": [],
@@ -58917,7 +58923,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 204,
-      "hit": 491,
+      "hit": 492,
       "date": "24 Desember 2024",
       "money": 1720736,
       "exp": 33683,
@@ -114824,7 +114830,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1536,
+      "hit": 1537,
       "date": "7 Januari 2025",
       "money": 5440898,
       "exp": 33185,
