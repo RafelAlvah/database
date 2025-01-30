@@ -716,7 +716,7 @@
     {
       "cmd": "Linkgc",
       "succes": 1,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Ytmp3",
@@ -1054,7 +1054,12 @@
       "failed": 0
     }
   ],
-  "listerror": [],
+  "listerror": [
+    {
+      "error": "groupMetadata is not defined",
+      "cmd": "linkgc"
+    }
+  ],
   "jadibot": {},
   "sticker": {
     ".me": {
@@ -1075,7 +1080,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 555
+      "totalcmd": 556
     }
   ],
   "clearchat": [],
@@ -1087,7 +1092,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -19,
-      "hit": 2293,
+      "hit": 2294,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
