@@ -802,7 +802,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 63,
+      "succes": 64,
       "failed": 0
     },
     {
@@ -1107,7 +1107,7 @@
     },
     {
       "cmd": "Husbu",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     }
   ],
@@ -1132,7 +1132,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 939
+      "totalcmd": 941
     }
   ],
   "clearchat": [],
@@ -58880,7 +58880,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 204,
-      "hit": 483,
+      "hit": 484,
       "date": "24 Desember 2024",
       "money": 1720736,
       "exp": 33683,
@@ -114787,7 +114787,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1519,
+      "hit": 1520,
       "date": "7 Januari 2025",
       "money": 5440898,
       "exp": 33185,
