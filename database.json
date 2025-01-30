@@ -795,7 +795,7 @@
     },
     {
       "cmd": "Hd",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -1080,7 +1080,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 775
+      "totalcmd": 776
     }
   ],
   "clearchat": [],
@@ -153818,7 +153818,7 @@
       "autolevelup": false,
       "serial": "ZA2Z",
       "glimit": 30,
-      "hit": 4,
+      "hit": 5,
       "date": "27 Januari 2025",
       "money": 0,
       "exp": 0,
