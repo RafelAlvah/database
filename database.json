@@ -1124,6 +1124,11 @@
       "cmd": "Simi",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Animeindo",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -1147,7 +1152,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 985
+      "totalcmd": 986
     }
   ],
   "clearchat": [],
@@ -114802,7 +114807,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1528,
+      "hit": 1529,
       "date": "7 Januari 2025",
       "money": 5440898,
       "exp": 33185,
