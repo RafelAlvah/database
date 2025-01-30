@@ -654,13 +654,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287849418422",
-      "expired": 1738200535452
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -886,6 +880,11 @@
       "cmd": "Givesaldo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Spotify",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [],
@@ -909,7 +908,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 173
+      "totalcmd": 174
     }
   ],
   "clearchat": [],
@@ -184093,7 +184092,7 @@
       "autolevelup": false,
       "serial": "IQF6",
       "glimit": 30,
-      "hit": 8,
+      "hit": 9,
       "date": "29 Januari 2025",
       "money": 0,
       "exp": 0,
