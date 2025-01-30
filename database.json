@@ -1022,6 +1022,11 @@
       "cmd": "Weekly",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tweetc2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1058,7 +1063,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 436
+      "totalcmd": 437
     }
   ],
   "clearchat": [],
@@ -53626,7 +53631,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14503,
-      "hit": 2412,
+      "hit": 2413,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
