@@ -769,7 +769,7 @@
     },
     {
       "cmd": "Info-menu",
-      "succes": 7,
+      "succes": 8,
       "failed": 1
     },
     {
@@ -1064,7 +1064,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 473
+      "totalcmd": 474
     }
   ],
   "clearchat": [],
@@ -1076,7 +1076,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -19,
-      "hit": 2272,
+      "hit": 2273,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -1086,7 +1086,7 @@
       "defense": 0,
       "skata": 0,
       "joinlimit": 1,
-      "pc": 1737909374989,
+      "pc": 1738222941710,
       "ojekk": 0,
       "registered": true,
       "name": "Rafel",
