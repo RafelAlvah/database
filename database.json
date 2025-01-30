@@ -803,12 +803,12 @@
     },
     {
       "cmd": "Brat",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
       "cmd": "Me",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -893,7 +893,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 154
+      "totalcmd": 156
     }
   ],
   "clearchat": [],
@@ -96487,7 +96487,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 436,
-      "hit": 8265,
+      "hit": 8266,
       "date": "3 Januari 2025",
       "money": 4336643,
       "exp": 107219,
@@ -184077,7 +184077,7 @@
       "autolevelup": false,
       "serial": "IQF6",
       "glimit": 30,
-      "hit": 4,
+      "hit": 5,
       "date": "29 Januari 2025",
       "money": 0,
       "exp": 0,
