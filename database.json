@@ -656,13 +656,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6285932010577",
-      "expired": 1738237944223
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Tt",
@@ -58857,7 +58851,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 2070900,
+      "balance": 2071900,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
