@@ -783,6 +783,11 @@
       "cmd": "Play",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Weekly",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -811,7 +816,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 54
+      "totalcmd": 55
     }
   ],
   "clearchat": [],
@@ -29036,10 +29041,10 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 822,
+      "hit": 823,
       "date": "22 Desember 2024",
-      "money": 3756324,
-      "exp": 17911,
+      "money": 3792323,
+      "exp": 32911,
       "limit": 79,
       "speed": 0,
       "strength": 0,
@@ -29072,7 +29077,7 @@
       "bank": 6000000,
       "health": 20,
       "stamina": 50,
-      "potion": 87,
+      "potion": 96,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -29148,7 +29153,7 @@
       "lastrampok": 1737622923467,
       "lastclaim": 1737963959078,
       "lastnebang": 0,
-      "lastweekly": 1737412871353,
+      "lastweekly": 1738279134335,
       "lastmonthly": 1736504236117,
       "apel": 0,
       "anggur": 0,
