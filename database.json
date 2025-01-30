@@ -852,7 +852,7 @@
     },
     {
       "cmd": "Heal",
-      "succes": 25,
+      "succes": 26,
       "failed": 0
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "id": "run",
       "expired": 1738253985764,
-      "totalcmd": 832
+      "totalcmd": 833
     }
   ],
   "clearchat": [],
@@ -19862,7 +19862,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 5,
-      "hit": 4555,
+      "hit": 4556,
       "date": "20 Desember 2024",
       "money": 6463333,
       "exp": 50836,
@@ -19897,8 +19897,8 @@
       "fullatm": 500000000,
       "bank": 207517306,
       "health": 20,
-      "stamina": 10,
-      "potion": 12,
+      "stamina": 115,
+      "potion": 9,
       "wine": 0,
       "beer": 0,
       "trash": 1000,
@@ -66748,7 +66748,7 @@
       "warning": 0,
       "level": 4,
       "role": "Beginner",
-      "balance": 5727054,
+      "balance": 5728054,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
