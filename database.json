@@ -952,6 +952,11 @@
       "cmd": "Simi",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu-fun",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -984,7 +989,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 259
+      "totalcmd": 260
     }
   ],
   "clearchat": [],
@@ -996,7 +1001,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2335,
+      "hit": 2336,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
