@@ -851,7 +851,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -931,7 +931,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 165
+      "totalcmd": 166
     }
   ],
   "clearchat": [],
@@ -96525,9 +96525,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8417,
+      "hit": 8418,
       "date": "3 Januari 2025",
-      "money": 3000215,
+      "money": 6000215,
       "exp": 16419,
       "limit": 370,
       "speed": 5,
@@ -96633,7 +96633,7 @@
       "lastberkebon": 0,
       "lastdagang": 1738284711205,
       "lasthourly": 0,
-      "lastbansos": 1738089561892,
+      "lastbansos": 1738288217293,
       "lastrampok": 1738284732308,
       "lastclaim": 1738284680681,
       "lastnebang": 0,
