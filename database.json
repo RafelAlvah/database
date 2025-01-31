@@ -870,7 +870,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 802
+      "totalcmd": 803
     }
   ],
   "clearchat": [],
@@ -93745,7 +93745,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 36,
-      "hit": 714,
+      "hit": 715,
       "date": "1 Januari 2025",
       "money": 8654076,
       "exp": 36861,
