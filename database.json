@@ -824,7 +824,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 84,
+      "succes": 85,
       "failed": 0
     },
     {
@@ -1133,7 +1133,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 596
+      "totalcmd": 597
     }
   ],
   "clearchat": [],
@@ -78919,7 +78919,7 @@
       "warning": 0,
       "level": 6,
       "role": "Beginner",
-      "balance": 10480400,
+      "balance": 10481400,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -80679,8 +80679,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 3113,
-      "hit": 2460,
+      "glimit": 3112,
+      "hit": 2461,
       "date": "30 Desember 2024",
       "money": 1585283,
       "exp": 65100,
