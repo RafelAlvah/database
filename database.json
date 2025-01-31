@@ -873,6 +873,11 @@
       "cmd": "Merampok",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Nabung",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -901,7 +906,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 145
+      "totalcmd": 146
     }
   ],
   "clearchat": [],
@@ -96495,9 +96500,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8411,
+      "hit": 8412,
       "date": "3 Januari 2025",
-      "money": 499535,
+      "money": 0,
       "exp": 16419,
       "limit": 370,
       "speed": 5,
@@ -96528,7 +96533,7 @@
       "chip": 650,
       "atm": 3,
       "fullatm": 1000000000,
-      "bank": 8016581,
+      "bank": 8516116,
       "health": 100,
       "stamina": 100,
       "potion": 101,
