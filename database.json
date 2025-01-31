@@ -878,6 +878,11 @@
       "cmd": "Nabung",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Leaderboard",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -906,7 +911,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 146
+      "totalcmd": 147
     }
   ],
   "clearchat": [],
@@ -96500,7 +96505,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8412,
+      "hit": 8413,
       "date": "3 Januari 2025",
       "money": 0,
       "exp": 16419,
