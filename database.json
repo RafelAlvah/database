@@ -1039,6 +1039,11 @@
       "cmd": "Menu-info",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Indo",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1087,7 +1092,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 447
+      "totalcmd": 448
     }
   ],
   "clearchat": [],
@@ -1099,7 +1104,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2364,
+      "hit": 2365,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
