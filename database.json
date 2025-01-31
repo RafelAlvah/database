@@ -976,7 +976,7 @@
     {
       "cmd": "Monthly",
       "succes": 1,
-      "failed": 2
+      "failed": 3
     },
     {
       "cmd": "Transfer",
@@ -1189,7 +1189,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 798
+      "totalcmd": 799
     }
   ],
   "clearchat": [],
@@ -93740,7 +93740,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 36,
-      "hit": 713,
+      "hit": 714,
       "date": "1 Januari 2025",
       "money": 8654076,
       "exp": 36861,
