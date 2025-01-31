@@ -940,7 +940,7 @@
     },
     {
       "cmd": "Tf",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1050,7 +1050,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 377
+      "totalcmd": 378
     }
   ],
   "clearchat": [],
@@ -53618,7 +53618,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14503,
-      "hit": 2433,
+      "hit": 2434,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
@@ -53646,7 +53646,7 @@
       "warning": 0,
       "level": 9,
       "role": "Beginner",
-      "balance": 14066185,
+      "balance": 14016185,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
@@ -122252,7 +122252,7 @@
       "warning": 0,
       "level": 1,
       "role": "Beginner",
-      "balance": 4797554,
+      "balance": 4847554,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
