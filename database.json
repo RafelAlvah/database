@@ -869,7 +869,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1133,7 +1133,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 617
+      "totalcmd": 618
     }
   ],
   "clearchat": [],
@@ -80680,7 +80680,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3109,
-      "hit": 2466,
+      "hit": 2467,
       "date": "30 Desember 2024",
       "money": 1607166,
       "exp": 65100,
