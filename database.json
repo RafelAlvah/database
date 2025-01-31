@@ -759,7 +759,7 @@
     },
     {
       "cmd": "Buy",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -1133,7 +1133,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 574
+      "totalcmd": 575
     }
   ],
   "clearchat": [],
@@ -78891,9 +78891,9 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 99,
-      "hit": 682,
+      "hit": 683,
       "date": "29 Desember 2024",
-      "money": 8193446,
+      "money": 8184696,
       "exp": 22206,
       "limit": 68,
       "speed": 0,
@@ -78927,7 +78927,7 @@
       "bank": 0,
       "health": 20,
       "stamina": 50,
-      "potion": 0,
+      "potion": 7,
       "wine": 0,
       "beer": 0,
       "trash": 0,
