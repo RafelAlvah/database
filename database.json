@@ -749,7 +749,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 31,
+      "succes": 32,
       "failed": 0
     },
     {
@@ -1178,7 +1178,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 706
+      "totalcmd": 707
     }
   ],
   "clearchat": [],
@@ -80724,8 +80724,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 3108,
-      "hit": 2479,
+      "glimit": 3107,
+      "hit": 2480,
       "date": "30 Desember 2024",
       "money": 1828980,
       "exp": 65100,
@@ -80745,9 +80745,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1738317926747,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "main epep",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
