@@ -740,7 +740,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 46,
+      "succes": 47,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 858
+      "totalcmd": 859
     }
   ],
   "clearchat": [],
@@ -96793,7 +96793,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 333,
-      "hit": 8619,
+      "hit": 8620,
       "date": "3 Januari 2025",
       "money": 0,
       "exp": 54019,
