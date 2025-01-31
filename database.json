@@ -786,7 +786,7 @@
     {
       "cmd": "Weekly",
       "succes": 2,
-      "failed": 0
+      "failed": 1
     },
     {
       "cmd": "Ytmp3",
@@ -967,6 +967,10 @@
     {
       "error": "Cannot read properties of undefined (reading 'url')",
       "cmd": ""
+    },
+    {
+      "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
+      "cmd": "weekly"
     }
   ],
   "jadibot": {},
@@ -989,7 +993,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 275
+      "totalcmd": 276
     }
   ],
   "clearchat": [],
@@ -96583,7 +96587,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 384,
-      "hit": 8481,
+      "hit": 8482,
       "date": "3 Januari 2025",
       "money": 186821,
       "exp": 27619,
