@@ -750,7 +750,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 69,
+      "succes": 70,
       "failed": 0
     },
     {
@@ -825,7 +825,7 @@
     },
     {
       "cmd": "Susunkata",
-      "succes": 93,
+      "succes": 94,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 886
+      "totalcmd": 888
     }
   ],
   "clearchat": [],
@@ -66812,7 +66812,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 430,
-      "hit": 826,
+      "hit": 827,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -80740,8 +80740,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 3101,
-      "hit": 2493,
+      "glimit": 3100,
+      "hit": 2494,
       "date": "30 Desember 2024",
       "money": 1828980,
       "exp": 65100,
