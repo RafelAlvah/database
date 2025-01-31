@@ -834,7 +834,7 @@
     },
     {
       "cmd": "Swm",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1114,7 +1114,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 471
+      "totalcmd": 472
     }
   ],
   "clearchat": [],
@@ -126215,7 +126215,7 @@
       "autolevelup": false,
       "serial": "GNIK",
       "glimit": 21,
-      "hit": 39,
+      "hit": 40,
       "date": "13 Januari 2025",
       "money": 150814,
       "exp": 0,
