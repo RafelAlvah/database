@@ -785,7 +785,7 @@
     },
     {
       "cmd": "Weekly",
-      "succes": 2,
+      "succes": 3,
       "failed": 1
     },
     {
@@ -998,7 +998,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 277
+      "totalcmd": 278
     }
   ],
   "clearchat": [],
@@ -80540,10 +80540,10 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3137,
-      "hit": 2422,
+      "hit": 2423,
       "date": "30 Desember 2024",
-      "money": 1499285,
-      "exp": 100,
+      "money": 1535284,
+      "exp": 15100,
       "limit": 1204,
       "speed": 0,
       "strength": 0,
@@ -80576,7 +80576,7 @@
       "bank": 0,
       "health": 20,
       "stamina": 40,
-      "potion": 0,
+      "potion": 9,
       "wine": 0,
       "beer": 0,
       "trash": 0,
@@ -80652,7 +80652,7 @@
       "lastrampok": 0,
       "lastclaim": 1738295490180,
       "lastnebang": 0,
-      "lastweekly": 0,
+      "lastweekly": 1738295585332,
       "lastmonthly": 0,
       "apel": 0,
       "anggur": 0,
