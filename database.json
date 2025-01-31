@@ -1086,6 +1086,11 @@
       "cmd": "Sell",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Casino",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1138,7 +1143,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 634
+      "totalcmd": 635
     }
   ],
   "clearchat": [],
@@ -78896,10 +78901,10 @@
       "autolevelup": false,
       "serial": "LYBW",
       "glimit": 99,
-      "hit": 694,
+      "hit": 695,
       "date": "29 Desember 2024",
       "money": 9185383,
-      "exp": 22306,
+      "exp": 32306,
       "limit": 68,
       "speed": 0,
       "strength": 0,
