@@ -1140,7 +1140,7 @@
     },
     {
       "cmd": "Tebaklagu",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 803
+      "totalcmd": 804
     }
   ],
   "clearchat": [],
@@ -96792,8 +96792,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 342,
-      "hit": 8590,
+      "glimit": 341,
+      "hit": 8591,
       "date": "3 Januari 2025",
       "money": 578,
       "exp": 51919,
