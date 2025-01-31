@@ -854,7 +854,7 @@
     },
     {
       "cmd": "Berdagang",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1163,7 +1163,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 680
+      "totalcmd": 681
     }
   ],
   "clearchat": [],
@@ -36220,7 +36220,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 4107,
+      "hit": 4108,
       "date": "22 Desember 2024",
       "money": 0,
       "exp": 4255,
@@ -36248,7 +36248,7 @@
       "warning": 0,
       "level": 11,
       "role": "Beginner",
-      "balance": 123127123,
+      "balance": 123128123,
       "skillexp": 0,
       "chip": 0,
       "atm": 5,
