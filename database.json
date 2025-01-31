@@ -1096,6 +1096,11 @@
       "cmd": "Rvo",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Dare",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1148,7 +1153,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 660
+      "totalcmd": 661
     }
   ],
   "clearchat": [],
@@ -80695,7 +80700,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3109,
-      "hit": 2473,
+      "hit": 2474,
       "date": "30 Desember 2024",
       "money": 1828980,
       "exp": 65100,
