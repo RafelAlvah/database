@@ -1034,7 +1034,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2339,
+      "hit": 2340,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -197367,7 +197367,35 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ]
+    ],
+    "restart": {
+      "m": {
+        "key": {
+          "remoteJid": "120363361865610907@g.us",
+          "fromMe": false,
+          "id": "C6008F669CDB0050C00753009C3C180B",
+          "participant": "6287737937323@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".restart",
+            "previewType": "NONE",
+            "contextInfo": {
+              "expiration": 86400,
+              "disappearingMode": {
+                "initiator": "CHANGED_IN_CHAT",
+                "trigger": "UNKNOWN"
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1738297240",
+        "broadcast": false,
+        "pushName": "«< FelNexus >»"
+      },
+      "from": "120363361865610907@g.us"
+    }
   },
   "respon": {}
 }
