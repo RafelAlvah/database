@@ -956,7 +956,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 237
+      "totalcmd": 238
     }
   ],
   "clearchat": [],
@@ -66569,7 +66569,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 437,
-      "hit": 804,
+      "hit": 805,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -66589,7 +66589,7 @@
       "pasangan": "6288216660625@s.whatsapp.net",
       "age": 14,
       "regTime": 1738145880333,
-      "afk": 1738242897161,
+      "afk": -1,
       "unreg": true,
       "afkReason": "",
       "banned": false,
