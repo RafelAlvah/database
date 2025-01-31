@@ -913,6 +913,11 @@
       "cmd": "Hd",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Limit",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -941,7 +946,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 214
+      "totalcmd": 215
     }
   ],
   "clearchat": [],
@@ -96535,7 +96540,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 392,
-      "hit": 8462,
+      "hit": 8463,
       "date": "3 Januari 2025",
       "money": 481,
       "exp": 27519,
