@@ -198832,7 +198832,7 @@
       "antihidetag": false,
       "antiviewonce": true,
       "nsfw": false,
-      "antiPorn": false,
+      "antiPorn": true,
       "clear": false,
       "clearTime": 0,
       "tenDaysLeft": false,
