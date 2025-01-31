@@ -962,6 +962,11 @@
       "cmd": "Daftar-lewat-pesan",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Adventure",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -998,7 +1003,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 278
+      "totalcmd": 279
     }
   ],
   "clearchat": [],
@@ -80540,7 +80545,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3137,
-      "hit": 2423,
+      "hit": 2424,
       "date": "30 Desember 2024",
       "money": 1535284,
       "exp": 15100,
