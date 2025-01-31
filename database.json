@@ -992,6 +992,11 @@
       "cmd": "Restart",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Maling",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1032,7 +1037,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 318
+      "totalcmd": 319
     }
   ],
   "clearchat": [],
@@ -158576,7 +158581,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 22,
-      "hit": 707,
+      "hit": 708,
       "date": "28 Januari 2025",
       "money": 2284229,
       "exp": 47863,
