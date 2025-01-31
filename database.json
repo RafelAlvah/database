@@ -670,7 +670,7 @@
   "dashboard": [
     {
       "cmd": "Me",
-      "succes": 40,
+      "succes": 41,
       "failed": 0
     },
     {
@@ -750,7 +750,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 70,
+      "succes": 71,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 891
+      "totalcmd": 893
     }
   ],
   "clearchat": [],
@@ -66812,7 +66812,7 @@
       "autolevelup": false,
       "serial": "D1Q8",
       "glimit": 427,
-      "hit": 829,
+      "hit": 830,
       "date": "25 Desember 2024",
       "money": 10000,
       "exp": 30954,
@@ -96792,8 +96792,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 323,
-      "hit": 8632,
+      "glimit": 322,
+      "hit": 8633,
       "date": "3 Januari 2025",
       "money": 0,
       "exp": 54019,
