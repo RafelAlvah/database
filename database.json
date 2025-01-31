@@ -850,7 +850,7 @@
     },
     {
       "cmd": "Bansos",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1017,7 +1017,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 295
+      "totalcmd": 296
     }
   ],
   "clearchat": [],
@@ -80559,7 +80559,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3137,
-      "hit": 2427,
+      "hit": 2428,
       "date": "30 Desember 2024",
       "money": 1585283,
       "exp": 65100,
