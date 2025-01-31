@@ -876,7 +876,7 @@
     },
     {
       "cmd": "Nabung",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -931,7 +931,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 176
+      "totalcmd": 177
     }
   ],
   "clearchat": [],
@@ -96525,9 +96525,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8428,
+      "hit": 8429,
       "date": "3 Januari 2025",
-      "money": 97946,
+      "money": 7946,
       "exp": 16419,
       "limit": 380,
       "speed": 5,
@@ -96558,7 +96558,7 @@
       "chip": 650,
       "atm": 3,
       "fullatm": 1000000000,
-      "bank": 11616116,
+      "bank": 11706116,
       "health": 100,
       "stamina": 100,
       "potion": 101,
