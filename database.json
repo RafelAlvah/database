@@ -1001,7 +1001,7 @@
     {
       "cmd": "Tagsw",
       "succes": 5,
-      "failed": 0
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1020,6 +1020,10 @@
     {
       "error": "((user.lastmonthly + cooldown) - (intermediate value)).toTimeString is not a function",
       "cmd": "monthly"
+    },
+    {
+      "error": "jid.endsWith is not a function",
+      "cmd": "tagsw"
     }
   ],
   "jadibot": {},
@@ -1042,7 +1046,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 331
+      "totalcmd": 332
     }
   ],
   "clearchat": [],
@@ -1054,7 +1058,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2349,
+      "hit": 2350,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
