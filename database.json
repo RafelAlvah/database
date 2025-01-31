@@ -893,6 +893,11 @@
       "cmd": "Game",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Menu",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -921,7 +926,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 158
+      "totalcmd": 159
     }
   ],
   "clearchat": [],
@@ -80828,7 +80833,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 27,
-      "hit": 407,
+      "hit": 408,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
