@@ -848,6 +848,11 @@
       "cmd": "Airdrop",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Bansos",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -876,7 +881,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 104
+      "totalcmd": 105
     }
   ],
   "clearchat": [],
@@ -19631,9 +19636,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 9994,
-      "hit": 4583,
+      "hit": 4584,
       "date": "20 Desember 2024",
-      "money": 7183190,
+      "money": 10183190,
       "exp": 55836,
       "limit": 400,
       "speed": 3,
@@ -19739,7 +19744,7 @@
       "lastberkebon": 0,
       "lastdagang": 1738199440514,
       "lasthourly": 0,
-      "lastbansos": 1738150539924,
+      "lastbansos": 1738282006449,
       "lastrampok": 1738116047106,
       "lastclaim": 1738282000964,
       "lastnebang": 0,
