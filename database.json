@@ -750,7 +750,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 42,
+      "succes": 43,
       "failed": 0
     },
     {
@@ -1184,7 +1184,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 738
+      "totalcmd": 739
     }
   ],
   "clearchat": [],
@@ -1195,8 +1195,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "BDCE",
-      "glimit": -20,
-      "hit": 2387,
+      "glimit": -21,
+      "hit": 2388,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
