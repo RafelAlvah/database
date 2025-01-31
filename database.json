@@ -958,6 +958,10 @@
     {
       "error": "Cannot read properties of null (reading 'download')",
       "cmd": "upsw"
+    },
+    {
+      "error": "Cannot read properties of undefined (reading 'url')",
+      "cmd": ""
     }
   ],
   "jadibot": {},
