@@ -619,7 +619,8 @@
     "Dm",
     "Ad",
     "Ci",
-    "Hutao"
+    "Hutao",
+    "Tt"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1063,7 +1064,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 0,
+      "succes": 1,
       "failed": 1
     }
   ],
@@ -1117,7 +1118,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 480
+      "totalcmd": 481
     }
   ],
   "clearchat": [],
@@ -1129,7 +1130,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2372,
+      "hit": 2373,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
