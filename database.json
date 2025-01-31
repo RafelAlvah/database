@@ -731,7 +731,7 @@
     },
     {
       "cmd": "Qc",
-      "succes": 3,
+      "succes": 4,
       "failed": 0
     },
     {
@@ -911,7 +911,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 149
+      "totalcmd": 150
     }
   ],
   "clearchat": [],
@@ -2014,7 +2014,7 @@
       "autolevelup": false,
       "serial": "GIEU",
       "glimit": -550,
-      "hit": 2368,
+      "hit": 2369,
       "date": "16 Desember 2024",
       "money": 1556142,
       "exp": 2107,
@@ -2024,7 +2024,7 @@
       "defense": 0,
       "skata": 0,
       "joinlimit": 1,
-      "pc": 1738148526994,
+      "pc": 1738284886743,
       "ojekk": 7,
       "registered": true,
       "name": "kai",
