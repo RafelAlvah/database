@@ -1132,6 +1132,11 @@
       "cmd": "Audio",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Pesan-owner",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1184,7 +1189,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 758
+      "totalcmd": 759
     }
   ],
   "clearchat": [],
@@ -81096,7 +81101,7 @@
       "autolevelup": false,
       "serial": "WQHL",
       "glimit": 12,
-      "hit": 439,
+      "hit": 440,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
