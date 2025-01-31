@@ -884,7 +884,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 9,
+      "succes": 10,
       "failed": 0
     },
     {
@@ -1128,7 +1128,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 516
+      "totalcmd": 517
     }
   ],
   "clearchat": [],
@@ -81039,8 +81039,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WQHL",
-      "glimit": 25,
-      "hit": 416,
+      "glimit": 24,
+      "hit": 417,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
