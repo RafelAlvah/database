@@ -750,7 +750,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -980,7 +980,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 254
+      "totalcmd": 255
     }
   ],
   "clearchat": [],
@@ -80521,8 +80521,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "QPGJ",
-      "glimit": 3138,
-      "hit": 2418,
+      "glimit": 3137,
+      "hit": 2419,
       "date": "30 Desember 2024",
       "money": 1449285,
       "exp": 0,
