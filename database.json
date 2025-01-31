@@ -1101,6 +1101,11 @@
       "cmd": "Dare",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Truth",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1153,7 +1158,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 661
+      "totalcmd": 662
     }
   ],
   "clearchat": [],
@@ -36210,7 +36215,7 @@
       "autolevelup": false,
       "serial": "ENHU",
       "glimit": 333,
-      "hit": 4098,
+      "hit": 4099,
       "date": "22 Desember 2024",
       "money": 0,
       "exp": 4255,
