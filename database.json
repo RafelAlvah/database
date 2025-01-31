@@ -665,7 +665,7 @@
   "dashboard": [
     {
       "cmd": "Me",
-      "succes": 18,
+      "succes": 19,
       "failed": 0
     },
     {
@@ -1046,7 +1046,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 339
+      "totalcmd": 340
     }
   ],
   "clearchat": [],
@@ -195978,9 +195978,9 @@
       "autolevelup": false,
       "serial": "SOWF",
       "glimit": 30,
-      "hit": 1,
+      "hit": 2,
       "date": "31 Januari 2025",
-      "money": 0,
+      "money": 1000,
       "exp": 0,
       "limit": 30,
       "speed": 0,
@@ -196004,7 +196004,7 @@
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
-      "level": 0,
+      "level": 1,
       "role": "Beginner",
       "balance": 51500,
       "skillexp": 0,
