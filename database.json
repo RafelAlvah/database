@@ -987,6 +987,11 @@
       "cmd": "Ocr",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Restart",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1027,7 +1032,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 315
+      "totalcmd": 316
     }
   ],
   "clearchat": [],
@@ -1039,7 +1044,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2342,
+      "hit": 2343,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -197372,7 +197377,24 @@
       "120363292630484254@g.us",
       "120363316691090181@g.us",
       "120363365561197312@g.us"
-    ]
+    ],
+    "restart": {
+      "m": {
+        "key": {
+          "remoteJid": "120363368609225438@g.us",
+          "fromMe": false,
+          "id": "556EFCAAB860254FB42E7CB0167FC8DD",
+          "participant": "6287737937323@s.whatsapp.net"
+        },
+        "message": {
+          "conversation": ".restart"
+        },
+        "messageTimestamp": "1738298296",
+        "broadcast": false,
+        "pushName": "«< FelNexus >»"
+      },
+      "from": "120363368609225438@g.us"
+    }
   },
   "respon": {}
 }
