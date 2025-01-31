@@ -1029,6 +1029,11 @@
       "cmd": "Addcase",
       "succes": 2,
       "failed": 0
+    },
+    {
+      "cmd": "Malingbank",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1077,7 +1082,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 432
+      "totalcmd": 433
     }
   ],
   "clearchat": [],
@@ -29302,10 +29307,10 @@
       "autolevelup": false,
       "serial": "VTLL",
       "glimit": 0,
-      "hit": 833,
+      "hit": 834,
       "date": "22 Desember 2024",
-      "money": 4442323,
-      "exp": 39911,
+      "money": 4462526,
+      "exp": 40299,
       "limit": 79,
       "speed": 0,
       "strength": 0,
@@ -29353,7 +29358,7 @@
       "diamond": 0,
       "gold": 0,
       "botol": 3466,
-      "kardus": 5912,
+      "kardus": 6585,
       "kaleng": 6298,
       "gelas": 4556,
       "plastik": 7333,
@@ -29473,7 +29478,7 @@
       "timeOrder": "",
       "timeEnd": "",
       "lastkerja": 1737777951904,
-      "lastmaling": 1737521365497,
+      "lastmaling": 1738306615407,
       "rokets": 20,
       "lastparming": 1737777966719,
       "lastmulung": 1737777957672,
