@@ -869,7 +869,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1133,7 +1133,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 616
+      "totalcmd": 617
     }
   ],
   "clearchat": [],
@@ -36192,7 +36192,7 @@
       "glimit": 333,
       "hit": 4083,
       "date": "22 Desember 2024",
-      "money": 1361128,
+      "money": 1280232,
       "exp": 4255,
       "limit": 11942,
       "speed": 1,
@@ -80680,9 +80680,9 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3109,
-      "hit": 2465,
+      "hit": 2466,
       "date": "30 Desember 2024",
-      "money": 1526270,
+      "money": 1607166,
       "exp": 65100,
       "limit": 1202,
       "speed": 0,
@@ -80789,7 +80789,7 @@
       "lastdagang": 0,
       "lasthourly": 0,
       "lastbansos": 0,
-      "lastrampok": 0,
+      "lastrampok": 1738316335508,
       "lastclaim": 1738295490180,
       "lastnebang": 0,
       "lastweekly": 1738295585332,
