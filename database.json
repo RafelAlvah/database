@@ -1091,6 +1091,11 @@
       "cmd": "Casino",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Rvo",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1143,7 +1148,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 641
+      "totalcmd": 642
     }
   ],
   "clearchat": [],
@@ -96742,7 +96747,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 371,
-      "hit": 8541,
+      "hit": 8542,
       "date": "3 Januari 2025",
       "money": 11014,
       "exp": 42819,
