@@ -906,7 +906,7 @@
     },
     {
       "cmd": "Tebakgambar",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -936,7 +936,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 180
+      "totalcmd": 181
     }
   ],
   "clearchat": [],
@@ -96529,8 +96529,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 407,
-      "hit": 8432,
+      "glimit": 406,
+      "hit": 8433,
       "date": "3 Januari 2025",
       "money": 207946,
       "exp": 23419,
