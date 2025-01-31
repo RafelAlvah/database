@@ -853,6 +853,11 @@
       "cmd": "Bansos",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Berdagang",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -881,7 +886,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 114
+      "totalcmd": 115
     }
   ],
   "clearchat": [],
@@ -19636,9 +19641,9 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 9994,
-      "hit": 4585,
+      "hit": 4586,
       "date": "20 Desember 2024",
-      "money": 10183190,
+      "money": 10180094,
       "exp": 55836,
       "limit": 400,
       "speed": 3,
@@ -19742,7 +19747,7 @@
       "lasthunt": 0,
       "lastgift": 0,
       "lastberkebon": 0,
-      "lastdagang": 1738199440514,
+      "lastdagang": 1738282240569,
       "lasthourly": 0,
       "lastbansos": 1738282006449,
       "lastrampok": 1738116047106,
@@ -127048,7 +127053,7 @@
       "glimit": 21,
       "hit": 887,
       "date": "20 Januari 2025",
-      "money": 3239053,
+      "money": 3235957,
       "exp": 20200,
       "limit": 420,
       "speed": 0,
