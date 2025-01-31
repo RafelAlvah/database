@@ -1002,6 +1002,11 @@
       "cmd": "Tagsw",
       "succes": 5,
       "failed": 6
+    },
+    {
+      "cmd": "Linkgc",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1050,7 +1055,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 396
+      "totalcmd": 397
     }
   ],
   "clearchat": [],
@@ -1062,7 +1067,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2355,
+      "hit": 2356,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
