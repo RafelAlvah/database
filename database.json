@@ -1019,6 +1019,11 @@
       "cmd": "Ad",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Allmenu",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1067,7 +1072,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 419
+      "totalcmd": 420
     }
   ],
   "clearchat": [],
@@ -67926,7 +67931,7 @@
       "autolevelup": false,
       "serial": "38UR",
       "glimit": 30,
-      "hit": 129,
+      "hit": 130,
       "date": "25 Desember 2024",
       "money": 1000,
       "exp": 0,
