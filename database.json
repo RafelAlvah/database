@@ -666,13 +666,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6283867902727",
-      "expired": 1738329120795
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Me",
@@ -731,7 +725,7 @@
     },
     {
       "cmd": "Brat2",
-      "succes": 6,
+      "succes": 7,
       "failed": 0
     },
     {
@@ -1146,7 +1140,7 @@
     },
     {
       "cmd": "Tebaklagu",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     }
   ],
@@ -1200,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 865
+      "totalcmd": 867
     }
   ],
   "clearchat": [],
@@ -96799,7 +96793,7 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 332,
-      "hit": 8623,
+      "hit": 8624,
       "date": "3 Januari 2025",
       "money": 0,
       "exp": 54019,
@@ -126301,7 +126295,7 @@
       "autolevelup": false,
       "serial": "GNIK",
       "glimit": 21,
-      "hit": 40,
+      "hit": 41,
       "date": "13 Januari 2025",
       "money": 150814,
       "exp": 0,
