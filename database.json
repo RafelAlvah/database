@@ -696,7 +696,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -861,7 +861,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 96
+      "totalcmd": 97
     }
   ],
   "clearchat": [],
@@ -53429,7 +53429,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14503,
-      "hit": 2432,
+      "hit": 2433,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
@@ -53449,9 +53449,9 @@
       "pasangan": "",
       "age": 25,
       "regTime": 1738145270486,
-      "afk": -1,
+      "afk": 1738281614903,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "makan",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
