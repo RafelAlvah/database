@@ -833,6 +833,11 @@
       "cmd": "Swm",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Mulung",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -861,7 +866,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 101
+      "totalcmd": 102
     }
   ],
   "clearchat": [],
@@ -19616,7 +19621,7 @@
       "autolevelup": false,
       "serial": "OTVR",
       "glimit": 9994,
-      "hit": 4580,
+      "hit": 4581,
       "date": "20 Desember 2024",
       "money": 7164886,
       "exp": 55836,
@@ -19666,11 +19671,11 @@
       "emerald": 2,
       "diamond": 101,
       "gold": 66,
-      "botol": 63172,
-      "kardus": 68296,
-      "kaleng": 71036,
-      "gelas": 68934,
-      "plastik": 64053,
+      "botol": 63367,
+      "kardus": 68697,
+      "kaleng": 71341,
+      "gelas": 69316,
+      "plastik": 64288,
       "iron": 6,
       "rawdiamond": 0,
       "rawgold": 0,
@@ -19789,7 +19794,7 @@
       "lastkerja": 1738281989005,
       "lastparming": 1738242823068,
       "rokets": 91,
-      "lastmulung": 1738242807864,
+      "lastmulung": 1738281993237,
       "lastmaling": 1736422655610,
       "clay": "undefined30",
       "sand": "undefined850",
