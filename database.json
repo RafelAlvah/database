@@ -947,6 +947,11 @@
       "cmd": "Unreg",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Simi",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -975,7 +980,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 247
+      "totalcmd": 248
     }
   ],
   "clearchat": [],
@@ -987,7 +992,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2332,
+      "hit": 2333,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
