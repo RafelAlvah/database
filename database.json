@@ -977,6 +977,11 @@
       "cmd": "Monthly",
       "succes": 1,
       "failed": 2
+    },
+    {
+      "cmd": "Transfer",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1017,7 +1022,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 296
+      "totalcmd": 297
     }
   ],
   "clearchat": [],
@@ -96611,9 +96616,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 384,
-      "hit": 8487,
+      "hit": 8488,
       "date": "3 Januari 2025",
-      "money": 6186821,
+      "money": 4186821,
       "exp": 27619,
       "limit": 377,
       "speed": 5,
@@ -114674,7 +114679,7 @@
       "glimit": 120,
       "hit": 1563,
       "date": "7 Januari 2025",
-      "money": 5747237,
+      "money": 7747237,
       "exp": 33285,
       "limit": 1065,
       "speed": 1,
