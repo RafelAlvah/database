@@ -745,7 +745,7 @@
     },
     {
       "cmd": "Tt",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -1027,7 +1027,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 314
+      "totalcmd": 315
     }
   ],
   "clearchat": [],
@@ -80569,11 +80569,11 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3137,
-      "hit": 2433,
+      "hit": 2434,
       "date": "30 Desember 2024",
       "money": 1585283,
       "exp": 65100,
-      "limit": 1204,
+      "limit": 1202,
       "speed": 0,
       "strength": 0,
       "defense": 0,
