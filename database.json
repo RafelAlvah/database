@@ -1061,6 +1061,11 @@
       "cmd": "Tiktok",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tweetc2",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1109,7 +1114,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 469
+      "totalcmd": 470
     }
   ],
   "clearchat": [],
@@ -53682,7 +53687,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14503,
-      "hit": 2435,
+      "hit": 2436,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
