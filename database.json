@@ -860,7 +860,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 4,
+      "succes": 5,
       "failed": 0
     },
     {
@@ -989,7 +989,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 269
+      "totalcmd": 270
     }
   ],
   "clearchat": [],
@@ -80531,10 +80531,10 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3137,
-      "hit": 2420,
+      "hit": 2421,
       "date": "30 Desember 2024",
-      "money": 1449285,
-      "exp": 0,
+      "money": 1499285,
+      "exp": 100,
       "limit": 1204,
       "speed": 0,
       "strength": 0,
@@ -80551,9 +80551,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": 1738295185068,
+      "afk": -1,
       "unreg": false,
-      "afkReason": "berak",
+      "afkReason": "",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
@@ -80641,7 +80641,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 0,
-      "lastclaim": 1736511320953,
+      "lastclaim": 1738295490180,
       "lastnebang": 0,
       "lastweekly": 0,
       "lastmonthly": 0,
