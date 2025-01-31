@@ -858,6 +858,11 @@
       "cmd": "Berdagang",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Gaji",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -886,7 +891,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 137
+      "totalcmd": 138
     }
   ],
   "clearchat": [],
@@ -96480,10 +96485,10 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8403,
+      "hit": 8404,
       "date": "3 Januari 2025",
-      "money": 48432,
-      "exp": 7319,
+      "money": 98432,
+      "exp": 7419,
       "limit": 370,
       "speed": 5,
       "strength": 6,
@@ -96590,7 +96595,7 @@
       "lasthourly": 0,
       "lastbansos": 1738089561892,
       "lastrampok": 1738248408738,
-      "lastclaim": 1738234545604,
+      "lastclaim": 1738284680681,
       "lastnebang": 0,
       "lastweekly": 1738002453115,
       "lastmonthly": 1736423963407,
