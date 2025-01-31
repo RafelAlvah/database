@@ -665,7 +665,7 @@
   "dashboard": [
     {
       "cmd": "Me",
-      "succes": 10,
+      "succes": 11,
       "failed": 0
     },
     {
@@ -967,6 +967,11 @@
       "cmd": "Adventure",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Claim",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1003,7 +1008,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 279
+      "totalcmd": 281
     }
   ],
   "clearchat": [],
@@ -80545,7 +80550,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3137,
-      "hit": 2424,
+      "hit": 2425,
       "date": "30 Desember 2024",
       "money": 1535284,
       "exp": 15100,
@@ -93549,7 +93554,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 690,
+      "hit": 691,
       "date": "1 Januari 2025",
       "money": 8429045,
       "exp": 36661,
