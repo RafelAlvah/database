@@ -3,7 +3,6 @@
     "Tourl",
     "Ytmp3",
     "Mediafire",
-    "Tt",
     "S",
     "Wm",
     "Owner",
@@ -748,11 +747,6 @@
       "failed": 0
     },
     {
-      "cmd": "Tt",
-      "succes": 19,
-      "failed": 0
-    },
-    {
       "cmd": "Family100",
       "succes": 13,
       "failed": 0
@@ -1066,6 +1060,11 @@
       "cmd": "Tweetc2",
       "succes": 3,
       "failed": 0
+    },
+    {
+      "cmd": "Tt",
+      "succes": 0,
+      "failed": 1
     }
   ],
   "listerror": [
@@ -1092,6 +1091,10 @@
     {
       "error": "request to https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7372918370893548293.mp3 failed, reason: connect ETIMEDOUT 2.19.11.101:443",
       "cmd": ""
+    },
+    {
+      "error": "Cannot read properties of undefined (reading 'cmd')",
+      "cmd": "tt"
     }
   ],
   "jadibot": {},
@@ -1114,7 +1117,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 479
+      "totalcmd": 480
     }
   ],
   "clearchat": [],
@@ -1126,7 +1129,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2371,
+      "hit": 2372,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
