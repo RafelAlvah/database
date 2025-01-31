@@ -196003,7 +196003,7 @@
       "rpg": false,
       "game": true,
       "autolevelup": false,
-      "simi": false,
+      "simi": true,
       "open": 0,
       "close": 0,
       "threeDaysLeft": false,
