@@ -920,7 +920,7 @@
     },
     {
       "cmd": "Daftar",
-      "succes": 2,
+      "succes": 3,
       "failed": 0
     },
     {
@@ -980,7 +980,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 250
+      "totalcmd": 251
     }
   ],
   "clearchat": [],
@@ -992,7 +992,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2334,
+      "hit": 2335,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -1004,14 +1004,14 @@
       "joinlimit": 1,
       "pc": 1738222941710,
       "ojekk": 0,
-      "registered": false,
-      "name": "Rafel",
+      "registered": true,
+      "name": "FelNexus",
       "skill": "",
       "ultah": "07,01,2005",
       "sahabat": "",
       "pasangan": "",
       "age": 19,
-      "regTime": 1738085212121,
+      "regTime": 1738295057878,
       "afk": -1,
       "unreg": true,
       "afkReason": "",
