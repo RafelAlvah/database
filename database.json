@@ -619,7 +619,8 @@
     "Hijab",
     "Dm",
     "Ad",
-    "Ci"
+    "Ci",
+    "Hutao"
   ],
   "anonymous": [],
   "blockcmd": [
@@ -1050,6 +1051,11 @@
       "cmd": "Ci",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Hutao",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -1098,7 +1104,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 463
+      "totalcmd": 464
     }
   ],
   "clearchat": [],
@@ -1110,7 +1116,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2368,
+      "hit": 2369,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
