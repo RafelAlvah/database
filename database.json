@@ -1064,7 +1064,7 @@
     },
     {
       "cmd": "Tweetc2",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -1114,7 +1114,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 477
+      "totalcmd": 478
     }
   ],
   "clearchat": [],
@@ -53687,7 +53687,7 @@
       "autolevelup": false,
       "serial": "FNTJ",
       "glimit": 14503,
-      "hit": 2437,
+      "hit": 2438,
       "date": "24 Desember 2024",
       "money": 4420891,
       "exp": 16120,
