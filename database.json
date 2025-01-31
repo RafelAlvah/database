@@ -908,6 +908,11 @@
       "cmd": "Tebakgambar",
       "succes": 8,
       "failed": 0
+    },
+    {
+      "cmd": "Hd",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -936,7 +941,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 193
+      "totalcmd": 194
     }
   ],
   "clearchat": [],
@@ -38854,7 +38859,7 @@
       "autolevelup": false,
       "serial": "VXK6",
       "glimit": 39,
-      "hit": 393,
+      "hit": 394,
       "date": "22 Desember 2024",
       "money": 345448,
       "exp": 7078,
