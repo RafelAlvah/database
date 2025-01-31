@@ -883,6 +883,11 @@
       "cmd": "Leaderboard",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tebakkata",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -911,7 +916,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 154
+      "totalcmd": 155
     }
   ],
   "clearchat": [],
@@ -80817,8 +80822,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WQHL",
-      "glimit": 29,
-      "hit": 404,
+      "glimit": 28,
+      "hit": 405,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
