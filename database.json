@@ -663,13 +663,7 @@
     }
   ],
   "sewa": [],
-  "antispam": [
-    {
-      "name": "NotCase",
-      "id": "6287822381511",
-      "expired": 1738307859898
-    }
-  ],
+  "antispam": [],
   "dashboard": [
     {
       "cmd": "Me",
@@ -743,7 +737,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 19,
+      "succes": 20,
       "failed": 0
     },
     {
@@ -1088,7 +1082,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 440
+      "totalcmd": 441
     }
   ],
   "clearchat": [],
@@ -132984,7 +132978,7 @@
       "autolevelup": false,
       "serial": "OMUC",
       "glimit": 30,
-      "hit": 77,
+      "hit": 78,
       "date": "24 Januari 2025",
       "money": 0,
       "exp": 0,
