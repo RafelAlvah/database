@@ -900,7 +900,7 @@
     },
     {
       "cmd": "Tarik",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1017,7 +1017,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 293
+      "totalcmd": 294
     }
   ],
   "clearchat": [],
@@ -96611,9 +96611,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 384,
-      "hit": 8485,
+      "hit": 8486,
       "date": "3 Januari 2025",
-      "money": 186821,
+      "money": 3186821,
       "exp": 27619,
       "limit": 377,
       "speed": 5,
@@ -96644,7 +96644,7 @@
       "chip": 650,
       "atm": 3,
       "fullatm": 1000000000,
-      "bank": 12546116,
+      "bank": 9546116,
       "health": 20,
       "stamina": 55,
       "potion": 98,
