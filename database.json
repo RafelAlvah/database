@@ -870,7 +870,7 @@
     },
     {
       "cmd": "Merampok",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -885,7 +885,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 28,
+      "succes": 29,
       "failed": 0
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 825
+      "totalcmd": 827
     }
   ],
   "clearchat": [],
@@ -58947,7 +58947,7 @@
       "autolevelup": false,
       "serial": "A1OV",
       "glimit": 204,
-      "hit": 495,
+      "hit": 496,
       "date": "24 Desember 2024",
       "money": 1720736,
       "exp": 33683,
@@ -101824,7 +101824,7 @@
       "autolevelup": false,
       "serial": "Y0X4",
       "glimit": 554,
-      "hit": 668,
+      "hit": 669,
       "date": "4 Januari 2025",
       "money": 6518035,
       "exp": 11945,
