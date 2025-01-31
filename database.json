@@ -1024,6 +1024,10 @@
     {
       "error": "jid.endsWith is not a function",
       "cmd": "tagsw"
+    },
+    {
+      "error": "request to https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/7372918370893548293.mp3 failed, reason: connect ETIMEDOUT 2.19.11.101:443",
+      "cmd": ""
     }
   ],
   "jadibot": {},
