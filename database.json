@@ -976,7 +976,7 @@
     {
       "cmd": "Monthly",
       "succes": 1,
-      "failed": 1
+      "failed": 2
     }
   ],
   "listerror": [
@@ -1017,7 +1017,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 292
+      "totalcmd": 293
     }
   ],
   "clearchat": [],
@@ -93563,7 +93563,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 694,
+      "hit": 695,
       "date": "1 Januari 2025",
       "money": 8479045,
       "exp": 36761,
