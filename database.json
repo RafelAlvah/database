@@ -868,6 +868,11 @@
       "cmd": "Ojek",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Merampok",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -896,7 +901,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 143
+      "totalcmd": 144
     }
   ],
   "clearchat": [],
@@ -96490,9 +96495,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8409,
+      "hit": 8410,
       "date": "3 Januari 2025",
-      "money": 493605,
+      "money": 499535,
       "exp": 16419,
       "limit": 370,
       "speed": 5,
@@ -96599,7 +96604,7 @@
       "lastdagang": 1738284711205,
       "lasthourly": 0,
       "lastbansos": 1738089561892,
-      "lastrampok": 1738248408738,
+      "lastrampok": 1738284732308,
       "lastclaim": 1738284680681,
       "lastnebang": 0,
       "lastweekly": 1738002453115,
@@ -101523,7 +101528,7 @@
       "glimit": 554,
       "hit": 663,
       "date": "4 Januari 2025",
-      "money": 6691458,
+      "money": 6685528,
       "exp": 11945,
       "limit": 58,
       "speed": 0,
