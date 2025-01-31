@@ -898,6 +898,11 @@
       "cmd": "Menu",
       "succes": 1,
       "failed": 0
+    },
+    {
+      "cmd": "Tarik",
+      "succes": 1,
+      "failed": 0
     }
   ],
   "listerror": [
@@ -926,7 +931,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 164
+      "totalcmd": 165
     }
   ],
   "clearchat": [],
@@ -96520,9 +96525,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 408,
-      "hit": 8416,
+      "hit": 8417,
       "date": "3 Januari 2025",
-      "money": 215,
+      "money": 3000215,
       "exp": 16419,
       "limit": 370,
       "speed": 5,
@@ -96553,7 +96558,7 @@
       "chip": 650,
       "atm": 3,
       "fullatm": 1000000000,
-      "bank": 8516116,
+      "bank": 5516116,
       "health": 100,
       "stamina": 100,
       "potion": 101,
