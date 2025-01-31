@@ -995,7 +995,7 @@
     },
     {
       "cmd": "Maling",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     },
     {
@@ -1189,7 +1189,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 792
+      "totalcmd": 793
     }
   ],
   "clearchat": [],
@@ -158738,7 +158738,7 @@
       "autolevelup": false,
       "serial": "JL9G",
       "glimit": 4,
-      "hit": 733,
+      "hit": 734,
       "date": "28 Januari 2025",
       "money": 2306459,
       "exp": 47863,
