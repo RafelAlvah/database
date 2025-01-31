@@ -751,7 +751,7 @@
     },
     {
       "cmd": "Family100",
-      "succes": 8,
+      "succes": 9,
       "failed": 0
     },
     {
@@ -946,7 +946,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 222
+      "totalcmd": 223
     }
   ],
   "clearchat": [],
@@ -96539,8 +96539,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WGVP",
-      "glimit": 386,
-      "hit": 8469,
+      "glimit": 385,
+      "hit": 8470,
       "date": "3 Januari 2025",
       "money": 481,
       "exp": 27519,
