@@ -665,7 +665,7 @@
   "dashboard": [
     {
       "cmd": "Me",
-      "succes": 13,
+      "succes": 14,
       "failed": 0
     },
     {
@@ -860,7 +860,7 @@
     },
     {
       "cmd": "Gaji",
-      "succes": 5,
+      "succes": 6,
       "failed": 0
     },
     {
@@ -1017,7 +1017,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 290
+      "totalcmd": 292
     }
   ],
   "clearchat": [],
@@ -93563,10 +93563,10 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 693,
+      "hit": 694,
       "date": "1 Januari 2025",
-      "money": 8429045,
-      "exp": 36661,
+      "money": 8479045,
+      "exp": 36761,
       "limit": 211,
       "speed": 0,
       "strength": 0,
@@ -93673,7 +93673,7 @@
       "lasthourly": 0,
       "lastbansos": 0,
       "lastrampok": 1738113240785,
-      "lastclaim": 1738242937932,
+      "lastclaim": 1738295706369,
       "lastnebang": 0,
       "lastweekly": 1738042024369,
       "lastmonthly": 1737421012583,
@@ -114672,7 +114672,7 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1562,
+      "hit": 1563,
       "date": "7 Januari 2025",
       "money": 5747237,
       "exp": 33285,
