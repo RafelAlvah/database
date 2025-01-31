@@ -695,7 +695,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 11,
+      "succes": 12,
       "failed": 0
     },
     {
@@ -1022,7 +1022,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 300
+      "totalcmd": 301
     }
   ],
   "clearchat": [],
@@ -80564,7 +80564,7 @@
       "autolevelup": false,
       "serial": "QPGJ",
       "glimit": 3137,
-      "hit": 2430,
+      "hit": 2431,
       "date": "30 Desember 2024",
       "money": 1585283,
       "exp": 65100,
@@ -80584,9 +80584,9 @@
       "pasangan": "",
       "age": 15,
       "regTime": 1735795628095,
-      "afk": -1,
+      "afk": 1738296259713,
       "unreg": false,
-      "afkReason": "",
+      "afkReason": "bobo, jam 2 bngun ke skola mls bgt bgt",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
