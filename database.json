@@ -739,7 +739,7 @@
     },
     {
       "cmd": "Brat",
-      "succes": 32,
+      "succes": 33,
       "failed": 0
     },
     {
@@ -1148,7 +1148,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 642
+      "totalcmd": 643
     }
   ],
   "clearchat": [],
@@ -56407,7 +56407,7 @@
       "autolevelup": false,
       "serial": "FFZV",
       "glimit": 30,
-      "hit": 17,
+      "hit": 18,
       "date": "24 Desember 2024",
       "money": 1000,
       "exp": 0,
