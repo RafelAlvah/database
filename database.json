@@ -795,7 +795,7 @@
     },
     {
       "cmd": "Kerja",
-      "succes": 12,
+      "succes": 13,
       "failed": 0
     },
     {
@@ -840,7 +840,7 @@
     },
     {
       "cmd": "Nebang",
-      "succes": 7,
+      "succes": 8,
       "failed": 0
     },
     {
@@ -989,7 +989,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 267
+      "totalcmd": 269
     }
   ],
   "clearchat": [],
@@ -96583,9 +96583,9 @@
       "autolevelup": false,
       "serial": "WGVP",
       "glimit": 384,
-      "hit": 8478,
+      "hit": 8479,
       "date": "3 Januari 2025",
-      "money": 57614,
+      "money": 186821,
       "exp": 27619,
       "limit": 377,
       "speed": 5,
@@ -96753,7 +96753,7 @@
       "antarpaket": 0,
       "timeOrder": "",
       "timeEnd": "",
-      "lastkerja": 1738291944120,
+      "lastkerja": 1738295486689,
       "lastmaling": 1738165909196,
       "clay": "undefined1940",
       "sand": "undefined550",
@@ -114644,9 +114644,9 @@
       "autolevelup": false,
       "serial": "968H",
       "glimit": 120,
-      "hit": 1558,
+      "hit": 1559,
       "date": "7 Januari 2025",
-      "money": 5704372,
+      "money": 5747237,
       "exp": 33285,
       "limit": 1065,
       "speed": 1,
@@ -114685,7 +114685,7 @@
       "beer": 0,
       "trash": 0,
       "coal": 0,
-      "wood": 76,
+      "wood": 89,
       "rock": 5,
       "string": 6,
       "petfood": 0,
@@ -114818,7 +114818,7 @@
       "lastmaling": 1736290186303,
       "lastmulung": 1737989327299,
       "rokets": 12,
-      "lastparming": 1736516137923,
+      "lastparming": 1738295486534,
       "clay": "undefined1550",
       "sand": "undefined540",
       "berlian": "undefined70",
