@@ -976,7 +976,7 @@
     {
       "cmd": "Monthly",
       "succes": 1,
-      "failed": 0
+      "failed": 1
     }
   ],
   "listerror": [
@@ -991,6 +991,10 @@
     {
       "error": "((user.lastweekly + cooldown) - (intermediate value)).toTimeString is not a function",
       "cmd": "weekly"
+    },
+    {
+      "error": "((user.lastmonthly + cooldown) - (intermediate value)).toTimeString is not a function",
+      "cmd": "monthly"
     }
   ],
   "jadibot": {},
@@ -1013,7 +1017,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 289
+      "totalcmd": 290
     }
   ],
   "clearchat": [],
@@ -93559,7 +93563,7 @@
       "autolevelup": false,
       "serial": "M4LA",
       "glimit": 45,
-      "hit": 692,
+      "hit": 693,
       "date": "1 Januari 2025",
       "money": 8429045,
       "exp": 36661,
