@@ -699,7 +699,7 @@
     },
     {
       "cmd": "Afk",
-      "succes": 22,
+      "succes": 23,
       "failed": 0
     },
     {
@@ -1173,7 +1173,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 704
+      "totalcmd": 705
     }
   ],
   "clearchat": [],
@@ -1185,7 +1185,7 @@
       "autolevelup": false,
       "serial": "BDCE",
       "glimit": -20,
-      "hit": 2386,
+      "hit": 2387,
       "date": "16 Desember 2024",
       "money": 0,
       "exp": 354595,
@@ -1205,9 +1205,9 @@
       "pasangan": "",
       "age": 19,
       "regTime": 1738295057878,
-      "afk": -1,
+      "afk": 1738318276315,
       "unreg": true,
-      "afkReason": "",
+      "afkReason": "mandi",
       "banned": false,
       "lastBanned": 0,
       "warning": 0,
