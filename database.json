@@ -886,7 +886,7 @@
     },
     {
       "cmd": "Tebakkata",
-      "succes": 1,
+      "succes": 2,
       "failed": 0
     }
   ],
@@ -916,7 +916,7 @@
     {
       "id": "run",
       "expired": 1738340558069,
-      "totalcmd": 156
+      "totalcmd": 157
     }
   ],
   "clearchat": [],
@@ -80822,8 +80822,8 @@
       "grade": "Newbie",
       "autolevelup": false,
       "serial": "WQHL",
-      "glimit": 28,
-      "hit": 405,
+      "glimit": 27,
+      "hit": 406,
       "date": "30 Desember 2024",
       "money": 3000,
       "exp": 4999,
@@ -80851,7 +80851,7 @@
       "warning": 0,
       "level": 2,
       "role": "Beginner",
-      "balance": 1584023,
+      "balance": 1589023,
       "skillexp": 0,
       "chip": 0,
       "atm": 0,
